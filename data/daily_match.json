@@ -1,57 +1,31 @@
 {
-  "current_hour": 19,
+  "current_hour": 20,
   "current_fact": {
-    "hour": 19,
-    "fact_text": "On February 4, 2008, millions of Colombians poured into the streets in \"A Million Voices Against FARC,\" one of the largest civic mobilizations in the country’s history. Organized largely through social media and word of mouth, it showed how ordinary citizens could reclaim public space from the narrative of armed groups.",
-    "fact_year": 2008,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/One_million_voices_against_FARC",
+    "hour": 20,
+    "fact_text": "On February 4, 2015, as Flight 235 fell into the Keelung River, local taxi dashcams and smartphones turned bystanders into instant documentarians of disaster. The crash became one of the most visually recorded air accidents ever, reshaping how investigations and the public experienced such events in real time.",
+    "fact_year": 2015,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/TransAsia_Airways_Flight_235",
     "episode": {
-      "id": 51,
-      "title": "Morning Drops #44 - Residente",
-      "description": "In this edition of Morning Drops, Yasmin navigates the complex geography of René Pérez Joglar, known to the world as Residente. His story is not just a musical evolution; it is a timeline marked by resistance, lyrical obsession, and a relentless search for identity.\n\nFrom the gated streets of Trujillo Alto to the global stage, we explore how a restless mind transformed into the voice of a generation. The selection moves through the textures of his life: hearing the raw energy of his early rebellion, the sharp precision of his political critique, and finally, the fragile silence of his most personal confessions.\n\nIt is a study in duality. We witness the rapper who dismantles giants and the son who misses his mother. It is a soundscape that proves that sometimes, the loudest revolution happens inside.\n\nMood: Raw, Revolutionary, Introspective, Honest\nMusic genre: Latin Alternative, Hip Hop, Urban, World",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-residente",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "Calle 13 - La Jirafa",
-        "Calle 13 - Adentro",
-        "Residente - René",
-        "Calle 13 - La Vuelta al Mundo"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Latin Alternative",
-        "Hip Hop",
-        "Urban",
-        "Rap",
-        "World"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "A massive Latin American protest against an armed group fits naturally with an episode about Residente, an artist known for politically charged lyrics, resistance, and reclaiming voice."
+    "match_reason": "This second, more media‑focused angle on the same crash emphasizes our phone‑mediated view of tragedy, directly echoing the episode’s critique of constant connectivity and screen dependence."
   },
   "queue": [
-    {
-      "hour": 20,
-      "fact_text": "On February 4, 2015, as Flight 235 fell into the Keelung River, local taxi dashcams and smartphones turned bystanders into instant documentarians of disaster. The crash became one of the most visually recorded air accidents ever, reshaping how investigations and the public experienced such events in real time.",
-      "fact_year": 2015,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/TransAsia_Airways_Flight_235",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "This second, more media‑focused angle on the same crash emphasizes our phone‑mediated view of tragedy, directly echoing the episode’s critique of constant connectivity and screen dependence."
-    },
     {
       "hour": 21,
       "fact_text": "On February 4, 2000, when the Charter of Paris Against Cancer was signed, it explicitly called for using art, education, and public campaigns to change how societies talk about cancer. In a way, it treated awareness as a cultural project, not just a medical one.",
@@ -644,9 +618,34 @@
         ]
       },
       "match_reason": "A massive Latin American protest against an armed group fits naturally with an episode about Residente, an artist known for politically charged lyrics, resistance, and reclaiming voice."
+    },
+    {
+      "hour": 20,
+      "fact_text": "On February 4, 2015, as Flight 235 fell into the Keelung River, local taxi dashcams and smartphones turned bystanders into instant documentarians of disaster. The crash became one of the most visually recorded air accidents ever, reshaping how investigations and the public experienced such events in real time.",
+      "fact_year": 2015,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/TransAsia_Airways_Flight_235",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "This second, more media‑focused angle on the same crash emphasizes our phone‑mediated view of tragedy, directly echoing the episode’s critique of constant connectivity and screen dependence."
     }
   ],
   "generated_at": "2026-02-04T00:00:00.017719+00:00",
   "date": "2026-02-04",
-  "updated_at": "2026-02-04T19:00:01.982193+00:00"
+  "updated_at": "2026-02-04T20:00:01.978274+00:00"
 }
