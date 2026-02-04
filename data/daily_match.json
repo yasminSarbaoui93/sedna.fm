@@ -1,56 +1,31 @@
 {
-  "current_hour": 8,
+  "current_hour": 9,
   "current_fact": {
-    "hour": 8,
-    "fact_text": "On February 4, 1975, the Haicheng earthquake struck Liaoning Province, China—but many residents had been evacuated hours earlier. It’s often cited as one of the few times that short‑term earthquake prediction, based on foreshocks and unusual animal behavior, may have significantly reduced casualties.",
-    "fact_year": 1975,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1975_Haicheng_earthquake",
+    "hour": 9,
+    "fact_text": "In 1976, a magnitude 7.5 earthquake ripped through Guatemala (also affecting Honduras), killing more than 22,000 people. The quake ruptured a 240‑kilometer section of the Motagua Fault, revealing how deeply human life is woven into the fractures of tectonic plates.",
+    "fact_year": 1976,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1976_Guatemala_earthquake",
     "episode": {
-      "id": 31,
-      "title": "Morning Drops #23 - A Trip-Hop Journey",
-      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+      "id": 45,
+      "title": "Morning Drops #39 - Moving Meditation",
+      "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
       "songs": [
-        "Massive Attack - Unfinished Sympathy",
-        "Tricky - Hell Is Round the Corner",
-        "DJ Shadow - Midnight in a Perfect World",
-        "Thievery Corporation - Lebanese Blonde",
-        "Smoke City - Underwater Love"
+        "Stella & The Longos - La Flamme",
+        "España Circo Este - Dormo poco e sogno molto",
+        "Mystic Jungle - Sunset Breaker",
+        "Talking Heads - This Must Be the Place (Naive Melody)"
       ],
       "music-genres": [
-        "Trip-Hop",
-        "Downtempo",
-        "Electronic"
+        "Balearic",
+        "Italian Folk Rock",
+        "World Music",
+        "New Wave"
       ]
     },
-    "match_reason": "The eerie, anticipatory mood of foreshocks and strange signals before an earthquake matches the cinematic tension and hazy atmosphere of a trip‑hop exploration."
+    "match_reason": "A devastating Central American quake that reshaped communities links to a reflective, globally‑tinged episode about movement, change, and finding a sense of place again."
   },
   "queue": [
-    {
-      "hour": 9,
-      "fact_text": "In 1976, a magnitude 7.5 earthquake ripped through Guatemala (also affecting Honduras), killing more than 22,000 people. The quake ruptured a 240‑kilometer section of the Motagua Fault, revealing how deeply human life is woven into the fractures of tectonic plates.",
-      "fact_year": 1976,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1976_Guatemala_earthquake",
-      "episode": {
-        "id": 45,
-        "title": "Morning Drops #39 - Moving Meditation",
-        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
-        "songs": [
-          "Stella & The Longos - La Flamme",
-          "España Circo Este - Dormo poco e sogno molto",
-          "Mystic Jungle - Sunset Breaker",
-          "Talking Heads - This Must Be the Place (Naive Melody)"
-        ],
-        "music-genres": [
-          "Balearic",
-          "Italian Folk Rock",
-          "World Music",
-          "New Wave"
-        ]
-      },
-      "match_reason": "A devastating Central American quake that reshaped communities links to a reflective, globally‑tinged episode about movement, change, and finding a sense of place again."
-    },
     {
       "hour": 10,
       "fact_text": "The February 1998 Afghanistan earthquake struck Takhar Province with a magnitude of 5.9—but its shallow depth and fragile housing made it catastrophic, killing over 2,300 people. It highlights how vulnerability is shaped not just by geology, but by poverty, building practices, and isolation.",
@@ -643,9 +618,34 @@
         ]
       },
       "match_reason": "The eerie, anticipatory mood of foreshocks and strange signals before an earthquake matches the cinematic tension and hazy atmosphere of a trip‑hop exploration."
+    },
+    {
+      "hour": 9,
+      "fact_text": "In 1976, a magnitude 7.5 earthquake ripped through Guatemala (also affecting Honduras), killing more than 22,000 people. The quake ruptured a 240‑kilometer section of the Motagua Fault, revealing how deeply human life is woven into the fractures of tectonic plates.",
+      "fact_year": 1976,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1976_Guatemala_earthquake",
+      "episode": {
+        "id": 45,
+        "title": "Morning Drops #39 - Moving Meditation",
+        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
+        "songs": [
+          "Stella & The Longos - La Flamme",
+          "España Circo Este - Dormo poco e sogno molto",
+          "Mystic Jungle - Sunset Breaker",
+          "Talking Heads - This Must Be the Place (Naive Melody)"
+        ],
+        "music-genres": [
+          "Balearic",
+          "Italian Folk Rock",
+          "World Music",
+          "New Wave"
+        ]
+      },
+      "match_reason": "A devastating Central American quake that reshaped communities links to a reflective, globally‑tinged episode about movement, change, and finding a sense of place again."
     }
   ],
   "generated_at": "2026-02-04T00:00:00.017719+00:00",
   "date": "2026-02-04",
-  "updated_at": "2026-02-04T08:00:01.778803+00:00"
+  "updated_at": "2026-02-04T09:00:01.682240+00:00"
 }
