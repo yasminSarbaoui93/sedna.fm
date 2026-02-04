@@ -1,56 +1,31 @@
 {
-  "current_hour": 7,
+  "current_hour": 8,
   "current_fact": {
-    "hour": 7,
-    "fact_text": "In 1169, a devastating earthquake struck the Ionian coast of Sicily, destroying much of Catania and causing tens of thousands of deaths. Medieval chronicles describe churches collapsing mid‑service and the sea behaving strangely, capturing how seismic events intertwine with human belief and legend.",
-    "fact_year": 1169,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1169_Sicily_earthquake",
+    "hour": 8,
+    "fact_text": "On February 4, 1975, the Haicheng earthquake struck Liaoning Province, China—but many residents had been evacuated hours earlier. It’s often cited as one of the few times that short‑term earthquake prediction, based on foreshocks and unusual animal behavior, may have significantly reduced casualties.",
+    "fact_year": 1975,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1975_Haicheng_earthquake",
     "episode": {
-      "id": 28,
-      "title": "Morning Drops #22 - Sicilians On The Dolomites",
-      "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
+      "id": 31,
+      "title": "Morning Drops #23 - A Trip-Hop Journey",
+      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
       "songs": [
-        "Franco Battiato - Haiku",
-        "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
-        "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
-        "Pink Floyd - Fearless"
+        "Massive Attack - Unfinished Sympathy",
+        "Tricky - Hell Is Round the Corner",
+        "DJ Shadow - Midnight in a Perfect World",
+        "Thievery Corporation - Lebanese Blonde",
+        "Smoke City - Underwater Love"
       ],
       "music-genres": [
-        "Italian Art Pop",
-        "French Jazz",
-        "Italian Singer-Songwriter",
-        "Progressive Rock"
+        "Trip-Hop",
+        "Downtempo",
+        "Electronic"
       ]
     },
-    "match_reason": "An ancient Sicilian catastrophe pairs with an episode rooted in contemporary Sicilian perspectives, connecting the island’s dramatic geology to its living culture and songs."
+    "match_reason": "The eerie, anticipatory mood of foreshocks and strange signals before an earthquake matches the cinematic tension and hazy atmosphere of a trip‑hop exploration."
   },
   "queue": [
-    {
-      "hour": 8,
-      "fact_text": "On February 4, 1975, the Haicheng earthquake struck Liaoning Province, China—but many residents had been evacuated hours earlier. It’s often cited as one of the few times that short‑term earthquake prediction, based on foreshocks and unusual animal behavior, may have significantly reduced casualties.",
-      "fact_year": 1975,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1975_Haicheng_earthquake",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #23 - A Trip-Hop Journey",
-        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
-        "songs": [
-          "Massive Attack - Unfinished Sympathy",
-          "Tricky - Hell Is Round the Corner",
-          "DJ Shadow - Midnight in a Perfect World",
-          "Thievery Corporation - Lebanese Blonde",
-          "Smoke City - Underwater Love"
-        ],
-        "music-genres": [
-          "Trip-Hop",
-          "Downtempo",
-          "Electronic"
-        ]
-      },
-      "match_reason": "The eerie, anticipatory mood of foreshocks and strange signals before an earthquake matches the cinematic tension and hazy atmosphere of a trip‑hop exploration."
-    },
     {
       "hour": 9,
       "fact_text": "In 1976, a magnitude 7.5 earthquake ripped through Guatemala (also affecting Honduras), killing more than 22,000 people. The quake ruptured a 240‑kilometer section of the Motagua Fault, revealing how deeply human life is woven into the fractures of tectonic plates.",
@@ -643,9 +618,34 @@
         ]
       },
       "match_reason": "An ancient Sicilian catastrophe pairs with an episode rooted in contemporary Sicilian perspectives, connecting the island’s dramatic geology to its living culture and songs."
+    },
+    {
+      "hour": 8,
+      "fact_text": "On February 4, 1975, the Haicheng earthquake struck Liaoning Province, China—but many residents had been evacuated hours earlier. It’s often cited as one of the few times that short‑term earthquake prediction, based on foreshocks and unusual animal behavior, may have significantly reduced casualties.",
+      "fact_year": 1975,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1975_Haicheng_earthquake",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #23 - A Trip-Hop Journey",
+        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+        "songs": [
+          "Massive Attack - Unfinished Sympathy",
+          "Tricky - Hell Is Round the Corner",
+          "DJ Shadow - Midnight in a Perfect World",
+          "Thievery Corporation - Lebanese Blonde",
+          "Smoke City - Underwater Love"
+        ],
+        "music-genres": [
+          "Trip-Hop",
+          "Downtempo",
+          "Electronic"
+        ]
+      },
+      "match_reason": "The eerie, anticipatory mood of foreshocks and strange signals before an earthquake matches the cinematic tension and hazy atmosphere of a trip‑hop exploration."
     }
   ],
   "generated_at": "2026-02-04T00:00:00.017719+00:00",
   "date": "2026-02-04",
-  "updated_at": "2026-02-04T07:00:01.611507+00:00"
+  "updated_at": "2026-02-04T08:00:01.778803+00:00"
 }
