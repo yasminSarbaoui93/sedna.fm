@@ -1,55 +1,31 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "The February 1998 Afghanistan earthquake struck Takhar Province with a magnitude of 5.9—but its shallow depth and fragile housing made it catastrophic, killing over 2,300 people. It highlights how vulnerability is shaped not just by geology, but by poverty, building practices, and isolation.",
-    "fact_year": 1998,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/February_1998_Afghanistan_earthquake",
+    "hour": 11,
+    "fact_text": "On February 4, 1997, a magnitude 6.5 earthquake struck near Bojnurd in Iran, reaching intensity VIII and damaging over 170 villages. Built from mud bricks and stone, many traditional houses crumbled, yet local communities mobilized quickly, demonstrating grassroots resilience after the shaking stopped.",
+    "fact_year": 1997,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1997_Bojnurd_earthquake",
     "episode": {
-      "id": 22,
-      "title": "Morning Drops #16 - The Sound of Tuareg",
-      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+      "id": 27,
+      "title": "Morning Drops #21 - Endless Summer",
+      "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
       "songs": [
-        "Les Filles de Illighadad - Imigradan",
-        "Tinariwen - Amassakoul ’N’ Ténéré",
-        "Liya Ag Ablil - Awa Adounia",
-        "Tinariwen - Sastanàqqàm"
+        "Nik Bärtsch - Modul 14",
+        "Mama Terra - Chameleon (Single Edit)",
+        "Spyro Gyra - Morning Dance",
+        "Yussef Kamaal - Black Focus"
       ],
       "music-genres": [
-        "Desert Blues",
-        "Tuareg",
-        "World Music"
+        "Minimal Jazz",
+        "Nu Jazz",
+        "Jazz Fusion",
+        "UK Jazz"
       ]
     },
-    "match_reason": "A disaster in a rugged, often overlooked part of Asia resonates with an episode about desert peoples, resilience, and the music that emerges from harsh, marginal landscapes."
+    "match_reason": "After an earthquake’s chaos, communities eventually seek a return to daily rhythms; the calm, flowing jazz of this episode mirrors that slow, patient return to normality and warmth."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "On February 4, 1997, a magnitude 6.5 earthquake struck near Bojnurd in Iran, reaching intensity VIII and damaging over 170 villages. Built from mud bricks and stone, many traditional houses crumbled, yet local communities mobilized quickly, demonstrating grassroots resilience after the shaking stopped.",
-      "fact_year": 1997,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1997_Bojnurd_earthquake",
-      "episode": {
-        "id": 27,
-        "title": "Morning Drops #21 - Endless Summer",
-        "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
-        "songs": [
-          "Nik Bärtsch - Modul 14",
-          "Mama Terra - Chameleon (Single Edit)",
-          "Spyro Gyra - Morning Dance",
-          "Yussef Kamaal - Black Focus"
-        ],
-        "music-genres": [
-          "Minimal Jazz",
-          "Nu Jazz",
-          "Jazz Fusion",
-          "UK Jazz"
-        ]
-      },
-      "match_reason": "After an earthquake’s chaos, communities eventually seek a return to daily rhythms; the calm, flowing jazz of this episode mirrors that slow, patient return to normality and warmth."
-    },
     {
       "hour": 12,
       "fact_text": "On February 4, 1932, Harbin in Manchuria fell under Japanese control, a step in the long, complex conflict that would evolve into the full Second Sino‑Japanese War. The city became a crossroads of occupation, resistance, and cultural collision at the icy edge of Northeast Asia.",
@@ -642,9 +618,34 @@
         ]
       },
       "match_reason": "A disaster in a rugged, often overlooked part of Asia resonates with an episode about desert peoples, resilience, and the music that emerges from harsh, marginal landscapes."
+    },
+    {
+      "hour": 11,
+      "fact_text": "On February 4, 1997, a magnitude 6.5 earthquake struck near Bojnurd in Iran, reaching intensity VIII and damaging over 170 villages. Built from mud bricks and stone, many traditional houses crumbled, yet local communities mobilized quickly, demonstrating grassroots resilience after the shaking stopped.",
+      "fact_year": 1997,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1997_Bojnurd_earthquake",
+      "episode": {
+        "id": 27,
+        "title": "Morning Drops #21 - Endless Summer",
+        "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
+        "songs": [
+          "Nik Bärtsch - Modul 14",
+          "Mama Terra - Chameleon (Single Edit)",
+          "Spyro Gyra - Morning Dance",
+          "Yussef Kamaal - Black Focus"
+        ],
+        "music-genres": [
+          "Minimal Jazz",
+          "Nu Jazz",
+          "Jazz Fusion",
+          "UK Jazz"
+        ]
+      },
+      "match_reason": "After an earthquake’s chaos, communities eventually seek a return to daily rhythms; the calm, flowing jazz of this episode mirrors that slow, patient return to normality and warmth."
     }
   ],
   "generated_at": "2026-02-04T00:00:00.017719+00:00",
   "date": "2026-02-04",
-  "updated_at": "2026-02-04T10:00:02.129761+00:00"
+  "updated_at": "2026-02-04T11:00:01.798264+00:00"
 }
