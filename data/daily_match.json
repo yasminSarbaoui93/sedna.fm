@@ -1,59 +1,34 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "In 1783, Calabria began to shake through a devastating sequence of five major earthquakes that unfolded over nearly two months. The quakes triggered landslides, created temporary lakes, and even caused parts of entire towns to sink or slide away.",
-    "fact_year": 1783,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1783_Calabrian_earthquakes",
+    "hour": 5,
+    "fact_text": "In 1913, Greek aviators Michael Moutoussis and Aristeidis Moraitinis flew a fragile Farman MF.7 hydroplane over the Aegean to scout and bomb an enemy fleet, performing the first naval air mission in history. Their daring flight showed how the sea and sky could suddenly become a single battlefield.",
+    "fact_year": 1913,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Moutoussis",
     "episode": {
-      "id": 52,
-      "title": "Morning Drops #45 - It Can't Rain Forever",
-      "description": "In this first broadcast of 2026, Gaia returns from the vivid landscapes of Morocco to open a space for reflection. This episode navigates the delicate transition between closing a significant chapter and stepping into the new year. It explores the concept of constancy amidst change, celebrating the grounding force of friendship and the creative sanctuary that is Sedna FM.\n\nThe musical selection mirrors this journey, moving from the orchestral depth of changing seasons into the golden warmth of psychedelic soul. It recalls memories of Swiss mountains and unexpected downpours, reminding us that shared optimism can weather any storm.\n\nTake a moment to breathe in the new morning and listen deeply.\n\nMood: Reflective, Warm, Transitional, Hopeful\nMusic genre: Classic Rock, Psychedelic Soul, Pop Rock, Soft Rock",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-it-cant-rain-forever",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "Led Zeppelin - The Rain Song",
-        "Khruangbin & Leon Bridges - Texas Sun",
-        "Dragon - Rain",
-        "Fleetwood Mac - Don't Stop"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Classic Rock",
-        "Psychedelic Soul",
-        "Pop Rock",
-        "Soft Rock"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "A prolonged natural disaster and an episode about weathering storms and change both hold space for devastation, endurance, and eventual light."
+    "match_reason": "A pioneering naval flight over the sea fits an episode recorded on a boat, full of wind, waves, and human stories on the water’s surface."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "In 1913, Greek aviators Michael Moutoussis and Aristeidis Moraitinis flew a fragile Farman MF.7 hydroplane over the Aegean to scout and bomb an enemy fleet, performing the first naval air mission in history. Their daring flight showed how the sea and sky could suddenly become a single battlefield.",
-      "fact_year": 1913,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Moutoussis",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "A pioneering naval flight over the sea fits an episode recorded on a boat, full of wind, waves, and human stories on the water’s surface."
-    },
     {
       "hour": 6,
       "fact_text": "Also in 1913, Monteverdi’s opera \"L'incoronazione di Poppea\" returned to the stage for the first time in more than 250 years, resurrecting a Baroque work that had essentially vanished from living memory. Its revival helped reshape the modern understanding of early opera and its emotional power.",
@@ -642,9 +617,37 @@
         ]
       },
       "match_reason": "A prolonged natural disaster and an episode about weathering storms and change both hold space for devastation, endurance, and eventual light."
+    },
+    {
+      "hour": 5,
+      "fact_text": "In 1913, Greek aviators Michael Moutoussis and Aristeidis Moraitinis flew a fragile Farman MF.7 hydroplane over the Aegean to scout and bomb an enemy fleet, performing the first naval air mission in history. Their daring flight showed how the sea and sky could suddenly become a single battlefield.",
+      "fact_year": 1913,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Moutoussis",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "A pioneering naval flight over the sea fits an episode recorded on a boat, full of wind, waves, and human stories on the water’s surface."
     }
   ],
   "generated_at": "2026-02-05T00:00:00.006517+00:00",
   "date": "2026-02-05",
-  "updated_at": "2026-02-05T04:00:01.559346+00:00"
+  "updated_at": "2026-02-05T05:00:01.600837+00:00"
 }
