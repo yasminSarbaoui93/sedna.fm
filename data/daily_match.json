@@ -1,61 +1,31 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On February 6, 1959, at Cape Canaveral, the United States successfully test-fired a Titan intercontinental ballistic missile for the first time. The Titan family would later evolve from a weapon of war into a workhorse for peaceful space launches, lofting satellites and interplanetary probes.",
+    "hour": 2,
+    "fact_text": "On February 6, 1959, Jack Kilby of Texas Instruments filed the first patent for the integrated circuit, a tiny slab of semiconductor that could host multiple electronic components. His invention paved the way for modern computers, smartphones, spacecraft, and almost every digital device in daily life.",
     "fact_year": 1959,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Titan_(rocket_family)",
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Jack_Kilby",
     "episode": {
-      "id": 48,
-      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "Stive Morgan - Solar Wind, Pt. 3",
-        "David Visan & Carlos Campos - Crystal Heart",
-        "Evan Mars - Ya Zareef Al Tool",
-        "Gerardo Frisina - Cuiabá",
-        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-        "The Busy Twist - Friday Night"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Ambient",
-        "Deep House",
-        "World Music",
-        "Nu Jazz",
-        "Afrobeat",
-        "Funk",
-        "Electronic"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "From ballistic trajectories to orbital paths, this turning point in rocketry evolution fits an episode that slowly ‘launches’ from ambient space into rhythmic lift-off."
+    "match_reason": "Kilby’s integrated circuit made our phone-addicted world possible; an episode about our relationship with phones and networks is a natural thematic echo."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "On February 6, 1959, Jack Kilby of Texas Instruments filed the first patent for the integrated circuit, a tiny slab of semiconductor that could host multiple electronic components. His invention paved the way for modern computers, smartphones, spacecraft, and almost every digital device in daily life.",
-      "fact_year": 1959,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Jack_Kilby",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "Kilby’s integrated circuit made our phone-addicted world possible; an episode about our relationship with phones and networks is a natural thematic echo."
-    },
     {
       "hour": 3,
       "fact_text": "On February 6, 2023, two massive earthquakes of magnitudes 7.8 and 7.5 struck near the Turkey–Syria border, with shaking so intense it reached the maximum ‘Extreme’ rating on the Mercalli intensity scale. Entire neighborhoods were leveled, aftershocks continued for weeks, and the death toll climbed to over 57,000 people.",
@@ -660,9 +630,34 @@
         ]
       },
       "match_reason": "From ballistic trajectories to orbital paths, this turning point in rocketry evolution fits an episode that slowly ‘launches’ from ambient space into rhythmic lift-off."
+    },
+    {
+      "hour": 2,
+      "fact_text": "On February 6, 1959, Jack Kilby of Texas Instruments filed the first patent for the integrated circuit, a tiny slab of semiconductor that could host multiple electronic components. His invention paved the way for modern computers, smartphones, spacecraft, and almost every digital device in daily life.",
+      "fact_year": 1959,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Jack_Kilby",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "Kilby’s integrated circuit made our phone-addicted world possible; an episode about our relationship with phones and networks is a natural thematic echo."
     }
   ],
   "generated_at": "2026-02-06T00:00:00.013216+00:00",
   "date": "2026-02-06",
-  "updated_at": "2026-02-06T01:00:01.600292+00:00"
+  "updated_at": "2026-02-06T02:00:01.402512+00:00"
 }
