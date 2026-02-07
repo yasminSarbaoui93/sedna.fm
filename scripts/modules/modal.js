@@ -1,16 +1,31 @@
 // Modal logic for subscribe modal
 
 export function initModal() {
-  const subscribeLink = document.querySelector('.nav-left a[href="#"]');
+  const subscribeLink = document.querySelector('.nav-left .subscribe-cta');
   const modalOverlay = document.getElementById('subscribe-modal-overlay');
   const modalClose = document.getElementById('subscribe-modal-close');
+
+  function openModal() {
+    if (modalOverlay) {
+      modalOverlay.classList.add('active');
+      modalOverlay.setAttribute('aria-hidden', 'false');
+    }
+  }
+
+  // Banner subscribe button
+  const bannerBtn = document.getElementById('subscribe-banner-btn');
+  if (bannerBtn) {
+    bannerBtn.addEventListener('click', function(e) {
+      e.preventDefault();
+      openModal();
+    });
+  }
 
   if (subscribeLink && modalOverlay && modalClose) {
     // Open modal
     subscribeLink.addEventListener('click', function(e) {
       e.preventDefault();
-      modalOverlay.classList.add('active');
-      modalOverlay.setAttribute('aria-hidden', 'false');
+      openModal();
     });
 
     // Close modal

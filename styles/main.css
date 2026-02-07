@@ -161,6 +161,106 @@ body::before {
 }
 
 /* ================================================
+   Subscribe CTA Button (Nav)
+   ================================================ */
+.subscribe-cta {
+  background: linear-gradient(135deg, #ff5500, #ff8800) !important;
+  color: #fff !important;
+  padding: 0.35rem 1.1rem !important;
+  border-radius: 2rem;
+  font-weight: 600;
+  font-size: 0.95rem;
+  letter-spacing: 0.03em;
+  text-decoration: none !important;
+  opacity: 1 !important;
+  animation: subscribe-pulse 2.5s ease-in-out infinite;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  white-space: nowrap;
+}
+
+.subscribe-cta:hover {
+  transform: scale(1.07);
+  box-shadow: 0 0 18px rgba(255, 85, 0, 0.5);
+  text-decoration: none !important;
+}
+
+@keyframes subscribe-pulse {
+  0%, 100% { box-shadow: 0 0 6px rgba(255, 85, 0, 0.3); }
+  50%      { box-shadow: 0 0 16px rgba(255, 85, 0, 0.55); }
+}
+
+/* ================================================
+   Subscribe Banner Section
+   ================================================ */
+#subscribe-banner {
+  width: 100%;
+  padding: 3.5rem 2rem;
+  background: rgba(255, 255, 255, 0.03);
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  text-align: center;
+}
+
+.subscribe-banner-content {
+  max-width: 520px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.subscribe-banner-icon {
+  font-size: 2.2rem;
+  margin-bottom: 0.2rem;
+}
+
+.subscribe-banner-heading {
+  font-family: var(--font-body);
+  font-size: clamp(1.3rem, 3vw, 1.6rem);
+  font-weight: 700;
+  color: #fff;
+  margin: 0;
+}
+
+.subscribe-banner-text {
+  font-family: var(--font-body);
+  font-size: clamp(0.9rem, 2.2vw, 1.05rem);
+  color: rgba(255, 255, 255, 0.7);
+  margin: 0 0 0.8rem;
+  line-height: 1.6;
+}
+
+.subscribe-banner-btn {
+  background: linear-gradient(135deg, #ff5500, #ff8800);
+  color: #fff;
+  border: none;
+  padding: 0.75rem 2.4rem;
+  border-radius: 2rem;
+  font-family: var(--font-body);
+  font-size: 1.05rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.subscribe-banner-btn:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 22px rgba(255, 85, 0, 0.4);
+}
+
+.subscribe-banner-btn:active {
+  transform: scale(0.98);
+}
+
+@media (max-width: 700px) {
+  #subscribe-banner {
+    padding: 2.5rem 1.5rem;
+  }
+}
+
+/* ================================================
    Radio Hero Section
    ================================================ */
 #radio-hero {
