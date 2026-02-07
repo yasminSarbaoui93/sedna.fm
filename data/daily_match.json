@@ -1,61 +1,31 @@
 {
-  "current_hour": 11,
+  "current_hour": 12,
   "current_fact": {
-    "hour": 11,
-    "fact_text": "On this day in 1813, the French frigate Aréthuse and the British frigate Amelia fought a ferocious engagement near the Îles de Los off Guinea. After hours of cannon fire and heavy casualties on both sides, neither ship could claim a decisive victory—an indecisive battle etched in splintered wood and smoke.",
-    "fact_year": 1813,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Action_of_7_February_1813",
+    "hour": 12,
+    "fact_text": "In 1981, a Tupolev Tu-104 crashed shortly after takeoff from Pushkin Airport near Leningrad, killing all 50 people on board, including 16 senior officers of the Soviet Pacific Fleet. The disaster abruptly decapitated part of the fleet’s leadership and highlighted safety issues in one of the world’s earliest jet airliners.",
+    "fact_year": 1981,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1981_Pushkin_Tu-104_crash",
     "episode": {
-      "id": 48,
-      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+      "id": 26,
+      "title": "Morning Drops #20 - Hitchhiking Poland",
+      "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
       "songs": [
-        "Stive Morgan - Solar Wind, Pt. 3",
-        "David Visan & Carlos Campos - Crystal Heart",
-        "Evan Mars - Ya Zareef Al Tool",
-        "Gerardo Frisina - Cuiabá",
-        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-        "The Busy Twist - Friday Night"
+        "Pidżama Porno - Ezoteryczny Poznań",
+        "Seev, Masswo - Primal Scream",
+        "Antoha MC - Ритм сердца",
+        "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
       ],
       "music-genres": [
-        "Ambient",
-        "Deep House",
-        "World Music",
-        "Nu Jazz",
-        "Afrobeat",
-        "Funk",
-        "Electronic"
+        "Polish Rock",
+        "Electronic",
+        "Russian Rap",
+        "Slavic Folk Rock"
       ]
     },
-    "match_reason": "A naval clash off the West African coast fits the episode’s trajectory across sub-Saharan soundscapes and oceanic, rhythmic swells."
+    "match_reason": "A tragic Soviet-era aviation accident involving military officers pairs with an Eastern European travel episode whose soundtrack includes Russian-language rap and Slavic rock, echoing the region and its histories of movement and risk."
   },
   "queue": [
-    {
-      "hour": 12,
-      "fact_text": "In 1981, a Tupolev Tu-104 crashed shortly after takeoff from Pushkin Airport near Leningrad, killing all 50 people on board, including 16 senior officers of the Soviet Pacific Fleet. The disaster abruptly decapitated part of the fleet’s leadership and highlighted safety issues in one of the world’s earliest jet airliners.",
-      "fact_year": 1981,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1981_Pushkin_Tu-104_crash",
-      "episode": {
-        "id": 26,
-        "title": "Morning Drops #20 - Hitchhiking Poland",
-        "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
-        "songs": [
-          "Pidżama Porno - Ezoteryczny Poznań",
-          "Seev, Masswo - Primal Scream",
-          "Antoha MC - Ритм сердца",
-          "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
-        ],
-        "music-genres": [
-          "Polish Rock",
-          "Electronic",
-          "Russian Rap",
-          "Slavic Folk Rock"
-        ]
-      },
-      "match_reason": "A tragic Soviet-era aviation accident involving military officers pairs with an Eastern European travel episode whose soundtrack includes Russian-language rap and Slavic rock, echoing the region and its histories of movement and risk."
-    },
     {
       "hour": 13,
       "fact_text": "On this day in 1854, the law founding the Swiss Federal Institute of Technology—today’s ETH Zurich—was approved, creating a new hub for scientific and engineering excellence. Over time, ETH would nurture pioneers like Albert Einstein and become a powerhouse in physics, computer science, and climate research.",
@@ -661,9 +631,34 @@
         ]
       },
       "match_reason": "A naval clash off the West African coast fits the episode’s trajectory across sub-Saharan soundscapes and oceanic, rhythmic swells."
+    },
+    {
+      "hour": 12,
+      "fact_text": "In 1981, a Tupolev Tu-104 crashed shortly after takeoff from Pushkin Airport near Leningrad, killing all 50 people on board, including 16 senior officers of the Soviet Pacific Fleet. The disaster abruptly decapitated part of the fleet’s leadership and highlighted safety issues in one of the world’s earliest jet airliners.",
+      "fact_year": 1981,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1981_Pushkin_Tu-104_crash",
+      "episode": {
+        "id": 26,
+        "title": "Morning Drops #20 - Hitchhiking Poland",
+        "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
+        "songs": [
+          "Pidżama Porno - Ezoteryczny Poznań",
+          "Seev, Masswo - Primal Scream",
+          "Antoha MC - Ритм сердца",
+          "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
+        ],
+        "music-genres": [
+          "Polish Rock",
+          "Electronic",
+          "Russian Rap",
+          "Slavic Folk Rock"
+        ]
+      },
+      "match_reason": "A tragic Soviet-era aviation accident involving military officers pairs with an Eastern European travel episode whose soundtrack includes Russian-language rap and Slavic rock, echoing the region and its histories of movement and risk."
     }
   ],
   "generated_at": "2026-02-07T00:00:00.009218+00:00",
   "date": "2026-02-07",
-  "updated_at": "2026-02-07T11:00:01.814094+00:00"
+  "updated_at": "2026-02-07T12:00:01.480068+00:00"
 }
