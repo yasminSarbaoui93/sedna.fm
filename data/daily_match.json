@@ -1,50 +1,25 @@
 {
-  "current_hour": 9,
+  "current_hour": 10,
   "current_fact": {
-    "hour": 9,
-    "fact_text": "On this day in 2014, scientists announced that a line of fossilised footprints found at Happisburgh on England’s Norfolk coast were over 800,000 years old. Left by ancient hominins strolling along a river estuary, they are the oldest known human‑relative footprints outside Africa—a snapshot of a family walk preserved by mud, tide, and time.",
-    "fact_year": 2014,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Happisburgh_footprints",
+    "hour": 10,
+    "fact_text": "In 1900, a Chinese immigrant in San Francisco fell ill with bubonic plague, heralding the first plague epidemic in the continental United States. The outbreak exposed both the power of modern bacteriology and the dark side of public health, as scientific investigation mingled with xenophobia and political denial.",
+    "fact_year": 1900,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1900%E2%80%931904_San_Francisco_plague",
     "episode": {
-      "id": 46,
-      "title": "Morning Drops #40 - Diving With Orcas",
-      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+      "id": 25,
+      "title": "Morning Drops #19 - Wabi Sabi",
+      "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
       "songs": [
-        "Ludovico Einaudi - Experience",
-        "The Temper Trap - Sweet Disposition",
-        "Alex Warren - Ordinary",
-        "Piero Umiliani - Il tuo volto"
+        "song 1"
       ],
       "music-genres": [
-        "Neo-Classical",
-        "Indie Rock",
-        "Pop",
-        "Italian Film Score"
+        "genre 1"
       ]
     },
-    "match_reason": "Ancient coastal footsteps facing a cold sea pair with a reflective, ocean‑centered episode about tracing paths through icy waters and reading stories written in nature."
+    "match_reason": "A messy, fearful epidemic and flawed human responses echo an episode that gently reclaims imperfection, inviting a kinder view of what goes wrong and how we learn from it."
   },
   "queue": [
-    {
-      "hour": 10,
-      "fact_text": "In 1900, a Chinese immigrant in San Francisco fell ill with bubonic plague, heralding the first plague epidemic in the continental United States. The outbreak exposed both the power of modern bacteriology and the dark side of public health, as scientific investigation mingled with xenophobia and political denial.",
-      "fact_year": 1900,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1900%E2%80%931904_San_Francisco_plague",
-      "episode": {
-        "id": 25,
-        "title": "Morning Drops #19 - Wabi Sabi",
-        "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
-        "songs": [
-          "song 1"
-        ],
-        "music-genres": [
-          "genre 1"
-        ]
-      },
-      "match_reason": "A messy, fearful epidemic and flawed human responses echo an episode that gently reclaims imperfection, inviting a kinder view of what goes wrong and how we learn from it."
-    },
     {
       "hour": 11,
       "fact_text": "On this day in 1813 near the Îles de Los off West Africa, the British frigate HMS Amelia and the French frigate Aréthuse fought each other to a bloody standstill. After hours of exchanging broadsides at close range, both ships were so damaged that neither side could claim a decisive victory, and the ocean simply swallowed the smoke.",
@@ -642,9 +617,28 @@
         ]
       },
       "match_reason": "Ancient coastal footsteps facing a cold sea pair with a reflective, ocean‑centered episode about tracing paths through icy waters and reading stories written in nature."
+    },
+    {
+      "hour": 10,
+      "fact_text": "In 1900, a Chinese immigrant in San Francisco fell ill with bubonic plague, heralding the first plague epidemic in the continental United States. The outbreak exposed both the power of modern bacteriology and the dark side of public health, as scientific investigation mingled with xenophobia and political denial.",
+      "fact_year": 1900,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1900%E2%80%931904_San_Francisco_plague",
+      "episode": {
+        "id": 25,
+        "title": "Morning Drops #19 - Wabi Sabi",
+        "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
+        "songs": [
+          "song 1"
+        ],
+        "music-genres": [
+          "genre 1"
+        ]
+      },
+      "match_reason": "A messy, fearful epidemic and flawed human responses echo an episode that gently reclaims imperfection, inviting a kinder view of what goes wrong and how we learn from it."
     }
   ],
   "generated_at": "2026-02-07T00:00:00.013530+00:00",
   "date": "2026-02-07",
-  "updated_at": "2026-02-07T09:00:01.673353+00:00"
+  "updated_at": "2026-02-07T10:00:01.599187+00:00"
 }
