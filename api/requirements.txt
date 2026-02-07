@@ -9,3 +9,6 @@ httpx>=0.27.0
 
 # GitHub API for committing results
 PyGithub>=2.1.0
+
+# Azure Cosmos DB for subscriber storage
+azure-cosmos>=4.7.0

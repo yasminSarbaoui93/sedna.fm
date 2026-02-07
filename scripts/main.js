@@ -10,7 +10,7 @@ import {
   widget
 } from './modules/player.js';
 import { updatePlayPauseIcon, setupArtworkListener, updateChannelHighlighting } from './modules/ui.js';
-import { initModal } from './modules/modal.js';
+import { initSubscribe } from './modules/subscribe.js';
 import { initScrollIndicators } from './modules/scroll.js';
 import { initMoodSelector } from './modules/mood.js';
 import { initDailyFact } from './modules/dailyFact.js';
@@ -44,8 +44,8 @@ document.addEventListener('DOMContentLoaded', function() {
   // Patch embedSoundCloud globally
   window.embedSoundCloud = patchedEmbedSoundCloud;
 
-  // Initialize modal logic
-  initModal();
+  // Initialize subscribe forms
+  initSubscribe();
 
   // Initialize scroll indicators
   initScrollIndicators();
