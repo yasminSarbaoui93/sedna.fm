@@ -1,8 +1,9 @@
 // Mood selector module for Sedna FM
 // Connects mood buttons to Azure AI recommendation API
 
-// Production branch - always use production API
-const API_URL = 'https://sedna-website-func-ch.azurewebsites.net/api/recommend';
+import { API_BASE } from './apiConfig.js';
+
+const API_URL = `${API_BASE}/api/recommend`;
 
 // Session storage key for tracking played episodes
 const SESSION_STORAGE_KEY = 'sedna_played_episodes';

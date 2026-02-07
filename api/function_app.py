@@ -2,6 +2,7 @@
 Sedna FM API Functions
 - Mood Recommendation API (GPT-5 nano)
 - Daily Fact & Match Feature (GPT-5.1)
+- Subscriber Management (Cosmos DB)
 """
 
 import azure.functions as func
@@ -9,6 +10,8 @@ import json
 import logging
 import os
 import random
+import re
+import uuid
 import httpx
 from datetime import datetime, timezone
 from typing import Any
@@ -16,6 +19,9 @@ from openai import AzureOpenAI
 
 # GitHub API for committing results
 from github import Github
+
+# Azure Cosmos DB
+from azure.cosmos import CosmosClient, exceptions as cosmos_exceptions
 
 # Create single FunctionApp instance for all functions
 app = func.FunctionApp()
@@ -905,3 +911,111 @@ async def generate_daily_fact_manual(req: func.HttpRequest) -> func.HttpResponse
             status_code=500,
             headers=headers
         )
+
+
+# ==============================================================================
+# SUBSCRIBE API (Cosmos DB)
+# ==============================================================================
+
+def get_cosmos_container():
+    """Get the Cosmos DB subscribers container (singleton-like via module cache)."""
+    conn_str = os.environ.get("COSMOS_CONNECTION_STRING")
+    if not conn_str:
+        raise ValueError("COSMOS_CONNECTION_STRING is not configured")
+    
+    client = CosmosClient.from_connection_string(conn_str)
+    database = client.get_database_client("sednafm")
+    container = database.get_container_client("subscribers")
+    return container
+
+
+@app.route(route="subscribe", methods=["POST"], auth_level=func.AuthLevel.ANONYMOUS)
+async def subscribe(req: func.HttpRequest) -> func.HttpResponse:
+    """Subscribe an email address to Sedna FM updates."""
+    headers = {
+        "Content-Type": "application/json",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "POST, OPTIONS",
+        "Access-Control-Allow-Headers": "Content-Type"
+    }
+    
+    try:
+        # Parse request body
+        body = req.get_json()
+        email = body.get("email", "").strip().lower()
+        
+        # Validate email
+        if not email:
+            return func.HttpResponse(
+                json.dumps({"error": "Email is required"}),
+                status_code=400,
+                headers=headers
+            )
+        
+        # Basic email format validation
+        email_pattern = r'^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$'
+        if not re.match(email_pattern, email):
+            return func.HttpResponse(
+                json.dumps({"error": "Invalid email format"}),
+                status_code=400,
+                headers=headers
+            )
+        
+        container = get_cosmos_container()
+        
+        # Check if already subscribed (point read by partition key)
+        try:
+            container.read_item(item=email, partition_key=email)
+            # Already exists
+            return func.HttpResponse(
+                json.dumps({"message": "You're already subscribed!", "status": "exists"}),
+                status_code=200,
+                headers=headers
+            )
+        except cosmos_exceptions.CosmosResourceNotFoundError:
+            pass  # Not found — proceed to create
+        
+        # Create subscriber document
+        subscriber = {
+            "id": email,
+            "email": email,
+            "subscribedAt": datetime.now(timezone.utc).isoformat(),
+        }
+        
+        container.create_item(body=subscriber)
+        logger.info(f"New subscriber: {email}")
+        
+        return func.HttpResponse(
+            json.dumps({"message": "Welcome aboard! 🛸", "status": "created"}),
+            status_code=201,
+            headers=headers
+        )
+        
+    except ValueError as e:
+        logger.error(f"Configuration error: {e}")
+        return func.HttpResponse(
+            json.dumps({"error": "Service temporarily unavailable"}),
+            status_code=503,
+            headers=headers
+        )
+    except Exception as e:
+        logger.error(f"Subscribe error: {e}")
+        return func.HttpResponse(
+            json.dumps({"error": "Something went wrong. Please try again."}),
+            status_code=500,
+            headers=headers
+        )
+
+
+@app.route(route="subscribe", methods=["OPTIONS"], auth_level=func.AuthLevel.ANONYMOUS)
+async def subscribe_options(req: func.HttpRequest) -> func.HttpResponse:
+    """Handle CORS preflight for subscribe endpoint."""
+    return func.HttpResponse(
+        status_code=204,
+        headers={
+            "Access-Control-Allow-Origin": "*",
+            "Access-Control-Allow-Methods": "POST, OPTIONS",
+            "Access-Control-Allow-Headers": "Content-Type",
+            "Access-Control-Max-Age": "86400"
+        }
+    )
