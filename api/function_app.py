@@ -985,6 +985,20 @@ async def subscribe(req: func.HttpRequest) -> func.HttpResponse:
         container.create_item(body=subscriber)
         logger.info(f"New subscriber: {email}")
         
+        # Trigger Logic App welcome email (fire-and-forget, don't block subscription)
+        logic_app_url = os.environ.get("LOGIC_APP_WELCOME_URL")
+        if logic_app_url:
+            try:
+                async with httpx.AsyncClient() as client:
+                    await client.post(
+                        logic_app_url,
+                        json={"email": email},
+                        timeout=10.0
+                    )
+                logger.info(f"Welcome email triggered for: {email}")
+            except Exception as e:
+                logger.warning(f"Failed to trigger welcome email for {email}: {e}")
+        
         return func.HttpResponse(
             json.dumps({"message": "Welcome aboard! 🛸", "status": "created"}),
             status_code=201,
