@@ -1,56 +1,31 @@
 {
-  "current_hour": 6,
+  "current_hour": 7,
   "current_fact": {
-    "hour": 6,
-    "fact_text": "In 1807 near the Prussian town of Eylau, Napoleon’s forces clashed with General Bennigsen’s Russian army in a brutal winter battle fought through blizzards and chaos. The engagement ended inconclusively and at enormous human cost, becoming infamous for its grisly stalemate rather than a clear victory.",
-    "fact_year": 1807,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Eylau",
+    "hour": 7,
+    "fact_text": "On this day in 1943, Japan completed the clandestine evacuation of its troops from Guadalcanal under Operation Ke, ending a brutal six‑month struggle in the Pacific. Rather than a dramatic last stand, the campaign concluded with a quiet retreat by night, marking the first major strategic defeat of Japanese forces on land in World War II.",
+    "fact_year": 1943,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Guadalcanal_campaign",
     "episode": {
-      "id": 52,
-      "title": "Morning Drops #45 - It Can't Rain Forever",
-      "description": "In this first broadcast of 2026, Gaia returns from the vivid landscapes of Morocco to open a space for reflection. This episode navigates the delicate transition between closing a significant chapter and stepping into the new year. It explores the concept of constancy amidst change, celebrating the grounding force of friendship and the creative sanctuary that is Sedna FM.\n\nThe musical selection mirrors this journey, moving from the orchestral depth of changing seasons into the golden warmth of psychedelic soul. It recalls memories of Swiss mountains and unexpected downpours, reminding us that shared optimism can weather any storm.\n\nTake a moment to breathe in the new morning and listen deeply.\n\nMood: Reflective, Warm, Transitional, Hopeful\nMusic genre: Classic Rock, Psychedelic Soul, Pop Rock, Soft Rock",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-it-cant-rain-forever",
+      "id": 31,
+      "title": "Morning Drops #25 - A Trip-Hop Journey",
+      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
       "songs": [
-        "Led Zeppelin - The Rain Song",
-        "Khruangbin & Leon Bridges - Texas Sun",
-        "Dragon - Rain",
-        "Fleetwood Mac - Don't Stop"
+        "Massive Attack - Unfinished Sympathy",
+        "Tricky - Hell Is Round the Corner",
+        "DJ Shadow - Midnight in a Perfect World",
+        "Thievery Corporation - Lebanese Blonde",
+        "Smoke City - Underwater Love"
       ],
       "music-genres": [
-        "Classic Rock",
-        "Psychedelic Soul",
-        "Pop Rock",
-        "Soft Rock"
+        "Trip-Hop",
+        "Downtempo",
+        "Electronic"
       ]
     },
-    "match_reason": "A snowstorm-soaked, indecisive battle ties thematically to an episode about weathering storms, endurance, and the hope that harsh conditions do eventually pass."
+    "match_reason": "A shadowy nighttime withdrawal across tropical waters pairs with moody, cinematic trip-hop and underwater atmospheres that echo covert movement and shifting tides."
   },
   "queue": [
-    {
-      "hour": 7,
-      "fact_text": "On this day in 1943, Japan completed the clandestine evacuation of its troops from Guadalcanal under Operation Ke, ending a brutal six‑month struggle in the Pacific. Rather than a dramatic last stand, the campaign concluded with a quiet retreat by night, marking the first major strategic defeat of Japanese forces on land in World War II.",
-      "fact_year": 1943,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Guadalcanal_campaign",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #25 - A Trip-Hop Journey",
-        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
-        "songs": [
-          "Massive Attack - Unfinished Sympathy",
-          "Tricky - Hell Is Round the Corner",
-          "DJ Shadow - Midnight in a Perfect World",
-          "Thievery Corporation - Lebanese Blonde",
-          "Smoke City - Underwater Love"
-        ],
-        "music-genres": [
-          "Trip-Hop",
-          "Downtempo",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A shadowy nighttime withdrawal across tropical waters pairs with moody, cinematic trip-hop and underwater atmospheres that echo covert movement and shifting tides."
-    },
     {
       "hour": 8,
       "fact_text": "In 2016, North Korea launched the Kwangmyŏngsŏng‑4 satellite into orbit, claiming it was for Earth observation while much of the world saw it as a veiled missile test. The small spacecraft sparked outsized geopolitical waves, showing how even a single object in space can broadcast power, fear, and technological ambition.",
@@ -642,9 +617,34 @@
         ]
       },
       "match_reason": "A snowstorm-soaked, indecisive battle ties thematically to an episode about weathering storms, endurance, and the hope that harsh conditions do eventually pass."
+    },
+    {
+      "hour": 7,
+      "fact_text": "On this day in 1943, Japan completed the clandestine evacuation of its troops from Guadalcanal under Operation Ke, ending a brutal six‑month struggle in the Pacific. Rather than a dramatic last stand, the campaign concluded with a quiet retreat by night, marking the first major strategic defeat of Japanese forces on land in World War II.",
+      "fact_year": 1943,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Guadalcanal_campaign",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #25 - A Trip-Hop Journey",
+        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+        "songs": [
+          "Massive Attack - Unfinished Sympathy",
+          "Tricky - Hell Is Round the Corner",
+          "DJ Shadow - Midnight in a Perfect World",
+          "Thievery Corporation - Lebanese Blonde",
+          "Smoke City - Underwater Love"
+        ],
+        "music-genres": [
+          "Trip-Hop",
+          "Downtempo",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A shadowy nighttime withdrawal across tropical waters pairs with moody, cinematic trip-hop and underwater atmospheres that echo covert movement and shifting tides."
     }
   ],
   "generated_at": "2026-02-07T00:00:00.013530+00:00",
   "date": "2026-02-07",
-  "updated_at": "2026-02-07T06:00:01.454674+00:00"
+  "updated_at": "2026-02-07T07:00:01.440871+00:00"
 }
