@@ -76,6 +76,23 @@ function handleChannelClick(channelId) {
 // Embed SoundCloud player for a given track URL
 function embedSoundCloud(trackUrl) {
   const playerDiv = document.getElementById('soundcloud-player');
+  const existingIframe = document.getElementById('sc-widget-iframe');
+
+  // If widget already exists, reuse it — just load the new track.
+  // Reusing the same iframe preserves SoundCloud's session/cookie tracking
+  // which is required for plays to be counted.
+  if (existingIframe && widget) {
+    widget.load(trackUrl, {
+      auto_play: true,
+      show_comments: false,
+      show_user: true,
+      show_reposts: false,
+      show_teaser: true
+    });
+    return;
+  }
+
+  // First time only: create the iframe
   playerDiv.innerHTML = `
     <iframe id="sc-widget-iframe" width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay; encrypted-media"
       src="https://w.soundcloud.com/player/?url=${encodeURIComponent(trackUrl)}&color=%23ff5500&auto_play=true&hide_related=false&show_comments=false&show_user=true&show_reposts=false&show_teaser=true">
@@ -126,16 +143,11 @@ function playTrack(trackUrl) {
   if (!tracks) tracks = fetchSednaTracks();
   if (!widget || currentTrack !== trackUrl) {
     currentTrack = trackUrl;
+    // embedSoundCloud now handles everything:
+    // - First call: creates iframe + widget
+    // - Subsequent calls: reuses widget via widget.load()
+    // No double-loading, so SoundCloud properly registers the play.
     embedSoundCloud(trackUrl);
-    setTimeout(() => {
-      if (widget) {
-        widget.load(trackUrl, { auto_play: true });
-        // Update artwork/title after loading new track
-        setTimeout(() => {
-          updateArtworkAndTitle();
-        }, 300);
-      }
-    }, 500);
   } else {
     widget.play();
   }
