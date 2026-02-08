@@ -1,58 +1,31 @@
 {
-  "current_hour": 20,
+  "current_hour": 21,
   "current_fact": {
-    "hour": 20,
-    "fact_text": "On February 8, 2023, a city bus in Laval, Quebec, suddenly veered off a road and plowed into a daycare center, killing two young children and injuring several others. In a society built around routines and morning commutes, it was a brutal reminder of how quickly everyday spaces—like a classroom or a bus route—can turn into scenes of incomprehensible loss.",
-    "fact_year": 2023,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Laval_daycare_bus_crash",
+    "hour": 21,
+    "fact_text": "Back in 1983, the Melbourne dust storm was a visual shock, but it also represented years of drought and mismanaged land use made suddenly visible. Dust from dried-out farmlands didn’t just shade the city; it literally coated it, a reminder that environmental choices far away can end up in your lungs and on your windowsill.",
+    "fact_year": 1983,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1983_Melbourne_dust_storm",
     "episode": {
-      "id": 50,
-      "title": "Morning Drops #43 - Looking Back",
-      "description": "In this first Morning Drop of 2026, Yasmin opens a space for quiet reflection on the nature of transitions. The episode traces a personal journey that began three years ago, when a sudden injury on New Year’s Day turned a desire for movement into a mandatory season of stillness.\n\nThrough the story of a broken knee and the slow process of relearning to walk, the narrative explores the difference between being strong and being aware. It touches on the vulnerability of the body, the unexpected joy found in daily progress, and the warmth that comes from finally allowing oneself to accept help. The musical selection mirrors this path of recovery, moving from the uncertainty of change to the steady rhythm of healing.\n\nMood: Reflective, Resilient, Grounded\nMusic genre: Indie Pop, Cinematic, World, Soul\n\nWe invite you to listen deeply and find comfort in your own pace.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-looking-back",
+      "id": 31,
+      "title": "Morning Drops #25 - A Trip-Hop Journey",
+      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
       "songs": [
-        "Alt-J - 3WW",
-        "Kelly Finnigan - I Don't Wanna Wait",
-        "Goran Bregović & Iggy Pop - This Is a Film",
-        "Ishihonana - Lucia (Original Mix)",
-        "The Weeknd - Save Your Tears"
+        "Massive Attack - Unfinished Sympathy",
+        "Tricky - Hell Is Round the Corner",
+        "DJ Shadow - Midnight in a Perfect World",
+        "Thievery Corporation - Lebanese Blonde",
+        "Smoke City - Underwater Love"
       ],
       "music-genres": [
-        "Indie Pop",
-        "Soul",
-        "World",
-        "Cinematic",
-        "Synth-Pop"
+        "Trip-Hop",
+        "Downtempo",
+        "Electronic"
       ]
     },
-    "match_reason": "An abrupt, senseless rupture in a normal morning resonates with an episode about sudden injury, disruption, and the slow process of healing and reflection that follows."
+    "match_reason": "Trip-hop’s hazy, atmospheric textures echo the surreal, dust-filtered cityscape of Melbourne, turning environmental haze into a sonic one."
   },
   "queue": [
-    {
-      "hour": 21,
-      "fact_text": "Back in 1983, the Melbourne dust storm was a visual shock, but it also represented years of drought and mismanaged land use made suddenly visible. Dust from dried-out farmlands didn’t just shade the city; it literally coated it, a reminder that environmental choices far away can end up in your lungs and on your windowsill.",
-      "fact_year": 1983,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1983_Melbourne_dust_storm",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #25 - A Trip-Hop Journey",
-        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
-        "songs": [
-          "Massive Attack - Unfinished Sympathy",
-          "Tricky - Hell Is Round the Corner",
-          "DJ Shadow - Midnight in a Perfect World",
-          "Thievery Corporation - Lebanese Blonde",
-          "Smoke City - Underwater Love"
-        ],
-        "music-genres": [
-          "Trip-Hop",
-          "Downtempo",
-          "Electronic"
-        ]
-      },
-      "match_reason": "Trip-hop’s hazy, atmospheric textures echo the surreal, dust-filtered cityscape of Melbourne, turning environmental haze into a sonic one."
-    },
     {
       "hour": 22,
       "fact_text": "In early February 1904, as troops marched and shells fell in Manchuria, many European powers were stunned that Japan—not a Western empire—had initiated high-tech war at Port Arthur. It signaled a geopolitical plot twist: industrialized warfare no longer belonged exclusively to Europe and North America.",
@@ -648,9 +621,34 @@
         ]
       },
       "match_reason": "An abrupt, senseless rupture in a normal morning resonates with an episode about sudden injury, disruption, and the slow process of healing and reflection that follows."
+    },
+    {
+      "hour": 21,
+      "fact_text": "Back in 1983, the Melbourne dust storm was a visual shock, but it also represented years of drought and mismanaged land use made suddenly visible. Dust from dried-out farmlands didn’t just shade the city; it literally coated it, a reminder that environmental choices far away can end up in your lungs and on your windowsill.",
+      "fact_year": 1983,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1983_Melbourne_dust_storm",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #25 - A Trip-Hop Journey",
+        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+        "songs": [
+          "Massive Attack - Unfinished Sympathy",
+          "Tricky - Hell Is Round the Corner",
+          "DJ Shadow - Midnight in a Perfect World",
+          "Thievery Corporation - Lebanese Blonde",
+          "Smoke City - Underwater Love"
+        ],
+        "music-genres": [
+          "Trip-Hop",
+          "Downtempo",
+          "Electronic"
+        ]
+      },
+      "match_reason": "Trip-hop’s hazy, atmospheric textures echo the surreal, dust-filtered cityscape of Melbourne, turning environmental haze into a sonic one."
     }
   ],
   "generated_at": "2026-02-08T00:00:00.018299+00:00",
   "date": "2026-02-08",
-  "updated_at": "2026-02-08T20:00:01.668670+00:00"
+  "updated_at": "2026-02-08T21:00:01.665783+00:00"
 }
