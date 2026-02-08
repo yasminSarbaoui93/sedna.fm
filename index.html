@@ -18,6 +18,8 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
   <!-- SoundCloud Widget API -->
   <script src="https://w.soundcloud.com/player/api.js"></script>
+  <!-- YouTube IFrame API -->
+  <script src="https://www.youtube.com/iframe_api"></script>
 </head>
 <body class="home">
   <nav class="nav-bar">
@@ -71,6 +73,35 @@
       <span class="scroll-arrow"></span>
     </div>
   </div>
+
+  <!-- Latest Episode TV Section -->
+  <section id="latest-episode-section">
+    <h2 class="latest-episode-title">Listen to our latest episode</h2>
+    <div class="tv-container">
+      <div class="tv-video-wrapper">
+        <iframe 
+          id="yt-latest-episode"
+          width="560" 
+          height="315" 
+          src="https://www.youtube.com/embed/LOmDkqgCMCU?enablejsapi=1" 
+          title="Sedna FM Latest Episode" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+          referrerpolicy="strict-origin-when-cross-origin" 
+          allowfullscreen>
+        </iframe>
+      </div>
+      <img src="assets/images/old-tv.png" alt="Retro TV" class="tv-frame">
+    </div>
+    <!-- TODO: Replace static description below with dynamic description loaded from data source -->
+    <div class="episode-description">
+      <p>In this Morning Drop, Yasmin explores the explosive rise of Auto-Tune, the curious story of how it was invented, how it moved from the background of studios to the center of debate, and how a few artists turned it into something expressive rather than hidden.</p>
+    </div>
+    <!-- Scroll Down Indicator -->
+    <div class="scroll-indicator latest-episode-scroll-indicator">
+      <span class="scroll-arrow"></span>
+    </div>
+  </section>
 
   <!-- Choose Your Mood Section -->
   <section id="mood-selector">

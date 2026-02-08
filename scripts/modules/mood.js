@@ -2,6 +2,7 @@
 // Connects mood buttons to Azure AI recommendation API
 
 import { API_BASE } from './apiConfig.js';
+import { notifyPlay, registerSource } from './mediaCoordinator.js';
 
 const API_URL = `${API_BASE}/api/recommend`;
 
@@ -13,6 +14,15 @@ let currentMoodEpisode = null;
 let moodWidget = null;
 let isMoodPlaying = false;
 let currentMood = null;
+
+// Register mood player's pause function with the media coordinator
+registerSource('mood', () => {
+  if (moodWidget) {
+    try { moodWidget.pause(); } catch (e) { /* ignore */ }
+  }
+  isMoodPlaying = false;
+  updateMoodPlayButtonIcon();
+});
 
 /**
  * Get played episodes from session storage
@@ -180,6 +190,8 @@ function embedMoodPlayer(trackUrl, autoPlay = false) {
       moodWidget.bind(SC.Widget.Events.PLAY, () => {
         isMoodPlaying = true;
         updateMoodPlayButtonIcon();
+        // Pause all other media sources
+        notifyPlay('mood');
       });
       
       moodWidget.bind(SC.Widget.Events.PAUSE, () => {

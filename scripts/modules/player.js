@@ -3,6 +3,7 @@ import { getRandom } from './utils.js';
 import { EPISODES } from './episodes.js';
 import { updateArtworkAndTitle, updatePlayPauseIcon, updateChannelHighlighting, showToast } from './ui.js';
 import { getChannelEpisodes, getRandomChannelEpisode, getAllEpisodes } from './channels.js';
+import { registerSource, notifyPlay } from './mediaCoordinator.js';
 
 // State
 let widget = null;
@@ -15,6 +16,17 @@ let activeChannel = null; // null = all episodes, 1-4 = specific channel
 function fetchSednaTracks() {
   return Array.isArray(EPISODES) ? EPISODES : [];
 }
+
+// Register radio player's pause function with the media coordinator
+registerSource('radio', () => {
+  if (widget) {
+    try { widget.pause(); } catch (e) { /* ignore */ }
+  }
+  isPlaying = false;
+  updatePlayPauseIcon();
+  const playBtn = document.getElementById('radio-play-btn');
+  if (playBtn) playBtn.classList.remove('playing');
+});
 
 /**
  * Get the current active channel
@@ -108,6 +120,8 @@ function embedSoundCloud(trackUrl) {
         isPlaying = true;
         updatePlayPauseIcon();
         updateArtworkAndTitle();
+        // Pause all other media sources
+        notifyPlay('radio');
         // Add playing class to stop pulsing animation
         const playBtn = document.getElementById('radio-play-btn');
         if (playBtn) playBtn.classList.add('playing');
