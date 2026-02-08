@@ -1,10 +1,20 @@
 // Daily Fact & Match module for Sedna FM
 // Fetches today's fact and recommended episode, handles playback
+import { notifyPlay, registerSource } from './mediaCoordinator.js';
 
 // State
 let dailyFactEpisode = null;
 let dailyFactWidget = null;
 let isDailyFactPlaying = false;
+
+// Register daily fact player's pause function with the media coordinator
+registerSource('dailyFact', () => {
+  if (dailyFactWidget) {
+    try { dailyFactWidget.pause(); } catch (e) { /* ignore */ }
+  }
+  isDailyFactPlaying = false;
+  updateDailyFactPlayButton();
+});
 
 /**
  * Fetch the daily match data from the JSON file
@@ -175,6 +185,8 @@ function embedDailyFactPlayer(trackUrl, autoPlay = false) {
       dailyFactWidget.bind(SC.Widget.Events.PLAY, () => {
         isDailyFactPlaying = true;
         updateDailyFactPlayButton();
+        // Pause all other media sources
+        notifyPlay('dailyFact');
       });
       
       dailyFactWidget.bind(SC.Widget.Events.PAUSE, () => {
