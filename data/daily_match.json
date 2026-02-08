@@ -1,64 +1,31 @@
 {
-  "current_hour": 2,
+  "current_hour": 3,
   "current_fact": {
-    "hour": 2,
-    "fact_text": "On February 8, 1960, the Hollywood Walk of Fame was founded, turning an ordinary sidewalk into a glittering map of cultural memory. Today more than 2,700 brass stars stretch for over 2 kilometers, honoring not just film actors but also musicians, radio pioneers, and fictional characters that shaped the modern imagination.",
-    "fact_year": 1960,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Hollywood_Walk_of_Fame",
+    "hour": 3,
+    "fact_text": "D. W. Griffith’s The Birth of a Nation premiered in Los Angeles in 1915, becoming one of cinema’s first feature-length blockbusters—and one of its most toxic. Technically groundbreaking with complex camera work and narrative scale, it also spread vicious racist propaganda, showing how powerful film could be both artistically and politically, for better or worse.",
+    "fact_year": 1915,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/The_Birth_of_a_Nation",
     "episode": {
-      "id": 1,
-      "title": "Sedna FM #01 - November Bomb",
-      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+      "id": 44,
+      "title": "Morning Drops #38 - History of Flamenco",
+      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
       "songs": [
-        "berlioz - Open this wall",
-        "Nas - One Mic",
-        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-        "Frankie Knuckles - Your Love",
-        "Notorious B.I.G. - 17 Ten Crack Commandments",
-        "Liloca - Utani Xuva",
-        "Fela Kuti - Zombie",
-        "Neffa - Aspettando il sole",
-        "Childish Gambino - No Excuses",
-        "Modjo - Music takes you back"
+        "La Niña de los Peines - Al Gurugú",
+        "Lola Flores - Pena, penita, pena",
+        "Paco de Lucía - Entre dos aguas",
+        "Camarón de la Isla - La leyenda del tiempo",
+        "Rosalía - Pienso en tu mirá"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Afrobeat",
-        "House",
-        "Italian Pop",
-        "R&B",
-        "Latin Rap"
+        "Flamenco",
+        "Spanish Folk",
+        "Nuevo Flamenco"
       ]
     },
-    "match_reason": "The Walk of Fame celebrates cultural stars across media, just as Sedna’s inaugural episode assembles a constellation of iconic tracks and artists that feel like its own little boulevard of fame."
+    "match_reason": "Both the film and the episode explore how a medium’s evolution can amplify cultural narratives—one weaponizing cinema for racism, the other tracing flamenco’s roots as a voice for the marginalized."
   },
   "queue": [
-    {
-      "hour": 3,
-      "fact_text": "D. W. Griffith’s The Birth of a Nation premiered in Los Angeles in 1915, becoming one of cinema’s first feature-length blockbusters—and one of its most toxic. Technically groundbreaking with complex camera work and narrative scale, it also spread vicious racist propaganda, showing how powerful film could be both artistically and politically, for better or worse.",
-      "fact_year": 1915,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/The_Birth_of_a_Nation",
-      "episode": {
-        "id": 44,
-        "title": "Morning Drops #38 - History of Flamenco",
-        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
-        "songs": [
-          "La Niña de los Peines - Al Gurugú",
-          "Lola Flores - Pena, penita, pena",
-          "Paco de Lucía - Entre dos aguas",
-          "Camarón de la Isla - La leyenda del tiempo",
-          "Rosalía - Pienso en tu mirá"
-        ],
-        "music-genres": [
-          "Flamenco",
-          "Spanish Folk",
-          "Nuevo Flamenco"
-        ]
-      },
-      "match_reason": "Both the film and the episode explore how a medium’s evolution can amplify cultural narratives—one weaponizing cinema for racism, the other tracing flamenco’s roots as a voice for the marginalized."
-    },
     {
       "hour": 4,
       "fact_text": "In 1910, newspaper magnate William D. Boyce incorporated the Boy Scouts of America after getting lost in a London fog and being helped by an “unknown Scout” who refused a tip. That small act of kindness inspired a movement that would weave camping, knot-tying, and civic duty into the childhoods of millions.",
@@ -653,9 +620,34 @@
         ]
       },
       "match_reason": "The Walk of Fame celebrates cultural stars across media, just as Sedna’s inaugural episode assembles a constellation of iconic tracks and artists that feel like its own little boulevard of fame."
+    },
+    {
+      "hour": 3,
+      "fact_text": "D. W. Griffith’s The Birth of a Nation premiered in Los Angeles in 1915, becoming one of cinema’s first feature-length blockbusters—and one of its most toxic. Technically groundbreaking with complex camera work and narrative scale, it also spread vicious racist propaganda, showing how powerful film could be both artistically and politically, for better or worse.",
+      "fact_year": 1915,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/The_Birth_of_a_Nation",
+      "episode": {
+        "id": 44,
+        "title": "Morning Drops #38 - History of Flamenco",
+        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+        "songs": [
+          "La Niña de los Peines - Al Gurugú",
+          "Lola Flores - Pena, penita, pena",
+          "Paco de Lucía - Entre dos aguas",
+          "Camarón de la Isla - La leyenda del tiempo",
+          "Rosalía - Pienso en tu mirá"
+        ],
+        "music-genres": [
+          "Flamenco",
+          "Spanish Folk",
+          "Nuevo Flamenco"
+        ]
+      },
+      "match_reason": "Both the film and the episode explore how a medium’s evolution can amplify cultural narratives—one weaponizing cinema for racism, the other tracing flamenco’s roots as a voice for the marginalized."
     }
   ],
   "generated_at": "2026-02-08T00:00:00.018299+00:00",
   "date": "2026-02-08",
-  "updated_at": "2026-02-08T02:00:01.346940+00:00"
+  "updated_at": "2026-02-08T03:00:01.626412+00:00"
 }
