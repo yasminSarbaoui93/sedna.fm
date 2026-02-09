@@ -1,65 +1,30 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "On this day in 1893, but in Milan’s glittering La Scala, Verdi’s \"Falstaff\" turned literary Falstaff into one of opera’s most vivid musical characters, proving that even late in life he could reinvent his art. Its success cemented La Scala’s reputation as a cradle for daring premieres, not just museum pieces.",
-    "fact_year": 1893,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/La_Scala",
+    "hour": 11,
+    "fact_text": "On February 9, 1943, Allied forces finally declared Guadalcanal secure after months of brutal jungle fighting and naval battles against Japan. Control of this remote island marked a turning point in the Pacific War, shifting momentum from desperate defense to a long, grinding advance.",
+    "fact_year": 1943,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Guadalcanal",
     "episode": {
-      "id": 4,
-      "title": "Sedna FM #04 - Queen of Spades",
-      "description": "Tuning in from the planet of irrational love. Exploring love's most vulnerable side — the kind that awakens the child within us. A diverse music selection ranging from electric blues to downtempo, soul, and jazz. A tribute to the feeling that has moved artists to create the most beautiful works. Love makes us vulnerable, and there is no art without vulnerability.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/queen-of-spades",
+      "id": 22,
+      "title": "Morning Drops #16 - The Sound of Tuareg",
+      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
       "songs": [
-        "Alabama Shakes - Gimme All Your Love",
-        "Queens of the stone age - Make it wit chu",
-        "Rosa Passos - Fusion",
-        "Sade - Mr Wrong",
-        "Daft Punk - Something About Us",
-        "10cc - I'm Not in Love",
-        "Jonny Nash - Theories",
-        "Etta James - I'd Rather Go Blind",
-        "Adriano Celentano - Storia D'amore",
-        "Eric Clapton - Have you ever loved a woman",
-        "Arctic Monkey - The Bakery"
+        "Les Filles de Illighadad - Imigradan",
+        "Tinariwen - Amassakoul ’N’ Ténéré",
+        "Liya Ag Ablil - Awa Adounia",
+        "Tinariwen - Sastanàqqàm"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Stoner Rock",
-        "Bossa Nova",
-        "Soul",
-        "Electronic",
-        "Soft Rock",
-        "Blues"
+        "Desert Blues",
+        "Tuareg",
+        "World Music"
       ]
     },
-    "match_reason": "An iconic opera house premiering a work full of human vulnerability mirrors an episode about love, art, and emotional exposure on stage."
+    "match_reason": "A harsh island campaign shaped by terrain and endurance pairs with Tuareg desert music about survival, landscape, and long struggles."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "On February 9, 1943, Allied forces finally declared Guadalcanal secure after months of brutal jungle fighting and naval battles against Japan. Control of this remote island marked a turning point in the Pacific War, shifting momentum from desperate defense to a long, grinding advance.",
-      "fact_year": 1943,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Guadalcanal",
-      "episode": {
-        "id": 22,
-        "title": "Morning Drops #16 - The Sound of Tuareg",
-        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
-        "songs": [
-          "Les Filles de Illighadad - Imigradan",
-          "Tinariwen - Amassakoul ’N’ Ténéré",
-          "Liya Ag Ablil - Awa Adounia",
-          "Tinariwen - Sastanàqqàm"
-        ],
-        "music-genres": [
-          "Desert Blues",
-          "Tuareg",
-          "World Music"
-        ]
-      },
-      "match_reason": "A harsh island campaign shaped by terrain and endurance pairs with Tuareg desert music about survival, landscape, and long struggles."
-    },
     {
       "hour": 12,
       "fact_text": "In 1945, the British submarine HMS Venturer sank the German U‑boat U‑864 off Norway in one of history’s only cases of a submarine sinking another while both were submerged. The attack required Venturer’s crew to perform a kind of three‑dimensional geometry in their heads, predicting the unseen path of a moving target underwater.",
@@ -666,9 +631,33 @@
         ]
       },
       "match_reason": "An iconic opera house premiering a work full of human vulnerability mirrors an episode about love, art, and emotional exposure on stage."
+    },
+    {
+      "hour": 11,
+      "fact_text": "On February 9, 1943, Allied forces finally declared Guadalcanal secure after months of brutal jungle fighting and naval battles against Japan. Control of this remote island marked a turning point in the Pacific War, shifting momentum from desperate defense to a long, grinding advance.",
+      "fact_year": 1943,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Guadalcanal",
+      "episode": {
+        "id": 22,
+        "title": "Morning Drops #16 - The Sound of Tuareg",
+        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+        "songs": [
+          "Les Filles de Illighadad - Imigradan",
+          "Tinariwen - Amassakoul ’N’ Ténéré",
+          "Liya Ag Ablil - Awa Adounia",
+          "Tinariwen - Sastanàqqàm"
+        ],
+        "music-genres": [
+          "Desert Blues",
+          "Tuareg",
+          "World Music"
+        ]
+      },
+      "match_reason": "A harsh island campaign shaped by terrain and endurance pairs with Tuareg desert music about survival, landscape, and long struggles."
     }
   ],
   "generated_at": "2026-02-09T00:00:00.013665+00:00",
   "date": "2026-02-09",
-  "updated_at": "2026-02-09T10:00:01.686811+00:00"
+  "updated_at": "2026-02-09T11:00:02.070848+00:00"
 }
