@@ -1,56 +1,31 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "In 1870, U.S. President Ulysses S. Grant signed a resolution creating the U.S. Weather Bureau, one of the first attempts to systematically track storms and forecast the sky. Before satellites and supercomputers, this was a leap toward turning chaotic clouds into something humans could read.",
-    "fact_year": 1870,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ulysses_S._Grant",
+    "hour": 6,
+    "fact_text": "On February 9, 1920, the Svalbard Treaty granted Norway sovereignty over the remote Arctic archipelago of Svalbard, but only under the condition that it remain demilitarized and open to citizens of all signatory states. It turned an icy, coal‑rich frontier into a curious laboratory for international cooperation at the edge of the world.",
+    "fact_year": 1920,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Svalbard_Treaty",
     "episode": {
-      "id": 52,
-      "title": "Morning Drops #45 - It Can't Rain Forever",
-      "description": "In this first broadcast of 2026, Gaia returns from the vivid landscapes of Morocco to open a space for reflection. This episode navigates the delicate transition between closing a significant chapter and stepping into the new year. It explores the concept of constancy amidst change, celebrating the grounding force of friendship and the creative sanctuary that is Sedna FM.\n\nThe musical selection mirrors this journey, moving from the orchestral depth of changing seasons into the golden warmth of psychedelic soul. It recalls memories of Swiss mountains and unexpected downpours, reminding us that shared optimism can weather any storm.\n\nTake a moment to breathe in the new morning and listen deeply.\n\nMood: Reflective, Warm, Transitional, Hopeful\nMusic genre: Classic Rock, Psychedelic Soul, Pop Rock, Soft Rock",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-it-cant-rain-forever",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "Led Zeppelin - The Rain Song",
-        "Khruangbin & Leon Bridges - Texas Sun",
-        "Dragon - Rain",
-        "Fleetwood Mac - Don't Stop"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Classic Rock",
-        "Psychedelic Soul",
-        "Pop Rock",
-        "Soft Rock"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "An institution created to understand storms and rain pairs neatly with an episode framed around weather, rain, and changing seasons."
+    "match_reason": "Both the treaty and the episode are rooted in Norway’s remote Arctic realm, blending law and landscape with the quiet drama of polar waters."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "On February 9, 1920, the Svalbard Treaty granted Norway sovereignty over the remote Arctic archipelago of Svalbard, but only under the condition that it remain demilitarized and open to citizens of all signatory states. It turned an icy, coal‑rich frontier into a curious laboratory for international cooperation at the edge of the world.",
-      "fact_year": 1920,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Svalbard_Treaty",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "Both the treaty and the episode are rooted in Norway’s remote Arctic realm, blending law and landscape with the quiet drama of polar waters."
-    },
     {
       "hour": 7,
       "fact_text": "In 1893, Giuseppe Verdi’s final opera, \"Falstaff\", premiered at La Scala in Milan, revealing that the aging master of tragedy could end his career with a sparkling comedy. Its quicksilver ensembles and playful rhythms were so modern that some critics joked Verdi had out‑youthed the young composers.",
@@ -656,9 +631,34 @@
         ]
       },
       "match_reason": "An institution created to understand storms and rain pairs neatly with an episode framed around weather, rain, and changing seasons."
+    },
+    {
+      "hour": 6,
+      "fact_text": "On February 9, 1920, the Svalbard Treaty granted Norway sovereignty over the remote Arctic archipelago of Svalbard, but only under the condition that it remain demilitarized and open to citizens of all signatory states. It turned an icy, coal‑rich frontier into a curious laboratory for international cooperation at the edge of the world.",
+      "fact_year": 1920,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Svalbard_Treaty",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "Both the treaty and the episode are rooted in Norway’s remote Arctic realm, blending law and landscape with the quiet drama of polar waters."
     }
   ],
   "generated_at": "2026-02-09T00:00:00.013665+00:00",
   "date": "2026-02-09",
-  "updated_at": "2026-02-09T05:00:01.557463+00:00"
+  "updated_at": "2026-02-09T06:00:01.720974+00:00"
 }
