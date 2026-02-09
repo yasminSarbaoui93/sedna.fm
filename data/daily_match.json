@@ -1,67 +1,39 @@
 {
-  "current_hour": 16,
+  "current_hour": 17,
   "current_fact": {
-    "hour": 16,
-    "fact_text": "On this day in 2001, the U.S. submarine USS Greeneville accidentally struck and sank the Japanese training ship Ehime Maru during a rapid‑surfacing maneuver off Hawaii. The collision killed nine people and sparked outrage, apologies, and a deeper look at how military exercises intersect with civilian lives at sea.",
-    "fact_year": 2001,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ehime_Maru_and_USS_Greeneville_collision",
+    "hour": 17,
+    "fact_text": "On February 9, 1961, The Beatles played their first lunchtime show at Liverpool’s Cavern Club under the name that would soon become world‑famous. At the time they were just a loud local band in a sweaty basement, unaware that those cramped sets were the first tremors of a musical earthquake.",
+    "fact_year": 1961,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/The_Beatles_at_the_Cavern_Club",
     "episode": {
-      "id": 37,
-      "title": "Morning Drops #31 - Sailing With Germans",
-      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+      "id": 1,
+      "title": "Sedna FM #01 - November Bomb",
+      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
       "songs": [
-        "Billy Talent - Dead Silence",
-        "Ben Howard - Keep Your Head Up",
-        "Ziggy Alberts - Simple Things",
-        "Vitor Kley - O Sol",
-        "Enya - Orinoco Flow",
-        "Paveier - Leev Marie"
+        "berlioz - Open this wall",
+        "Nas - One Mic",
+        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+        "Frankie Knuckles - Your Love",
+        "Notorious B.I.G. - 17 Ten Crack Commandments",
+        "Liloca - Utani Xuva",
+        "Fela Kuti - Zombie",
+        "Neffa - Aspettando il sole",
+        "Childish Gambino - No Excuses",
+        "Modjo - Music takes you back"
       ],
       "music-genres": [
-        "Punk Rock",
-        "Indie Folk",
-        "Surf Pop",
-        "New Age",
-        "German Folk"
+        "Hip-Hop",
+        "Afrobeat",
+        "House",
+        "Italian Pop",
+        "R&B",
+        "Latin Rap"
       ]
     },
-    "match_reason": "A maritime accident involving training and navigation contrasts with an episode that explores the human, communal side of life at sea."
+    "match_reason": "The Beatles’ first tiny club set mirrors Sedna FM’s own first episode: both small starting points that would define everything that followed."
   },
   "queue": [
-    {
-      "hour": 17,
-      "fact_text": "On February 9, 1961, The Beatles played their first lunchtime show at Liverpool’s Cavern Club under the name that would soon become world‑famous. At the time they were just a loud local band in a sweaty basement, unaware that those cramped sets were the first tremors of a musical earthquake.",
-      "fact_year": 1961,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/The_Beatles_at_the_Cavern_Club",
-      "episode": {
-        "id": 1,
-        "title": "Sedna FM #01 - November Bomb",
-        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
-        "songs": [
-          "berlioz - Open this wall",
-          "Nas - One Mic",
-          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-          "Frankie Knuckles - Your Love",
-          "Notorious B.I.G. - 17 Ten Crack Commandments",
-          "Liloca - Utani Xuva",
-          "Fela Kuti - Zombie",
-          "Neffa - Aspettando il sole",
-          "Childish Gambino - No Excuses",
-          "Modjo - Music takes you back"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Afrobeat",
-          "House",
-          "Italian Pop",
-          "R&B",
-          "Latin Rap"
-        ]
-      },
-      "match_reason": "The Beatles’ first tiny club set mirrors Sedna FM’s own first episode: both small starting points that would define everything that followed."
-    },
     {
       "hour": 18,
       "fact_text": "Just three years later, on February 9, 1964, The Beatles stepped onto The Ed Sullivan Show and into 73 million American living rooms at once. That one performance is often credited with igniting the \"British Invasion\" and transforming pop culture almost overnight.",
@@ -659,9 +631,42 @@
         ]
       },
       "match_reason": "A maritime accident involving training and navigation contrasts with an episode that explores the human, communal side of life at sea."
+    },
+    {
+      "hour": 17,
+      "fact_text": "On February 9, 1961, The Beatles played their first lunchtime show at Liverpool’s Cavern Club under the name that would soon become world‑famous. At the time they were just a loud local band in a sweaty basement, unaware that those cramped sets were the first tremors of a musical earthquake.",
+      "fact_year": 1961,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/The_Beatles_at_the_Cavern_Club",
+      "episode": {
+        "id": 1,
+        "title": "Sedna FM #01 - November Bomb",
+        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+        "songs": [
+          "berlioz - Open this wall",
+          "Nas - One Mic",
+          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+          "Frankie Knuckles - Your Love",
+          "Notorious B.I.G. - 17 Ten Crack Commandments",
+          "Liloca - Utani Xuva",
+          "Fela Kuti - Zombie",
+          "Neffa - Aspettando il sole",
+          "Childish Gambino - No Excuses",
+          "Modjo - Music takes you back"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Afrobeat",
+          "House",
+          "Italian Pop",
+          "R&B",
+          "Latin Rap"
+        ]
+      },
+      "match_reason": "The Beatles’ first tiny club set mirrors Sedna FM’s own first episode: both small starting points that would define everything that followed."
     }
   ],
   "generated_at": "2026-02-09T00:00:00.013665+00:00",
   "date": "2026-02-09",
-  "updated_at": "2026-02-09T16:00:01.974450+00:00"
+  "updated_at": "2026-02-09T17:00:01.589551+00:00"
 }
