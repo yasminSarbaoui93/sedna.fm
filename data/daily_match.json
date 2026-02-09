@@ -1,56 +1,31 @@
 {
-  "current_hour": 6,
+  "current_hour": 7,
   "current_fact": {
-    "hour": 6,
-    "fact_text": "On February 9, 1920, the Svalbard Treaty granted Norway sovereignty over the remote Arctic archipelago of Svalbard, but only under the condition that it remain demilitarized and open to citizens of all signatory states. It turned an icy, coal‑rich frontier into a curious laboratory for international cooperation at the edge of the world.",
-    "fact_year": 1920,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Svalbard_Treaty",
+    "hour": 7,
+    "fact_text": "In 1893, Giuseppe Verdi’s final opera, \"Falstaff\", premiered at La Scala in Milan, revealing that the aging master of tragedy could end his career with a sparkling comedy. Its quicksilver ensembles and playful rhythms were so modern that some critics joked Verdi had out‑youthed the young composers.",
+    "fact_year": 1893,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Falstaff_(opera)",
     "episode": {
-      "id": 46,
-      "title": "Morning Drops #40 - Diving With Orcas",
-      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+      "id": 27,
+      "title": "Morning Drops #21 - Endless Summer",
+      "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
       "songs": [
-        "Ludovico Einaudi - Experience",
-        "The Temper Trap - Sweet Disposition",
-        "Alex Warren - Ordinary",
-        "Piero Umiliani - Il tuo volto"
+        "Nik Bärtch - Modul 14",
+        "Mama Terra - Chameleon (Single Edit)",
+        "Spyro Gyra - Morning Dance",
+        "Yussef Kamaal - Black Focus"
       ],
       "music-genres": [
-        "Neo-Classical",
-        "Indie Rock",
-        "Pop",
-        "Italian Film Score"
+        "Minimal Jazz",
+        "Nu Jazz",
+        "Jazz Fusion",
+        "UK Jazz"
       ]
     },
-    "match_reason": "Both the treaty and the episode are rooted in Norway’s remote Arctic realm, blending law and landscape with the quiet drama of polar waters."
+    "match_reason": "A late‑career, rhythmically playful opera premiere pairs with an episode celebrating intricate, lively ensemble jazz and the joy of music in maturity."
   },
   "queue": [
-    {
-      "hour": 7,
-      "fact_text": "In 1893, Giuseppe Verdi’s final opera, \"Falstaff\", premiered at La Scala in Milan, revealing that the aging master of tragedy could end his career with a sparkling comedy. Its quicksilver ensembles and playful rhythms were so modern that some critics joked Verdi had out‑youthed the young composers.",
-      "fact_year": 1893,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Falstaff_(opera)",
-      "episode": {
-        "id": 27,
-        "title": "Morning Drops #21 - Endless Summer",
-        "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
-        "songs": [
-          "Nik Bärtch - Modul 14",
-          "Mama Terra - Chameleon (Single Edit)",
-          "Spyro Gyra - Morning Dance",
-          "Yussef Kamaal - Black Focus"
-        ],
-        "music-genres": [
-          "Minimal Jazz",
-          "Nu Jazz",
-          "Jazz Fusion",
-          "UK Jazz"
-        ]
-      },
-      "match_reason": "A late‑career, rhythmically playful opera premiere pairs with an episode celebrating intricate, lively ensemble jazz and the joy of music in maturity."
-    },
     {
       "hour": 8,
       "fact_text": "On February 9, 1932, Finland voted overwhelmingly to end alcohol prohibition, with about 70% choosing to lift the ban after a decade of unintended consequences and thriving bootlegging. The referendum became a rare example of a nation publicly deciding that a moral experiment had simply not worked.",
@@ -656,9 +631,34 @@
         ]
       },
       "match_reason": "Both the treaty and the episode are rooted in Norway’s remote Arctic realm, blending law and landscape with the quiet drama of polar waters."
+    },
+    {
+      "hour": 7,
+      "fact_text": "In 1893, Giuseppe Verdi’s final opera, \"Falstaff\", premiered at La Scala in Milan, revealing that the aging master of tragedy could end his career with a sparkling comedy. Its quicksilver ensembles and playful rhythms were so modern that some critics joked Verdi had out‑youthed the young composers.",
+      "fact_year": 1893,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Falstaff_(opera)",
+      "episode": {
+        "id": 27,
+        "title": "Morning Drops #21 - Endless Summer",
+        "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
+        "songs": [
+          "Nik Bärtch - Modul 14",
+          "Mama Terra - Chameleon (Single Edit)",
+          "Spyro Gyra - Morning Dance",
+          "Yussef Kamaal - Black Focus"
+        ],
+        "music-genres": [
+          "Minimal Jazz",
+          "Nu Jazz",
+          "Jazz Fusion",
+          "UK Jazz"
+        ]
+      },
+      "match_reason": "A late‑career, rhythmically playful opera premiere pairs with an episode celebrating intricate, lively ensemble jazz and the joy of music in maturity."
     }
   ],
   "generated_at": "2026-02-09T00:00:00.013665+00:00",
   "date": "2026-02-09",
-  "updated_at": "2026-02-09T06:00:01.720974+00:00"
+  "updated_at": "2026-02-09T07:00:01.870524+00:00"
 }
