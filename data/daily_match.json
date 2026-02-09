@@ -1,55 +1,30 @@
 {
-  "current_hour": 9,
+  "current_hour": 10,
   "current_fact": {
-    "hour": 9,
-    "fact_text": "On 9 February 1945, the British submarine HMS Venturer achieved a unique feat by sinking the German U-boat U-864 while both vessels were submerged. This underwater duel, guided by sound, calculations, and guesswork alone, remains the only known instance of one submarine sinking another in a fully submerged torpedo attack during wartime.",
-    "fact_year": 1945,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Sinking_of_U-864",
+    "hour": 10,
+    "fact_text": "On 9 February 1943, Allied commanders declared Guadalcanal secure after Japanese forces completed a secretive evacuation, ending six months of brutal fighting in the Pacific. The island campaign had turned swamps, jungles, and shark-infested seas into a decisive proving ground for logistics, endurance, and air‑sea coordination.",
+    "fact_year": 1943,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Guadalcanal_campaign",
     "episode": {
-      "id": 31,
-      "title": "Morning Drops #31 - A Trip-Hop Journey",
-      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+      "id": 22,
+      "title": "Morning Drops #16 - The Sound of Tuareg",
+      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
       "songs": [
-        "Massive Attack - Unfinished Sympathy",
-        "Tricky - Hell Is Round the Corner",
-        "DJ Shadow - Midnight in a Perfect World",
-        "Thievery Corporation - Lebanese Blonde",
-        "Smoke City - Underwater Love"
+        "Les Filles de Illighadad - Imigradan",
+        "Tinariwen - Amassakoul ’N’ Ténéré",
+        "Liya Ag Ablil - Awa Adounia",
+        "Tinariwen - Sastanàqqàm"
       ],
       "music-genres": [
-        "Trip-Hop",
-        "Downtempo",
-        "Electronic"
+        "Desert Blues",
+        "Tuareg",
+        "World Music"
       ]
     },
-    "match_reason": "A tense, sonar-guided hunt in the silent depths aligns with shadowy, downtempo trip‑hop—music that feels like moving through underwater currents and half-seen dangers."
+    "match_reason": "A long, attritional island campaign about survival, terrain, and strategy resonates with desert blues shaped by endurance, exile, and contested landscapes—different theaters, similar resilience."
   },
   "queue": [
-    {
-      "hour": 10,
-      "fact_text": "On 9 February 1943, Allied commanders declared Guadalcanal secure after Japanese forces completed a secretive evacuation, ending six months of brutal fighting in the Pacific. The island campaign had turned swamps, jungles, and shark-infested seas into a decisive proving ground for logistics, endurance, and air‑sea coordination.",
-      "fact_year": 1943,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Guadalcanal_campaign",
-      "episode": {
-        "id": 22,
-        "title": "Morning Drops #16 - The Sound of Tuareg",
-        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
-        "songs": [
-          "Les Filles de Illighadad - Imigradan",
-          "Tinariwen - Amassakoul ’N’ Ténéré",
-          "Liya Ag Ablil - Awa Adounia",
-          "Tinariwen - Sastanàqqàm"
-        ],
-        "music-genres": [
-          "Desert Blues",
-          "Tuareg",
-          "World Music"
-        ]
-      },
-      "match_reason": "A long, attritional island campaign about survival, terrain, and strategy resonates with desert blues shaped by endurance, exile, and contested landscapes—different theaters, similar resilience."
-    },
     {
       "hour": 11,
       "fact_text": "On 9 February 1959, the Soviet R‑7 Semyorka—the world’s first operational intercontinental ballistic missile—became fully deployed at Plesetsk. Originally designed to hurl nuclear warheads across continents, its basic rocket architecture would ironically become the backbone for peaceful space launches, including Sputnik and early crewed missions.",
@@ -648,9 +623,33 @@
         ]
       },
       "match_reason": "A tense, sonar-guided hunt in the silent depths aligns with shadowy, downtempo trip‑hop—music that feels like moving through underwater currents and half-seen dangers."
+    },
+    {
+      "hour": 10,
+      "fact_text": "On 9 February 1943, Allied commanders declared Guadalcanal secure after Japanese forces completed a secretive evacuation, ending six months of brutal fighting in the Pacific. The island campaign had turned swamps, jungles, and shark-infested seas into a decisive proving ground for logistics, endurance, and air‑sea coordination.",
+      "fact_year": 1943,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Guadalcanal_campaign",
+      "episode": {
+        "id": 22,
+        "title": "Morning Drops #16 - The Sound of Tuareg",
+        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+        "songs": [
+          "Les Filles de Illighadad - Imigradan",
+          "Tinariwen - Amassakoul ’N’ Ténéré",
+          "Liya Ag Ablil - Awa Adounia",
+          "Tinariwen - Sastanàqqàm"
+        ],
+        "music-genres": [
+          "Desert Blues",
+          "Tuareg",
+          "World Music"
+        ]
+      },
+      "match_reason": "A long, attritional island campaign about survival, terrain, and strategy resonates with desert blues shaped by endurance, exile, and contested landscapes—different theaters, similar resilience."
     }
   ],
   "generated_at": "2026-02-09T00:00:00.008434+00:00",
   "date": "2026-02-09",
-  "updated_at": "2026-02-09T09:00:01.732040+00:00"
+  "updated_at": "2026-02-09T10:00:01.922912+00:00"
 }
