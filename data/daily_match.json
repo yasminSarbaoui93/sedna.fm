@@ -1,59 +1,36 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 1997, Space Shuttle Discovery launched on mission STS-82 to give the Hubble Space Telescope a second in‑orbit overhaul. Astronauts performed five spacewalks, swapping out instruments so Hubble could peer deeper into the universe with unprecedented clarity.",
-    "fact_year": 1997,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-82",
+    "hour": 1,
+    "fact_text": "On the same date in 2000, Space Shuttle Endeavour launched STS‑99, carrying a giant radar that quietly mapped nearly all of Earth's land surface in just 11 days. The Shuttle Radar Topography Mission produced a global 3D model of our planet that scientists still use to study floods, landslides, and climate change.",
+    "fact_year": 2000,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Shuttle_Radar_Topography_Mission",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 48,
+      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Stive Morgan - Solar Wind, Pt. 3",
+        "David Visan & Carlos Campos - Crystal Heart",
+        "Evan Mars - Ya Zareef Al Tool",
+        "Gerardo Frisina - Cuiabá",
+        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+        "The Busy Twist - Friday Night"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Ambient",
+        "Deep House",
+        "World Music",
+        "Nu Jazz",
+        "Afrobeat",
+        "Funk",
+        "Electronic"
       ]
     },
-    "match_reason": "A space-telescope tune‑up fits the episode’s theme of seeing empty space as a creative, expansive frontier."
+    "match_reason": "A global radar survey of Earth resonates with the episode’s slow build from mysterious textures into a worldwide dance of sounds."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On the same date in 2000, Space Shuttle Endeavour launched STS‑99, carrying a giant radar that quietly mapped nearly all of Earth's land surface in just 11 days. The Shuttle Radar Topography Mission produced a global 3D model of our planet that scientists still use to study floods, landslides, and climate change.",
-      "fact_year": 2000,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Shuttle_Radar_Topography_Mission",
-      "episode": {
-        "id": 48,
-        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
-        "songs": [
-          "Stive Morgan - Solar Wind, Pt. 3",
-          "David Visan & Carlos Campos - Crystal Heart",
-          "Evan Mars - Ya Zareef Al Tool",
-          "Gerardo Frisina - Cuiabá",
-          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-          "The Busy Twist - Friday Night"
-        ],
-        "music-genres": [
-          "Ambient",
-          "Deep House",
-          "World Music",
-          "Nu Jazz",
-          "Afrobeat",
-          "Funk",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A global radar survey of Earth resonates with the episode’s slow build from mysterious textures into a worldwide dance of sounds."
-    },
     {
       "hour": 2,
       "fact_text": "On this day in 1970, Japan launched its first satellite, Ōhsumi, becoming the fourth country to place an object in orbit with its own rocket. The small experimental craft marked Japan’s arrival in the space age and laid groundwork for future missions to the Moon, Mars, and beyond.",
@@ -650,9 +627,39 @@
         ]
       },
       "match_reason": "A space-telescope tune‑up fits the episode’s theme of seeing empty space as a creative, expansive frontier."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On the same date in 2000, Space Shuttle Endeavour launched STS‑99, carrying a giant radar that quietly mapped nearly all of Earth's land surface in just 11 days. The Shuttle Radar Topography Mission produced a global 3D model of our planet that scientists still use to study floods, landslides, and climate change.",
+      "fact_year": 2000,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Shuttle_Radar_Topography_Mission",
+      "episode": {
+        "id": 48,
+        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+        "songs": [
+          "Stive Morgan - Solar Wind, Pt. 3",
+          "David Visan & Carlos Campos - Crystal Heart",
+          "Evan Mars - Ya Zareef Al Tool",
+          "Gerardo Frisina - Cuiabá",
+          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+          "The Busy Twist - Friday Night"
+        ],
+        "music-genres": [
+          "Ambient",
+          "Deep House",
+          "World Music",
+          "Nu Jazz",
+          "Afrobeat",
+          "Funk",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A global radar survey of Earth resonates with the episode’s slow build from mysterious textures into a worldwide dance of sounds."
     }
   ],
   "generated_at": "2026-02-11T00:00:00.013423+00:00",
   "date": "2026-02-11",
-  "updated_at": "2026-02-11T00:00:46.177489+00:00"
+  "updated_at": "2026-02-11T01:00:01.600854+00:00"
 }
