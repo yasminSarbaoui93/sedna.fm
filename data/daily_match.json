@@ -1,63 +1,40 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "On 12 February 2001, NASA's NEAR Shoemaker probe performed an unplanned soft landing on the asteroid 433 Eros, becoming the first spacecraft to touch down on an asteroid. Engineers kept talking to the spacecraft for weeks after it \"died\", squeezing out bonus science from a vehicle never meant to land at all.",
-    "fact_year": 2001,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/NEAR_Shoemaker",
+    "hour": 1,
+    "fact_text": "In 1961, the Soviet Union launched Venera 1, humanity’s first spacecraft aimed at flying past Venus. Although it lost contact en route, it opened the way for a fleet of later Venus missions that revealed our neighbor as a hellish world of crushing pressure and acid clouds.",
+    "fact_year": 1961,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Venera_1",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 2,
+      "title": "Sedna FM #02 - Destination Sedna",
+      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Pink Floyd - Breathe",
+        "The fountain DC - Starburster",
+        "Laura Cahen - La Poussiere",
+        "Taxi Kebab - Lmchi w rjou3",
+        "Odion Iruoje - Identify With Your Roots",
+        "Depeche mode - world in my eyes (Oil Tank Mix)",
+        "Massive attack - Dissolved girl",
+        "Kokoroko - Three piece suite",
+        "Salin - Egungun",
+        "E.S.P. - It's You"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Progressive Rock",
+        "Post-Punk",
+        "French Pop",
+        "Maghreb",
+        "Afrobeat",
+        "Synthpop",
+        "Trip-Hop"
       ]
     },
-    "match_reason": "A literal shift into space—landing on an asteroid—pairs with an episode about reimagining emptiness as creative space."
+    "match_reason": "A pioneering voyage to Venus aligns with an episode themed around cosmic travel and sonic destinations."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "In 1961, the Soviet Union launched Venera 1, humanity’s first spacecraft aimed at flying past Venus. Although it lost contact en route, it opened the way for a fleet of later Venus missions that revealed our neighbor as a hellish world of crushing pressure and acid clouds.",
-      "fact_year": 1961,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Venera_1",
-      "episode": {
-        "id": 2,
-        "title": "Sedna FM #02 - Destination Sedna",
-        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
-        "songs": [
-          "Pink Floyd - Breathe",
-          "The fountain DC - Starburster",
-          "Laura Cahen - La Poussiere",
-          "Taxi Kebab - Lmchi w rjou3",
-          "Odion Iruoje - Identify With Your Roots",
-          "Depeche mode - world in my eyes (Oil Tank Mix)",
-          "Massive attack - Dissolved girl",
-          "Kokoroko - Three piece suite",
-          "Salin - Egungun",
-          "E.S.P. - It's You"
-        ],
-        "music-genres": [
-          "Progressive Rock",
-          "Post-Punk",
-          "French Pop",
-          "Maghreb",
-          "Afrobeat",
-          "Synthpop",
-          "Trip-Hop"
-        ]
-      },
-      "match_reason": "A pioneering voyage to Venus aligns with an episode themed around cosmic travel and sonic destinations."
-    },
     {
       "hour": 2,
       "fact_text": "On 12 February 1947, a blinding fireball tore across the Siberian sky before exploding over the Sikhote-Alin mountains, showering the forest with tons of iron meteorite fragments. Many pieces were still warm when local people reached the crater field, a fresh scar where space quite literally hit Earth.",
@@ -646,9 +623,43 @@
         ]
       },
       "match_reason": "A literal shift into space—landing on an asteroid—pairs with an episode about reimagining emptiness as creative space."
+    },
+    {
+      "hour": 1,
+      "fact_text": "In 1961, the Soviet Union launched Venera 1, humanity’s first spacecraft aimed at flying past Venus. Although it lost contact en route, it opened the way for a fleet of later Venus missions that revealed our neighbor as a hellish world of crushing pressure and acid clouds.",
+      "fact_year": 1961,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Venera_1",
+      "episode": {
+        "id": 2,
+        "title": "Sedna FM #02 - Destination Sedna",
+        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+        "songs": [
+          "Pink Floyd - Breathe",
+          "The fountain DC - Starburster",
+          "Laura Cahen - La Poussiere",
+          "Taxi Kebab - Lmchi w rjou3",
+          "Odion Iruoje - Identify With Your Roots",
+          "Depeche mode - world in my eyes (Oil Tank Mix)",
+          "Massive attack - Dissolved girl",
+          "Kokoroko - Three piece suite",
+          "Salin - Egungun",
+          "E.S.P. - It's You"
+        ],
+        "music-genres": [
+          "Progressive Rock",
+          "Post-Punk",
+          "French Pop",
+          "Maghreb",
+          "Afrobeat",
+          "Synthpop",
+          "Trip-Hop"
+        ]
+      },
+      "match_reason": "A pioneering voyage to Venus aligns with an episode themed around cosmic travel and sonic destinations."
     }
   ],
   "generated_at": "2026-02-12T00:00:00.011338+00:00",
   "date": "2026-02-12",
-  "updated_at": "2026-02-12T00:01:03.130839+00:00"
+  "updated_at": "2026-02-12T01:00:01.881674+00:00"
 }
