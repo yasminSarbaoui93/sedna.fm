@@ -1,56 +1,31 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "On 13 February 1960, France detonated its first nuclear device, codenamed “Gerboise Bleue,” in the Algerian Sahara. The blast was roughly four times stronger than the bomb dropped on Hiroshima, making France the world’s fourth nuclear power and leaving a long, radioactive shadow over the desert and its people.",
-    "fact_year": 1960,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Gerboise_Bleue_(nuclear_test)",
+    "hour": 5,
+    "fact_text": "On 13 February 1633, Galileo Galilei arrived in Rome to stand trial before the Inquisition for championing the idea that Earth orbits the Sun. His telescopes had revealed moons circling Jupiter and phases of Venus, but his insistence on what he had seen turned a scientific insight into a dangerous act of defiance against orthodoxy.",
+    "fact_year": 1633,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Galileo_Galilei",
     "episode": {
-      "id": 52,
-      "title": "Morning Drops #45 - It Can't Rain Forever",
-      "description": "In this first broadcast of 2026, Gaia returns from the vivid landscapes of Morocco to open a space for reflection. This episode navigates the delicate transition between closing a significant chapter and stepping into the new year. It explores the concept of constancy amidst change, celebrating the grounding force of friendship and the creative sanctuary that is Sedna FM.\n\nThe musical selection mirrors this journey, moving from the orchestral depth of changing seasons into the golden warmth of psychedelic soul. It recalls memories of Swiss mountains and unexpected downpours, reminding us that shared optimism can weather any storm.\n\nTake a moment to breathe in the new morning and listen deeply.\n\nMood: Reflective, Warm, Transitional, Hopeful\nMusic genre: Classic Rock, Psychedelic Soul, Pop Rock, Soft Rock",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-it-cant-rain-forever",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "Led Zeppelin - The Rain Song",
-        "Khruangbin & Leon Bridges - Texas Sun",
-        "Dragon - Rain",
-        "Fleetwood Mac - Don't Stop"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Classic Rock",
-        "Psychedelic Soul",
-        "Pop Rock",
-        "Soft Rock"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "A destructive nuclear “sun” in the desert meets an episode about storms, resilience, and the hope that even the most ominous skies eventually clear."
+    "match_reason": "Galileo’s challenge to accepted “truths” about the cosmos mirrors this episode’s interrogation of our modern beliefs about technology, connection, and what we take for granted."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "On 13 February 1633, Galileo Galilei arrived in Rome to stand trial before the Inquisition for championing the idea that Earth orbits the Sun. His telescopes had revealed moons circling Jupiter and phases of Venus, but his insistence on what he had seen turned a scientific insight into a dangerous act of defiance against orthodoxy.",
-      "fact_year": 1633,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Galileo_Galilei",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "Galileo’s challenge to accepted “truths” about the cosmos mirrors this episode’s interrogation of our modern beliefs about technology, connection, and what we take for granted."
-    },
     {
       "hour": 6,
       "fact_text": "On 13 February 1913, the 13th Dalai Lama formally proclaimed Tibet’s independence after the fall of China’s Qing dynasty. For nearly four decades, Tibet operated as a de facto independent state in the high Himalayas, asserting its own symbols, governance, and foreign relations in the thin air of the “roof of the world.”",
@@ -656,9 +631,34 @@
         ]
       },
       "match_reason": "A destructive nuclear “sun” in the desert meets an episode about storms, resilience, and the hope that even the most ominous skies eventually clear."
+    },
+    {
+      "hour": 5,
+      "fact_text": "On 13 February 1633, Galileo Galilei arrived in Rome to stand trial before the Inquisition for championing the idea that Earth orbits the Sun. His telescopes had revealed moons circling Jupiter and phases of Venus, but his insistence on what he had seen turned a scientific insight into a dangerous act of defiance against orthodoxy.",
+      "fact_year": 1633,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Galileo_Galilei",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "Galileo’s challenge to accepted “truths” about the cosmos mirrors this episode’s interrogation of our modern beliefs about technology, connection, and what we take for granted."
     }
   ],
   "generated_at": "2026-02-13T00:00:00.015127+00:00",
   "date": "2026-02-13",
-  "updated_at": "2026-02-13T04:00:01.552641+00:00"
+  "updated_at": "2026-02-13T05:00:01.460134+00:00"
 }
