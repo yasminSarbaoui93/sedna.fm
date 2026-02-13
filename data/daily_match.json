@@ -1,57 +1,31 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "On 13 February 1967, researchers uncovered the long-lost Madrid Codices by Leonardo da Vinci in Spain’s National Library. These notebooks, misplaced for centuries, suddenly opened a fresh window into Leonardo’s layered sketches of engineering, mechanics, and restless curiosity.",
-    "fact_year": 1967,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Codex_Madrid_(Leonardo)",
+    "hour": 5,
+    "fact_text": "On 13 February 1955, the young state of Israel acquired four of the seven Dead Sea Scrolls, ancient manuscripts that had been hidden in desert caves for nearly two millennia. These fragile texts, written on parchment and papyrus, quietly preserved some of the oldest known versions of Biblical and Hebrew writings.",
+    "fact_year": 1955,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Dead_Sea_Scrolls",
     "episode": {
-      "id": 49,
-      "title": "Morning Drops #42 - The Joy Of Learning",
-      "description": "Hosted by Yasmin, this Morning Drop explores learning as a lifelong process, focusing on persistence, repetition, and the emotional landscape that comes with challenging oneself over time.\n\nThrough personal stories and scientific insights, the episode looks at how learning reshapes the brain, generates joy through effort, and why progress often arrives after confusion and frustration. It reflects on the so-called delayed pleasure effect, the role of dopamine in motivation, and how curiosity and learning support long-term wellbeing.\n\nThe episode also questions our cultural relationship with failure and invites a softer, more realistic approach to learning, one that accepts mistakes as part of growth and sees persistence as a quiet form of strength.\n\nMood: reflective, grounded, quietly hopeful\nMusic genre: alternative rock, hip hop, electronic, neo-soul, drill\n\nA space to listen slowly and stay with the process.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-joy-of-learning",
+      "id": 44,
+      "title": "Morning Drops #38 - History of Flamenco",
+      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
       "songs": [
-        "Radiohead - Separator",
-        "Mac Miller - What's the Use?",
-        "Morad & Beny Jr - Sigue",
-        "Post Malone - White Iverson"
+        "La Niña de los Peines - Al Gurugú",
+        "Lola Flores - Pena, penita, pena",
+        "Paco de Lucía - Entre dos aguas",
+        "Camarón de la Isla - La leyenda del tiempo",
+        "Rosalía - Pienso en tu mirá"
       ],
       "music-genres": [
-        "Alternative Rock",
-        "Experimental Electronic",
-        "Hip Hop",
-        "Neo-Soul",
-        "Drill / Trap"
+        "Flamenco",
+        "Spanish Folk",
+        "Nuevo Flamenco"
       ]
     },
-    "match_reason": "Lost notebooks by history’s ultimate learner resonate with an episode about curiosity, practice, and the lifelong joy of learning."
+    "match_reason": "Ancient Middle Eastern texts and a deep dive into an old Iberian tradition both explore how layered histories survive through culture and voice."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "On 13 February 1955, the young state of Israel acquired four of the seven Dead Sea Scrolls, ancient manuscripts that had been hidden in desert caves for nearly two millennia. These fragile texts, written on parchment and papyrus, quietly preserved some of the oldest known versions of Biblical and Hebrew writings.",
-      "fact_year": 1955,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Dead_Sea_Scrolls",
-      "episode": {
-        "id": 44,
-        "title": "Morning Drops #38 - History of Flamenco",
-        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
-        "songs": [
-          "La Niña de los Peines - Al Gurugú",
-          "Lola Flores - Pena, penita, pena",
-          "Paco de Lucía - Entre dos aguas",
-          "Camarón de la Isla - La leyenda del tiempo",
-          "Rosalía - Pienso en tu mirá"
-        ],
-        "music-genres": [
-          "Flamenco",
-          "Spanish Folk",
-          "Nuevo Flamenco"
-        ]
-      },
-      "match_reason": "Ancient Middle Eastern texts and a deep dive into an old Iberian tradition both explore how layered histories survive through culture and voice."
-    },
     {
       "hour": 6,
       "fact_text": "On 13 February 1935, a jury in Flemington, New Jersey found Bruno Hauptmann guilty of kidnapping and murdering the infant son of aviator Charles Lindbergh. The sensational “Lindbergh baby” trial gripped the world and helped shape modern ideas about forensic evidence and media‑driven justice.",
@@ -651,9 +625,34 @@
         ]
       },
       "match_reason": "Lost notebooks by history’s ultimate learner resonate with an episode about curiosity, practice, and the lifelong joy of learning."
+    },
+    {
+      "hour": 5,
+      "fact_text": "On 13 February 1955, the young state of Israel acquired four of the seven Dead Sea Scrolls, ancient manuscripts that had been hidden in desert caves for nearly two millennia. These fragile texts, written on parchment and papyrus, quietly preserved some of the oldest known versions of Biblical and Hebrew writings.",
+      "fact_year": 1955,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Dead_Sea_Scrolls",
+      "episode": {
+        "id": 44,
+        "title": "Morning Drops #38 - History of Flamenco",
+        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+        "songs": [
+          "La Niña de los Peines - Al Gurugú",
+          "Lola Flores - Pena, penita, pena",
+          "Paco de Lucía - Entre dos aguas",
+          "Camarón de la Isla - La leyenda del tiempo",
+          "Rosalía - Pienso en tu mirá"
+        ],
+        "music-genres": [
+          "Flamenco",
+          "Spanish Folk",
+          "Nuevo Flamenco"
+        ]
+      },
+      "match_reason": "Ancient Middle Eastern texts and a deep dive into an old Iberian tradition both explore how layered histories survive through culture and voice."
     }
   ],
   "generated_at": "2026-02-13T00:00:00.007258+00:00",
   "date": "2026-02-13",
-  "updated_at": "2026-02-13T04:00:01.547963+00:00"
+  "updated_at": "2026-02-13T05:00:01.763193+00:00"
 }
