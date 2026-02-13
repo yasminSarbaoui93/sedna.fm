@@ -1,64 +1,39 @@
 {
-  "current_hour": 2,
+  "current_hour": 3,
   "current_fact": {
-    "hour": 2,
-    "fact_text": "In 1880, Thomas Edison noticed that when he heated a filament, mysterious electrons leapt from the hot metal into the surrounding vacuum—a phenomenon later called thermionic emission. This quiet laboratory curiosity became the “Edison effect”, the basis for vacuum tubes that would power early radios, televisions, and computers.",
-    "fact_year": 1880,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Thermionic_emission",
+    "hour": 3,
+    "fact_text": "On 13 February 1914, composers and publishers in New York City formed ASCAP, the American Society of Composers, Authors and Publishers. It turned the invisible flow of public performances—songs on the radio, in bars, and on stage—into a new way for musicians to be paid, reshaping how musical labour was valued.",
+    "fact_year": 1914,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/American_Society_of_Composers,_Authors_and_Publishers",
     "episode": {
-      "id": 11,
-      "title": "Morning Drops #05 - Electric Shock",
-      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+      "id": 1,
+      "title": "Sedna FM #01 - November Bomb",
+      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
       "songs": [
-        "Johnny Winter - Highway 61 Revisited",
-        "Joan Armatrading - Sleight of Hand",
-        "Joan Armatrading - Russian Roulette",
-        "Jimi Hendrix - Freedom",
-        "Jeff Beck - Scatterbrain"
+        "berlioz - Open this wall",
+        "Nas - One Mic",
+        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+        "Frankie Knuckles - Your Love",
+        "Notorious B.I.G. - 17 Ten Crack Commandments",
+        "Liloca - Utani Xuva",
+        "Fela Kuti - Zombie",
+        "Neffa - Aspettando il sole",
+        "Childish Gambino - No Excuses",
+        "Modjo - Music takes you back"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Rock",
-        "Electric Blues"
+        "Hip-Hop",
+        "Afrobeat",
+        "House",
+        "Italian Pop",
+        "R&B",
+        "Latin Rap"
       ]
     },
-    "match_reason": "Edison’s discovery is literally about electric charge leaping through space, echoing this episode’s ‘electric shock’ of high‑voltage guitar energy."
+    "match_reason": "ASCAP was a founding moment for protecting musicians’ work, fitting the origin-story energy of Sedna FM’s very first, artist-celebrating episode."
   },
   "queue": [
-    {
-      "hour": 3,
-      "fact_text": "On 13 February 1914, composers and publishers in New York City formed ASCAP, the American Society of Composers, Authors and Publishers. It turned the invisible flow of public performances—songs on the radio, in bars, and on stage—into a new way for musicians to be paid, reshaping how musical labour was valued.",
-      "fact_year": 1914,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/American_Society_of_Composers,_Authors_and_Publishers",
-      "episode": {
-        "id": 1,
-        "title": "Sedna FM #01 - November Bomb",
-        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
-        "songs": [
-          "berlioz - Open this wall",
-          "Nas - One Mic",
-          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-          "Frankie Knuckles - Your Love",
-          "Notorious B.I.G. - 17 Ten Crack Commandments",
-          "Liloca - Utani Xuva",
-          "Fela Kuti - Zombie",
-          "Neffa - Aspettando il sole",
-          "Childish Gambino - No Excuses",
-          "Modjo - Music takes you back"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Afrobeat",
-          "House",
-          "Italian Pop",
-          "R&B",
-          "Latin Rap"
-        ]
-      },
-      "match_reason": "ASCAP was a founding moment for protecting musicians’ work, fitting the origin-story energy of Sedna FM’s very first, artist-celebrating episode."
-    },
     {
       "hour": 4,
       "fact_text": "On 13 February 1967, researchers uncovered the long-lost Madrid Codices by Leonardo da Vinci in Spain’s National Library. These notebooks, misplaced for centuries, suddenly opened a fresh window into Leonardo’s layered sketches of engineering, mechanics, and restless curiosity.",
@@ -650,9 +625,42 @@
         ]
       },
       "match_reason": "Edison’s discovery is literally about electric charge leaping through space, echoing this episode’s ‘electric shock’ of high‑voltage guitar energy."
+    },
+    {
+      "hour": 3,
+      "fact_text": "On 13 February 1914, composers and publishers in New York City formed ASCAP, the American Society of Composers, Authors and Publishers. It turned the invisible flow of public performances—songs on the radio, in bars, and on stage—into a new way for musicians to be paid, reshaping how musical labour was valued.",
+      "fact_year": 1914,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/American_Society_of_Composers,_Authors_and_Publishers",
+      "episode": {
+        "id": 1,
+        "title": "Sedna FM #01 - November Bomb",
+        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+        "songs": [
+          "berlioz - Open this wall",
+          "Nas - One Mic",
+          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+          "Frankie Knuckles - Your Love",
+          "Notorious B.I.G. - 17 Ten Crack Commandments",
+          "Liloca - Utani Xuva",
+          "Fela Kuti - Zombie",
+          "Neffa - Aspettando il sole",
+          "Childish Gambino - No Excuses",
+          "Modjo - Music takes you back"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Afrobeat",
+          "House",
+          "Italian Pop",
+          "R&B",
+          "Latin Rap"
+        ]
+      },
+      "match_reason": "ASCAP was a founding moment for protecting musicians’ work, fitting the origin-story energy of Sedna FM’s very first, artist-celebrating episode."
     }
   ],
   "generated_at": "2026-02-13T00:00:00.007258+00:00",
   "date": "2026-02-13",
-  "updated_at": "2026-02-13T02:00:01.695655+00:00"
+  "updated_at": "2026-02-13T03:00:01.389210+00:00"
 }
