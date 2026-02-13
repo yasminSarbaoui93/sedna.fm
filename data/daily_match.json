@@ -1,56 +1,31 @@
 {
-  "current_hour": 6,
+  "current_hour": 7,
   "current_fact": {
-    "hour": 6,
-    "fact_text": "On 13 February 1935, a jury in Flemington, New Jersey found Bruno Hauptmann guilty of kidnapping and murdering the infant son of aviator Charles Lindbergh. The sensational “Lindbergh baby” trial gripped the world and helped shape modern ideas about forensic evidence and media‑driven justice.",
-    "fact_year": 1935,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bruno_Richard_Hauptmann",
+    "hour": 7,
+    "fact_text": "On 13 February 1954, Furman University’s Frank Selvy scored 100 points in a single NCAA Division I basketball game—still a unique feat. He hit the century mark with a long shot in the final seconds, turning a college gym into a once‑in‑a‑lifetime arena of improbability.",
+    "fact_year": 1954,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Frank_Selvy",
     "episode": {
-      "id": 31,
-      "title": "Morning Drops #31 - A Trip-Hop Journey",
-      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+      "id": 18,
+      "title": "Morning Drops #12 - 80's Club",
+      "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
       "songs": [
-        "Massive Attack - Unfinished Sympathy",
-        "Tricky - Hell Is Round the Corner",
-        "DJ Shadow - Midnight in a Perfect World",
-        "Thievery Corporation - Lebanese Blonde",
-        "Smoke City - Underwater Love"
+        "Donna Summer - I Feel Love",
+        "Depeche Mode - Just Can't Get Enough",
+        "Ken Laszlo - Hey Hey Guy",
+        "Mylène Farmer - Sans Contrefaçon"
       ],
       "music-genres": [
-        "Trip-Hop",
-        "Downtempo",
-        "Electronic"
+        "Disco",
+        "Synthpop",
+        "Italo Disco",
+        "French Pop"
       ]
     },
-    "match_reason": "The dark, haunting atmosphere of the Lindbergh case pairs with trip-hop’s cinematic, shadowy moods that often feel like soundtracks to unsolved mysteries."
+    "match_reason": "A record-breaking, high-scoring game mirrors the high-energy, stadium‑friendly euphoria of an 80s dancefloor packed with big, triumphant hooks."
   },
   "queue": [
-    {
-      "hour": 7,
-      "fact_text": "On 13 February 1954, Furman University’s Frank Selvy scored 100 points in a single NCAA Division I basketball game—still a unique feat. He hit the century mark with a long shot in the final seconds, turning a college gym into a once‑in‑a‑lifetime arena of improbability.",
-      "fact_year": 1954,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Frank_Selvy",
-      "episode": {
-        "id": 18,
-        "title": "Morning Drops #12 - 80's Club",
-        "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
-        "songs": [
-          "Donna Summer - I Feel Love",
-          "Depeche Mode - Just Can't Get Enough",
-          "Ken Laszlo - Hey Hey Guy",
-          "Mylène Farmer - Sans Contrefaçon"
-        ],
-        "music-genres": [
-          "Disco",
-          "Synthpop",
-          "Italo Disco",
-          "French Pop"
-        ]
-      },
-      "match_reason": "A record-breaking, high-scoring game mirrors the high-energy, stadium‑friendly euphoria of an 80s dancefloor packed with big, triumphant hooks."
-    },
     {
       "hour": 8,
       "fact_text": "On 13 February 1913, the 13th Dalai Lama proclaimed Tibet’s independence after centuries of Qing imperial control. For nearly four decades, Tibet functioned as a de facto independent state, navigating the thin air between spiritual authority and geopolitical pressure on the world’s highest plateau.",
@@ -650,9 +625,34 @@
         ]
       },
       "match_reason": "The dark, haunting atmosphere of the Lindbergh case pairs with trip-hop’s cinematic, shadowy moods that often feel like soundtracks to unsolved mysteries."
+    },
+    {
+      "hour": 7,
+      "fact_text": "On 13 February 1954, Furman University’s Frank Selvy scored 100 points in a single NCAA Division I basketball game—still a unique feat. He hit the century mark with a long shot in the final seconds, turning a college gym into a once‑in‑a‑lifetime arena of improbability.",
+      "fact_year": 1954,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Frank_Selvy",
+      "episode": {
+        "id": 18,
+        "title": "Morning Drops #12 - 80's Club",
+        "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
+        "songs": [
+          "Donna Summer - I Feel Love",
+          "Depeche Mode - Just Can't Get Enough",
+          "Ken Laszlo - Hey Hey Guy",
+          "Mylène Farmer - Sans Contrefaçon"
+        ],
+        "music-genres": [
+          "Disco",
+          "Synthpop",
+          "Italo Disco",
+          "French Pop"
+        ]
+      },
+      "match_reason": "A record-breaking, high-scoring game mirrors the high-energy, stadium‑friendly euphoria of an 80s dancefloor packed with big, triumphant hooks."
     }
   ],
   "generated_at": "2026-02-13T00:00:00.007258+00:00",
   "date": "2026-02-13",
-  "updated_at": "2026-02-13T06:00:01.395552+00:00"
+  "updated_at": "2026-02-13T07:00:01.664612+00:00"
 }
