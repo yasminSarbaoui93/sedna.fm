@@ -1,56 +1,31 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "On 13 February 1955, the young state of Israel acquired four of the seven Dead Sea Scrolls, ancient manuscripts that had been hidden in desert caves for nearly two millennia. These fragile texts, written on parchment and papyrus, quietly preserved some of the oldest known versions of Biblical and Hebrew writings.",
-    "fact_year": 1955,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Dead_Sea_Scrolls",
+    "hour": 6,
+    "fact_text": "On 13 February 1935, a jury in Flemington, New Jersey found Bruno Hauptmann guilty of kidnapping and murdering the infant son of aviator Charles Lindbergh. The sensational “Lindbergh baby” trial gripped the world and helped shape modern ideas about forensic evidence and media‑driven justice.",
+    "fact_year": 1935,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bruno_Richard_Hauptmann",
     "episode": {
-      "id": 44,
-      "title": "Morning Drops #38 - History of Flamenco",
-      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+      "id": 31,
+      "title": "Morning Drops #31 - A Trip-Hop Journey",
+      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
       "songs": [
-        "La Niña de los Peines - Al Gurugú",
-        "Lola Flores - Pena, penita, pena",
-        "Paco de Lucía - Entre dos aguas",
-        "Camarón de la Isla - La leyenda del tiempo",
-        "Rosalía - Pienso en tu mirá"
+        "Massive Attack - Unfinished Sympathy",
+        "Tricky - Hell Is Round the Corner",
+        "DJ Shadow - Midnight in a Perfect World",
+        "Thievery Corporation - Lebanese Blonde",
+        "Smoke City - Underwater Love"
       ],
       "music-genres": [
-        "Flamenco",
-        "Spanish Folk",
-        "Nuevo Flamenco"
+        "Trip-Hop",
+        "Downtempo",
+        "Electronic"
       ]
     },
-    "match_reason": "Ancient Middle Eastern texts and a deep dive into an old Iberian tradition both explore how layered histories survive through culture and voice."
+    "match_reason": "The dark, haunting atmosphere of the Lindbergh case pairs with trip-hop’s cinematic, shadowy moods that often feel like soundtracks to unsolved mysteries."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "On 13 February 1935, a jury in Flemington, New Jersey found Bruno Hauptmann guilty of kidnapping and murdering the infant son of aviator Charles Lindbergh. The sensational “Lindbergh baby” trial gripped the world and helped shape modern ideas about forensic evidence and media‑driven justice.",
-      "fact_year": 1935,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bruno_Richard_Hauptmann",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #31 - A Trip-Hop Journey",
-        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
-        "songs": [
-          "Massive Attack - Unfinished Sympathy",
-          "Tricky - Hell Is Round the Corner",
-          "DJ Shadow - Midnight in a Perfect World",
-          "Thievery Corporation - Lebanese Blonde",
-          "Smoke City - Underwater Love"
-        ],
-        "music-genres": [
-          "Trip-Hop",
-          "Downtempo",
-          "Electronic"
-        ]
-      },
-      "match_reason": "The dark, haunting atmosphere of the Lindbergh case pairs with trip-hop’s cinematic, shadowy moods that often feel like soundtracks to unsolved mysteries."
-    },
     {
       "hour": 7,
       "fact_text": "On 13 February 1954, Furman University’s Frank Selvy scored 100 points in a single NCAA Division I basketball game—still a unique feat. He hit the century mark with a long shot in the final seconds, turning a college gym into a once‑in‑a‑lifetime arena of improbability.",
@@ -650,9 +625,34 @@
         ]
       },
       "match_reason": "Ancient Middle Eastern texts and a deep dive into an old Iberian tradition both explore how layered histories survive through culture and voice."
+    },
+    {
+      "hour": 6,
+      "fact_text": "On 13 February 1935, a jury in Flemington, New Jersey found Bruno Hauptmann guilty of kidnapping and murdering the infant son of aviator Charles Lindbergh. The sensational “Lindbergh baby” trial gripped the world and helped shape modern ideas about forensic evidence and media‑driven justice.",
+      "fact_year": 1935,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bruno_Richard_Hauptmann",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #31 - A Trip-Hop Journey",
+        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+        "songs": [
+          "Massive Attack - Unfinished Sympathy",
+          "Tricky - Hell Is Round the Corner",
+          "DJ Shadow - Midnight in a Perfect World",
+          "Thievery Corporation - Lebanese Blonde",
+          "Smoke City - Underwater Love"
+        ],
+        "music-genres": [
+          "Trip-Hop",
+          "Downtempo",
+          "Electronic"
+        ]
+      },
+      "match_reason": "The dark, haunting atmosphere of the Lindbergh case pairs with trip-hop’s cinematic, shadowy moods that often feel like soundtracks to unsolved mysteries."
     }
   ],
   "generated_at": "2026-02-13T00:00:00.007258+00:00",
   "date": "2026-02-13",
-  "updated_at": "2026-02-13T05:00:01.763193+00:00"
+  "updated_at": "2026-02-13T06:00:01.395552+00:00"
 }
