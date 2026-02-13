@@ -1,65 +1,31 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On 13 February 2012, the European Space Agency’s Vega rocket made its debut flight from Europe’s spaceport in Kourou, French Guiana. Designed to launch small scientific satellites, Vega gave Europe a nimble new way to throw experiments and Earth‑watching eyes into orbit.",
-    "fact_year": 2012,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Vega_(rocket)",
+    "hour": 2,
+    "fact_text": "In 1880, Thomas Edison noticed that when he heated a filament, mysterious electrons leapt from the hot metal into the surrounding vacuum—a phenomenon later called thermionic emission. This quiet laboratory curiosity became the “Edison effect”, the basis for vacuum tubes that would power early radios, televisions, and computers.",
+    "fact_year": 1880,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Thermionic_emission",
     "episode": {
-      "id": 2,
-      "title": "Sedna FM #02 - Destination Sedna",
-      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+      "id": 11,
+      "title": "Morning Drops #05 - Electric Shock",
+      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
       "songs": [
-        "Pink Floyd - Breathe",
-        "The fountain DC - Starburster",
-        "Laura Cahen - La Poussiere",
-        "Taxi Kebab - Lmchi w rjou3",
-        "Odion Iruoje - Identify With Your Roots",
-        "Depeche mode - world in my eyes (Oil Tank Mix)",
-        "Massive attack - Dissolved girl",
-        "Kokoroko - Three piece suite",
-        "Salin - Egungun",
-        "E.S.P. - It's You"
+        "Johnny Winter - Highway 61 Revisited",
+        "Joan Armatrading - Sleight of Hand",
+        "Joan Armatrading - Russian Roulette",
+        "Jimi Hendrix - Freedom",
+        "Jeff Beck - Scatterbrain"
       ],
       "music-genres": [
-        "Progressive Rock",
-        "Post-Punk",
-        "French Pop",
-        "Maghreb",
-        "Afrobeat",
-        "Synthpop",
-        "Trip-Hop"
+        "Blues Rock",
+        "Rock",
+        "Electric Blues"
       ]
     },
-    "match_reason": "A rocket’s first flight is literally a new destination in space, matching this episode’s theme of voyaging to Sedna and beyond."
+    "match_reason": "Edison’s discovery is literally about electric charge leaping through space, echoing this episode’s ‘electric shock’ of high‑voltage guitar energy."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "In 1880, Thomas Edison noticed that when he heated a filament, mysterious electrons leapt from the hot metal into the surrounding vacuum—a phenomenon later called thermionic emission. This quiet laboratory curiosity became the “Edison effect”, the basis for vacuum tubes that would power early radios, televisions, and computers.",
-      "fact_year": 1880,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Thermionic_emission",
-      "episode": {
-        "id": 11,
-        "title": "Morning Drops #05 - Electric Shock",
-        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
-        "songs": [
-          "Johnny Winter - Highway 61 Revisited",
-          "Joan Armatrading - Sleight of Hand",
-          "Joan Armatrading - Russian Roulette",
-          "Jimi Hendrix - Freedom",
-          "Jeff Beck - Scatterbrain"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Rock",
-          "Electric Blues"
-        ]
-      },
-      "match_reason": "Edison’s discovery is literally about electric charge leaping through space, echoing this episode’s ‘electric shock’ of high‑voltage guitar energy."
-    },
     {
       "hour": 3,
       "fact_text": "On 13 February 1914, composers and publishers in New York City formed ASCAP, the American Society of Composers, Authors and Publishers. It turned the invisible flow of public performances—songs on the radio, in bars, and on stage—into a new way for musicians to be paid, reshaping how musical labour was valued.",
@@ -659,9 +625,34 @@
         ]
       },
       "match_reason": "A rocket’s first flight is literally a new destination in space, matching this episode’s theme of voyaging to Sedna and beyond."
+    },
+    {
+      "hour": 2,
+      "fact_text": "In 1880, Thomas Edison noticed that when he heated a filament, mysterious electrons leapt from the hot metal into the surrounding vacuum—a phenomenon later called thermionic emission. This quiet laboratory curiosity became the “Edison effect”, the basis for vacuum tubes that would power early radios, televisions, and computers.",
+      "fact_year": 1880,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Thermionic_emission",
+      "episode": {
+        "id": 11,
+        "title": "Morning Drops #05 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "songs": [
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
+        ]
+      },
+      "match_reason": "Edison’s discovery is literally about electric charge leaping through space, echoing this episode’s ‘electric shock’ of high‑voltage guitar energy."
     }
   ],
   "generated_at": "2026-02-13T00:00:00.007258+00:00",
   "date": "2026-02-13",
-  "updated_at": "2026-02-13T01:00:02.651963+00:00"
+  "updated_at": "2026-02-13T02:00:01.695655+00:00"
 }
