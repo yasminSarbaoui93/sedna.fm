@@ -1,64 +1,31 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "On 14 February 1855, Texas was finally linked to the rest of the United States by telegraph, thanks to a new line between New Orleans and Marshall. Messages that once took weeks by horseback could now flash across hundreds of kilometers in minutes, shrinking the young nation overnight.",
-    "fact_year": 1855,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Telegraphy",
+    "hour": 4,
+    "fact_text": "On 14 February 1924, a company with the unwieldy name Computing-Tabulating-Recording Company rebranded itself as International Business Machines—IBM. That new name quietly heralded a century in which punch-card tabulators would evolve into mainframes, PCs, and the digital world we now live inside.",
+    "fact_year": 1924,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/IBM",
     "episode": {
-      "id": 1,
-      "title": "Sedna FM #01 - November Bomb",
-      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "berlioz - Open this wall",
-        "Nas - One Mic",
-        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-        "Frankie Knuckles - Your Love",
-        "Notorious B.I.G. - 17 Ten Crack Commandments",
-        "Liloca - Utani Xuva",
-        "Fela Kuti - Zombie",
-        "Neffa - Aspettando il sole",
-        "Childish Gambino - No Excuses",
-        "Modjo - Music takes you back"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Afrobeat",
-        "House",
-        "Italian Pop",
-        "R&B",
-        "Latin Rap"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "The birth of a long-distance communication network parallels Sedna FM’s own 'first connection' episode, both marking the start of voices traveling quickly across vast distances."
+    "match_reason": "IBM’s renaming marks an early milestone in our digital dependence, which this episode interrogates through music about the internet, computers, and our tech-saturated minds."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "On 14 February 1924, a company with the unwieldy name Computing-Tabulating-Recording Company rebranded itself as International Business Machines—IBM. That new name quietly heralded a century in which punch-card tabulators would evolve into mainframes, PCs, and the digital world we now live inside.",
-      "fact_year": 1924,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/IBM",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "IBM’s renaming marks an early milestone in our digital dependence, which this episode interrogates through music about the internet, computers, and our tech-saturated minds."
-    },
     {
       "hour": 5,
       "fact_text": "On 14 February 1918, Soviet Russia officially adopted the Gregorian calendar, abruptly jumping the date from January 31 to February 14. Eleven days vanished on paper, turning timekeeping itself into a revolutionary act and briefly leaving citizens unsure which day it actually was.",
@@ -658,9 +625,34 @@
         ]
       },
       "match_reason": "The birth of a long-distance communication network parallels Sedna FM’s own 'first connection' episode, both marking the start of voices traveling quickly across vast distances."
+    },
+    {
+      "hour": 4,
+      "fact_text": "On 14 February 1924, a company with the unwieldy name Computing-Tabulating-Recording Company rebranded itself as International Business Machines—IBM. That new name quietly heralded a century in which punch-card tabulators would evolve into mainframes, PCs, and the digital world we now live inside.",
+      "fact_year": 1924,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/IBM",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "IBM’s renaming marks an early milestone in our digital dependence, which this episode interrogates through music about the internet, computers, and our tech-saturated minds."
     }
   ],
   "generated_at": "2026-02-14T00:00:00.010808+00:00",
   "date": "2026-02-14",
-  "updated_at": "2026-02-14T03:00:01.573101+00:00"
+  "updated_at": "2026-02-14T04:00:01.617335+00:00"
 }
