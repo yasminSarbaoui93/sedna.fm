@@ -1,56 +1,31 @@
 {
-  "current_hour": 9,
+  "current_hour": 10,
   "current_fact": {
-    "hour": 9,
-    "fact_text": "Also on 14 February 1945, Yugoslav Partisans liberated the city of Mostar from Axis control. The victory reclaimed a crossroads city whose iconic stone bridge had long symbolized connection between cultures—an image later echoed when the bridge was rebuilt after a different war.",
-    "fact_year": 1945,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mostar",
+    "hour": 10,
+    "fact_text": "On 14 February 1939, the German Kriegsmarine launched the battleship Bismarck, a floating fortress designed to dominate the North Atlantic. Though it sailed for only one mission before being sunk, its brief career left such an imprint that its name became shorthand for massive, intimidating warships.",
+    "fact_year": 1939,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/German_battleship_Bismarck",
     "episode": {
-      "id": 17,
-      "title": "Morning Drops #11 - Mediterranean Boat",
-      "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
+      "id": 11,
+      "title": "Morning Drops #05 - Electric Shock",
+      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
       "songs": [
-        "Arleta - Bar To Navagio",
-        "Baba Zula - Tavla",
-        "Mylène Farmer - Désenchantée",
-        "Fabrizio De André - Crêuza de mä"
+        "Johnny Winter - Highway 61 Revisited",
+        "Joan Armatrading - Sleight of Hand",
+        "Joan Armatrading - Russian Roulette",
+        "Jimi Hendrix - Freedom",
+        "Jeff Beck - Scatterbrain"
       ],
       "music-genres": [
-        "Greek Folk",
-        "Turkish Psychedelic",
-        "French Pop",
-        "Italian Singer-Songwriter"
+        "Blues Rock",
+        "Rock",
+        "Electric Blues"
       ]
     },
-    "match_reason": "Mostar sits in the broader Mediterranean cultural sphere, and its story of bridges and shared space aligns with an episode sailing across Mediterranean coasts and cultures."
+    "match_reason": "The Bismarck was a thunderous symbol of industrial power, mirrored by this high-voltage rock and blues set that hits like heavy artillery in sound form."
   },
   "queue": [
-    {
-      "hour": 10,
-      "fact_text": "On 14 February 1939, the German Kriegsmarine launched the battleship Bismarck, a floating fortress designed to dominate the North Atlantic. Though it sailed for only one mission before being sunk, its brief career left such an imprint that its name became shorthand for massive, intimidating warships.",
-      "fact_year": 1939,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/German_battleship_Bismarck",
-      "episode": {
-        "id": 11,
-        "title": "Morning Drops #05 - Electric Shock",
-        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
-        "songs": [
-          "Johnny Winter - Highway 61 Revisited",
-          "Joan Armatrading - Sleight of Hand",
-          "Joan Armatrading - Russian Roulette",
-          "Jimi Hendrix - Freedom",
-          "Jeff Beck - Scatterbrain"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Rock",
-          "Electric Blues"
-        ]
-      },
-      "match_reason": "The Bismarck was a thunderous symbol of industrial power, mirrored by this high-voltage rock and blues set that hits like heavy artillery in sound form."
-    },
     {
       "hour": 11,
       "fact_text": "On 14 February 1945, Allied bombers began the firebombing of Dresden, unleashing a storm of incendiaries that turned the baroque city into a sea of flames. The attack remains one of the most controversial raids of the war, raising enduring questions about destruction, memory, and the cost of total war.",
@@ -650,9 +625,34 @@
         ]
       },
       "match_reason": "Mostar sits in the broader Mediterranean cultural sphere, and its story of bridges and shared space aligns with an episode sailing across Mediterranean coasts and cultures."
+    },
+    {
+      "hour": 10,
+      "fact_text": "On 14 February 1939, the German Kriegsmarine launched the battleship Bismarck, a floating fortress designed to dominate the North Atlantic. Though it sailed for only one mission before being sunk, its brief career left such an imprint that its name became shorthand for massive, intimidating warships.",
+      "fact_year": 1939,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/German_battleship_Bismarck",
+      "episode": {
+        "id": 11,
+        "title": "Morning Drops #05 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "songs": [
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
+        ]
+      },
+      "match_reason": "The Bismarck was a thunderous symbol of industrial power, mirrored by this high-voltage rock and blues set that hits like heavy artillery in sound form."
     }
   ],
   "generated_at": "2026-02-14T00:00:00.010808+00:00",
   "date": "2026-02-14",
-  "updated_at": "2026-02-14T09:00:01.866743+00:00"
+  "updated_at": "2026-02-14T10:00:01.410647+00:00"
 }
