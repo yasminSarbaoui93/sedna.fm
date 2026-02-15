@@ -1,56 +1,31 @@
 {
-  "current_hour": 6,
+  "current_hour": 7,
   "current_fact": {
-    "hour": 6,
-    "fact_text": "In 1949, archaeologists Gerald Lankester Harding and Roland de Vaux began excavations at Qumran’s Cave 1, soon uncovering the first seven Dead Sea Scrolls. These fragile manuscripts, hidden for nearly two millennia, preserved some of the oldest known biblical texts and rewrote parts of religious and historical scholarship.",
-    "fact_year": 1949,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Qumran_Caves",
+    "hour": 7,
+    "fact_text": "On February 15, 1493, aboard the Niña, Christopher Columbus drafted an open letter describing the lands, peoples, and unexpected plants and animals he had encountered on his first voyage. Printed and widely distributed in Europe, it acted like a viral dispatch, reshaping how an entire continent imagined the world’s edges.",
+    "fact_year": 1493,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Columbus%27s_letter_on_the_first_voyage",
     "episode": {
-      "id": 44,
-      "title": "Morning Drops #38 - History of Flamenco",
-      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+      "id": 45,
+      "title": "Morning Drops #39 - Moving Meditation",
+      "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
       "songs": [
-        "La Niña de los Peines - Al Gurugú",
-        "Lola Flores - Pena, penita, pena",
-        "Paco de Lucía - Entre dos aguas",
-        "Camarón de la Isla - La leyenda del tiempo",
-        "Rosalía - Pienso en tu mirá"
+        "Stella & The Longos - La Flamme",
+        "España Circo Este - Dormo poco e sogno molto",
+        "Mystic Jungle - Sunset Breaker",
+        "Talking Heads - This Must Be the Place (Naive Melody)"
       ],
       "music-genres": [
-        "Flamenco",
-        "Spanish Folk",
-        "Nuevo Flamenco"
+        "Balearic",
+        "Italian Folk Rock",
+        "World Music",
+        "New Wave"
       ]
     },
-    "match_reason": "Unearthing ancient scrolls and tracing flamenco’s deep, hidden roots both involve listening to voices from the past that were preserved on the margins of deserts and empires."
+    "match_reason": "A sailor’s world-expanding letter and an episode about travel as meditation share the idea that journeys reshape inner maps as much as physical ones."
   },
   "queue": [
-    {
-      "hour": 7,
-      "fact_text": "On February 15, 1493, aboard the Niña, Christopher Columbus drafted an open letter describing the lands, peoples, and unexpected plants and animals he had encountered on his first voyage. Printed and widely distributed in Europe, it acted like a viral dispatch, reshaping how an entire continent imagined the world’s edges.",
-      "fact_year": 1493,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Columbus%27s_letter_on_the_first_voyage",
-      "episode": {
-        "id": 45,
-        "title": "Morning Drops #39 - Moving Meditation",
-        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
-        "songs": [
-          "Stella & The Longos - La Flamme",
-          "España Circo Este - Dormo poco e sogno molto",
-          "Mystic Jungle - Sunset Breaker",
-          "Talking Heads - This Must Be the Place (Naive Melody)"
-        ],
-        "music-genres": [
-          "Balearic",
-          "Italian Folk Rock",
-          "World Music",
-          "New Wave"
-        ]
-      },
-      "match_reason": "A sailor’s world-expanding letter and an episode about travel as meditation share the idea that journeys reshape inner maps as much as physical ones."
-    },
     {
       "hour": 8,
       "fact_text": "In 1798, after French troops under General Louis-Alexandre Berthier occupied Rome, they proclaimed a new Roman Republic. For a brief moment, revolutionary ideas and ancient ruins collided, and the city that once ruled an empire tried on a modern republican identity.",
@@ -656,9 +631,34 @@
         ]
       },
       "match_reason": "Unearthing ancient scrolls and tracing flamenco’s deep, hidden roots both involve listening to voices from the past that were preserved on the margins of deserts and empires."
+    },
+    {
+      "hour": 7,
+      "fact_text": "On February 15, 1493, aboard the Niña, Christopher Columbus drafted an open letter describing the lands, peoples, and unexpected plants and animals he had encountered on his first voyage. Printed and widely distributed in Europe, it acted like a viral dispatch, reshaping how an entire continent imagined the world’s edges.",
+      "fact_year": 1493,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Columbus%27s_letter_on_the_first_voyage",
+      "episode": {
+        "id": 45,
+        "title": "Morning Drops #39 - Moving Meditation",
+        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
+        "songs": [
+          "Stella & The Longos - La Flamme",
+          "España Circo Este - Dormo poco e sogno molto",
+          "Mystic Jungle - Sunset Breaker",
+          "Talking Heads - This Must Be the Place (Naive Melody)"
+        ],
+        "music-genres": [
+          "Balearic",
+          "Italian Folk Rock",
+          "World Music",
+          "New Wave"
+        ]
+      },
+      "match_reason": "A sailor’s world-expanding letter and an episode about travel as meditation share the idea that journeys reshape inner maps as much as physical ones."
     }
   ],
   "generated_at": "2026-02-15T00:00:00.010216+00:00",
   "date": "2026-02-15",
-  "updated_at": "2026-02-15T06:00:01.708056+00:00"
+  "updated_at": "2026-02-15T07:00:01.307725+00:00"
 }
