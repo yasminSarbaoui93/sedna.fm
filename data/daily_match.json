@@ -1,61 +1,36 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "In 1986, China Airlines Flight 2265 vanished into the dark waters near Taiwan’s Penghu Islands just minutes after the crew reported a possible engine fire. The crash, which killed all 13 people on board, highlighted how quickly a routine night flight over the ocean can turn into a forensic mystery.",
-    "fact_year": 1986,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/China_Airlines_Flight_2265",
+    "hour": 11,
+    "fact_text": "Also in 1942, a German U-boat surfaced off Aruba and shelled the island’s oil facilities, marking the first World War II German shots fired at land in the Americas. The attack turned a Caribbean resort landscape into an unexpected front line in the battle over fuel and supply lines.",
+    "fact_year": 1942,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Attack_on_Aruba",
     "episode": {
-      "id": 31,
-      "title": "Morning Drops #31 - A Trip-Hop Journey",
-      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+      "id": 48,
+      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
       "songs": [
-        "Massive Attack - Unfinished Sympathy",
-        "Tricky - Hell Is Round the Corner",
-        "DJ Shadow - Midnight in a Perfect World",
-        "Thievery Corporation - Lebanese Blonde",
-        "Smoke City - Underwater Love"
+        "Stive Morgan - Solar Wind, Pt. 3",
+        "David Visan & Carlos Campos - Crystal Heart",
+        "Evan Mars - Ya Zareef Al Tool",
+        "Gerardo Frisina - Cuiabá",
+        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+        "The Busy Twist - Friday Night"
       ],
       "music-genres": [
-        "Trip-Hop",
-        "Downtempo",
+        "Ambient",
+        "Deep House",
+        "World Music",
+        "Nu Jazz",
+        "Afrobeat",
+        "Funk",
         "Electronic"
       ]
     },
-    "match_reason": "The eerie, nocturnal mood of a mysterious ocean crash parallels the cinematic, shadowy textures of trip-hop and tracks like “Midnight in a Perfect World” and “Underwater Love.”"
+    "match_reason": "A sudden attack on Caribbean oil fields ties directly to Afro-Latin geographies and wartime supply routes, matching the episode’s blend of ambient tension and Afro-Latin, global dance rhythms."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "Also in 1942, a German U-boat surfaced off Aruba and shelled the island’s oil facilities, marking the first World War II German shots fired at land in the Americas. The attack turned a Caribbean resort landscape into an unexpected front line in the battle over fuel and supply lines.",
-      "fact_year": 1942,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Attack_on_Aruba",
-      "episode": {
-        "id": 48,
-        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
-        "songs": [
-          "Stive Morgan - Solar Wind, Pt. 3",
-          "David Visan & Carlos Campos - Crystal Heart",
-          "Evan Mars - Ya Zareef Al Tool",
-          "Gerardo Frisina - Cuiabá",
-          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-          "The Busy Twist - Friday Night"
-        ],
-        "music-genres": [
-          "Ambient",
-          "Deep House",
-          "World Music",
-          "Nu Jazz",
-          "Afrobeat",
-          "Funk",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A sudden attack on Caribbean oil fields ties directly to Afro-Latin geographies and wartime supply routes, matching the episode’s blend of ambient tension and Afro-Latin, global dance rhythms."
-    },
     {
       "hour": 12,
       "fact_text": "Back in 1804, young U.S. naval officer Stephen Decatur led a daring nighttime raid into Tripoli’s harbor to burn the captured frigate USS Philadelphia. By torching his own nation’s warship to keep it from pirate hands, he staged one of the most celebrated acts of calculated destruction in naval history.",
@@ -637,9 +612,39 @@
         ]
       },
       "match_reason": "The eerie, nocturnal mood of a mysterious ocean crash parallels the cinematic, shadowy textures of trip-hop and tracks like “Midnight in a Perfect World” and “Underwater Love.”"
+    },
+    {
+      "hour": 11,
+      "fact_text": "Also in 1942, a German U-boat surfaced off Aruba and shelled the island’s oil facilities, marking the first World War II German shots fired at land in the Americas. The attack turned a Caribbean resort landscape into an unexpected front line in the battle over fuel and supply lines.",
+      "fact_year": 1942,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Attack_on_Aruba",
+      "episode": {
+        "id": 48,
+        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+        "songs": [
+          "Stive Morgan - Solar Wind, Pt. 3",
+          "David Visan & Carlos Campos - Crystal Heart",
+          "Evan Mars - Ya Zareef Al Tool",
+          "Gerardo Frisina - Cuiabá",
+          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+          "The Busy Twist - Friday Night"
+        ],
+        "music-genres": [
+          "Ambient",
+          "Deep House",
+          "World Music",
+          "Nu Jazz",
+          "Afrobeat",
+          "Funk",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A sudden attack on Caribbean oil fields ties directly to Afro-Latin geographies and wartime supply routes, matching the episode’s blend of ambient tension and Afro-Latin, global dance rhythms."
     }
   ],
   "generated_at": "2026-02-16T00:00:00.008484+00:00",
   "date": "2026-02-16",
-  "updated_at": "2026-02-16T10:00:01.626242+00:00"
+  "updated_at": "2026-02-16T11:00:01.644879+00:00"
 }
