@@ -1,56 +1,31 @@
 {
-  "current_hour": 12,
+  "current_hour": 13,
   "current_fact": {
-    "hour": 12,
-    "fact_text": "In 1804, during the First Barbary War, American officer Stephen Decatur led a daring nighttime raid into Tripoli’s harbor to burn the captured frigate USS Philadelphia. British Admiral Nelson later called it \"the most bold and daring act of the age.\"",
-    "fact_year": 1804,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/First_Barbary_War",
+    "hour": 13,
+    "fact_text": "On this day in 1986, the Soviet cruise liner MS Mikhail Lermontov struck rocks in New Zealand’s Marlborough Sounds and sank, becoming one of the country’s most famous modern shipwrecks. Miraculously, nearly all passengers survived, and the wreck is now a ghostly dive site.",
+    "fact_year": 1986,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/MS_Mikhail_Lermontov",
     "episode": {
-      "id": 28,
-      "title": "Morning Drops #22 - Sicilians On The Dolomites",
-      "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
+      "id": 31,
+      "title": "Morning Drops #25 - A Trip-Hop Journey",
+      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
       "songs": [
-        "Franco Battiato - Haiku",
-        "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
-        "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
-        "Pink Floyd - Fearless"
+        "Massive Attack - Unfinished Sympathy",
+        "Tricky - Hell Is Round the Corner",
+        "DJ Shadow - Midnight in a Perfect World",
+        "Thievery Corporation - Lebanese Blonde",
+        "Smoke City - Underwater Love"
       ],
       "music-genres": [
-        "Italian Art Pop",
-        "French Jazz",
-        "Italian Singer-Songwriter",
-        "Progressive Rock"
+        "Trip-Hop",
+        "Downtempo",
+        "Electronic"
       ]
     },
-    "match_reason": "A legendary naval raid in the Mediterranean connects with an episode featuring \"Ma come fanno i marinai\" (How do sailors do it) and seafaring, landscape-rich storytelling."
+    "match_reason": "A modern shipwreck turned eerie underwater monument naturally pairs with a trip-hop set that includes \"Underwater Love\" and cinematic, submerged atmospheres."
   },
   "queue": [
-    {
-      "hour": 13,
-      "fact_text": "On this day in 1986, the Soviet cruise liner MS Mikhail Lermontov struck rocks in New Zealand’s Marlborough Sounds and sank, becoming one of the country’s most famous modern shipwrecks. Miraculously, nearly all passengers survived, and the wreck is now a ghostly dive site.",
-      "fact_year": 1986,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/MS_Mikhail_Lermontov",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #25 - A Trip-Hop Journey",
-        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
-        "songs": [
-          "Massive Attack - Unfinished Sympathy",
-          "Tricky - Hell Is Round the Corner",
-          "DJ Shadow - Midnight in a Perfect World",
-          "Thievery Corporation - Lebanese Blonde",
-          "Smoke City - Underwater Love"
-        ],
-        "music-genres": [
-          "Trip-Hop",
-          "Downtempo",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A modern shipwreck turned eerie underwater monument naturally pairs with a trip-hop set that includes \"Underwater Love\" and cinematic, submerged atmospheres."
-    },
     {
       "hour": 14,
       "fact_text": "In 1968, Civil Air Transport Flight 010 crashed near Taipei’s Songshan Airport, killing 21 passengers and one person on the ground. The accident unfolded in low cloud, reminding aviation planners how unforgiving marginal conditions can be.",
@@ -650,9 +625,34 @@
         ]
       },
       "match_reason": "A legendary naval raid in the Mediterranean connects with an episode featuring \"Ma come fanno i marinai\" (How do sailors do it) and seafaring, landscape-rich storytelling."
+    },
+    {
+      "hour": 13,
+      "fact_text": "On this day in 1986, the Soviet cruise liner MS Mikhail Lermontov struck rocks in New Zealand’s Marlborough Sounds and sank, becoming one of the country’s most famous modern shipwrecks. Miraculously, nearly all passengers survived, and the wreck is now a ghostly dive site.",
+      "fact_year": 1986,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/MS_Mikhail_Lermontov",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #25 - A Trip-Hop Journey",
+        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+        "songs": [
+          "Massive Attack - Unfinished Sympathy",
+          "Tricky - Hell Is Round the Corner",
+          "DJ Shadow - Midnight in a Perfect World",
+          "Thievery Corporation - Lebanese Blonde",
+          "Smoke City - Underwater Love"
+        ],
+        "music-genres": [
+          "Trip-Hop",
+          "Downtempo",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A modern shipwreck turned eerie underwater monument naturally pairs with a trip-hop set that includes \"Underwater Love\" and cinematic, submerged atmospheres."
     }
   ],
   "generated_at": "2026-02-16T00:00:00.012082+00:00",
   "date": "2026-02-16",
-  "updated_at": "2026-02-16T12:00:01.628310+00:00"
+  "updated_at": "2026-02-16T13:00:01.618055+00:00"
 }
