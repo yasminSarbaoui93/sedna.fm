@@ -1,56 +1,31 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "On this day in 1980, Polish climbers Krzysztof Wielicki and Leszek Cichy completed the first winter ascent of Mount Everest, reaching the summit in -40°C winds and thin, turbulent air. Their climb opened a new era of high‑altitude exploration where winter itself became the ultimate obstacle.",
-    "fact_year": 1980,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mount_Everest",
+    "hour": 5,
+    "fact_text": "In 1969, American aquanaut Berry L. Cannon died from carbon dioxide poisoning while trying to repair a leak in SEALAB III, an experimental underwater habitat. His death abruptly halted the U.S. Navy’s bold attempt to turn the ocean floor into a place where humans could live and work for weeks at a time.",
+    "fact_year": 1969,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/SEALAB",
     "episode": {
-      "id": 28,
-      "title": "Morning Drops #22 - Sicilians On The Dolomites",
-      "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
+      "id": 39,
+      "title": "Morning Drops #33 - Immerse",
+      "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
       "songs": [
-        "Franco Battiato - Haiku",
-        "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
-        "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
-        "Pink Floyd - Fearless"
+        "Pino D'Angiò - Un Po' d'Uva e un Liquore",
+        "Midlife - The Magnificent Moon",
+        "Tornado Wallace - Today",
+        "Nu Genea - Marechià (feat. Celia Kameni)"
       ],
       "music-genres": [
-        "Italian Art Pop",
-        "French Jazz",
-        "Italian Singer-Songwriter",
-        "Progressive Rock"
+        "Italo Disco",
+        "Indie",
+        "Balearic",
+        "Nu Disco"
       ]
     },
-    "match_reason": "A story of extreme mountaineering naturally resonates with a mountain-inspired episode that treats peaks and landscapes as musical characters."
+    "match_reason": "An underwater-habitat tragedy connects with an episode explicitly about diving and immersion beneath the surface, both literal and emotional."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "In 1969, American aquanaut Berry L. Cannon died from carbon dioxide poisoning while trying to repair a leak in SEALAB III, an experimental underwater habitat. His death abruptly halted the U.S. Navy’s bold attempt to turn the ocean floor into a place where humans could live and work for weeks at a time.",
-      "fact_year": 1969,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/SEALAB",
-      "episode": {
-        "id": 39,
-        "title": "Morning Drops #33 - Immerse",
-        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
-        "songs": [
-          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
-          "Midlife - The Magnificent Moon",
-          "Tornado Wallace - Today",
-          "Nu Genea - Marechià (feat. Celia Kameni)"
-        ],
-        "music-genres": [
-          "Italo Disco",
-          "Indie",
-          "Balearic",
-          "Nu Disco"
-        ]
-      },
-      "match_reason": "An underwater-habitat tragedy connects with an episode explicitly about diving and immersion beneath the surface, both literal and emotional."
-    },
     {
       "hour": 6,
       "fact_text": "Back in 1674, a powerful earthquake struck near Ambon Island in Indonesia and triggered a megatsunami whose wave is estimated to have reached about 100 meters in height. The wall of water swept far inland, drowning over 2,300 people and leaving a stark historical record of just how extreme tsunami events can be.",
@@ -646,9 +621,34 @@
         ]
       },
       "match_reason": "A story of extreme mountaineering naturally resonates with a mountain-inspired episode that treats peaks and landscapes as musical characters."
+    },
+    {
+      "hour": 5,
+      "fact_text": "In 1969, American aquanaut Berry L. Cannon died from carbon dioxide poisoning while trying to repair a leak in SEALAB III, an experimental underwater habitat. His death abruptly halted the U.S. Navy’s bold attempt to turn the ocean floor into a place where humans could live and work for weeks at a time.",
+      "fact_year": 1969,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/SEALAB",
+      "episode": {
+        "id": 39,
+        "title": "Morning Drops #33 - Immerse",
+        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
+        "songs": [
+          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
+          "Midlife - The Magnificent Moon",
+          "Tornado Wallace - Today",
+          "Nu Genea - Marechià (feat. Celia Kameni)"
+        ],
+        "music-genres": [
+          "Italo Disco",
+          "Indie",
+          "Balearic",
+          "Nu Disco"
+        ]
+      },
+      "match_reason": "An underwater-habitat tragedy connects with an episode explicitly about diving and immersion beneath the surface, both literal and emotional."
     }
   ],
   "generated_at": "2026-02-17T00:00:00.011867+00:00",
   "date": "2026-02-17",
-  "updated_at": "2026-02-17T04:00:01.751713+00:00"
+  "updated_at": "2026-02-17T05:00:01.613364+00:00"
 }
