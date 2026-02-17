@@ -1,56 +1,31 @@
 {
-  "current_hour": 21,
+  "current_hour": 22,
   "current_fact": {
-    "hour": 21,
-    "fact_text": "The SEALAB project, abandoned after Berry Cannon’s death, had earlier shown that aquanauts could live for weeks under pressure on the seafloor, adapting their bodies to an alien environment. It hinted that ‘inner space’—our own oceans—could be explored with the same settlement mindset once reserved for outer space.",
-    "fact_year": 1969,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Berry_L._Cannon",
+    "hour": 22,
+    "fact_text": "The 1913 Armory Show didn’t just display paintings—it introduced Americans to radical ideas like multiple viewpoints in Cubism and the abstraction of pure color and form. Viewers reportedly laughed, fumed, and argued in front of the works, proving that confusion can be the first step toward a new visual language.",
+    "fact_year": 1913,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Armory_Show",
     "episode": {
-      "id": 20,
-      "title": "Morning Drops #14 - Slow Planet",
-      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+      "id": 44,
+      "title": "Morning Drops #38 - History of Flamenco",
+      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
       "songs": [
-        "Air - Cherry Blossom Girl",
-        "Kruder & Dorfmeister - Keep On Believing",
-        "Tosca - Orozco",
-        "Bonobo - Terrapin"
+        "La Niña de los Peines - Al Gurugú",
+        "Lola Flores - Pena, penita, pena",
+        "Paco de Lucía - Entre dos aguas",
+        "Camarón de la Isla - La leyenda del tiempo",
+        "Rosalía - Pienso en tu mirá"
       ],
       "music-genres": [
-        "Downtempo",
-        "Trip-Hop",
-        "Electronic",
-        "Chillout"
+        "Flamenco",
+        "Spanish Folk",
+        "Nuevo Flamenco"
       ]
     },
-    "match_reason": "Turning the seafloor into a kind of ‘slow planet’ for human habitation resonates with this downtempo meditation on inhabiting spaces differently."
+    "match_reason": "A disruptive art exhibition and an episode tracing Flamenco’s radical evolution both showcase how traditions can be broken and reborn in the public eye."
   },
   "queue": [
-    {
-      "hour": 22,
-      "fact_text": "The 1913 Armory Show didn’t just display paintings—it introduced Americans to radical ideas like multiple viewpoints in Cubism and the abstraction of pure color and form. Viewers reportedly laughed, fumed, and argued in front of the works, proving that confusion can be the first step toward a new visual language.",
-      "fact_year": 1913,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Armory_Show",
-      "episode": {
-        "id": 44,
-        "title": "Morning Drops #38 - History of Flamenco",
-        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
-        "songs": [
-          "La Niña de los Peines - Al Gurugú",
-          "Lola Flores - Pena, penita, pena",
-          "Paco de Lucía - Entre dos aguas",
-          "Camarón de la Isla - La leyenda del tiempo",
-          "Rosalía - Pienso en tu mirá"
-        ],
-        "music-genres": [
-          "Flamenco",
-          "Spanish Folk",
-          "Nuevo Flamenco"
-        ]
-      },
-      "match_reason": "A disruptive art exhibition and an episode tracing Flamenco’s radical evolution both showcase how traditions can be broken and reborn in the public eye."
-    },
     {
       "hour": 23,
       "fact_text": "The 1995 ceasefire that ended the Cenepa War eventually led to a definitive peace agreement five years later, turning a deadly border zone into a symbol of compromise between Peru and Ecuador. The former battlefield is now partially protected rainforest, where trees and clouds have reclaimed the ridgelines once contested by soldiers.",
@@ -646,9 +621,34 @@
         ]
       },
       "match_reason": "Turning the seafloor into a kind of ‘slow planet’ for human habitation resonates with this downtempo meditation on inhabiting spaces differently."
+    },
+    {
+      "hour": 22,
+      "fact_text": "The 1913 Armory Show didn’t just display paintings—it introduced Americans to radical ideas like multiple viewpoints in Cubism and the abstraction of pure color and form. Viewers reportedly laughed, fumed, and argued in front of the works, proving that confusion can be the first step toward a new visual language.",
+      "fact_year": 1913,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Armory_Show",
+      "episode": {
+        "id": 44,
+        "title": "Morning Drops #38 - History of Flamenco",
+        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+        "songs": [
+          "La Niña de los Peines - Al Gurugú",
+          "Lola Flores - Pena, penita, pena",
+          "Paco de Lucía - Entre dos aguas",
+          "Camarón de la Isla - La leyenda del tiempo",
+          "Rosalía - Pienso en tu mirá"
+        ],
+        "music-genres": [
+          "Flamenco",
+          "Spanish Folk",
+          "Nuevo Flamenco"
+        ]
+      },
+      "match_reason": "A disruptive art exhibition and an episode tracing Flamenco’s radical evolution both showcase how traditions can be broken and reborn in the public eye."
     }
   ],
   "generated_at": "2026-02-17T00:00:00.011867+00:00",
   "date": "2026-02-17",
-  "updated_at": "2026-02-17T21:00:01.799096+00:00"
+  "updated_at": "2026-02-17T22:00:01.726596+00:00"
 }
