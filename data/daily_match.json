@@ -1,59 +1,34 @@
 {
-  "current_hour": 7,
+  "current_hour": 8,
   "current_fact": {
-    "hour": 7,
-    "fact_text": "In 1864, the Confederate submarine H. L. Hunley became the first submersible to sink an enemy warship when it attacked the USS Housatonic. The Hunley achieved its grim success with a spar torpedo—and then mysteriously vanished, only to be rediscovered over a century later.",
-    "fact_year": 1864,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/H._L._Hunley",
+    "hour": 8,
+    "fact_text": "In 1676, sixteen members of Pascual de Iriarte's party disappeared at the Evangelistas Islets at the storm-lashed western mouth of the Strait of Magellan. The islets, tiny outposts battered by waves and wind, became a symbol of how unforgiving the edges of mapped Earth could be.",
+    "fact_year": 1676,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Evangelistas_Islets",
     "episode": {
-      "id": 46,
-      "title": "Morning Drops #40 - Diving With Orcas",
-      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "Ludovico Einaudi - Experience",
-        "The Temper Trap - Sweet Disposition",
-        "Alex Warren - Ordinary",
-        "Piero Umiliani - Il tuo volto"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Neo-Classical",
-        "Indie Rock",
-        "Pop",
-        "Italian Film Score"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "The eerie story of an early combat submarine lost to the deep fits with an episode about slipping beneath the surface among whales, both telling different myths of what the ocean hides."
+    "match_reason": "A fatal 17th-century expedition at a treacherous sea passage pairs with a present-day sailing episode, both centered on what it means to travel by water at the world's edges."
   },
   "queue": [
-    {
-      "hour": 8,
-      "fact_text": "In 1676, sixteen members of Pascual de Iriarte's party disappeared at the Evangelistas Islets at the storm-lashed western mouth of the Strait of Magellan. The islets, tiny outposts battered by waves and wind, became a symbol of how unforgiving the edges of mapped Earth could be.",
-      "fact_year": 1676,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Evangelistas_Islets",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "A fatal 17th-century expedition at a treacherous sea passage pairs with a present-day sailing episode, both centered on what it means to travel by water at the world's edges."
-    },
     {
       "hour": 9,
       "fact_text": "On this day in 1996, chess world champion Garry Kasparov defeated IBM’s Deep Blue supercomputer in Philadelphia, winning the overall match 4–2. It was a brief moment when human intuition and psychological play still outmaneuvered raw computation on the 64 squares.",
@@ -634,9 +609,37 @@
         ]
       },
       "match_reason": "The eerie story of an early combat submarine lost to the deep fits with an episode about slipping beneath the surface among whales, both telling different myths of what the ocean hides."
+    },
+    {
+      "hour": 8,
+      "fact_text": "In 1676, sixteen members of Pascual de Iriarte's party disappeared at the Evangelistas Islets at the storm-lashed western mouth of the Strait of Magellan. The islets, tiny outposts battered by waves and wind, became a symbol of how unforgiving the edges of mapped Earth could be.",
+      "fact_year": 1676,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Evangelistas_Islets",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "A fatal 17th-century expedition at a treacherous sea passage pairs with a present-day sailing episode, both centered on what it means to travel by water at the world's edges."
     }
   ],
   "generated_at": "2026-02-17T00:00:00.016014+00:00",
   "date": "2026-02-17",
-  "updated_at": "2026-02-17T07:00:01.481028+00:00"
+  "updated_at": "2026-02-17T08:00:01.458512+00:00"
 }
