@@ -1,56 +1,31 @@
 {
-  "current_hour": 2,
+  "current_hour": 3,
   "current_fact": {
-    "hour": 2,
-    "fact_text": "In 1959, Vanguard 2 became the world’s first weather satellite, carrying tiny optical scanners designed to map Earth’s cloud cover from orbit. Though its measurements were imperfect, it proved that watching the planet’s atmosphere from space could transform forecasting and our understanding of global weather patterns.",
-    "fact_year": 1959,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Vanguard_2",
+    "hour": 3,
+    "fact_text": "In 1996, an 8.2 magnitude earthquake struck near Biak Island in Papua, Indonesia, unleashing a powerful tsunami that swept away entire coastal villages. Locals reported that the sea retreated so far that fish flopped on bare seafloor moments before the towering waves returned.",
+    "fact_year": 1996,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1996_Biak_earthquake",
     "episode": {
-      "id": 11,
-      "title": "Morning Drops #05 - Electric Shock",
-      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "Johnny Winter - Highway 61 Revisited",
-        "Joan Armatrading - Sleight of Hand",
-        "Joan Armatrading - Russian Roulette",
-        "Jimi Hendrix - Freedom",
-        "Jeff Beck - Scatterbrain"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Rock",
-        "Electric Blues"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "A pioneering satellite powered by electronics and beaming data to Earth fits the high-voltage, electric-guitar atmosphere of this ‘Electric Shock’ episode."
+    "match_reason": "Both the Biak tsunami and the orca-diving story center on the power and vulnerability of the ocean, calling for a contemplative, cinematic soundtrack."
   },
   "queue": [
-    {
-      "hour": 3,
-      "fact_text": "In 1996, an 8.2 magnitude earthquake struck near Biak Island in Papua, Indonesia, unleashing a powerful tsunami that swept away entire coastal villages. Locals reported that the sea retreated so far that fish flopped on bare seafloor moments before the towering waves returned.",
-      "fact_year": 1996,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1996_Biak_earthquake",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "Both the Biak tsunami and the orca-diving story center on the power and vulnerability of the ocean, calling for a contemplative, cinematic soundtrack."
-    },
     {
       "hour": 4,
       "fact_text": "On this day in 1980, Polish climbers Krzysztof Wielicki and Leszek Cichy completed the first winter ascent of Mount Everest, reaching the summit in -40°C winds and thin, turbulent air. Their climb opened a new era of high‑altitude exploration where winter itself became the ultimate obstacle.",
@@ -646,9 +621,34 @@
         ]
       },
       "match_reason": "A pioneering satellite powered by electronics and beaming data to Earth fits the high-voltage, electric-guitar atmosphere of this ‘Electric Shock’ episode."
+    },
+    {
+      "hour": 3,
+      "fact_text": "In 1996, an 8.2 magnitude earthquake struck near Biak Island in Papua, Indonesia, unleashing a powerful tsunami that swept away entire coastal villages. Locals reported that the sea retreated so far that fish flopped on bare seafloor moments before the towering waves returned.",
+      "fact_year": 1996,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1996_Biak_earthquake",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "Both the Biak tsunami and the orca-diving story center on the power and vulnerability of the ocean, calling for a contemplative, cinematic soundtrack."
     }
   ],
   "generated_at": "2026-02-17T00:00:00.011867+00:00",
   "date": "2026-02-17",
-  "updated_at": "2026-02-17T02:00:02.293368+00:00"
+  "updated_at": "2026-02-17T03:00:01.879414+00:00"
 }
