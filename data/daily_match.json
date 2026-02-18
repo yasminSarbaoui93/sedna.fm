@@ -1,60 +1,30 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On 18 February 1930, 23‑year‑old farm boy–turned–astronomer Clyde Tombaugh confirmed the existence of a tiny moving dot in his photographic plates: Pluto. Working at Lowell Observatory, he painstakingly compared nearly identical star fields with a blink comparator until the distant dwarf planet revealed itself.",
-    "fact_year": 1930,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pluto",
+    "hour": 2,
+    "fact_text": "On 18 February 1977, NASA’s prototype Space Shuttle Enterprise took its first ‘flight’—bolted to the back of a modified Boeing 747 to test how the shuttle would handle during ferry and drop tests. The unusual double‑decker silhouette streaked across the sky, rehearsing reusability years before a shuttle ever reached orbit.",
+    "fact_year": 1977,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Enterprise",
     "episode": {
-      "id": 48,
-      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+      "id": 55,
+      "title": "Morning Drops #48 - Cosmic Monday",
+      "description": "Cosmic Monday is a Morning Drops episode built around four Italian dance records, tracing how disco rhythms slowly became electronic language.\nGaia moves through four tracks like chapters: groove first, then machines, then that bright, futuristic feeling you only get when the bassline is doing the talking. It's not nostalgia, exactly. It's more like returning to a sound that still works — especially on mornings when you need a little extra energy, but you don't want anything aggressive.\nTake it as a slow transmission. Let it carry you into the day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-cosmic-monday",
       "songs": [
-        "Stive Morgan - Solar Wind, Pt. 3",
-        "David Visan & Carlos Campos - Crystal Heart",
-        "Evan Mars - Ya Zareef Al Tool",
-        "Gerardo Frisina - Cuiabá",
-        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-        "The Busy Twist - Friday Night"
+        "Giovanotti Mondani Meccanici - Don't Ask Me Why",
+        "Azoto - Sal Salvador",
+        "Capricorn - I Need Love",
+        "Cosmic Disco - Cosmic Sprint"
       ],
       "music-genres": [
-        "Ambient",
-        "Deep House",
-        "World Music",
-        "Nu Jazz",
-        "Afrobeat",
-        "Funk",
+        "Italo Disco",
+        "Disco",
         "Electronic"
       ]
     },
-    "match_reason": "A quiet, methodical search ending in a cosmic discovery mirrors an episode that begins in mystery and slowly swells into an expansive, spacey flow."
+    "match_reason": "A test shuttle piggybacking on a jumbo jet feels like retro‑futurism in motion, fitting an episode built on cosmic, machine‑driven dance music."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "On 18 February 1977, NASA’s prototype Space Shuttle Enterprise took its first ‘flight’—bolted to the back of a modified Boeing 747 to test how the shuttle would handle during ferry and drop tests. The unusual double‑decker silhouette streaked across the sky, rehearsing reusability years before a shuttle ever reached orbit.",
-      "fact_year": 1977,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Enterprise",
-      "episode": {
-        "id": 55,
-        "title": "Morning Drops #48 - Cosmic Monday",
-        "description": "Cosmic Monday is a Morning Drops episode built around four Italian dance records, tracing how disco rhythms slowly became electronic language.\nGaia moves through four tracks like chapters: groove first, then machines, then that bright, futuristic feeling you only get when the bassline is doing the talking. It's not nostalgia, exactly. It's more like returning to a sound that still works — especially on mornings when you need a little extra energy, but you don't want anything aggressive.\nTake it as a slow transmission. Let it carry you into the day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-cosmic-monday",
-        "songs": [
-          "Giovanotti Mondani Meccanici - Don't Ask Me Why",
-          "Azoto - Sal Salvador",
-          "Capricorn - I Need Love",
-          "Cosmic Disco - Cosmic Sprint"
-        ],
-        "music-genres": [
-          "Italo Disco",
-          "Disco",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A test shuttle piggybacking on a jumbo jet feels like retro‑futurism in motion, fitting an episode built on cosmic, machine‑driven dance music."
-    },
     {
       "hour": 3,
       "fact_text": "On 18 February 1955, the United States detonated the nuclear device “Wasp” at the Nevada Test Site as the opening shot of Operation Teapot. Beyond raw destructive power, the series studied how homes, vehicles, and even food would fare in atomic blasts, turning the desert into a surreal laboratory of shockwaves and mannequins.",
@@ -653,9 +623,33 @@
         ]
       },
       "match_reason": "A quiet, methodical search ending in a cosmic discovery mirrors an episode that begins in mystery and slowly swells into an expansive, spacey flow."
+    },
+    {
+      "hour": 2,
+      "fact_text": "On 18 February 1977, NASA’s prototype Space Shuttle Enterprise took its first ‘flight’—bolted to the back of a modified Boeing 747 to test how the shuttle would handle during ferry and drop tests. The unusual double‑decker silhouette streaked across the sky, rehearsing reusability years before a shuttle ever reached orbit.",
+      "fact_year": 1977,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Enterprise",
+      "episode": {
+        "id": 55,
+        "title": "Morning Drops #48 - Cosmic Monday",
+        "description": "Cosmic Monday is a Morning Drops episode built around four Italian dance records, tracing how disco rhythms slowly became electronic language.\nGaia moves through four tracks like chapters: groove first, then machines, then that bright, futuristic feeling you only get when the bassline is doing the talking. It's not nostalgia, exactly. It's more like returning to a sound that still works — especially on mornings when you need a little extra energy, but you don't want anything aggressive.\nTake it as a slow transmission. Let it carry you into the day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-cosmic-monday",
+        "songs": [
+          "Giovanotti Mondani Meccanici - Don't Ask Me Why",
+          "Azoto - Sal Salvador",
+          "Capricorn - I Need Love",
+          "Cosmic Disco - Cosmic Sprint"
+        ],
+        "music-genres": [
+          "Italo Disco",
+          "Disco",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A test shuttle piggybacking on a jumbo jet feels like retro‑futurism in motion, fitting an episode built on cosmic, machine‑driven dance music."
     }
   ],
   "generated_at": "2026-02-18T00:00:00.011855+00:00",
   "date": "2026-02-18",
-  "updated_at": "2026-02-18T01:00:01.629070+00:00"
+  "updated_at": "2026-02-18T02:00:01.417544+00:00"
 }
