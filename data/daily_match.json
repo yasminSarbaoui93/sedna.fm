@@ -1,56 +1,31 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "While the world focused on big battles in 1915, the German Navy quietly escalated underwater war by declaring unrestricted submarine warfare around Britain and Ireland. It meant that civilian ships could be sunk without warning, turning invisible U‑boats into one of the most feared weapons of World War I.",
-    "fact_year": 1915,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/U-boat_campaign",
+    "hour": 5,
+    "fact_text": "Operation Teapot’s “Wasp” test in 1955 detonated a 1.2‑kiloton nuclear device in the Nevada desert, one of many tests where soldiers watched from trenches to study how humans might fight on an atomic battlefield. The blast turned sand into glass and desert air into a blinding white sphere, a surreal experiment in weaponizing the physics of stars.",
+    "fact_year": 1955,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Teapot",
     "episode": {
-      "id": 11,
-      "title": "Morning Drops #05 - Electric Shock",
-      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+      "id": 31,
+      "title": "Morning Drops #25 - A Trip-Hop Journey",
+      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
       "songs": [
-        "Johnny Winter - Highway 61 Revisited",
-        "Joan Armatrading - Sleight of Hand",
-        "Joan Armatrading - Russian Roulette",
-        "Jimi Hendrix - Freedom",
-        "Jeff Beck - Scatterbrain"
+        "Massive Attack - Unfinished Sympathy",
+        "Tricky - Hell Is Round the Corner",
+        "DJ Shadow - Midnight in a Perfect World",
+        "Thievery Corporation - Lebanese Blonde",
+        "Smoke City - Underwater Love"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Rock",
-        "Electric Blues"
+        "Trip-Hop",
+        "Downtempo",
+        "Electronic"
       ]
     },
-    "match_reason": "The sudden, unseen impact of submarines in wartime resonates with the episode’s sharp, high-voltage rock tones—like an ‘electric shock’ beneath otherwise calm waters."
+    "match_reason": "The eerie, cinematic atmosphere of nuclear test footage pairs with the moody, filmic feel of classic trip‑hop—both are slow, heavy, and strangely hypnotic studies of tension."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "Operation Teapot’s “Wasp” test in 1955 detonated a 1.2‑kiloton nuclear device in the Nevada desert, one of many tests where soldiers watched from trenches to study how humans might fight on an atomic battlefield. The blast turned sand into glass and desert air into a blinding white sphere, a surreal experiment in weaponizing the physics of stars.",
-      "fact_year": 1955,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Teapot",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #25 - A Trip-Hop Journey",
-        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
-        "songs": [
-          "Massive Attack - Unfinished Sympathy",
-          "Tricky - Hell Is Round the Corner",
-          "DJ Shadow - Midnight in a Perfect World",
-          "Thievery Corporation - Lebanese Blonde",
-          "Smoke City - Underwater Love"
-        ],
-        "music-genres": [
-          "Trip-Hop",
-          "Downtempo",
-          "Electronic"
-        ]
-      },
-      "match_reason": "The eerie, cinematic atmosphere of nuclear test footage pairs with the moody, filmic feel of classic trip‑hop—both are slow, heavy, and strangely hypnotic studies of tension."
-    },
     {
       "hour": 6,
       "fact_text": "On February 18, 1945, American and Brazilian troops began Operation Encore in the snowy Apennine Mountains of Northern Italy, clearing ridges and valleys to prepare the final Allied push into the Po Valley. It’s a lesser-known example of how a global war drew soldiers from faraway Brazil into the rugged heart of Europe.",
@@ -650,9 +625,34 @@
         ]
       },
       "match_reason": "The sudden, unseen impact of submarines in wartime resonates with the episode’s sharp, high-voltage rock tones—like an ‘electric shock’ beneath otherwise calm waters."
+    },
+    {
+      "hour": 5,
+      "fact_text": "Operation Teapot’s “Wasp” test in 1955 detonated a 1.2‑kiloton nuclear device in the Nevada desert, one of many tests where soldiers watched from trenches to study how humans might fight on an atomic battlefield. The blast turned sand into glass and desert air into a blinding white sphere, a surreal experiment in weaponizing the physics of stars.",
+      "fact_year": 1955,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Teapot",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #25 - A Trip-Hop Journey",
+        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+        "songs": [
+          "Massive Attack - Unfinished Sympathy",
+          "Tricky - Hell Is Round the Corner",
+          "DJ Shadow - Midnight in a Perfect World",
+          "Thievery Corporation - Lebanese Blonde",
+          "Smoke City - Underwater Love"
+        ],
+        "music-genres": [
+          "Trip-Hop",
+          "Downtempo",
+          "Electronic"
+        ]
+      },
+      "match_reason": "The eerie, cinematic atmosphere of nuclear test footage pairs with the moody, filmic feel of classic trip‑hop—both are slow, heavy, and strangely hypnotic studies of tension."
     }
   ],
   "generated_at": "2026-02-18T00:00:00.007182+00:00",
   "date": "2026-02-18",
-  "updated_at": "2026-02-18T04:00:01.352291+00:00"
+  "updated_at": "2026-02-18T05:00:01.727509+00:00"
 }
