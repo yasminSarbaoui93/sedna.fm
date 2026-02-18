@@ -1,59 +1,34 @@
 {
-  "current_hour": 9,
+  "current_hour": 10,
   "current_fact": {
-    "hour": 9,
-    "fact_text": "On 18 February 1781, during the Fourth Anglo‑Dutch War, Captain Thomas Shirley struck at Dutch outposts along the Gold Coast of Africa. These small, hard‑to‑reach forts controlled flows of gold and people, making the campaign a sharp reminder that global wars often hinge on distant shorelines and local communities.",
-    "fact_year": 1781,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Shirley%27s_Gold_Coast_expedition",
+    "hour": 10,
+    "fact_text": "On 18 February 1637, Spanish warships ambushed an Anglo‑Dutch merchant convoy off Cornwall, attacking 44 ships and capturing or destroying nearly half. The clash shows how, in the age of sail, fortunes and futures could vanish in a single foggy engagement on the edge of Europe.",
+    "fact_year": 1637,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Eighty_Years%27_War",
     "episode": {
-      "id": 17,
-      "title": "Morning Drops #11 - Mediterranean Boat",
-      "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "Arleta - Bar To Navagio",
-        "Baba Zula - Tavla",
-        "Mylène Farmer - Désenchantée",
-        "Fabrizio De André - Crêuza de mä"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Greek Folk",
-        "Turkish Psychedelic",
-        "French Pop",
-        "Italian Singer-Songwriter"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "Naval expeditions edging along contested coasts pair with a sea‑voyage episode that drifts across historic waterways and port cities."
+    "match_reason": "A perilous convoy ambushed at sea contrasts with a gentle modern sailing trip, both tracing how the ocean can carry either conflict or community."
   },
   "queue": [
-    {
-      "hour": 10,
-      "fact_text": "On 18 February 1637, Spanish warships ambushed an Anglo‑Dutch merchant convoy off Cornwall, attacking 44 ships and capturing or destroying nearly half. The clash shows how, in the age of sail, fortunes and futures could vanish in a single foggy engagement on the edge of Europe.",
-      "fact_year": 1637,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Eighty_Years%27_War",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "A perilous convoy ambushed at sea contrasts with a gentle modern sailing trip, both tracing how the ocean can carry either conflict or community."
-    },
     {
       "hour": 11,
       "fact_text": "On 18 February 1915, Germany announced a campaign of unrestricted submarine warfare around Britain and Ireland, declaring the waters a war zone. Invisible U‑boats suddenly turned everyday merchant ships into targets, shifting the battlefield beneath the waves and reshaping global rules of war.",
@@ -648,9 +623,37 @@
         ]
       },
       "match_reason": "Naval expeditions edging along contested coasts pair with a sea‑voyage episode that drifts across historic waterways and port cities."
+    },
+    {
+      "hour": 10,
+      "fact_text": "On 18 February 1637, Spanish warships ambushed an Anglo‑Dutch merchant convoy off Cornwall, attacking 44 ships and capturing or destroying nearly half. The clash shows how, in the age of sail, fortunes and futures could vanish in a single foggy engagement on the edge of Europe.",
+      "fact_year": 1637,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Eighty_Years%27_War",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "A perilous convoy ambushed at sea contrasts with a gentle modern sailing trip, both tracing how the ocean can carry either conflict or community."
     }
   ],
   "generated_at": "2026-02-18T00:00:00.011855+00:00",
   "date": "2026-02-18",
-  "updated_at": "2026-02-18T09:00:01.638301+00:00"
+  "updated_at": "2026-02-18T10:00:01.447110+00:00"
 }
