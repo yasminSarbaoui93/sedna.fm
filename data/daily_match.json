@@ -1,58 +1,30 @@
 {
-  "current_hour": 7,
+  "current_hour": 8,
   "current_fact": {
-    "hour": 7,
-    "fact_text": "In 1637, off the rugged coast of Cornwall, a Spanish fleet pounced on an Anglo‑Dutch merchant convoy, sinking or capturing nearly half its ships. The ambush shows how much of early-modern warfare unfolded not in grand land battles, but in sudden attacks on fragile lines of trade crossing stormy seas.",
-    "fact_year": 1637,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Eighty_Years%27_War",
+    "hour": 8,
+    "fact_text": "On February 18, 1781, Captain Thomas Shirley launched a British expedition against Dutch forts along the Gold Coast of West Africa, hoping to seize trading posts that controlled the flow of gold and enslaved people. It’s a glimpse of how European rivalries played out thousands of kilometers from home, reshaping African shores for centuries.",
+    "fact_year": 1781,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Shirley%27s_Gold_Coast_expedition",
     "episode": {
-      "id": 37,
-      "title": "Morning Drops #31 - Sailing With Germans",
-      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+      "id": 22,
+      "title": "Morning Drops #16 - The Sound of Tuareg",
+      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
       "songs": [
-        "Billy Talent - Dead Silence",
-        "Ben Howard - Keep Your Head Up",
-        "Ziggy Alberts - Simple Things",
-        "Vitor Kley - O Sol",
-        "Enya - Orinoco Flow",
-        "Paveier - Leev Marie"
+        "Les Filles de Illighadad - Imigradan",
+        "Tinariwen - Amassakoul ’N’ Ténéré",
+        "Liya Ag Ablil - Awa Adounia",
+        "Tinariwen - Sastanàqqàm"
       ],
       "music-genres": [
-        "Punk Rock",
-        "Indie Folk",
-        "Surf Pop",
-        "New Age",
-        "German Folk"
+        "Desert Blues",
+        "Tuareg",
+        "World Music"
       ]
     },
-    "match_reason": "A 17th‑century naval ambush becomes a modern sea journey in this pairing—ships under attack transformed into boats under sun, with ‘Orinoco Flow’ echoing the pull of open water."
+    "match_reason": "An imperial campaign on the West African coast is paired with music born from African deserts and histories of resistance, re-centering the continent’s own voices instead of colonial ones."
   },
   "queue": [
-    {
-      "hour": 8,
-      "fact_text": "On February 18, 1781, Captain Thomas Shirley launched a British expedition against Dutch forts along the Gold Coast of West Africa, hoping to seize trading posts that controlled the flow of gold and enslaved people. It’s a glimpse of how European rivalries played out thousands of kilometers from home, reshaping African shores for centuries.",
-      "fact_year": 1781,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Shirley%27s_Gold_Coast_expedition",
-      "episode": {
-        "id": 22,
-        "title": "Morning Drops #16 - The Sound of Tuareg",
-        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
-        "songs": [
-          "Les Filles de Illighadad - Imigradan",
-          "Tinariwen - Amassakoul ’N’ Ténéré",
-          "Liya Ag Ablil - Awa Adounia",
-          "Tinariwen - Sastanàqqàm"
-        ],
-        "music-genres": [
-          "Desert Blues",
-          "Tuareg",
-          "World Music"
-        ]
-      },
-      "match_reason": "An imperial campaign on the West African coast is paired with music born from African deserts and histories of resistance, re-centering the continent’s own voices instead of colonial ones."
-    },
     {
       "hour": 9,
       "fact_text": "In 1932, Japan proclaimed the creation of Manchukuo in northeastern China, installing the last Qing emperor Puyi as a puppet ruler under the guise of an ‘independent’ state. Behind the ceremonial titles and flags, the region became a laboratory for imperial ambitions, resource extraction, and brutal control.",
@@ -653,9 +625,33 @@
         ]
       },
       "match_reason": "A 17th‑century naval ambush becomes a modern sea journey in this pairing—ships under attack transformed into boats under sun, with ‘Orinoco Flow’ echoing the pull of open water."
+    },
+    {
+      "hour": 8,
+      "fact_text": "On February 18, 1781, Captain Thomas Shirley launched a British expedition against Dutch forts along the Gold Coast of West Africa, hoping to seize trading posts that controlled the flow of gold and enslaved people. It’s a glimpse of how European rivalries played out thousands of kilometers from home, reshaping African shores for centuries.",
+      "fact_year": 1781,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Shirley%27s_Gold_Coast_expedition",
+      "episode": {
+        "id": 22,
+        "title": "Morning Drops #16 - The Sound of Tuareg",
+        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+        "songs": [
+          "Les Filles de Illighadad - Imigradan",
+          "Tinariwen - Amassakoul ’N’ Ténéré",
+          "Liya Ag Ablil - Awa Adounia",
+          "Tinariwen - Sastanàqqàm"
+        ],
+        "music-genres": [
+          "Desert Blues",
+          "Tuareg",
+          "World Music"
+        ]
+      },
+      "match_reason": "An imperial campaign on the West African coast is paired with music born from African deserts and histories of resistance, re-centering the continent’s own voices instead of colonial ones."
     }
   ],
   "generated_at": "2026-02-18T00:00:00.007182+00:00",
   "date": "2026-02-18",
-  "updated_at": "2026-02-18T07:00:01.668346+00:00"
+  "updated_at": "2026-02-18T08:00:01.632582+00:00"
 }
