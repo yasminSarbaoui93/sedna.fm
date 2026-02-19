@@ -1,55 +1,31 @@
 {
-  "current_hour": 20,
+  "current_hour": 21,
   "current_fact": {
-    "hour": 20,
-    "fact_text": "Beyond these events, NASA itself—founded in 1958—has become a symbol of humanity’s curiosity about the cosmos. From crewed moon landings to robotic explorers on Mars and beyond, its missions have turned distant worlds into places we can map, measure, and emotionally inhabit.",
-    "fact_year": 1958,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/NASA",
+    "hour": 21,
+    "fact_text": "The South Shetland Islands themselves form a cold, windswept arc just north of the Antarctic Peninsula, discovered in the 19th century but still largely uninhabited today. In summer, their black volcanic beaches host penguin colonies and research stations; in winter, they’re a frozen frontier battered by Southern Ocean storms.",
+    "fact_year": 1819,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/South_Shetland_Islands",
     "episode": {
-      "id": 55,
-      "title": "Morning Drops #48 - Cosmic Monday",
-      "description": "Cosmic Monday is a Morning Drops episode built around four Italian dance records, tracing how disco rhythms slowly became electronic language.\nGaia moves through four tracks like chapters: groove first, then machines, then that bright, futuristic feeling you only get when the bassline is doing the talking. It's not nostalgia, exactly. It's more like returning to a sound that still works — especially on mornings when you need a little extra energy, but you don't want anything aggressive.\nTake it as a slow transmission. Let it carry you into the day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-cosmic-monday",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "Giovanotti Mondani Meccanici - Don't Ask Me Why",
-        "Azoto - Sal Salvador",
-        "Capricorn - I Need Love",
-        "Cosmic Disco - Cosmic Sprint"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Italo Disco",
-        "Disco",
-        "Electronic"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "A broad celebration of NASA’s cosmic exploration is matched with 'Cosmic Monday', where dance music and machines reach for a futuristic, space‑tinged feeling."
+    "match_reason": "Remote polar islands and their harsh seas find a natural counterpart in an Arctic marine episode about diving with whales beyond the polar circle."
   },
   "queue": [
-    {
-      "hour": 21,
-      "fact_text": "The South Shetland Islands themselves form a cold, windswept arc just north of the Antarctic Peninsula, discovered in the 19th century but still largely uninhabited today. In summer, their black volcanic beaches host penguin colonies and research stations; in winter, they’re a frozen frontier battered by Southern Ocean storms.",
-      "fact_year": 1819,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/South_Shetland_Islands",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "Remote polar islands and their harsh seas find a natural counterpart in an Arctic marine episode about diving with whales beyond the polar circle."
-    },
     {
       "hour": 22,
       "fact_text": "The city of Darwin, repeatedly rebuilt after cyclones and wartime bombing, is today a multicultural gateway between Australia and Southeast Asia. Its tropical climate, harbor, and strategic location have made it both vulnerable to attack and vital for connection.",
@@ -647,9 +623,34 @@
         ]
       },
       "match_reason": "A broad celebration of NASA’s cosmic exploration is matched with 'Cosmic Monday', where dance music and machines reach for a futuristic, space‑tinged feeling."
+    },
+    {
+      "hour": 21,
+      "fact_text": "The South Shetland Islands themselves form a cold, windswept arc just north of the Antarctic Peninsula, discovered in the 19th century but still largely uninhabited today. In summer, their black volcanic beaches host penguin colonies and research stations; in winter, they’re a frozen frontier battered by Southern Ocean storms.",
+      "fact_year": 1819,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/South_Shetland_Islands",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "Remote polar islands and their harsh seas find a natural counterpart in an Arctic marine episode about diving with whales beyond the polar circle."
     }
   ],
   "generated_at": "2026-02-19T00:00:00.009697+00:00",
   "date": "2026-02-19",
-  "updated_at": "2026-02-19T20:00:01.491145+00:00"
+  "updated_at": "2026-02-19T21:00:01.558915+00:00"
 }
