@@ -1,57 +1,31 @@
 {
-  "current_hour": 12,
+  "current_hour": 13,
   "current_fact": {
-    "hour": 12,
-    "fact_text": "In 1937, during a ceremony in Addis Ababa, two young Eritrean-born Ethiopian nationalists hurled grenades at Italian viceroy Rodolfo Graziani, attempting to assassinate the man overseeing Italy’s brutal occupation. The failed attack triggered horrifying reprisals, but it also became a symbol of anti‑colonial resistance.",
-    "fact_year": 1937,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Yekatit_12",
+    "hour": 13,
+    "fact_text": "In 1915, Allied warships opened fire on Ottoman defenses in the Dardanelles, launching the first naval phase of the Gallipoli campaign. The narrow strait turned into a shooting gallery where geography, not just firepower, would decide the fate of empires.",
+    "fact_year": 1915,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Naval_operations_in_the_Dardanelles_campaign",
     "episode": {
-      "id": 51,
-      "title": "Morning Drops #44 - Residente",
-      "description": "In this edition of Morning Drops, Yasmin navigates the complex geography of René Pérez Joglar, known to the world as Residente. His story is not just a musical evolution; it is a timeline marked by resistance, lyrical obsession, and a relentless search for identity.\n\nFrom the gated streets of Trujillo Alto to the global stage, we explore how a restless mind transformed into the voice of a generation. The selection moves through the textures of his life: hearing the raw energy of his early rebellion, the sharp precision of his political critique, and finally, the fragile silence of his most personal confessions.\n\nIt is a study in duality. We witness the rapper who dismantles giants and the son who misses his mother. It is a soundscape that proves that sometimes, the loudest revolution happens inside.\n\nMood: Raw, Revolutionary, Introspective, Honest\nMusic genre: Latin Alternative, Hip Hop, Urban, World",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-residente",
+      "id": 28,
+      "title": "Morning Drops #22 - Sicilians On The Dolomites",
+      "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
       "songs": [
-        "Calle 13 - La Jirafa",
-        "Calle 13 - Adentro",
-        "Residente - René",
-        "Calle 13 - La Vuelta al Mundo"
+        "Franco Battiato - Haiku",
+        "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
+        "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
+        "Pink Floyd - Fearless"
       ],
       "music-genres": [
-        "Latin Alternative",
-        "Hip Hop",
-        "Urban",
-        "Rap",
-        "World"
+        "Italian Art Pop",
+        "French Jazz",
+        "Italian Singer-Songwriter",
+        "Progressive Rock"
       ]
     },
-    "match_reason": "An anti‑colonial assassination attempt aligns with an episode about a fiercely political artist who uses music as a tool of resistance."
+    "match_reason": "A strategic strait between seas is mirrored by an episode about navigating landscapes and coasts, with a sailor‑themed song ('Ma come fanno i marinai') linking sea and story."
   },
   "queue": [
-    {
-      "hour": 13,
-      "fact_text": "In 1915, Allied warships opened fire on Ottoman defenses in the Dardanelles, launching the first naval phase of the Gallipoli campaign. The narrow strait turned into a shooting gallery where geography, not just firepower, would decide the fate of empires.",
-      "fact_year": 1915,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Naval_operations_in_the_Dardanelles_campaign",
-      "episode": {
-        "id": 28,
-        "title": "Morning Drops #22 - Sicilians On The Dolomites",
-        "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
-        "songs": [
-          "Franco Battiato - Haiku",
-          "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
-          "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
-          "Pink Floyd - Fearless"
-        ],
-        "music-genres": [
-          "Italian Art Pop",
-          "French Jazz",
-          "Italian Singer-Songwriter",
-          "Progressive Rock"
-        ]
-      },
-      "match_reason": "A strategic strait between seas is mirrored by an episode about navigating landscapes and coasts, with a sailor‑themed song ('Ma come fanno i marinai') linking sea and story."
-    },
     {
       "hour": 14,
       "fact_text": "In 1884, more than sixty tornadoes tore across the American South in what became known as the Enigma tornado outbreak. The storm system was so poorly documented and widespread that even today, meteorologists debate how many twisters actually touched down.",
@@ -649,9 +623,34 @@
         ]
       },
       "match_reason": "An anti‑colonial assassination attempt aligns with an episode about a fiercely political artist who uses music as a tool of resistance."
+    },
+    {
+      "hour": 13,
+      "fact_text": "In 1915, Allied warships opened fire on Ottoman defenses in the Dardanelles, launching the first naval phase of the Gallipoli campaign. The narrow strait turned into a shooting gallery where geography, not just firepower, would decide the fate of empires.",
+      "fact_year": 1915,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Naval_operations_in_the_Dardanelles_campaign",
+      "episode": {
+        "id": 28,
+        "title": "Morning Drops #22 - Sicilians On The Dolomites",
+        "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
+        "songs": [
+          "Franco Battiato - Haiku",
+          "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
+          "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
+          "Pink Floyd - Fearless"
+        ],
+        "music-genres": [
+          "Italian Art Pop",
+          "French Jazz",
+          "Italian Singer-Songwriter",
+          "Progressive Rock"
+        ]
+      },
+      "match_reason": "A strategic strait between seas is mirrored by an episode about navigating landscapes and coasts, with a sailor‑themed song ('Ma come fanno i marinai') linking sea and story."
     }
   ],
   "generated_at": "2026-02-19T00:00:00.009697+00:00",
   "date": "2026-02-19",
-  "updated_at": "2026-02-19T12:00:01.588763+00:00"
+  "updated_at": "2026-02-19T13:00:01.532683+00:00"
 }
