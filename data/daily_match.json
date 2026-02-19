@@ -1,57 +1,34 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 2002, NASA's 2001 Mars Odyssey probe began systematically mapping Mars with its Thermal Emission Imaging System, creating detailed temperature-based portraits of the Martian surface. These infrared maps revealed hidden features like buried ice and ancient lava flows, turning heat itself into a kind of planetary x‑ray.",
-    "fact_year": 2002,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2001_Mars_Odyssey",
+    "hour": 1,
+    "fact_text": "In 1819, British mariner William Smith spotted a previously uncharted landmass while blown off course around Cape Horn, revealing what we now call the South Shetland Islands. His accidental discovery helped open the gateway to Antarctic exploration and sealing in the Southern Ocean.",
+    "fact_year": 1819,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/William_Smith_(mariner)",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "A space-mapping mission pairs naturally with an episode built around reimagining space and shifting perspective."
+    "match_reason": "A story of a 19th‑century sailor discovering new islands fits with a sea‑voyage episode recorded from a boat."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "In 1819, British mariner William Smith spotted a previously uncharted landmass while blown off course around Cape Horn, revealing what we now call the South Shetland Islands. His accidental discovery helped open the gateway to Antarctic exploration and sealing in the Southern Ocean.",
-      "fact_year": 1819,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/William_Smith_(mariner)",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "A story of a 19th‑century sailor discovering new islands fits with a sea‑voyage episode recorded from a boat."
-    },
     {
       "hour": 2,
       "fact_text": "In 1960, China launched its first sounding rocket, the T‑7, straight into the upper atmosphere to carry scientific instruments instead of people. These brief, sub‑orbital flights quietly laid the technological groundwork for the country’s later space ambitions.",
@@ -646,9 +623,37 @@
         ]
       },
       "match_reason": "A space-mapping mission pairs naturally with an episode built around reimagining space and shifting perspective."
+    },
+    {
+      "hour": 1,
+      "fact_text": "In 1819, British mariner William Smith spotted a previously uncharted landmass while blown off course around Cape Horn, revealing what we now call the South Shetland Islands. His accidental discovery helped open the gateway to Antarctic exploration and sealing in the Southern Ocean.",
+      "fact_year": 1819,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/William_Smith_(mariner)",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "A story of a 19th‑century sailor discovering new islands fits with a sea‑voyage episode recorded from a boat."
     }
   ],
   "generated_at": "2026-02-19T00:00:00.009697+00:00",
   "date": "2026-02-19",
-  "updated_at": "2026-02-19T00:00:46.894629+00:00"
+  "updated_at": "2026-02-19T01:00:01.607980+00:00"
 }
