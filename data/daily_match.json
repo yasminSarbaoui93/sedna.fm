@@ -1,56 +1,31 @@
 {
-  "current_hour": 9,
+  "current_hour": 10,
   "current_fact": {
-    "hour": 9,
-    "fact_text": "The 1835 Concepción earthquake devastated the Chilean port city and surrounding region, triggering tsunamis and reshaping the coastline. Charles Darwin happened to be nearby on the HMS Beagle and later used what he saw there to argue that Earth’s crust moves slowly over time.",
-    "fact_year": 1835,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1835_Concepci%C3%B3n_earthquake",
+    "hour": 10,
+    "fact_text": "In 1944, U.S. forces captured Enewetak Atoll in the Pacific, a remote coral ring that, only a few years later, would be scarred by some of the most powerful nuclear tests ever conducted. Palm-lined beaches and turquoise lagoons became a laboratory for weapons that lit the sky brighter than sunrise.",
+    "fact_year": 1944,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Enewetak_Atoll",
     "episode": {
-      "id": 41,
-      "title": "Morning Drops #35 - Thailand",
-      "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
+      "id": 31,
+      "title": "Morning Drops #31 - A Trip-Hop Journey",
+      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
       "songs": [
-        "Salin - Egungun",
-        "Justin Bieber - Love Yourself",
-        "Khun Narin - Phua Kao",
-        "Burna Boy - Cheat on Me (feat. Dave)"
+        "Massive Attack - Unfinished Sympathy",
+        "Tricky - Hell Is Round the Corner",
+        "DJ Shadow - Midnight in a Perfect World",
+        "Thievery Corporation - Lebanese Blonde",
+        "Smoke City - Underwater Love"
       ],
       "music-genres": [
-        "Afrobeat",
-        "Pop",
-        "Thai Funk",
-        "Afro-Fusion"
+        "Trip-Hop",
+        "Downtempo",
+        "Electronic"
       ]
     },
-    "match_reason": "A seafront city shaken into change and a naturalist observing movement in the Earth pair with an episode about disciplined bodily movement and training, linking tectonic shifts to human resilience."
+    "match_reason": "A serene atoll transformed into a stage for invisible fallout fits with moody, cinematic trip-hop that often scores war-torn or uneasy urban landscapes."
   },
   "queue": [
-    {
-      "hour": 10,
-      "fact_text": "In 1944, U.S. forces captured Enewetak Atoll in the Pacific, a remote coral ring that, only a few years later, would be scarred by some of the most powerful nuclear tests ever conducted. Palm-lined beaches and turquoise lagoons became a laboratory for weapons that lit the sky brighter than sunrise.",
-      "fact_year": 1944,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Enewetak_Atoll",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #31 - A Trip-Hop Journey",
-        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
-        "songs": [
-          "Massive Attack - Unfinished Sympathy",
-          "Tricky - Hell Is Round the Corner",
-          "DJ Shadow - Midnight in a Perfect World",
-          "Thievery Corporation - Lebanese Blonde",
-          "Smoke City - Underwater Love"
-        ],
-        "music-genres": [
-          "Trip-Hop",
-          "Downtempo",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A serene atoll transformed into a stage for invisible fallout fits with moody, cinematic trip-hop that often scores war-torn or uneasy urban landscapes."
-    },
     {
       "hour": 11,
       "fact_text": "In 1943, American film studio executives agreed to let the Office of War Information censor movies during World War II. Hollywood scripts and scenes were quietly adjusted to boost morale, avoid sensitive topics, and turn entertainment into a carefully curated tool of propaganda.",
@@ -647,9 +622,34 @@
         ]
       },
       "match_reason": "A seafront city shaken into change and a naturalist observing movement in the Earth pair with an episode about disciplined bodily movement and training, linking tectonic shifts to human resilience."
+    },
+    {
+      "hour": 10,
+      "fact_text": "In 1944, U.S. forces captured Enewetak Atoll in the Pacific, a remote coral ring that, only a few years later, would be scarred by some of the most powerful nuclear tests ever conducted. Palm-lined beaches and turquoise lagoons became a laboratory for weapons that lit the sky brighter than sunrise.",
+      "fact_year": 1944,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Enewetak_Atoll",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #31 - A Trip-Hop Journey",
+        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+        "songs": [
+          "Massive Attack - Unfinished Sympathy",
+          "Tricky - Hell Is Round the Corner",
+          "DJ Shadow - Midnight in a Perfect World",
+          "Thievery Corporation - Lebanese Blonde",
+          "Smoke City - Underwater Love"
+        ],
+        "music-genres": [
+          "Trip-Hop",
+          "Downtempo",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A serene atoll transformed into a stage for invisible fallout fits with moody, cinematic trip-hop that often scores war-torn or uneasy urban landscapes."
     }
   ],
   "generated_at": "2026-02-20T00:00:00.008797+00:00",
   "date": "2026-02-20",
-  "updated_at": "2026-02-20T09:00:01.610225+00:00"
+  "updated_at": "2026-02-20T10:00:01.635604+00:00"
 }
