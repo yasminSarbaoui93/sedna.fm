@@ -1,59 +1,31 @@
 {
-  "current_hour": 20,
+  "current_hour": 21,
   "current_fact": {
-    "hour": 20,
-    "fact_text": "The United States Emergency Broadcast System false alarm in 1971 revealed how fragile and human the machinery of national alerts really was. A single mistyped code word—issued by a technician in Colorado—sent a wave of unintended urgency to every TV and radio station in the country.",
-    "fact_year": 1971,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Emergency_Broadcast_System",
+    "hour": 21,
+    "fact_text": "World War II turned tropical Enewetak Atoll into a contested military objective in 1944, but its later identity as a nuclear test site left long-lived radioactive contamination in its lagoon and soil. Even today, parts of the atoll bear concrete domes sealing in radioactive debris, a human-made ‘crater’ visible from space.",
+    "fact_year": 1944,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Enewetak_Atoll",
     "episode": {
-      "id": 54,
-      "title": "Morning Drops #47 - The Rise Of Autotune",
-      "description": "In this Morning Drop, Yasmin explores the explosive rise of Auto-Tune, a tool that quietly changed the sound of music without asking for attention. From fragile, imperfect recordings to voices shaped with precision, this episode follows the moment when correction became standard and sound became controlled.\n\nAlong the way, we discover the curious story of how it was invented, how it moved from the background of studios to the center of debate, and how a few artists turned it into something expressive rather than hidden.\n\nListen slowly, and let us know what you think about Autotune.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-autotune",
+      "id": 39,
+      "title": "Morning Drops #33 - Immerse",
+      "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
       "songs": [
-        "Chet Baker – I Fall in Love Too Easily",
-        "Destiny’s Child – Survivor",
-        "T-Pain – I’m Sprung",
-        "Jay-Z – D.O.A. (Death of Auto-Tune)",
-        "Travis Scott feat. Kacy Hill – 90210"
+        "Pino D'Angiò - Un Po' d'Uva e un Liquore",
+        "Midlife - The Magnificent Moon",
+        "Tornado Wallace - Today",
+        "Nu Genea - Marechià (feat. Celia Kameni)"
       ],
       "music-genres": [
-        "Jazz",
-        "R&B",
-        "Hip-Hop",
-        "Pop",
-        "Trap",
-        "Electronic"
+        "Italo Disco",
+        "Indie",
+        "Balearic",
+        "Nu Disco"
       ]
     },
-    "match_reason": "A tiny technical error rippling across a whole broadcast system parallels how a studio tool meant for correction reshaped global pop, both revealing the power and vulnerability of our audio infrastructure."
+    "match_reason": "A lagoon hiding buried fallout ties to an episode about going below the surface and immersing fully, inviting listeners to think about what lies unseen beneath calm water."
   },
   "queue": [
-    {
-      "hour": 21,
-      "fact_text": "World War II turned tropical Enewetak Atoll into a contested military objective in 1944, but its later identity as a nuclear test site left long-lived radioactive contamination in its lagoon and soil. Even today, parts of the atoll bear concrete domes sealing in radioactive debris, a human-made ‘crater’ visible from space.",
-      "fact_year": 1944,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Enewetak_Atoll",
-      "episode": {
-        "id": 39,
-        "title": "Morning Drops #33 - Immerse",
-        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
-        "songs": [
-          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
-          "Midlife - The Magnificent Moon",
-          "Tornado Wallace - Today",
-          "Nu Genea - Marechià (feat. Celia Kameni)"
-        ],
-        "music-genres": [
-          "Italo Disco",
-          "Indie",
-          "Balearic",
-          "Nu Disco"
-        ]
-      },
-      "match_reason": "A lagoon hiding buried fallout ties to an episode about going below the surface and immersing fully, inviting listeners to think about what lies unseen beneath calm water."
-    },
     {
       "hour": 22,
       "fact_text": "The Futurist Manifesto published in 1909 didn’t just praise speed and machines; it also glorified war as “the world’s only hygiene,” a line that aged into chilling irony after two world wars. It shows how artistic excitement about new technology can blind people to the human cost of the future they imagine.",
@@ -650,9 +622,34 @@
         ]
       },
       "match_reason": "A tiny technical error rippling across a whole broadcast system parallels how a studio tool meant for correction reshaped global pop, both revealing the power and vulnerability of our audio infrastructure."
+    },
+    {
+      "hour": 21,
+      "fact_text": "World War II turned tropical Enewetak Atoll into a contested military objective in 1944, but its later identity as a nuclear test site left long-lived radioactive contamination in its lagoon and soil. Even today, parts of the atoll bear concrete domes sealing in radioactive debris, a human-made ‘crater’ visible from space.",
+      "fact_year": 1944,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Enewetak_Atoll",
+      "episode": {
+        "id": 39,
+        "title": "Morning Drops #33 - Immerse",
+        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
+        "songs": [
+          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
+          "Midlife - The Magnificent Moon",
+          "Tornado Wallace - Today",
+          "Nu Genea - Marechià (feat. Celia Kameni)"
+        ],
+        "music-genres": [
+          "Italo Disco",
+          "Indie",
+          "Balearic",
+          "Nu Disco"
+        ]
+      },
+      "match_reason": "A lagoon hiding buried fallout ties to an episode about going below the surface and immersing fully, inviting listeners to think about what lies unseen beneath calm water."
     }
   ],
   "generated_at": "2026-02-20T00:00:00.008797+00:00",
   "date": "2026-02-20",
-  "updated_at": "2026-02-20T20:00:01.361203+00:00"
+  "updated_at": "2026-02-20T21:00:01.408710+00:00"
 }
