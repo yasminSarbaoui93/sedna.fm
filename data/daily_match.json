@@ -1,56 +1,31 @@
 {
-  "current_hour": 9,
+  "current_hour": 10,
   "current_fact": {
-    "hour": 9,
-    "fact_text": "In 1835, a massive earthquake destroyed much of Concepción, Chile, tearing open the ground just as the young naturalist Charles Darwin visited the region aboard HMS Beagle. The sight of uplifted shorelines and ruined city walls helped convince him that slow, natural forces—not sudden catastrophes alone—had shaped Earth over deep time.",
-    "fact_year": 1835,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1835_Concepción_earthquake",
+    "hour": 10,
+    "fact_text": "In 1944, during World War II, U.S. forces captured Enewetak Atoll in the Marshall Islands after fierce fighting, securing a remote ring of coral in the Pacific. Within a few years, those quiet tropical islets were transformed into one of the main test grounds for American nuclear weapons, turning a battlefield into a laboratory of atomic fire.",
+    "fact_year": 1944,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Enewetak_Atoll",
     "episode": {
-      "id": 31,
-      "title": "Morning Drops #31 - A Trip-Hop Journey",
-      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+      "id": 18,
+      "title": "Morning Drops #12 - 80's Club",
+      "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
       "songs": [
-        "Massive Attack - Unfinished Sympathy",
-        "Tricky - Hell Is Round the Corner",
-        "DJ Shadow - Midnight in a Perfect World",
-        "Thievery Corporation - Lebanese Blonde",
-        "Smoke City - Underwater Love"
+        "Donna Summer - I Feel Love",
+        "Depeche Mode - Just Can't Get Enough",
+        "Ken Laszlo - Hey Hey Guy",
+        "Mylène Farmer - Sans Contrefaçon"
       ],
       "music-genres": [
-        "Trip-Hop",
-        "Downtempo",
-        "Electronic"
+        "Disco",
+        "Synthpop",
+        "Italo Disco",
+        "French Pop"
       ]
     },
-    "match_reason": "Darwin’s evolving view of Earth’s forces parallels an episode about a genre’s evolution and boundary‑blurring musical ‘tectonics’."
+    "match_reason": "The atoll’s later nuclear tests were icons of Cold War technology, echoing the 1980s’ fascination with electronic machines shaping culture."
   },
   "queue": [
-    {
-      "hour": 10,
-      "fact_text": "In 1944, during World War II, U.S. forces captured Enewetak Atoll in the Marshall Islands after fierce fighting, securing a remote ring of coral in the Pacific. Within a few years, those quiet tropical islets were transformed into one of the main test grounds for American nuclear weapons, turning a battlefield into a laboratory of atomic fire.",
-      "fact_year": 1944,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Enewetak_Atoll",
-      "episode": {
-        "id": 18,
-        "title": "Morning Drops #12 - 80's Club",
-        "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
-        "songs": [
-          "Donna Summer - I Feel Love",
-          "Depeche Mode - Just Can't Get Enough",
-          "Ken Laszlo - Hey Hey Guy",
-          "Mylène Farmer - Sans Contrefaçon"
-        ],
-        "music-genres": [
-          "Disco",
-          "Synthpop",
-          "Italo Disco",
-          "French Pop"
-        ]
-      },
-      "match_reason": "The atoll’s later nuclear tests were icons of Cold War technology, echoing the 1980s’ fascination with electronic machines shaping culture."
-    },
     {
       "hour": 11,
       "fact_text": "In 1943, Hollywood studio executives agreed to let the U.S. Office of War Information review and influence their films, effectively turning cinema screens into soft‑power weapons. Scripts were tweaked so heroes recycled scrap metal, enemies looked clearly villainous, and plotlines quietly encouraged unity and sacrifice.",
@@ -662,9 +637,34 @@
         ]
       },
       "match_reason": "Darwin’s evolving view of Earth’s forces parallels an episode about a genre’s evolution and boundary‑blurring musical ‘tectonics’."
+    },
+    {
+      "hour": 10,
+      "fact_text": "In 1944, during World War II, U.S. forces captured Enewetak Atoll in the Marshall Islands after fierce fighting, securing a remote ring of coral in the Pacific. Within a few years, those quiet tropical islets were transformed into one of the main test grounds for American nuclear weapons, turning a battlefield into a laboratory of atomic fire.",
+      "fact_year": 1944,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Enewetak_Atoll",
+      "episode": {
+        "id": 18,
+        "title": "Morning Drops #12 - 80's Club",
+        "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
+        "songs": [
+          "Donna Summer - I Feel Love",
+          "Depeche Mode - Just Can't Get Enough",
+          "Ken Laszlo - Hey Hey Guy",
+          "Mylène Farmer - Sans Contrefaçon"
+        ],
+        "music-genres": [
+          "Disco",
+          "Synthpop",
+          "Italo Disco",
+          "French Pop"
+        ]
+      },
+      "match_reason": "The atoll’s later nuclear tests were icons of Cold War technology, echoing the 1980s’ fascination with electronic machines shaping culture."
     }
   ],
   "generated_at": "2026-02-20T00:00:00.022722+00:00",
   "date": "2026-02-20",
-  "updated_at": "2026-02-20T09:00:01.555871+00:00"
+  "updated_at": "2026-02-20T10:00:01.572761+00:00"
 }
