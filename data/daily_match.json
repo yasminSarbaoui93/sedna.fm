@@ -1,59 +1,36 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 1962, John Glenn orbited Earth three times aboard the spacecraft Friendship 7, becoming the first American to circle the planet. For nearly five hours, he flew solo through the darkness and sunrise of low Earth orbit, while ground control scrambled to interpret mysterious sensor readings about his heat shield.",
-    "fact_year": 1962,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mercury-Atlas_6",
+    "hour": 1,
+    "fact_text": "Ranger 8 ended its 1965 life by smashing into the Moon on purpose, after beaming back over 7,000 close-up photos of potential Apollo landing sites. The probe had only about 65 hours to work, but those last images helped humans decide where to set foot on another world.",
+    "fact_year": 1965,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ranger_8",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 48,
+      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Stive Morgan - Solar Wind, Pt. 3",
+        "David Visan & Carlos Campos - Crystal Heart",
+        "Evan Mars - Ya Zareef Al Tool",
+        "Gerardo Frisina - Cuiabá",
+        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+        "The Busy Twist - Friday Night"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Ambient",
+        "Deep House",
+        "World Music",
+        "Nu Jazz",
+        "Afrobeat",
+        "Funk",
+        "Electronic"
       ]
     },
-    "match_reason": "A literal spaceflight milestone pairs with an episode about redefining emptiness as creative space, echoing Glenn’s leap into orbital unknowns."
+    "match_reason": "A probe gliding toward a luminous lunar crash is mirrored by a set that crescendos from ambient space to full-body motion, like Ranger 8’s last images building toward impact."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "Ranger 8 ended its 1965 life by smashing into the Moon on purpose, after beaming back over 7,000 close-up photos of potential Apollo landing sites. The probe had only about 65 hours to work, but those last images helped humans decide where to set foot on another world.",
-      "fact_year": 1965,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ranger_8",
-      "episode": {
-        "id": 48,
-        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
-        "songs": [
-          "Stive Morgan - Solar Wind, Pt. 3",
-          "David Visan & Carlos Campos - Crystal Heart",
-          "Evan Mars - Ya Zareef Al Tool",
-          "Gerardo Frisina - Cuiabá",
-          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-          "The Busy Twist - Friday Night"
-        ],
-        "music-genres": [
-          "Ambient",
-          "Deep House",
-          "World Music",
-          "Nu Jazz",
-          "Afrobeat",
-          "Funk",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A probe gliding toward a luminous lunar crash is mirrored by a set that crescendos from ambient space to full-body motion, like Ranger 8’s last images building toward impact."
-    },
     {
       "hour": 2,
       "fact_text": "In 1968, China founded the China Academy of Space Technology in Beijing, a quietly pivotal step toward launching its own satellites and space stations. From weather and communications satellites to deep-space probes, this institution became the workshop for China’s cosmic ambitions.",
@@ -645,9 +622,39 @@
         ]
       },
       "match_reason": "A literal spaceflight milestone pairs with an episode about redefining emptiness as creative space, echoing Glenn’s leap into orbital unknowns."
+    },
+    {
+      "hour": 1,
+      "fact_text": "Ranger 8 ended its 1965 life by smashing into the Moon on purpose, after beaming back over 7,000 close-up photos of potential Apollo landing sites. The probe had only about 65 hours to work, but those last images helped humans decide where to set foot on another world.",
+      "fact_year": 1965,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ranger_8",
+      "episode": {
+        "id": 48,
+        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+        "songs": [
+          "Stive Morgan - Solar Wind, Pt. 3",
+          "David Visan & Carlos Campos - Crystal Heart",
+          "Evan Mars - Ya Zareef Al Tool",
+          "Gerardo Frisina - Cuiabá",
+          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+          "The Busy Twist - Friday Night"
+        ],
+        "music-genres": [
+          "Ambient",
+          "Deep House",
+          "World Music",
+          "Nu Jazz",
+          "Afrobeat",
+          "Funk",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A probe gliding toward a luminous lunar crash is mirrored by a set that crescendos from ambient space to full-body motion, like Ranger 8’s last images building toward impact."
     }
   ],
   "generated_at": "2026-02-20T00:00:00.008797+00:00",
   "date": "2026-02-20",
-  "updated_at": "2026-02-20T00:00:44.460993+00:00"
+  "updated_at": "2026-02-20T01:00:01.809134+00:00"
 }
