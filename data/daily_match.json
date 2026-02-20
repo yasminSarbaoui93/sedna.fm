@@ -1,56 +1,31 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "In 1944, during World War II, U.S. forces captured Enewetak Atoll in the Marshall Islands after fierce fighting, securing a remote ring of coral in the Pacific. Within a few years, those quiet tropical islets were transformed into one of the main test grounds for American nuclear weapons, turning a battlefield into a laboratory of atomic fire.",
-    "fact_year": 1944,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Enewetak_Atoll",
+    "hour": 11,
+    "fact_text": "In 1943, Hollywood studio executives agreed to let the U.S. Office of War Information review and influence their films, effectively turning cinema screens into soft‑power weapons. Scripts were tweaked so heroes recycled scrap metal, enemies looked clearly villainous, and plotlines quietly encouraged unity and sacrifice.",
+    "fact_year": 1943,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/United_States_Office_of_War_Information",
     "episode": {
-      "id": 18,
-      "title": "Morning Drops #12 - 80's Club",
-      "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
+      "id": 44,
+      "title": "Morning Drops #38 - History of Flamenco",
+      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
       "songs": [
-        "Donna Summer - I Feel Love",
-        "Depeche Mode - Just Can't Get Enough",
-        "Ken Laszlo - Hey Hey Guy",
-        "Mylène Farmer - Sans Contrefaçon"
+        "La Niña de los Peines - Al Gurugú",
+        "Lola Flores - Pena, penita, pena",
+        "Paco de Lucía - Entre dos aguas",
+        "Camarón de la Isla - La leyenda del tiempo",
+        "Rosalía - Pienso en tu mirá"
       ],
       "music-genres": [
-        "Disco",
-        "Synthpop",
-        "Italo Disco",
-        "French Pop"
+        "Flamenco",
+        "Spanish Folk",
+        "Nuevo Flamenco"
       ]
     },
-    "match_reason": "The atoll’s later nuclear tests were icons of Cold War technology, echoing the 1980s’ fascination with electronic machines shaping culture."
+    "match_reason": "Both stories explore how powerful institutions shape what appears on stage and screen—one through wartime censorship, the other through evolving cultural performance."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "In 1943, Hollywood studio executives agreed to let the U.S. Office of War Information review and influence their films, effectively turning cinema screens into soft‑power weapons. Scripts were tweaked so heroes recycled scrap metal, enemies looked clearly villainous, and plotlines quietly encouraged unity and sacrifice.",
-      "fact_year": 1943,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/United_States_Office_of_War_Information",
-      "episode": {
-        "id": 44,
-        "title": "Morning Drops #38 - History of Flamenco",
-        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
-        "songs": [
-          "La Niña de los Peines - Al Gurugú",
-          "Lola Flores - Pena, penita, pena",
-          "Paco de Lucía - Entre dos aguas",
-          "Camarón de la Isla - La leyenda del tiempo",
-          "Rosalía - Pienso en tu mirá"
-        ],
-        "music-genres": [
-          "Flamenco",
-          "Spanish Folk",
-          "Nuevo Flamenco"
-        ]
-      },
-      "match_reason": "Both stories explore how powerful institutions shape what appears on stage and screen—one through wartime censorship, the other through evolving cultural performance."
-    },
     {
       "hour": 12,
       "fact_text": "In 1816, Rossini’s comic opera The Barber of Seville premiered in Rome to a surprisingly chaotic reception: the first night was marred by tuning mishaps, onstage accidents, and hostile rivals hissing in the audience. Within days, though, the sparkling overture and quick‑witted arias won over listeners, and it became one of the most beloved operas ever written.",
@@ -662,9 +637,34 @@
         ]
       },
       "match_reason": "The atoll’s later nuclear tests were icons of Cold War technology, echoing the 1980s’ fascination with electronic machines shaping culture."
+    },
+    {
+      "hour": 11,
+      "fact_text": "In 1943, Hollywood studio executives agreed to let the U.S. Office of War Information review and influence their films, effectively turning cinema screens into soft‑power weapons. Scripts were tweaked so heroes recycled scrap metal, enemies looked clearly villainous, and plotlines quietly encouraged unity and sacrifice.",
+      "fact_year": 1943,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/United_States_Office_of_War_Information",
+      "episode": {
+        "id": 44,
+        "title": "Morning Drops #38 - History of Flamenco",
+        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+        "songs": [
+          "La Niña de los Peines - Al Gurugú",
+          "Lola Flores - Pena, penita, pena",
+          "Paco de Lucía - Entre dos aguas",
+          "Camarón de la Isla - La leyenda del tiempo",
+          "Rosalía - Pienso en tu mirá"
+        ],
+        "music-genres": [
+          "Flamenco",
+          "Spanish Folk",
+          "Nuevo Flamenco"
+        ]
+      },
+      "match_reason": "Both stories explore how powerful institutions shape what appears on stage and screen—one through wartime censorship, the other through evolving cultural performance."
     }
   ],
   "generated_at": "2026-02-20T00:00:00.022722+00:00",
   "date": "2026-02-20",
-  "updated_at": "2026-02-20T10:00:01.572761+00:00"
+  "updated_at": "2026-02-20T11:00:02.012481+00:00"
 }
