@@ -1,56 +1,31 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "In 1944, U.S. forces captured Enewetak Atoll in the Pacific, a remote coral ring that, only a few years later, would be scarred by some of the most powerful nuclear tests ever conducted. Palm-lined beaches and turquoise lagoons became a laboratory for weapons that lit the sky brighter than sunrise.",
-    "fact_year": 1944,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Enewetak_Atoll",
+    "hour": 11,
+    "fact_text": "In 1943, American film studio executives agreed to let the Office of War Information censor movies during World War II. Hollywood scripts and scenes were quietly adjusted to boost morale, avoid sensitive topics, and turn entertainment into a carefully curated tool of propaganda.",
+    "fact_year": 1943,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/United_States_Office_of_War_Information",
     "episode": {
-      "id": 31,
-      "title": "Morning Drops #31 - A Trip-Hop Journey",
-      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "Massive Attack - Unfinished Sympathy",
-        "Tricky - Hell Is Round the Corner",
-        "DJ Shadow - Midnight in a Perfect World",
-        "Thievery Corporation - Lebanese Blonde",
-        "Smoke City - Underwater Love"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Trip-Hop",
-        "Downtempo",
-        "Electronic"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "A serene atoll transformed into a stage for invisible fallout fits with moody, cinematic trip-hop that often scores war-torn or uneasy urban landscapes."
+    "match_reason": "Government control over wartime movies parallels modern anxieties about screens and information flows, matching an episode that critiques how technology shapes what we see and feel."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "In 1943, American film studio executives agreed to let the Office of War Information censor movies during World War II. Hollywood scripts and scenes were quietly adjusted to boost morale, avoid sensitive topics, and turn entertainment into a carefully curated tool of propaganda.",
-      "fact_year": 1943,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/United_States_Office_of_War_Information",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "Government control over wartime movies parallels modern anxieties about screens and information flows, matching an episode that critiques how technology shapes what we see and feel."
-    },
     {
       "hour": 12,
       "fact_text": "Rossini’s comic opera “The Barber of Seville” stumbled at its 1816 premiere in Rome with onstage mishaps and hostile fans of a rival composer, but it quickly rebounded to become one of the most beloved operas ever written. Its quicksilver melodies and chaotic plot about a clever barber still set the standard for musical comedy.",
@@ -647,9 +622,34 @@
         ]
       },
       "match_reason": "A serene atoll transformed into a stage for invisible fallout fits with moody, cinematic trip-hop that often scores war-torn or uneasy urban landscapes."
+    },
+    {
+      "hour": 11,
+      "fact_text": "In 1943, American film studio executives agreed to let the Office of War Information censor movies during World War II. Hollywood scripts and scenes were quietly adjusted to boost morale, avoid sensitive topics, and turn entertainment into a carefully curated tool of propaganda.",
+      "fact_year": 1943,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/United_States_Office_of_War_Information",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "Government control over wartime movies parallels modern anxieties about screens and information flows, matching an episode that critiques how technology shapes what we see and feel."
     }
   ],
   "generated_at": "2026-02-20T00:00:00.008797+00:00",
   "date": "2026-02-20",
-  "updated_at": "2026-02-20T10:00:01.635604+00:00"
+  "updated_at": "2026-02-20T11:00:01.678909+00:00"
 }
