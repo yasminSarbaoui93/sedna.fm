@@ -1,59 +1,34 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "During a 2003 Great White concert in West Warwick, Rhode Island, indoor pyrotechnics ignited soundproofing foam and turned The Station nightclub into a lethal fire trap in under two minutes. The blaze killed 100 people and triggered sweeping changes to fire codes, building exits, and concert safety regulations across the United States.",
-    "fact_year": 2003,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/The_Station_nightclub_fire",
+    "hour": 6,
+    "fact_text": "In 1685, French explorer René-Robert Cavelier, Sieur de La Salle, established Fort St. Louis at Matagorda Bay, a remote outpost that briefly turned part of Texas into a French colonial foothold. Misnavigation had brought his expedition hundreds of miles west of their intended Mississippi River target, reshaping the map by mistake.",
+    "fact_year": 1685,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/French_colonization_of_Texas",
     "episode": {
-      "id": 11,
-      "title": "Morning Drops #05 - Electric Shock",
-      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "Johnny Winter - Highway 61 Revisited",
-        "Joan Armatrading - Sleight of Hand",
-        "Joan Armatrading - Russian Roulette",
-        "Jimi Hendrix - Freedom",
-        "Jeff Beck - Scatterbrain"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Rock",
-        "Electric Blues"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "A rock show where electricity and spectacle turned deadly is paired with a guitar-charged set, hinting at how raw musical ‘shock’ must be held in safe hands."
+    "match_reason": "A mischarted transatlantic voyage that accidentally ‘discovers’ Texas pairs with an episode recorded from a sailing boat, both built around life and stories at sea."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "In 1685, French explorer René-Robert Cavelier, Sieur de La Salle, established Fort St. Louis at Matagorda Bay, a remote outpost that briefly turned part of Texas into a French colonial foothold. Misnavigation had brought his expedition hundreds of miles west of their intended Mississippi River target, reshaping the map by mistake.",
-      "fact_year": 1685,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/French_colonization_of_Texas",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "A mischarted transatlantic voyage that accidentally ‘discovers’ Texas pairs with an episode recorded from a sailing boat, both built around life and stories at sea."
-    },
     {
       "hour": 7,
       "fact_text": "Caroline Mikkelsen stepped onto an Antarctic island in 1935, becoming the first woman known to set foot on the Antarctic region. For decades her exact landing site was uncertain, turning her brief walk on the ice into a quiet polar mystery revisited by later explorers.",
@@ -647,9 +622,37 @@
         ]
       },
       "match_reason": "A rock show where electricity and spectacle turned deadly is paired with a guitar-charged set, hinting at how raw musical ‘shock’ must be held in safe hands."
+    },
+    {
+      "hour": 6,
+      "fact_text": "In 1685, French explorer René-Robert Cavelier, Sieur de La Salle, established Fort St. Louis at Matagorda Bay, a remote outpost that briefly turned part of Texas into a French colonial foothold. Misnavigation had brought his expedition hundreds of miles west of their intended Mississippi River target, reshaping the map by mistake.",
+      "fact_year": 1685,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/French_colonization_of_Texas",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "A mischarted transatlantic voyage that accidentally ‘discovers’ Texas pairs with an episode recorded from a sailing boat, both built around life and stories at sea."
     }
   ],
   "generated_at": "2026-02-20T00:00:00.008797+00:00",
   "date": "2026-02-20",
-  "updated_at": "2026-02-20T05:00:01.651875+00:00"
+  "updated_at": "2026-02-20T06:00:01.516725+00:00"
 }
