@@ -1,59 +1,31 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "On 21 February 1995, adventurer Steve Fossett completed the first solo hot-air balloon flight across the Pacific Ocean, landing in the small town of Leader, Saskatchewan. Alone in a fragile capsule above vast water, he rode jet streams for nearly four days, turning the sky itself into a long, drifting highway.",
-    "fact_year": 1995,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Steve_Fossett",
+    "hour": 4,
+    "fact_text": "On 21 February 1918, the last known Carolina parakeet—America’s only native parrot—died in captivity at the Cincinnati Zoo. Once common in huge flocks across the eastern United States, the species vanished within decades due to habitat loss and persecution, leaving only museum specimens and faded eyewitness stories.",
+    "fact_year": 1918,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Carolina_parakeet",
     "episode": {
-      "id": 37,
-      "title": "Morning Drops #31 - Sailing With Germans",
-      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "Billy Talent - Dead Silence",
-        "Ben Howard - Keep Your Head Up",
-        "Ziggy Alberts - Simple Things",
-        "Vitor Kley - O Sol",
-        "Enya - Orinoco Flow",
-        "Paveier - Leev Marie"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Punk Rock",
-        "Indie Folk",
-        "Surf Pop",
-        "New Age",
-        "German Folk"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "A solitary balloon crossing an ocean echoes the episode’s sea voyage theme, both celebrating long journeys carried by wind and weather."
+    "match_reason": "An extinction story pairs with an episode about fragile marine giants, both inviting reflection on humanity’s impact on wild creatures and what it means to witness them—or lose them—forever."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "On 21 February 1918, the last known Carolina parakeet—America’s only native parrot—died in captivity at the Cincinnati Zoo. Once common in huge flocks across the eastern United States, the species vanished within decades due to habitat loss and persecution, leaving only museum specimens and faded eyewitness stories.",
-      "fact_year": 1918,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Carolina_parakeet",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "An extinction story pairs with an episode about fragile marine giants, both inviting reflection on humanity’s impact on wild creatures and what it means to witness them—or lose them—forever."
-    },
     {
       "hour": 5,
       "fact_text": "On 21 February 1828, the first issue of the Cherokee Phoenix was published, becoming the first Native American newspaper and the first periodical printed in the Cherokee syllabary. Sequoyah’s writing system allowed Cherokee readers to see their own language in print, turning type and ink into tools of cultural survival.",
@@ -652,9 +624,34 @@
         ]
       },
       "match_reason": "A solitary balloon crossing an ocean echoes the episode’s sea voyage theme, both celebrating long journeys carried by wind and weather."
+    },
+    {
+      "hour": 4,
+      "fact_text": "On 21 February 1918, the last known Carolina parakeet—America’s only native parrot—died in captivity at the Cincinnati Zoo. Once common in huge flocks across the eastern United States, the species vanished within decades due to habitat loss and persecution, leaving only museum specimens and faded eyewitness stories.",
+      "fact_year": 1918,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Carolina_parakeet",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "An extinction story pairs with an episode about fragile marine giants, both inviting reflection on humanity’s impact on wild creatures and what it means to witness them—or lose them—forever."
     }
   ],
   "generated_at": "2026-02-21T00:00:00.013662+00:00",
   "date": "2026-02-21",
-  "updated_at": "2026-02-21T03:00:01.342447+00:00"
+  "updated_at": "2026-02-21T04:00:01.499206+00:00"
 }
