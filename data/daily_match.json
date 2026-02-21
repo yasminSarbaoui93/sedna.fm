@@ -1,55 +1,30 @@
 {
-  "current_hour": 15,
+  "current_hour": 16,
   "current_fact": {
-    "hour": 15,
-    "fact_text": "On 21 February 1896, the World Heavyweight boxing title was decided in a makeshift ring near Ciudad Juárez, technically on Mexican soil to skirt U.S. restrictions. Bob Fitzsimmons, an Englishman raised in Australia, knocked out Irishman Peter Maher in under two minutes, turning a dusty border location into the world’s temporary boxing capital.",
-    "fact_year": 1896,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bob_Fitzsimmons_vs._Peter_Maher",
+    "hour": 16,
+    "fact_text": "On 21 February 1862, Union and Confederate forces clashed near Fort Craig in the New Mexico Territory at the Battle of Valverde. It was part of the often‑overlooked New Mexico Campaign, where the Civil War briefly spilled into desert mesas and river crossings far from the better‑known eastern battlefields.",
+    "fact_year": 1862,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Valverde",
     "episode": {
-      "id": 41,
-      "title": "Morning Drops #35 - Thailand",
-      "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
+      "id": 22,
+      "title": "Morning Drops #16 - The Sound of Tuareg",
+      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
       "songs": [
-        "Salin - Egungun",
-        "Justin Bieber - Love Yourself",
-        "Khun Narin - Phua Kao",
-        "Burna Boy - Cheat on Me (feat. Dave)"
+        "Les Filles de Illighadad - Imigradan",
+        "Tinariwen - Amassakoul ’N’ Ténéré",
+        "Liya Ag Ablil - Awa Adounia",
+        "Tinariwen - Sastanàqqàm"
       ],
       "music-genres": [
-        "Afrobeat",
-        "Pop",
-        "Thai Funk",
-        "Afro-Fusion"
+        "Desert Blues",
+        "Tuareg",
+        "World Music"
       ]
     },
-    "match_reason": "A historic heavyweight showdown in a liminal border space resonates with an episode grounded in boxing and martial arts, both celebrating fight disciplines and the global routes they travel."
+    "match_reason": "An arid, under‑told Civil War battle in the Southwest finds a sonic twin in an episode about desert cultures and survival, shifting the desert from a backdrop for armies to a living home for resilient music."
   },
   "queue": [
-    {
-      "hour": 16,
-      "fact_text": "On 21 February 1862, Union and Confederate forces clashed near Fort Craig in the New Mexico Territory at the Battle of Valverde. It was part of the often‑overlooked New Mexico Campaign, where the Civil War briefly spilled into desert mesas and river crossings far from the better‑known eastern battlefields.",
-      "fact_year": 1862,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Valverde",
-      "episode": {
-        "id": 22,
-        "title": "Morning Drops #16 - The Sound of Tuareg",
-        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
-        "songs": [
-          "Les Filles de Illighadad - Imigradan",
-          "Tinariwen - Amassakoul ’N’ Ténéré",
-          "Liya Ag Ablil - Awa Adounia",
-          "Tinariwen - Sastanàqqàm"
-        ],
-        "music-genres": [
-          "Desert Blues",
-          "Tuareg",
-          "World Music"
-        ]
-      },
-      "match_reason": "An arid, under‑told Civil War battle in the Southwest finds a sonic twin in an episode about desert cultures and survival, shifting the desert from a backdrop for armies to a living home for resilient music."
-    },
     {
       "hour": 17,
       "fact_text": "On 21 February 1828, the first issue of the *Cherokee Phoenix* rolled off the press, becoming the first newspaper printed in a Native American language. It used the newly invented Cherokee syllabary created by Sequoyah, turning an oral tradition into a printed one and linking Indigenous news, politics, and poetry in a single bilingual publication.",
@@ -655,9 +630,33 @@
         ]
       },
       "match_reason": "A historic heavyweight showdown in a liminal border space resonates with an episode grounded in boxing and martial arts, both celebrating fight disciplines and the global routes they travel."
+    },
+    {
+      "hour": 16,
+      "fact_text": "On 21 February 1862, Union and Confederate forces clashed near Fort Craig in the New Mexico Territory at the Battle of Valverde. It was part of the often‑overlooked New Mexico Campaign, where the Civil War briefly spilled into desert mesas and river crossings far from the better‑known eastern battlefields.",
+      "fact_year": 1862,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Valverde",
+      "episode": {
+        "id": 22,
+        "title": "Morning Drops #16 - The Sound of Tuareg",
+        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+        "songs": [
+          "Les Filles de Illighadad - Imigradan",
+          "Tinariwen - Amassakoul ’N’ Ténéré",
+          "Liya Ag Ablil - Awa Adounia",
+          "Tinariwen - Sastanàqqàm"
+        ],
+        "music-genres": [
+          "Desert Blues",
+          "Tuareg",
+          "World Music"
+        ]
+      },
+      "match_reason": "An arid, under‑told Civil War battle in the Southwest finds a sonic twin in an episode about desert cultures and survival, shifting the desert from a backdrop for armies to a living home for resilient music."
     }
   ],
   "generated_at": "2026-02-21T00:00:00.010806+00:00",
   "date": "2026-02-21",
-  "updated_at": "2026-02-21T15:00:01.410565+00:00"
+  "updated_at": "2026-02-21T16:00:01.380199+00:00"
 }
