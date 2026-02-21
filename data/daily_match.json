@@ -1,64 +1,31 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On 21 February 1958, British designer Gerald Holtom finished the symbol that would become globally known as the peace sign. Its shape encodes the semaphore letters N and D for “nuclear disarmament”, with the circle representing the world—a graphic born from protest that quietly became a universal language of hope.",
-    "fact_year": 1958,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Peace_symbols",
+    "hour": 2,
+    "fact_text": "On 21 February 1947, inventor Edwin H. Land stunned an audience in New York by demonstrating the first Polaroid Land Camera, which could produce a finished photograph in under a minute. His idea came from his young daughter asking why she couldn’t see a photo right away—a child’s question that compressed darkroom magic into something almost instant.",
+    "fact_year": 1947,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Instant_camera",
     "episode": {
-      "id": 1,
-      "title": "Sedna FM #01 - November Bomb",
-      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "berlioz - Open this wall",
-        "Nas - One Mic",
-        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-        "Frankie Knuckles - Your Love",
-        "Notorious B.I.G. - 17 Ten Crack Commandments",
-        "Liloca - Utani Xuva",
-        "Fela Kuti - Zombie",
-        "Neffa - Aspettando il sole",
-        "Childish Gambino - No Excuses",
-        "Modjo - Music takes you back"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Afrobeat",
-        "House",
-        "Italian Pop",
-        "R&B",
-        "Latin Rap"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "The birth of an anti‑nuclear, anti‑war symbol aligns with a foundational episode full of socially conscious hip‑hop and Afrobeat, genres often used to protest injustice and imagine peace."
+    "match_reason": "The instant camera was an early ancestor of our 'instant image' culture, making a thoughtful pair with an episode about our complex relationship to always‑on, image‑driven technology."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "On 21 February 1947, inventor Edwin H. Land stunned an audience in New York by demonstrating the first Polaroid Land Camera, which could produce a finished photograph in under a minute. His idea came from his young daughter asking why she couldn’t see a photo right away—a child’s question that compressed darkroom magic into something almost instant.",
-      "fact_year": 1947,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Instant_camera",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "The instant camera was an early ancestor of our 'instant image' culture, making a thoughtful pair with an episode about our complex relationship to always‑on, image‑driven technology."
-    },
     {
       "hour": 3,
       "fact_text": "On 21 February 1995, adventurer Steve Fossett completed the first solo hot‑air balloon flight across the Pacific Ocean, drifting from South Korea to a frozen field near Leader, Saskatchewan. Alone in a small capsule under a thin envelope of heated air, he rode jet streams for over 9,600 kilometers, turning the sky itself into a slow, fragile highway.",
@@ -663,9 +630,34 @@
         ]
       },
       "match_reason": "The birth of an anti‑nuclear, anti‑war symbol aligns with a foundational episode full of socially conscious hip‑hop and Afrobeat, genres often used to protest injustice and imagine peace."
+    },
+    {
+      "hour": 2,
+      "fact_text": "On 21 February 1947, inventor Edwin H. Land stunned an audience in New York by demonstrating the first Polaroid Land Camera, which could produce a finished photograph in under a minute. His idea came from his young daughter asking why she couldn’t see a photo right away—a child’s question that compressed darkroom magic into something almost instant.",
+      "fact_year": 1947,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Instant_camera",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "The instant camera was an early ancestor of our 'instant image' culture, making a thoughtful pair with an episode about our complex relationship to always‑on, image‑driven technology."
     }
   ],
   "generated_at": "2026-02-21T00:00:00.010806+00:00",
   "date": "2026-02-21",
-  "updated_at": "2026-02-21T01:00:01.590300+00:00"
+  "updated_at": "2026-02-21T02:00:01.958841+00:00"
 }
