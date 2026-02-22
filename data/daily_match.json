@@ -1,56 +1,31 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "On February 22, 1651, the catastrophic St. Peter’s Flood sent a storm surge crashing into the Frisian coast of the North Sea. Dikes failed, low-lying lands vanished under water, and an estimated 15,000 people drowned as wind, tide, and geography conspired in a single night.",
-    "fact_year": 1651,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/St._Peter%27s_flood",
+    "hour": 6,
+    "fact_text": "In 1943, the Pan Am flying boat known as the Yankee Clipper crashed while attempting to land on the Tagus River in Lisbon. The glamorous transatlantic era of seaplane travel met tragedy that day, as the accident killed 24 people on what had been a symbol of luxurious, ocean-skimming flight.",
+    "fact_year": 1943,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Yankee_Clipper_(flying_boat)",
     "episode": {
-      "id": 52,
-      "title": "Morning Drops #45 - It Can't Rain Forever",
-      "description": "In this first broadcast of 2026, Gaia returns from the vivid landscapes of Morocco to open a space for reflection. This episode navigates the delicate transition between closing a significant chapter and stepping into the new year. It explores the concept of constancy amidst change, celebrating the grounding force of friendship and the creative sanctuary that is Sedna FM.\n\nThe musical selection mirrors this journey, moving from the orchestral depth of changing seasons into the golden warmth of psychedelic soul. It recalls memories of Swiss mountains and unexpected downpours, reminding us that shared optimism can weather any storm.\n\nTake a moment to breathe in the new morning and listen deeply.\n\nMood: Reflective, Warm, Transitional, Hopeful\nMusic genre: Classic Rock, Psychedelic Soul, Pop Rock, Soft Rock",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-it-cant-rain-forever",
+      "id": 11,
+      "title": "Morning Drops #05 - Electric Shock",
+      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
       "songs": [
-        "Led Zeppelin - The Rain Song",
-        "Khruangbin & Leon Bridges - Texas Sun",
-        "Dragon - Rain",
-        "Fleetwood Mac - Don't Stop"
+        "Johnny Winter - Highway 61 Revisited",
+        "Joan Armatrading - Sleight of Hand",
+        "Joan Armatrading - Russian Roulette",
+        "Jimi Hendrix - Freedom",
+        "Jeff Beck - Scatterbrain"
       ],
       "music-genres": [
-        "Classic Rock",
-        "Psychedelic Soul",
-        "Pop Rock",
-        "Soft Rock"
+        "Blues Rock",
+        "Rock",
+        "Electric Blues"
       ]
     },
-    "match_reason": "A devastating storm surge and an episode themed around rain, weather, and hope connect through water’s power and the human need to endure it."
+    "match_reason": "A dramatic crash in the age of daring flight mirrors the high-voltage, risk-tinged mood of an episode full of guitar fireworks and electric intensity."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "In 1943, the Pan Am flying boat known as the Yankee Clipper crashed while attempting to land on the Tagus River in Lisbon. The glamorous transatlantic era of seaplane travel met tragedy that day, as the accident killed 24 people on what had been a symbol of luxurious, ocean-skimming flight.",
-      "fact_year": 1943,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Yankee_Clipper_(flying_boat)",
-      "episode": {
-        "id": 11,
-        "title": "Morning Drops #05 - Electric Shock",
-        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
-        "songs": [
-          "Johnny Winter - Highway 61 Revisited",
-          "Joan Armatrading - Sleight of Hand",
-          "Joan Armatrading - Russian Roulette",
-          "Jimi Hendrix - Freedom",
-          "Jeff Beck - Scatterbrain"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Rock",
-          "Electric Blues"
-        ]
-      },
-      "match_reason": "A dramatic crash in the age of daring flight mirrors the high-voltage, risk-tinged mood of an episode full of guitar fireworks and electric intensity."
-    },
     {
       "hour": 7,
       "fact_text": "On February 22, 1942, as Japanese forces overwhelmed the Philippines in World War II, U.S. President Franklin D. Roosevelt ordered General Douglas MacArthur to evacuate. MacArthur reluctantly left Corregidor under cover of night, vowing his famous \"I shall return\" while thousands of soldiers remained behind.",
@@ -655,9 +630,34 @@
         ]
       },
       "match_reason": "A devastating storm surge and an episode themed around rain, weather, and hope connect through water’s power and the human need to endure it."
+    },
+    {
+      "hour": 6,
+      "fact_text": "In 1943, the Pan Am flying boat known as the Yankee Clipper crashed while attempting to land on the Tagus River in Lisbon. The glamorous transatlantic era of seaplane travel met tragedy that day, as the accident killed 24 people on what had been a symbol of luxurious, ocean-skimming flight.",
+      "fact_year": 1943,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Yankee_Clipper_(flying_boat)",
+      "episode": {
+        "id": 11,
+        "title": "Morning Drops #05 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "songs": [
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
+        ]
+      },
+      "match_reason": "A dramatic crash in the age of daring flight mirrors the high-voltage, risk-tinged mood of an episode full of guitar fireworks and electric intensity."
     }
   ],
   "generated_at": "2026-02-22T00:00:00.013814+00:00",
   "date": "2026-02-22",
-  "updated_at": "2026-02-22T05:00:01.488643+00:00"
+  "updated_at": "2026-02-22T06:00:01.571572+00:00"
 }
