@@ -1,65 +1,31 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On February 22, 1997, scientists in Roslin, Scotland, revealed Dolly the sheep, the first mammal cloned from an adult cell. Created using a single cell from a six-year-old ewe, she proved that specialized adult cells could be reprogrammed, transforming ideas about aging, identity, and what it means to copy life.",
-    "fact_year": 1997,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Dolly_(sheep)",
+    "hour": 2,
+    "fact_text": "In 1995, the United States declassified the Corona reconnaissance satellite program, revealing that between 1959 and 1972 it had quietly taken hundreds of thousands of images of Earth from orbit. These \"secret eyes in the sky\" not only shaped Cold War intelligence but later helped scientists study environmental change and map remote landscapes.",
+    "fact_year": 1995,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/CORONA_(satellite)",
     "episode": {
-      "id": 6,
-      "title": "Sedna FM #06 - Alters of an Ego",
-      "description": "What if you could step outside yourself and become someone freer, bolder, or completely unexpected? Exploring the artistry of musicians who craft alter-egos and parallel realities to experiment with new dimensions of their identity. It's not about hiding who they are — it's about expanding who they can be.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/alters-of-an-ego",
+      "id": 31,
+      "title": "Morning Drops #25 - A Trip-Hop Journey",
+      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
       "songs": [
-        "The Thin White Duke - Stay",
-        "Mac Miller - Dang (feat. Anderson .Paak)",
-        "Larry Lovestein - Love Affair",
-        "The Fireman - Strawberries Oceans Ships Forest",
-        "Paul McCartney - Oh! Darling",
-        "Prince - Kiss",
-        "Camille - Rebirth of the Flash",
-        "MF DOOM - Deep Fried Frenz",
-        "Gorillaz - Dirty Harry",
-        "Gorillaz - Andromeda"
+        "Massive Attack - Unfinished Sympathy",
+        "Tricky - Hell Is Round the Corner",
+        "DJ Shadow - Midnight in a Perfect World",
+        "Thievery Corporation - Lebanese Blonde",
+        "Smoke City - Underwater Love"
       ],
       "music-genres": [
-        "Glam Rock",
-        "Hip-Hop",
-        "Jazz",
-        "Ambient",
-        "Classic Rock",
-        "Funk",
+        "Trip-Hop",
+        "Downtempo",
         "Electronic"
       ]
     },
-    "match_reason": "Cloning an adult sheep is like giving biology an alter-ego; this episode about constructed identities mirrors the way Dolly challenged fixed ideas of self and origin."
+    "match_reason": "A once-secret satellite program unveiled to the public echoes trip-hop’s cinematic, shadowy atmospheres and sense of surveillance-era moodiness."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "In 1995, the United States declassified the Corona reconnaissance satellite program, revealing that between 1959 and 1972 it had quietly taken hundreds of thousands of images of Earth from orbit. These \"secret eyes in the sky\" not only shaped Cold War intelligence but later helped scientists study environmental change and map remote landscapes.",
-      "fact_year": 1995,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/CORONA_(satellite)",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #25 - A Trip-Hop Journey",
-        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
-        "songs": [
-          "Massive Attack - Unfinished Sympathy",
-          "Tricky - Hell Is Round the Corner",
-          "DJ Shadow - Midnight in a Perfect World",
-          "Thievery Corporation - Lebanese Blonde",
-          "Smoke City - Underwater Love"
-        ],
-        "music-genres": [
-          "Trip-Hop",
-          "Downtempo",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A once-secret satellite program unveiled to the public echoes trip-hop’s cinematic, shadowy atmospheres and sense of surveillance-era moodiness."
-    },
     {
       "hour": 3,
       "fact_text": "On this day in 1904, Britain sold its lonely meteorological station on the South Orkney Islands to Argentina, a tiny outpost in the roaring Southern Ocean. The station has been continuously staffed ever since, making it one of the world's most remote, long-running weather observatories.",
@@ -655,9 +621,34 @@
         ]
       },
       "match_reason": "Cloning an adult sheep is like giving biology an alter-ego; this episode about constructed identities mirrors the way Dolly challenged fixed ideas of self and origin."
+    },
+    {
+      "hour": 2,
+      "fact_text": "In 1995, the United States declassified the Corona reconnaissance satellite program, revealing that between 1959 and 1972 it had quietly taken hundreds of thousands of images of Earth from orbit. These \"secret eyes in the sky\" not only shaped Cold War intelligence but later helped scientists study environmental change and map remote landscapes.",
+      "fact_year": 1995,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/CORONA_(satellite)",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #25 - A Trip-Hop Journey",
+        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+        "songs": [
+          "Massive Attack - Unfinished Sympathy",
+          "Tricky - Hell Is Round the Corner",
+          "DJ Shadow - Midnight in a Perfect World",
+          "Thievery Corporation - Lebanese Blonde",
+          "Smoke City - Underwater Love"
+        ],
+        "music-genres": [
+          "Trip-Hop",
+          "Downtempo",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A once-secret satellite program unveiled to the public echoes trip-hop’s cinematic, shadowy atmospheres and sense of surveillance-era moodiness."
     }
   ],
   "generated_at": "2026-02-22T00:00:00.022110+00:00",
   "date": "2026-02-22",
-  "updated_at": "2026-02-22T01:00:01.496557+00:00"
+  "updated_at": "2026-02-22T02:00:01.546718+00:00"
 }
