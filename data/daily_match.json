@@ -1,65 +1,31 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On February 22, 1997, scientists in Roslin, Scotland, announced the birth of Dolly the sheep, the first mammal cloned from an adult somatic cell. Her existence proved that the genetic program of a mature cell could be reset, opening ethical debates and transforming biology’s understanding of identity and replication.",
-    "fact_year": 1997,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Dolly_(sheep)",
+    "hour": 2,
+    "fact_text": "In 1904, the United Kingdom sold its meteorological station on the remote, ice-battered South Orkney Islands to Argentina. This lonely outpost, perched between stormy seas and Antarctic winds, became one of the earliest continuously staffed scientific stations in the polar regions.",
+    "fact_year": 1904,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/South_Orkney_Islands",
     "episode": {
-      "id": 6,
-      "title": "Sedna FM #06 - Alters of an Ego",
-      "description": "What if you could step outside yourself and become someone freer, bolder, or completely unexpected? Exploring the artistry of musicians who craft alter-egos and parallel realities to experiment with new dimensions of their identity. It's not about hiding who they are — it's about expanding who they can be.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/alters-of-an-ego",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "The Thin White Duke - Stay",
-        "Mac Miller - Dang (feat. Anderson .Paak)",
-        "Larry Lovestein - Love Affair",
-        "The Fireman - Strawberries Oceans Ships Forest",
-        "Paul McCartney - Oh! Darling",
-        "Prince - Kiss",
-        "Camille - Rebirth of the Flash",
-        "MF DOOM - Deep Fried Frenz",
-        "Gorillaz - Dirty Harry",
-        "Gorillaz - Andromeda"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Glam Rock",
-        "Hip-Hop",
-        "Jazz",
-        "Ambient",
-        "Classic Rock",
-        "Funk",
-        "Electronic"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "A cloned sheep and an episode about alter-egos both explore duplicate selves, parallel identities, and what it means to be the 'same' being in different forms."
+    "match_reason": "A polar weather station on stormy Antarctic islands harmonizes with an Arctic marine journey; both inhabit cold, remote seas and quiet, icy light."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "In 1904, the United Kingdom sold its meteorological station on the remote, ice-battered South Orkney Islands to Argentina. This lonely outpost, perched between stormy seas and Antarctic winds, became one of the earliest continuously staffed scientific stations in the polar regions.",
-      "fact_year": 1904,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/South_Orkney_Islands",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "A polar weather station on stormy Antarctic islands harmonizes with an Arctic marine journey; both inhabit cold, remote seas and quiet, icy light."
-    },
     {
       "hour": 3,
       "fact_text": "On February 22, 1819, Spain and the United States signed the Adams–Onís Treaty, by which Spain ceded Florida to the U.S. for five million dollars. The deal redrew the map of North America, trading swamps and coastlines for geopolitical calm after years of border skirmishes and rebellion.",
@@ -664,9 +630,34 @@
         ]
       },
       "match_reason": "A cloned sheep and an episode about alter-egos both explore duplicate selves, parallel identities, and what it means to be the 'same' being in different forms."
+    },
+    {
+      "hour": 2,
+      "fact_text": "In 1904, the United Kingdom sold its meteorological station on the remote, ice-battered South Orkney Islands to Argentina. This lonely outpost, perched between stormy seas and Antarctic winds, became one of the earliest continuously staffed scientific stations in the polar regions.",
+      "fact_year": 1904,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/South_Orkney_Islands",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "A polar weather station on stormy Antarctic islands harmonizes with an Arctic marine journey; both inhabit cold, remote seas and quiet, icy light."
     }
   ],
   "generated_at": "2026-02-22T00:00:00.013814+00:00",
   "date": "2026-02-22",
-  "updated_at": "2026-02-22T01:00:01.607597+00:00"
+  "updated_at": "2026-02-22T02:00:01.732480+00:00"
 }
