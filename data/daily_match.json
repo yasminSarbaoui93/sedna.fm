@@ -1,65 +1,39 @@
 {
-  "current_hour": 22,
+  "current_hour": 23,
   "current_fact": {
-    "hour": 22,
-    "fact_text": "The South Orkney meteorological station sold in 1904 still operates today as Argentina’s Orcadas Base, making it one of the oldest year-round stations in Antarctica. For over a century, humans there have measured wind, ice, and sky in a place where winter darkness can last for months.",
-    "fact_year": 1904,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Orcadas_Base",
+    "hour": 23,
+    "fact_text": "The People Power Revolution in 1986 didn’t just topple a dictator—it broadcast images of unarmed civilians facing tanks with flowers and rosaries around the world. It helped inspire later nonviolent movements, showing that sometimes, the most powerful weapon is a crowd that refuses to move.",
+    "fact_year": 1986,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/People_Power_Revolution",
     "episode": {
-      "id": 20,
-      "title": "Morning Drops #14 - Slow Planet",
-      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+      "id": 1,
+      "title": "Sedna FM #01 - November Bomb",
+      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
       "songs": [
-        "Air - Cherry Blossom Girl",
-        "Kruder & Dorfmeister - Keep On Believing",
-        "Tosca - Orozco",
-        "Bonobo - Terrapin"
+        "berlioz - Open this wall",
+        "Nas - One Mic",
+        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+        "Frankie Knuckles - Your Love",
+        "Notorious B.I.G. - 17 Ten Crack Commandments",
+        "Liloca - Utani Xuva",
+        "Fela Kuti - Zombie",
+        "Neffa - Aspettando il sole",
+        "Childish Gambino - No Excuses",
+        "Modjo - Music takes you back"
       ],
       "music-genres": [
-        "Downtempo",
-        "Trip-Hop",
-        "Electronic",
-        "Chillout"
+        "Hip-Hop",
+        "Afrobeat",
+        "House",
+        "Italian Pop",
+        "R&B",
+        "Latin Rap"
       ]
     },
-    "match_reason": "A tiny station observing a frozen world over long, slow decades aligns with an episode about slowing down, stretching time, and listening to the planet’s quieter rhythms."
+    "match_reason": "A revolution that becomes a reference point for global movements pairs with the very first Sedna FM episode—a starting blast of energy that seeds everything that comes after."
   },
-  "queue": [
-    {
-      "hour": 23,
-      "fact_text": "The People Power Revolution in 1986 didn’t just topple a dictator—it broadcast images of unarmed civilians facing tanks with flowers and rosaries around the world. It helped inspire later nonviolent movements, showing that sometimes, the most powerful weapon is a crowd that refuses to move.",
-      "fact_year": 1986,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/People_Power_Revolution",
-      "episode": {
-        "id": 1,
-        "title": "Sedna FM #01 - November Bomb",
-        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
-        "songs": [
-          "berlioz - Open this wall",
-          "Nas - One Mic",
-          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-          "Frankie Knuckles - Your Love",
-          "Notorious B.I.G. - 17 Ten Crack Commandments",
-          "Liloca - Utani Xuva",
-          "Fela Kuti - Zombie",
-          "Neffa - Aspettando il sole",
-          "Childish Gambino - No Excuses",
-          "Modjo - Music takes you back"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Afrobeat",
-          "House",
-          "Italian Pop",
-          "R&B",
-          "Latin Rap"
-        ]
-      },
-      "match_reason": "A revolution that becomes a reference point for global movements pairs with the very first Sedna FM episode—a starting blast of energy that seeds everything that comes after."
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "hour": 0,
@@ -655,9 +629,42 @@
         ]
       },
       "match_reason": "A tiny station observing a frozen world over long, slow decades aligns with an episode about slowing down, stretching time, and listening to the planet’s quieter rhythms."
+    },
+    {
+      "hour": 23,
+      "fact_text": "The People Power Revolution in 1986 didn’t just topple a dictator—it broadcast images of unarmed civilians facing tanks with flowers and rosaries around the world. It helped inspire later nonviolent movements, showing that sometimes, the most powerful weapon is a crowd that refuses to move.",
+      "fact_year": 1986,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/People_Power_Revolution",
+      "episode": {
+        "id": 1,
+        "title": "Sedna FM #01 - November Bomb",
+        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+        "songs": [
+          "berlioz - Open this wall",
+          "Nas - One Mic",
+          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+          "Frankie Knuckles - Your Love",
+          "Notorious B.I.G. - 17 Ten Crack Commandments",
+          "Liloca - Utani Xuva",
+          "Fela Kuti - Zombie",
+          "Neffa - Aspettando il sole",
+          "Childish Gambino - No Excuses",
+          "Modjo - Music takes you back"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Afrobeat",
+          "House",
+          "Italian Pop",
+          "R&B",
+          "Latin Rap"
+        ]
+      },
+      "match_reason": "A revolution that becomes a reference point for global movements pairs with the very first Sedna FM episode—a starting blast of energy that seeds everything that comes after."
     }
   ],
   "generated_at": "2026-02-22T00:00:00.013814+00:00",
   "date": "2026-02-22",
-  "updated_at": "2026-02-22T22:00:01.396331+00:00"
+  "updated_at": "2026-02-22T23:00:01.660563+00:00"
 }
