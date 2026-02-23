@@ -1,56 +1,31 @@
 {
-  "current_hour": 11,
+  "current_hour": 12,
   "current_fact": {
-    "hour": 11,
-    "fact_text": "In 2008, Japan launched the WINDS satellite, nicknamed 'Kizuna', to test high-speed broadband from orbit. It was an early attempt to turn space itself into part of the global internet infrastructure, beaming data down in wide, invisible beams.",
-    "fact_year": 2008,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/WINDS",
+    "hour": 12,
+    "fact_text": "In 1999, a massive slab avalanche thundered down onto the Austrian village of Galtür after days of storms and wind-blown snow, burying much of the town in seconds and killing 31 people. The event shocked alpine communities and permanently changed how they model avalanche risk.",
+    "fact_year": 1999,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1999_Galt%C3%BCr_avalanche",
     "episode": {
-      "id": 33,
-      "title": "Morning Drops #27 - Nomophobia",
-      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "All Them Witches - Internet",
-        "James Blake - The Wilhelm Scream",
-        "Nick Mulvey - Juramidam",
-        "Kraftwerk - Computer Love"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Psychedelic Rock",
-        "Electronic",
-        "Folk",
-        "Synth-Pop"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "An experimental internet satellite suits an episode about our relationship to digital connectivity, stretching the web all the way into orbit."
+    "match_reason": "A deadly alpine avalanche and a journey into icy northern waters both inhabit cold, dramatic landscapes shaped by snow, gravity, and silence."
   },
   "queue": [
-    {
-      "hour": 12,
-      "fact_text": "In 1999, a massive slab avalanche thundered down onto the Austrian village of Galtür after days of storms and wind-blown snow, burying much of the town in seconds and killing 31 people. The event shocked alpine communities and permanently changed how they model avalanche risk.",
-      "fact_year": 1999,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1999_Galt%C3%BCr_avalanche",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "A deadly alpine avalanche and a journey into icy northern waters both inhabit cold, dramatic landscapes shaped by snow, gravity, and silence."
-    },
     {
       "hour": 13,
       "fact_text": "During the Iran hostage crisis in 1980, Ayatollah Ruhollah Khomeini announced that Iran’s newly formed parliament would decide the fate of the American embassy hostages. For more than a year, the lives of 52 captives were suspended in a tense geopolitical stalemate broadcast around the world.",
@@ -647,9 +622,34 @@
         ]
       },
       "match_reason": "An experimental internet satellite suits an episode about our relationship to digital connectivity, stretching the web all the way into orbit."
+    },
+    {
+      "hour": 12,
+      "fact_text": "In 1999, a massive slab avalanche thundered down onto the Austrian village of Galtür after days of storms and wind-blown snow, burying much of the town in seconds and killing 31 people. The event shocked alpine communities and permanently changed how they model avalanche risk.",
+      "fact_year": 1999,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1999_Galt%C3%BCr_avalanche",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "A deadly alpine avalanche and a journey into icy northern waters both inhabit cold, dramatic landscapes shaped by snow, gravity, and silence."
     }
   ],
   "generated_at": "2026-02-23T00:00:00.006061+00:00",
   "date": "2026-02-23",
-  "updated_at": "2026-02-23T11:00:01.841632+00:00"
+  "updated_at": "2026-02-23T12:00:01.674717+00:00"
 }
