@@ -1,57 +1,31 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 1927, Werner Heisenberg first described his uncertainty principle in a private letter to fellow physicist Wolfgang Pauli, before it ever appeared in a scientific paper. The idea that you can never know both a particle's exact position and momentum at the same time would quietly revolutionize how humans think about reality itself.",
-    "fact_year": 1927,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Werner_Heisenberg",
+    "hour": 1,
+    "fact_text": "On this day in 1725, Johann Sebastian Bach led a festive 'Tafelmusik' shepherd cantata written for the birthday of Christian, Duke of Saxe-Weissenfels. It was music explicitly composed to accompany a grand meal, turning a banquet into a carefully scored soundscape.",
+    "fact_year": 1725,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Entfliehet,_verschwindet,_entweichet,_ihr_Sorgen,_BWV_249a",
     "episode": {
-      "id": 49,
-      "title": "Morning Drops #42 - The Joy Of Learning",
-      "description": "Hosted by Yasmin, this Morning Drop explores learning as a lifelong process, focusing on persistence, repetition, and the emotional landscape that comes with challenging oneself over time.\n\nThrough personal stories and scientific insights, the episode looks at how learning reshapes the brain, generates joy through effort, and why progress often arrives after confusion and frustration. It reflects on the so-called delayed pleasure effect, the role of dopamine in motivation, and how curiosity and learning support long-term wellbeing.\n\nThe episode also questions our cultural relationship with failure and invites a softer, more realistic approach to learning, one that accepts mistakes as part of growth and sees persistence as a quiet form of strength.\n\nMood: reflective, grounded, quietly hopeful\nMusic genre: alternative rock, hip hop, electronic, neo-soul, drill\n\nA space to listen slowly and stay with the process.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-joy-of-learning",
+      "id": 27,
+      "title": "Morning Drops #27 - Endless Summer",
+      "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
       "songs": [
-        "Radiohead - Separator",
-        "Mac Miller - What's the Use?",
-        "Morad & Beny Jr - Sigue",
-        "Post Malone - White Iverson"
+        "Nik Bärtsch - Modul 14",
+        "Mama Terra - Chameleon (Single Edit)",
+        "Spyro Gyra - Morning Dance",
+        "Yussef Kamaal - Black Focus"
       ],
       "music-genres": [
-        "Alternative Rock",
-        "Experimental Electronic",
-        "Hip Hop",
-        "Neo-Soul",
-        "Drill / Trap"
+        "Minimal Jazz",
+        "Nu Jazz",
+        "Jazz Fusion",
+        "UK Jazz"
       ]
     },
-    "match_reason": "A mind-bending new principle in physics pairs well with an episode about the joy and struggle of learning, where confusion and insight coexist."
+    "match_reason": "A baroque dining soundtrack resonates with an episode built around leisurely meals, family, and music as a companion to long, shared moments."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On this day in 1725, Johann Sebastian Bach led a festive 'Tafelmusik' shepherd cantata written for the birthday of Christian, Duke of Saxe-Weissenfels. It was music explicitly composed to accompany a grand meal, turning a banquet into a carefully scored soundscape.",
-      "fact_year": 1725,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Entfliehet,_verschwindet,_entweichet,_ihr_Sorgen,_BWV_249a",
-      "episode": {
-        "id": 27,
-        "title": "Morning Drops #27 - Endless Summer",
-        "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
-        "songs": [
-          "Nik Bärtsch - Modul 14",
-          "Mama Terra - Chameleon (Single Edit)",
-          "Spyro Gyra - Morning Dance",
-          "Yussef Kamaal - Black Focus"
-        ],
-        "music-genres": [
-          "Minimal Jazz",
-          "Nu Jazz",
-          "Jazz Fusion",
-          "UK Jazz"
-        ]
-      },
-      "match_reason": "A baroque dining soundtrack resonates with an episode built around leisurely meals, family, and music as a companion to long, shared moments."
-    },
     {
       "hour": 2,
       "fact_text": "In 1987, humans watched a star die in real time when Supernova 1987A lit up the Large Magellanic Cloud, becoming the brightest supernova seen from Earth in nearly four centuries. For the first time, detectors even captured a burst of ghostly neutrinos arriving just before the visible light from the explosion.",
@@ -648,9 +622,34 @@
         ]
       },
       "match_reason": "A mind-bending new principle in physics pairs well with an episode about the joy and struggle of learning, where confusion and insight coexist."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On this day in 1725, Johann Sebastian Bach led a festive 'Tafelmusik' shepherd cantata written for the birthday of Christian, Duke of Saxe-Weissenfels. It was music explicitly composed to accompany a grand meal, turning a banquet into a carefully scored soundscape.",
+      "fact_year": 1725,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Entfliehet,_verschwindet,_entweichet,_ihr_Sorgen,_BWV_249a",
+      "episode": {
+        "id": 27,
+        "title": "Morning Drops #27 - Endless Summer",
+        "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
+        "songs": [
+          "Nik Bärtsch - Modul 14",
+          "Mama Terra - Chameleon (Single Edit)",
+          "Spyro Gyra - Morning Dance",
+          "Yussef Kamaal - Black Focus"
+        ],
+        "music-genres": [
+          "Minimal Jazz",
+          "Nu Jazz",
+          "Jazz Fusion",
+          "UK Jazz"
+        ]
+      },
+      "match_reason": "A baroque dining soundtrack resonates with an episode built around leisurely meals, family, and music as a companion to long, shared moments."
     }
   ],
   "generated_at": "2026-02-23T00:00:00.006061+00:00",
   "date": "2026-02-23",
-  "updated_at": "2026-02-23T00:00:38.369144+00:00"
+  "updated_at": "2026-02-23T01:00:01.521294+00:00"
 }
