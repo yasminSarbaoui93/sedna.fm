@@ -1,64 +1,39 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "Late one February night in 1942, a Japanese submarine surfaced off Santa Barbara and fired shells at the Ellwood oil facilities, bringing World War II directly to the U.S. West Coast. The attack caused little damage but a huge psychological shock, feeding blackout drills and invasion fears for months.",
-    "fact_year": 1942,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bombardment_of_Ellwood",
+    "hour": 4,
+    "fact_text": "In 1927, U.S. President Calvin Coolidge signed a law creating the Federal Radio Commission, the first body tasked with organizing the chaotic airwaves. At a time when stations were shouting over each other, this was the moment when radio went from an anarchic experiment to a regulated public medium.",
+    "fact_year": 1927,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Federal_Radio_Commission",
     "episode": {
-      "id": 11,
-      "title": "Morning Drops #05 - Electric Shock",
-      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+      "id": 1,
+      "title": "Sedna FM #01 - November Bomb",
+      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
       "songs": [
-        "Johnny Winter - Highway 61 Revisited",
-        "Joan Armatrading - Sleight of Hand",
-        "Joan Armatrading - Russian Roulette",
-        "Jimi Hendrix - Freedom",
-        "Jeff Beck - Scatterbrain"
+        "berlioz - Open this wall",
+        "Nas - One Mic",
+        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+        "Frankie Knuckles - Your Love",
+        "Notorious B.I.G. - 17 Ten Crack Commandments",
+        "Liloca - Utani Xuva",
+        "Fela Kuti - Zombie",
+        "Neffa - Aspettando il sole",
+        "Childish Gambino - No Excuses",
+        "Modjo - Music takes you back"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Rock",
-        "Electric Blues"
+        "Hip-Hop",
+        "Afrobeat",
+        "House",
+        "Italian Pop",
+        "R&B",
+        "Latin Rap"
       ]
     },
-    "match_reason": "A sudden, shocking coastal bombardment mirrors the episode's jolt-of-electricity mood and high-tension rock energy."
+    "match_reason": "A landmark in radio history pairs perfectly with Sedna FM’s own origin episode, both marking the beginning of a new kind of broadcast."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "In 1927, U.S. President Calvin Coolidge signed a law creating the Federal Radio Commission, the first body tasked with organizing the chaotic airwaves. At a time when stations were shouting over each other, this was the moment when radio went from an anarchic experiment to a regulated public medium.",
-      "fact_year": 1927,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Federal_Radio_Commission",
-      "episode": {
-        "id": 1,
-        "title": "Sedna FM #01 - November Bomb",
-        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
-        "songs": [
-          "berlioz - Open this wall",
-          "Nas - One Mic",
-          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-          "Frankie Knuckles - Your Love",
-          "Notorious B.I.G. - 17 Ten Crack Commandments",
-          "Liloca - Utani Xuva",
-          "Fela Kuti - Zombie",
-          "Neffa - Aspettando il sole",
-          "Childish Gambino - No Excuses",
-          "Modjo - Music takes you back"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Afrobeat",
-          "House",
-          "Italian Pop",
-          "R&B",
-          "Latin Rap"
-        ]
-      },
-      "match_reason": "A landmark in radio history pairs perfectly with Sedna FM’s own origin episode, both marking the beginning of a new kind of broadcast."
-    },
     {
       "hour": 5,
       "fact_text": "On this day in 2002, an Ariane 4 rocket roared off the equatorial launchpad of the Guiana Space Centre carrying the Intelsat 904 communications satellite. From geostationary orbit, that single craft would quietly relay television, internet, and phone signals across continents for years.",
@@ -647,9 +622,42 @@
         ]
       },
       "match_reason": "A sudden, shocking coastal bombardment mirrors the episode's jolt-of-electricity mood and high-tension rock energy."
+    },
+    {
+      "hour": 4,
+      "fact_text": "In 1927, U.S. President Calvin Coolidge signed a law creating the Federal Radio Commission, the first body tasked with organizing the chaotic airwaves. At a time when stations were shouting over each other, this was the moment when radio went from an anarchic experiment to a regulated public medium.",
+      "fact_year": 1927,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Federal_Radio_Commission",
+      "episode": {
+        "id": 1,
+        "title": "Sedna FM #01 - November Bomb",
+        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+        "songs": [
+          "berlioz - Open this wall",
+          "Nas - One Mic",
+          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+          "Frankie Knuckles - Your Love",
+          "Notorious B.I.G. - 17 Ten Crack Commandments",
+          "Liloca - Utani Xuva",
+          "Fela Kuti - Zombie",
+          "Neffa - Aspettando il sole",
+          "Childish Gambino - No Excuses",
+          "Modjo - Music takes you back"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Afrobeat",
+          "House",
+          "Italian Pop",
+          "R&B",
+          "Latin Rap"
+        ]
+      },
+      "match_reason": "A landmark in radio history pairs perfectly with Sedna FM’s own origin episode, both marking the beginning of a new kind of broadcast."
     }
   ],
   "generated_at": "2026-02-23T00:00:00.006061+00:00",
   "date": "2026-02-23",
-  "updated_at": "2026-02-23T03:00:01.512399+00:00"
+  "updated_at": "2026-02-23T04:00:01.466110+00:00"
 }
