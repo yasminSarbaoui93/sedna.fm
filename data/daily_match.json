@@ -1,61 +1,31 @@
 {
-  "current_hour": 2,
+  "current_hour": 3,
   "current_fact": {
-    "hour": 2,
-    "fact_text": "In 2002, an Ariane 4 rocket roared off the pad at the Guiana Space Centre carrying the Intelsat 904 satellite. That single launch helped extend a quiet web of communication across continents, bouncing voices, data, and TV signals around the planet from geostationary orbit.",
-    "fact_year": 2002,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ariane_4",
+    "hour": 3,
+    "fact_text": "In 2008, Japan launched the WINDS satellite, also known as 'Kizuna', to experiment with ultra-high-speed internet from space. Its beams were designed to bring broadband to remote regions, hinting at a future where connectivity literally falls from the sky.",
+    "fact_year": 2008,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/WINDS",
     "episode": {
-      "id": 48,
-      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "Stive Morgan - Solar Wind, Pt. 3",
-        "David Visan & Carlos Campos - Crystal Heart",
-        "Evan Mars - Ya Zareef Al Tool",
-        "Gerardo Frisina - Cuiabá",
-        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-        "The Busy Twist - Friday Night"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Ambient",
-        "Deep House",
-        "World Music",
-        "Nu Jazz",
-        "Afrobeat",
-        "Funk",
-        "Electronic"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "A rocket sending a communications satellite into orbit echoes the episode’s sense of global connection and signals traveling across cultures and distances."
+    "match_reason": "A satellite built to spread high-speed internet ties directly into an episode questioning our dependence on constant digital connectivity."
   },
   "queue": [
-    {
-      "hour": 3,
-      "fact_text": "In 2008, Japan launched the WINDS satellite, also known as 'Kizuna', to experiment with ultra-high-speed internet from space. Its beams were designed to bring broadband to remote regions, hinting at a future where connectivity literally falls from the sky.",
-      "fact_year": 2008,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/WINDS",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "A satellite built to spread high-speed internet ties directly into an episode questioning our dependence on constant digital connectivity."
-    },
     {
       "hour": 4,
       "fact_text": "Back in 1927, U.S. President Calvin Coolidge signed a bill creating the Federal Radio Commission, the ancestor of today’s FCC. At a time when the airwaves were chaotic, this marked the moment humans began seriously organizing and regulating invisible radio frequencies so signals could coexist instead of collide.",
@@ -642,9 +612,34 @@
         ]
       },
       "match_reason": "A rocket sending a communications satellite into orbit echoes the episode’s sense of global connection and signals traveling across cultures and distances."
+    },
+    {
+      "hour": 3,
+      "fact_text": "In 2008, Japan launched the WINDS satellite, also known as 'Kizuna', to experiment with ultra-high-speed internet from space. Its beams were designed to bring broadband to remote regions, hinting at a future where connectivity literally falls from the sky.",
+      "fact_year": 2008,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/WINDS",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "A satellite built to spread high-speed internet ties directly into an episode questioning our dependence on constant digital connectivity."
     }
   ],
   "generated_at": "2026-02-23T00:00:00.013818+00:00",
   "date": "2026-02-23",
-  "updated_at": "2026-02-23T02:00:01.642370+00:00"
+  "updated_at": "2026-02-23T03:00:01.731567+00:00"
 }
