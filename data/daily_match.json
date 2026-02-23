@@ -1,65 +1,31 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "On this day in 2002, an Ariane 4 rocket roared off the equatorial launchpad of the Guiana Space Centre carrying the Intelsat 904 communications satellite. From geostationary orbit, that single craft would quietly relay television, internet, and phone signals across continents for years.",
-    "fact_year": 2002,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ariane_4",
+    "hour": 6,
+    "fact_text": "In 1887, a powerful earthquake struck beneath the Ligurian Sea and shook the glamorous French Riviera, collapsing buildings and killing around 2,000 people. For a coastline better known for sunshine and leisure, it was a brutal reminder that beautiful places can sit on restless ground.",
+    "fact_year": 1887,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1887_Liguria_earthquake",
     "episode": {
-      "id": 2,
-      "title": "Sedna FM #02 - Destination Sedna",
-      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+      "id": 52,
+      "title": "Morning Drops #46 - Fog and Fire",
+      "description": "In today’s Morning Drops, Gaia brings us on a passport-free trip between two Italian energies: the foggy stillness of the North and the volcanic pulse of the South. Throughout the journey, Gaia shares four of her favourite Italian songwriters. Grab your coffee and tune into the radio show from another planet!",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-fog-and-fire",
       "songs": [
-        "Pink Floyd - Breathe",
-        "The fountain DC - Starburster",
-        "Laura Cahen - La Poussiere",
-        "Taxi Kebab - Lmchi w rjou3",
-        "Odion Iruoje - Identify With Your Roots",
-        "Depeche mode - world in my eyes (Oil Tank Mix)",
-        "Massive attack - Dissolved girl",
-        "Kokoroko - Three piece suite",
-        "Salin - Egungun",
-        "E.S.P. - It's You"
+        "Edoardo Bennato - La Torre Di Babele",
+        "Zucchero - Diavolo in Me",
+        "Lucio Dalla - Com'é Profondo il Mare",
+        "Pino Daniele - Tutta N'ata Storia"
       ],
       "music-genres": [
-        "Progressive Rock",
-        "Post-Punk",
-        "French Pop",
-        "Maghreb",
-        "Afrobeat",
-        "Synthpop",
-        "Trip-Hop"
+        "Blues",
+        "indie",
+        "Italian",
+        "Soft Rock"
       ]
     },
-    "match_reason": "A rocket delivering a communications satellite into orbit echoes a sonic 'destination' journey, extending signals and stories around the planet and beyond."
+    "match_reason": "The contrast between idyllic coasts and seismic violence fits an episode about Italy’s contrasting energies, from stillness to volcanic intensity."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "In 1887, a powerful earthquake struck beneath the Ligurian Sea and shook the glamorous French Riviera, collapsing buildings and killing around 2,000 people. For a coastline better known for sunshine and leisure, it was a brutal reminder that beautiful places can sit on restless ground.",
-      "fact_year": 1887,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1887_Liguria_earthquake",
-      "episode": {
-        "id": 52,
-        "title": "Morning Drops #46 - Fog and Fire",
-        "description": "In today’s Morning Drops, Gaia brings us on a passport-free trip between two Italian energies: the foggy stillness of the North and the volcanic pulse of the South. Throughout the journey, Gaia shares four of her favourite Italian songwriters. Grab your coffee and tune into the radio show from another planet!",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-fog-and-fire",
-        "songs": [
-          "Edoardo Bennato - La Torre Di Babele",
-          "Zucchero - Diavolo in Me",
-          "Lucio Dalla - Com'é Profondo il Mare",
-          "Pino Daniele - Tutta N'ata Storia"
-        ],
-        "music-genres": [
-          "Blues",
-          "indie",
-          "Italian",
-          "Soft Rock"
-        ]
-      },
-      "match_reason": "The contrast between idyllic coasts and seismic violence fits an episode about Italy’s contrasting energies, from stillness to volcanic intensity."
-    },
     {
       "hour": 7,
       "fact_text": "On Iwo Jima in 1945, U.S. Marines reached the summit of Mount Suribachi and raised a small American flag, later replaced by a larger one that was captured in an iconic photograph. The image turned a brutal volcanic battlefield into one of the most reproduced symbols of endurance and sacrifice.",
@@ -656,9 +622,34 @@
         ]
       },
       "match_reason": "A rocket delivering a communications satellite into orbit echoes a sonic 'destination' journey, extending signals and stories around the planet and beyond."
+    },
+    {
+      "hour": 6,
+      "fact_text": "In 1887, a powerful earthquake struck beneath the Ligurian Sea and shook the glamorous French Riviera, collapsing buildings and killing around 2,000 people. For a coastline better known for sunshine and leisure, it was a brutal reminder that beautiful places can sit on restless ground.",
+      "fact_year": 1887,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1887_Liguria_earthquake",
+      "episode": {
+        "id": 52,
+        "title": "Morning Drops #46 - Fog and Fire",
+        "description": "In today’s Morning Drops, Gaia brings us on a passport-free trip between two Italian energies: the foggy stillness of the North and the volcanic pulse of the South. Throughout the journey, Gaia shares four of her favourite Italian songwriters. Grab your coffee and tune into the radio show from another planet!",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-fog-and-fire",
+        "songs": [
+          "Edoardo Bennato - La Torre Di Babele",
+          "Zucchero - Diavolo in Me",
+          "Lucio Dalla - Com'é Profondo il Mare",
+          "Pino Daniele - Tutta N'ata Storia"
+        ],
+        "music-genres": [
+          "Blues",
+          "indie",
+          "Italian",
+          "Soft Rock"
+        ]
+      },
+      "match_reason": "The contrast between idyllic coasts and seismic violence fits an episode about Italy’s contrasting energies, from stillness to volcanic intensity."
     }
   ],
   "generated_at": "2026-02-23T00:00:00.006061+00:00",
   "date": "2026-02-23",
-  "updated_at": "2026-02-23T05:00:01.943493+00:00"
+  "updated_at": "2026-02-23T06:00:01.478523+00:00"
 }
