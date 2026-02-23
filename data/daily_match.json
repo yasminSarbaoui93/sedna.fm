@@ -1,49 +1,25 @@
 {
-  "current_hour": 7,
+  "current_hour": 8,
   "current_fact": {
-    "hour": 7,
-    "fact_text": "On Iwo Jima in 1945, U.S. Marines reached the summit of Mount Suribachi and raised a small American flag, later replaced by a larger one that was captured in an iconic photograph. The image turned a brutal volcanic battlefield into one of the most reproduced symbols of endurance and sacrifice.",
-    "fact_year": 1945,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Iwo_Jima",
+    "hour": 8,
+    "fact_text": "In 1886, Charles Martin Hall, working in a makeshift lab with the help of his sister Julia, finally produced metallic aluminium using electrolysis. Their tabletop experiment turned what was once a precious metal rivaling silver into a cheap, everyday material that would reshape architecture, aviation, and packaging.",
+    "fact_year": 1886,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Charles_Martin_Hall",
     "episode": {
-      "id": 42,
-      "title": "Morning Drops #36 - Women of Rock",
-      "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
+      "id": 25,
+      "title": "Morning Drops #19 - Wabi Sabi",
+      "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
       "songs": [
-        "Suzi Quatro - Can the Can",
-        "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
-        "Laura Cox - Hard Blues Shot",
-        "Jackie Venson - Always Free (Live)"
+        "song 1"
       ],
       "music-genres": [
-        "Glam Rock",
-        "Hard Rock",
-        "Blues Rock"
+        "genre 1"
       ]
     },
-    "match_reason": "A story of courage under fire pairs with an episode about rock musicians who refuse to ask for permission, both celebrating defiant bravery."
+    "match_reason": "A breakthrough born from a modest, improvised lab and sibling persistence fits an episode celebrating imperfect, handmade processes and quiet revolutions."
   },
   "queue": [
-    {
-      "hour": 8,
-      "fact_text": "In 1886, Charles Martin Hall, working in a makeshift lab with the help of his sister Julia, finally produced metallic aluminium using electrolysis. Their tabletop experiment turned what was once a precious metal rivaling silver into a cheap, everyday material that would reshape architecture, aviation, and packaging.",
-      "fact_year": 1886,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Charles_Martin_Hall",
-      "episode": {
-        "id": 25,
-        "title": "Morning Drops #19 - Wabi Sabi",
-        "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
-        "songs": [
-          "song 1"
-        ],
-        "music-genres": [
-          "genre 1"
-        ]
-      },
-      "match_reason": "A breakthrough born from a modest, improvised lab and sibling persistence fits an episode celebrating imperfect, handmade processes and quiet revolutions."
-    },
     {
       "hour": 9,
       "fact_text": "In 1778, the Prussian officer Friedrich Wilhelm von Steuben arrived at the ragged winter camp of Valley Forge and began drilling the Continental Army. Using a mix of translated commands and improvised curse words, he forged a more disciplined fighting force from exhausted volunteers.",
@@ -646,9 +622,28 @@
         ]
       },
       "match_reason": "A story of courage under fire pairs with an episode about rock musicians who refuse to ask for permission, both celebrating defiant bravery."
+    },
+    {
+      "hour": 8,
+      "fact_text": "In 1886, Charles Martin Hall, working in a makeshift lab with the help of his sister Julia, finally produced metallic aluminium using electrolysis. Their tabletop experiment turned what was once a precious metal rivaling silver into a cheap, everyday material that would reshape architecture, aviation, and packaging.",
+      "fact_year": 1886,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Charles_Martin_Hall",
+      "episode": {
+        "id": 25,
+        "title": "Morning Drops #19 - Wabi Sabi",
+        "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
+        "songs": [
+          "song 1"
+        ],
+        "music-genres": [
+          "genre 1"
+        ]
+      },
+      "match_reason": "A breakthrough born from a modest, improvised lab and sibling persistence fits an episode celebrating imperfect, handmade processes and quiet revolutions."
     }
   ],
   "generated_at": "2026-02-23T00:00:00.006061+00:00",
   "date": "2026-02-23",
-  "updated_at": "2026-02-23T07:00:01.542731+00:00"
+  "updated_at": "2026-02-23T08:00:01.390068+00:00"
 }
