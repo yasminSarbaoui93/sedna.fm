@@ -1,65 +1,40 @@
 {
-  "current_hour": 2,
+  "current_hour": 3,
   "current_fact": {
-    "hour": 2,
-    "fact_text": "In 138, Roman emperor Hadrian formally adopted Antoninus Pius as his son and heir, but only on the condition that Antoninus adopt two other promising young men in turn. This created a carefully engineered chain of succession that produced four \"good emperors\" in a row. It's an ancient example of long-term leadership planning spanning generations.",
-    "fact_year": 138,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Hadrian",
+    "hour": 3,
+    "fact_text": "On this day in 1951, the first Pan American Games opened in Buenos Aires, bringing together athletes from across North, Central, and South America. Meant as a \"mini Olympics\" for the Western Hemisphere, it blended sport with cultural exchange between very different countries. The event helped spread athletic rivalries and friendships across an entire half of the planet.",
+    "fact_year": 1951,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pan_American_Games",
     "episode": {
-      "id": 28,
-      "title": "Morning Drops #22 - Sicilians On The Dolomites",
-      "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
+      "id": 5,
+      "title": "Sedna FM #05 - On The Go - Zero Zero",
+      "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
       "songs": [
-        "Franco Battiato - Haiku",
-        "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
-        "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
-        "Pink Floyd - Fearless"
+        "Alborosie - Rock the dancehall",
+        "Grace Jones - Pull up to the bumper",
+        "Hollie cook - Happy hour",
+        "Easy star all star - Soul love",
+        "Jeremie Albino - Rolling down the 405",
+        "Cyril Neville - I found joy",
+        "Aretha Franklin - Rock steady",
+        "James Brown - Talking loud and saying nothing (remix)",
+        "Nubiyan Twist - So mi stay",
+        "Professor Wouassa - Fallou Fall",
+        "Jarabe de Palo - La Flaca"
       ],
       "music-genres": [
-        "Italian Art Pop",
-        "French Jazz",
-        "Italian Singer-Songwriter",
-        "Progressive Rock"
+        "Reggae",
+        "Funk",
+        "Soul",
+        "Afrobeat",
+        "Latin Rock",
+        "New Wave"
       ]
     },
-    "match_reason": "An emperor carefully building a lineage across generations resonates with an episode about interwoven stories, landscapes, and shared choices across time and place."
+    "match_reason": "A continental sports festival full of motion and competition pairs with an upbeat, travel-ready mix about movement, fresh starts, and physical energy."
   },
   "queue": [
-    {
-      "hour": 3,
-      "fact_text": "On this day in 1951, the first Pan American Games opened in Buenos Aires, bringing together athletes from across North, Central, and South America. Meant as a \"mini Olympics\" for the Western Hemisphere, it blended sport with cultural exchange between very different countries. The event helped spread athletic rivalries and friendships across an entire half of the planet.",
-      "fact_year": 1951,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pan_American_Games",
-      "episode": {
-        "id": 5,
-        "title": "Sedna FM #05 - On The Go - Zero Zero",
-        "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
-        "songs": [
-          "Alborosie - Rock the dancehall",
-          "Grace Jones - Pull up to the bumper",
-          "Hollie cook - Happy hour",
-          "Easy star all star - Soul love",
-          "Jeremie Albino - Rolling down the 405",
-          "Cyril Neville - I found joy",
-          "Aretha Franklin - Rock steady",
-          "James Brown - Talking loud and saying nothing (remix)",
-          "Nubiyan Twist - So mi stay",
-          "Professor Wouassa - Fallou Fall",
-          "Jarabe de Palo - La Flaca"
-        ],
-        "music-genres": [
-          "Reggae",
-          "Funk",
-          "Soul",
-          "Afrobeat",
-          "Latin Rock",
-          "New Wave"
-        ]
-      },
-      "match_reason": "A continental sports festival full of motion and competition pairs with an upbeat, travel-ready mix about movement, fresh starts, and physical energy."
-    },
     {
       "hour": 4,
       "fact_text": "In 1956, Soviet leader Nikita Khrushchev delivered a secret speech denouncing Joseph Stalin’s cult of personality and brutal purges. The speech was never meant for the public, yet it leaked, sending shockwaves through the communist world and quietly beginning the process of de-Stalinization. It’s a rare case where a single speech helped dismantle an entire political mythology.",
@@ -664,9 +639,43 @@
         ]
       },
       "match_reason": "An emperor carefully building a lineage across generations resonates with an episode about interwoven stories, landscapes, and shared choices across time and place."
+    },
+    {
+      "hour": 3,
+      "fact_text": "On this day in 1951, the first Pan American Games opened in Buenos Aires, bringing together athletes from across North, Central, and South America. Meant as a \"mini Olympics\" for the Western Hemisphere, it blended sport with cultural exchange between very different countries. The event helped spread athletic rivalries and friendships across an entire half of the planet.",
+      "fact_year": 1951,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pan_American_Games",
+      "episode": {
+        "id": 5,
+        "title": "Sedna FM #05 - On The Go - Zero Zero",
+        "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
+        "songs": [
+          "Alborosie - Rock the dancehall",
+          "Grace Jones - Pull up to the bumper",
+          "Hollie cook - Happy hour",
+          "Easy star all star - Soul love",
+          "Jeremie Albino - Rolling down the 405",
+          "Cyril Neville - I found joy",
+          "Aretha Franklin - Rock steady",
+          "James Brown - Talking loud and saying nothing (remix)",
+          "Nubiyan Twist - So mi stay",
+          "Professor Wouassa - Fallou Fall",
+          "Jarabe de Palo - La Flaca"
+        ],
+        "music-genres": [
+          "Reggae",
+          "Funk",
+          "Soul",
+          "Afrobeat",
+          "Latin Rock",
+          "New Wave"
+        ]
+      },
+      "match_reason": "A continental sports festival full of motion and competition pairs with an upbeat, travel-ready mix about movement, fresh starts, and physical energy."
     }
   ],
   "generated_at": "2026-02-25T00:00:00.017175+00:00",
   "date": "2026-02-25",
-  "updated_at": "2026-02-25T02:00:01.581295+00:00"
+  "updated_at": "2026-02-25T03:00:01.635414+00:00"
 }
