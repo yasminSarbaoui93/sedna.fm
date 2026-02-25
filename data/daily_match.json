@@ -1,55 +1,30 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "On this day in 1843, British naval officer Lord George Paulet unilaterally occupied the Hawaiian Kingdom, raising the Union Jack in Honolulu in what became known as the Paulet affair. Remarkably, the occupation was reversed within months when his superiors in London disavowed his actions and restored Hawaiian sovereignty. For Hawaii, it was a brief glimpse of a future that could have been permanent colonization.",
-    "fact_year": 1843,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Paulet_affair",
+    "hour": 11,
+    "fact_text": "On February 25, 1980, a group of sergeants led by Dési Bouterse overthrew the government of Suriname in a bloodless coup. A small, recently independent country found itself abruptly shifted from parliamentary democracy toward military rule. The event set off years of political turbulence, showing how fragile new democracies can be.",
+    "fact_year": 1980,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1980_Surinamese_coup_d%27%C3%A9tat",
     "episode": {
-      "id": 45,
-      "title": "Morning Drops #39 - Moving Meditation",
-      "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
+      "id": 30,
+      "title": "Morning Drops #24 - The Rise Of Afrobeat",
+      "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
       "songs": [
-        "Stella & The Longos - La Flamme",
-        "España Circo Este - Dormo poco e sogno molto",
-        "Mystic Jungle - Sunset Breaker",
-        "Talking Heads - This Must Be the Place (Naive Melody)"
+        "E.T. Mensah - Ghana Freedom",
+        "I.K. Dairo - Salome",
+        "Fela Kuti - Great Kids",
+        "Fela Kuti - Expensive Shit"
       ],
       "music-genres": [
-        "Balearic",
-        "Italian Folk Rock",
-        "World Music",
-        "New Wave"
+        "Highlife",
+        "Jùjú",
+        "Afrobeat"
       ]
     },
-    "match_reason": "A sudden, contested occupation of an island kingdom by a foreign captain pairs with an episode about travel, perspective, and the complicated ways outsiders move through other peoples’ homelands."
+    "match_reason": "A postcolonial coup in a small country echoes the political struggles often chronicled and critiqued in Afrobeat and highlife, tying power and resistance to rhythm and voice."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "On February 25, 1980, a group of sergeants led by Dési Bouterse overthrew the government of Suriname in a bloodless coup. A small, recently independent country found itself abruptly shifted from parliamentary democracy toward military rule. The event set off years of political turbulence, showing how fragile new democracies can be.",
-      "fact_year": 1980,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1980_Surinamese_coup_d%27%C3%A9tat",
-      "episode": {
-        "id": 30,
-        "title": "Morning Drops #24 - The Rise Of Afrobeat",
-        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
-        "songs": [
-          "E.T. Mensah - Ghana Freedom",
-          "I.K. Dairo - Salome",
-          "Fela Kuti - Great Kids",
-          "Fela Kuti - Expensive Shit"
-        ],
-        "music-genres": [
-          "Highlife",
-          "Jùjú",
-          "Afrobeat"
-        ]
-      },
-      "match_reason": "A postcolonial coup in a small country echoes the political struggles often chronicled and critiqued in Afrobeat and highlife, tying power and resistance to rhythm and voice."
-    },
     {
       "hour": 12,
       "fact_text": "In 1991, the Warsaw Pact—a military alliance that once bound the Soviet Union to its Eastern European satellite states—was officially dissolved in Budapest. Created as a counterpart to NATO, it had symbolized the \"Iron Curtain\" for decades. Its quiet end signaled that the Cold War’s rigid blocs were melting into something messier and more fluid.",
@@ -664,9 +639,33 @@
         ]
       },
       "match_reason": "A sudden, contested occupation of an island kingdom by a foreign captain pairs with an episode about travel, perspective, and the complicated ways outsiders move through other peoples’ homelands."
+    },
+    {
+      "hour": 11,
+      "fact_text": "On February 25, 1980, a group of sergeants led by Dési Bouterse overthrew the government of Suriname in a bloodless coup. A small, recently independent country found itself abruptly shifted from parliamentary democracy toward military rule. The event set off years of political turbulence, showing how fragile new democracies can be.",
+      "fact_year": 1980,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1980_Surinamese_coup_d%27%C3%A9tat",
+      "episode": {
+        "id": 30,
+        "title": "Morning Drops #24 - The Rise Of Afrobeat",
+        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
+        "songs": [
+          "E.T. Mensah - Ghana Freedom",
+          "I.K. Dairo - Salome",
+          "Fela Kuti - Great Kids",
+          "Fela Kuti - Expensive Shit"
+        ],
+        "music-genres": [
+          "Highlife",
+          "Jùjú",
+          "Afrobeat"
+        ]
+      },
+      "match_reason": "A postcolonial coup in a small country echoes the political struggles often chronicled and critiqued in Afrobeat and highlife, tying power and resistance to rhythm and voice."
     }
   ],
   "generated_at": "2026-02-25T00:00:00.017175+00:00",
   "date": "2026-02-25",
-  "updated_at": "2026-02-25T10:00:01.884258+00:00"
+  "updated_at": "2026-02-25T11:00:01.544610+00:00"
 }
