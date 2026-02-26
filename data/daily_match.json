@@ -1,59 +1,34 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "On 26 February 1971, UN Secretary-General U Thant signed a proclamation designating the vernal equinox as Earth Day, framing a global moment to honor the planet. This cosmic alignment was chosen as a universal, borderless symbol of balance between light and dark.",
-    "fact_year": 1971,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/U_Thant",
+    "hour": 5,
+    "fact_text": "On 26 February 1606, Willem Janszoon’s voyage became the first recorded European expedition to set foot on the Australian continent—though he thought he’d found part of New Guinea. His maps sketched a rough, mistaken edge of a landmass whose full outline would remain mysterious for centuries.",
+    "fact_year": 1606,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Janszoon_voyage_of_1605%E2%80%931606",
     "episode": {
-      "id": 20,
-      "title": "Morning Drops #14 - Slow Planet",
-      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "Air - Cherry Blossom Girl",
-        "Kruder & Dorfmeister - Keep On Believing",
-        "Tosca - Orozco",
-        "Bonobo - Terrapin"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Downtempo",
-        "Trip-Hop",
-        "Electronic",
-        "Chillout"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "A proclamation about honoring Earth and moving in tune with seasons pairs with an episode about slowing down, breathing with the planet, and gentle natural rhythms."
+    "match_reason": "An early sea expedition and mischarted coastline echo an episode recorded at sea, full of stories about navigation, journeys, and the ocean’s moods."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "On 26 February 1606, Willem Janszoon’s voyage became the first recorded European expedition to set foot on the Australian continent—though he thought he’d found part of New Guinea. His maps sketched a rough, mistaken edge of a landmass whose full outline would remain mysterious for centuries.",
-      "fact_year": 1606,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Janszoon_voyage_of_1605%E2%80%931606",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "An early sea expedition and mischarted coastline echo an episode recorded at sea, full of stories about navigation, journeys, and the ocean’s moods."
-    },
     {
       "hour": 6,
       "fact_text": "On 26 February 1914, the HMHS Britannic, sister ship to the Titanic, slid down the slipway at Harland and Wolff in Belfast. Built even more robustly than her ill-fated sibling, she would later serve as a World War I hospital ship before meeting her own tragic end in the Aegean.",
@@ -641,9 +616,37 @@
         ]
       },
       "match_reason": "A proclamation about honoring Earth and moving in tune with seasons pairs with an episode about slowing down, breathing with the planet, and gentle natural rhythms."
+    },
+    {
+      "hour": 5,
+      "fact_text": "On 26 February 1606, Willem Janszoon’s voyage became the first recorded European expedition to set foot on the Australian continent—though he thought he’d found part of New Guinea. His maps sketched a rough, mistaken edge of a landmass whose full outline would remain mysterious for centuries.",
+      "fact_year": 1606,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Janszoon_voyage_of_1605%E2%80%931606",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "An early sea expedition and mischarted coastline echo an episode recorded at sea, full of stories about navigation, journeys, and the ocean’s moods."
     }
   ],
   "generated_at": "2026-02-26T00:00:00.008983+00:00",
   "date": "2026-02-26",
-  "updated_at": "2026-02-26T04:00:01.436000+00:00"
+  "updated_at": "2026-02-26T05:00:01.356134+00:00"
 }
