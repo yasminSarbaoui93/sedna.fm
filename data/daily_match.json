@@ -1,56 +1,31 @@
 {
-  "current_hour": 8,
+  "current_hour": 9,
   "current_fact": {
-    "hour": 8,
-    "fact_text": "On February 26, 1909, London audiences at the Palace Theatre saw moving images in color for the first time using Kinemacolor. This ingenious early technique rapidly alternated red and green frames to trick the brain into seeing a full-color motion picture.",
-    "fact_year": 1909,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Kinemacolor",
+    "hour": 9,
+    "fact_text": "In 1914, the massive ocean liner HMHS Britannic—sister ship to the Titanic—was launched in Belfast. She would never serve as the glamorous passenger ship she was built to be, instead becoming a World War I hospital ship that struck a mine and sank in the Aegean Sea.",
+    "fact_year": 1914,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/HMHS_Britannic",
     "episode": {
-      "id": 18,
-      "title": "Morning Drops #12 - 80's Club",
-      "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "Donna Summer - I Feel Love",
-        "Depeche Mode - Just Can't Get Enough",
-        "Ken Laszlo - Hey Hey Guy",
-        "Mylène Farmer - Sans Contrefaçon"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Disco",
-        "Synthpop",
-        "Italo Disco",
-        "French Pop"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "The birth of color cinema, a technological leap in how we see images, pairs with an episode celebrating the machines that transformed how we see and feel music on the dancefloor."
+    "match_reason": "A legendary ship that ultimately rests on the seafloor connects with an ocean-themed episode about diving and underwater worlds, both haunted and serene."
   },
   "queue": [
-    {
-      "hour": 9,
-      "fact_text": "In 1914, the massive ocean liner HMHS Britannic—sister ship to the Titanic—was launched in Belfast. She would never serve as the glamorous passenger ship she was built to be, instead becoming a World War I hospital ship that struck a mine and sank in the Aegean Sea.",
-      "fact_year": 1914,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/HMHS_Britannic",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "A legendary ship that ultimately rests on the seafloor connects with an ocean-themed episode about diving and underwater worlds, both haunted and serene."
-    },
     {
       "hour": 10,
       "fact_text": "On February 26, 1929, U.S. President Calvin Coolidge signed legislation creating Grand Teton National Park in Wyoming. The new park protected jagged alpine peaks, glacial lakes, and rich wildlife habitats that still feel almost otherworldly.",
@@ -645,9 +620,34 @@
         ]
       },
       "match_reason": "The birth of color cinema, a technological leap in how we see images, pairs with an episode celebrating the machines that transformed how we see and feel music on the dancefloor."
+    },
+    {
+      "hour": 9,
+      "fact_text": "In 1914, the massive ocean liner HMHS Britannic—sister ship to the Titanic—was launched in Belfast. She would never serve as the glamorous passenger ship she was built to be, instead becoming a World War I hospital ship that struck a mine and sank in the Aegean Sea.",
+      "fact_year": 1914,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/HMHS_Britannic",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "A legendary ship that ultimately rests on the seafloor connects with an ocean-themed episode about diving and underwater worlds, both haunted and serene."
     }
   ],
   "generated_at": "2026-02-26T00:00:00.022269+00:00",
   "date": "2026-02-26",
-  "updated_at": "2026-02-26T08:00:01.443285+00:00"
+  "updated_at": "2026-02-26T09:00:01.758177+00:00"
 }
