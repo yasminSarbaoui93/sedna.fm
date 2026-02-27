@@ -1,55 +1,30 @@
 {
-  "current_hour": 17,
+  "current_hour": 18,
   "current_fact": {
-    "hour": 17,
-    "fact_text": "On February 27, 1617, Sweden and the Tsardom of Russia signed the Treaty of Stolbovo, ending the Ingrian War. The agreement shut Russia out from direct access to the Baltic Sea for nearly a century, reshaping northern Europe’s map and trade routes with a few strokes of ink.",
-    "fact_year": 1617,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Treaty_of_Stolbovo",
+    "hour": 18,
+    "fact_text": "On February 27, 1942, during World War II’s Battle of the Java Sea, an Allied fleet of American, British, Dutch, and Australian ships was decisively defeated by the Imperial Japanese Navy. It was one of the largest surface naval battles since World War I and opened the way for Japan’s swift conquest of the Dutch East Indies.",
+    "fact_year": 1942,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_the_Java_Sea",
     "episode": {
-      "id": 45,
-      "title": "Morning Drops #39 - Moving Meditation",
-      "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
+      "id": 31,
+      "title": "Morning Drops #26 - Canserbero",
+      "description": "Yasmin guides us through the story of Canserbero, the Venezuelan rapper who reshaped Latin American hip hop with his raw voice and deeply reflective lyrics. A journey into his music, his vision, and the legacy of an artist who transformed personal and social struggles into powerful storytelling.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-canserbero",
       "songs": [
-        "Stella & The Longos - La Flamme",
-        "España Circo Este - Dormo poco e sogno molto",
-        "Mystic Jungle - Sunset Breaker",
-        "Talking Heads - This Must Be the Place (Naive Melody)"
+        "Canserbero - Mañana será otro día",
+        "Canserbero - Querer Querernos",
+        "Canserbero - Jeremías",
+        "Canserbero - De la vida como una película y su tragedia, comedia y ficción"
       ],
       "music-genres": [
-        "Balearic",
-        "Italian Folk Rock",
-        "World Music",
-        "New Wave"
+        "Latin Rap",
+        "Hip-Hop",
+        "Conscious Rap"
       ]
     },
-    "match_reason": "A treaty that reoriented sea access and trade routes reflects a deep shift in how people move across regions, matching an episode about travel, changing paths, and quiet geopolitical undercurrents."
+    "match_reason": "A grim naval defeat and the human cost of war pair with an episode centered on Canserbero, whose lyrics dwell on tragedy, struggle, and the brutal realities behind heroic narratives."
   },
   "queue": [
-    {
-      "hour": 18,
-      "fact_text": "On February 27, 1942, during World War II’s Battle of the Java Sea, an Allied fleet of American, British, Dutch, and Australian ships was decisively defeated by the Imperial Japanese Navy. It was one of the largest surface naval battles since World War I and opened the way for Japan’s swift conquest of the Dutch East Indies.",
-      "fact_year": 1942,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_the_Java_Sea",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #26 - Canserbero",
-        "description": "Yasmin guides us through the story of Canserbero, the Venezuelan rapper who reshaped Latin American hip hop with his raw voice and deeply reflective lyrics. A journey into his music, his vision, and the legacy of an artist who transformed personal and social struggles into powerful storytelling.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-canserbero",
-        "songs": [
-          "Canserbero - Mañana será otro día",
-          "Canserbero - Querer Querernos",
-          "Canserbero - Jeremías",
-          "Canserbero - De la vida como una película y su tragedia, comedia y ficción"
-        ],
-        "music-genres": [
-          "Latin Rap",
-          "Hip-Hop",
-          "Conscious Rap"
-        ]
-      },
-      "match_reason": "A grim naval defeat and the human cost of war pair with an episode centered on Canserbero, whose lyrics dwell on tragedy, struggle, and the brutal realities behind heroic narratives."
-    },
     {
       "hour": 19,
       "fact_text": "On February 27, 2004, Abu Sayyaf militants bombed the Philippine ferry MV SuperFerry 14, causing a catastrophic fire and explosion. Beyond its tragic toll, the attack exposed how terrorism can target the most ordinary, civilian spaces—turning a nocturnal ferry ride into the site of a national trauma.",
@@ -642,9 +617,33 @@
         ]
       },
       "match_reason": "A treaty that reoriented sea access and trade routes reflects a deep shift in how people move across regions, matching an episode about travel, changing paths, and quiet geopolitical undercurrents."
+    },
+    {
+      "hour": 18,
+      "fact_text": "On February 27, 1942, during World War II’s Battle of the Java Sea, an Allied fleet of American, British, Dutch, and Australian ships was decisively defeated by the Imperial Japanese Navy. It was one of the largest surface naval battles since World War I and opened the way for Japan’s swift conquest of the Dutch East Indies.",
+      "fact_year": 1942,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_the_Java_Sea",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #26 - Canserbero",
+        "description": "Yasmin guides us through the story of Canserbero, the Venezuelan rapper who reshaped Latin American hip hop with his raw voice and deeply reflective lyrics. A journey into his music, his vision, and the legacy of an artist who transformed personal and social struggles into powerful storytelling.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-canserbero",
+        "songs": [
+          "Canserbero - Mañana será otro día",
+          "Canserbero - Querer Querernos",
+          "Canserbero - Jeremías",
+          "Canserbero - De la vida como una película y su tragedia, comedia y ficción"
+        ],
+        "music-genres": [
+          "Latin Rap",
+          "Hip-Hop",
+          "Conscious Rap"
+        ]
+      },
+      "match_reason": "A grim naval defeat and the human cost of war pair with an episode centered on Canserbero, whose lyrics dwell on tragedy, struggle, and the brutal realities behind heroic narratives."
     }
   ],
   "generated_at": "2026-02-27T00:00:00.015879+00:00",
   "date": "2026-02-27",
-  "updated_at": "2026-02-27T17:00:01.776356+00:00"
+  "updated_at": "2026-02-27T18:00:01.432759+00:00"
 }
