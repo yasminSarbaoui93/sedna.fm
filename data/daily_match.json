@@ -1,56 +1,31 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "On 27 February 1776, at the Battle of Moore’s Creek Bridge in North Carolina, Patriot forces defeated a Loyalist militia by removing planks from a bridge and greasing the remaining beams. The short, clever ambush helped derail British plans in the South and showed how strategy can outweigh numbers.",
-    "fact_year": 1776,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Moore%27s_Creek_Bridge",
+    "hour": 11,
+    "fact_text": "On 27 February 1617, Sweden and the Tsardom of Russia signed the Treaty of Stolbovo, ending the Ingrian War and effectively cutting Russia off from the Baltic Sea for nearly a century. That loss of \"a window to the West\" haunted Russian rulers and helped drive later quests for a Baltic port, from Peter the Great’s St. Petersburg to modern geopolitics.",
+    "fact_year": 1617,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Treaty_of_Stolbovo",
     "episode": {
-      "id": 45,
-      "title": "Morning Drops #38 - History of Flamenco",
-      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+      "id": 26,
+      "title": "Morning Drops #20 - Hitchhiking Poland",
+      "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
       "songs": [
-        "La Niña de los Peines - Al Gurugú",
-        "Lola Flores - Pena, penita, pena",
-        "Paco de Lucía - Entre dos aguas",
-        "Camarón de la Isla - La leyenda del tiempo",
-        "Rosalía - Pienso en tu mirá"
+        "Pidżama Porno - Ezoteryczny Poznań",
+        "Seev, Masswo - Primal Scream",
+        "Antoha MC - Ритм сердца",
+        "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
       ],
       "music-genres": [
-        "Flamenco",
-        "Spanish Folk",
-        "Nuevo Flamenco"
+        "Polish Rock",
+        "Electronic",
+        "Russian Rap",
+        "Slavic Folk Rock"
       ]
     },
-    "match_reason": "An early Revolutionary War skirmish about identity and rebellion parallels flamenco’s own history as a music of marginalized resistance and defiant expression."
+    "match_reason": "A Baltic-focused treaty reshaping Eastern Europe pairs with an episode about traveling through Poland and the region’s modern Slavic and Russian sounds."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "On 27 February 1617, Sweden and the Tsardom of Russia signed the Treaty of Stolbovo, ending the Ingrian War and effectively cutting Russia off from the Baltic Sea for nearly a century. That loss of \"a window to the West\" haunted Russian rulers and helped drive later quests for a Baltic port, from Peter the Great’s St. Petersburg to modern geopolitics.",
-      "fact_year": 1617,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Treaty_of_Stolbovo",
-      "episode": {
-        "id": 26,
-        "title": "Morning Drops #20 - Hitchhiking Poland",
-        "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
-        "songs": [
-          "Pidżama Porno - Ezoteryczny Poznań",
-          "Seev, Masswo - Primal Scream",
-          "Antoha MC - Ритм сердца",
-          "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
-        ],
-        "music-genres": [
-          "Polish Rock",
-          "Electronic",
-          "Russian Rap",
-          "Slavic Folk Rock"
-        ]
-      },
-      "match_reason": "A Baltic-focused treaty reshaping Eastern Europe pairs with an episode about traveling through Poland and the region’s modern Slavic and Russian sounds."
-    },
     {
       "hour": 12,
       "fact_text": "On 27 February 1560, the Treaty of Berwick was signed between England and the Scottish Lords of the Congregation, inviting English troops into Scotland to expel French forces. In a twist of alliances, former enemies united across the border to shift the religious and political balance of an entire kingdom.",
@@ -646,9 +621,34 @@
         ]
       },
       "match_reason": "An early Revolutionary War skirmish about identity and rebellion parallels flamenco’s own history as a music of marginalized resistance and defiant expression."
+    },
+    {
+      "hour": 11,
+      "fact_text": "On 27 February 1617, Sweden and the Tsardom of Russia signed the Treaty of Stolbovo, ending the Ingrian War and effectively cutting Russia off from the Baltic Sea for nearly a century. That loss of \"a window to the West\" haunted Russian rulers and helped drive later quests for a Baltic port, from Peter the Great’s St. Petersburg to modern geopolitics.",
+      "fact_year": 1617,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Treaty_of_Stolbovo",
+      "episode": {
+        "id": 26,
+        "title": "Morning Drops #20 - Hitchhiking Poland",
+        "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
+        "songs": [
+          "Pidżama Porno - Ezoteryczny Poznań",
+          "Seev, Masswo - Primal Scream",
+          "Antoha MC - Ритм сердца",
+          "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
+        ],
+        "music-genres": [
+          "Polish Rock",
+          "Electronic",
+          "Russian Rap",
+          "Slavic Folk Rock"
+        ]
+      },
+      "match_reason": "A Baltic-focused treaty reshaping Eastern Europe pairs with an episode about traveling through Poland and the region’s modern Slavic and Russian sounds."
     }
   ],
   "generated_at": "2026-02-27T00:00:00.006001+00:00",
   "date": "2026-02-27",
-  "updated_at": "2026-02-27T10:00:01.586255+00:00"
+  "updated_at": "2026-02-27T11:00:01.638732+00:00"
 }
