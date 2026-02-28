@@ -1,54 +1,29 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "On February 28, 2001, the Nisqually earthquake struck the Puget Sound region with a magnitude of 6.8, rattling skyscrapers in Seattle yet causing surprisingly few deaths for such a powerful tremor. It was a deep intraslab quake, reminding geologists that not all dangerous earthquakes occur on visible surface faults.",
-    "fact_year": 2001,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2001_Nisqually_earthquake",
+    "hour": 1,
+    "fact_text": "In 1959, the United States launched Discoverer 1, the first satellite specifically intended for a polar orbit. Although it failed to achieve orbit, the mission quietly opened the era of reconnaissance satellites, where cameras in space would one day see more of Earth than any human eye.",
+    "fact_year": 1959,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Discoverer_1",
     "episode": {
-      "id": 11,
-      "title": "Morning Drops #05 - Electric Shock",
-      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+      "id": 9,
+      "title": "Morning Drops #03 - Space Shift",
+      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
       "songs": [
-        "Johnny Winter - Highway 61 Revisited",
-        "Joan Armatrading - Sleight of Hand",
-        "Joan Armatrading - Russian Roulette",
-        "Jimi Hendrix - Freedom",
-        "Jeff Beck - Scatterbrain"
+        "Willy J Healey - Woke Up Smiling",
+        "The Chemical Brothers - Go",
+        "The Strokes - You Only Live Once"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Rock",
-        "Electric Blues"
+        "Indie Rock",
+        "Electronic",
+        "Garage Rock"
       ]
     },
-    "match_reason": "A sudden, powerful earthquake parallels the \"electric shock\" jolt of high-voltage guitars and energy in this episode."
+    "match_reason": "A pioneering but failed polar-orbit attempt fits an episode about reimagining 'emptiness' as creative space and shifting perspective on space itself."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "In 1959, the United States launched Discoverer 1, the first satellite specifically intended for a polar orbit. Although it failed to achieve orbit, the mission quietly opened the era of reconnaissance satellites, where cameras in space would one day see more of Earth than any human eye.",
-      "fact_year": 1959,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Discoverer_1",
-      "episode": {
-        "id": 9,
-        "title": "Morning Drops #03 - Space Shift",
-        "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
-        "songs": [
-          "Willy J Healey - Woke Up Smiling",
-          "The Chemical Brothers - Go",
-          "The Strokes - You Only Live Once"
-        ],
-        "music-genres": [
-          "Indie Rock",
-          "Electronic",
-          "Garage Rock"
-        ]
-      },
-      "match_reason": "A pioneering but failed polar-orbit attempt fits an episode about reimagining 'emptiness' as creative space and shifting perspective on space itself."
-    },
     {
       "hour": 2,
       "fact_text": "On this day in 1966, a NASA T-38 Talon training jet crashed into the McDonnell Aircraft factory in St. Louis during a foggy approach, killing astronauts Elliot See and Charles Bassett. The tragedy reshaped crew assignments for upcoming Gemini missions, quietly altering who would first test humanity’s path to the Moon.",
@@ -630,9 +605,32 @@
         ]
       },
       "match_reason": "A sudden, powerful earthquake parallels the \"electric shock\" jolt of high-voltage guitars and energy in this episode."
+    },
+    {
+      "hour": 1,
+      "fact_text": "In 1959, the United States launched Discoverer 1, the first satellite specifically intended for a polar orbit. Although it failed to achieve orbit, the mission quietly opened the era of reconnaissance satellites, where cameras in space would one day see more of Earth than any human eye.",
+      "fact_year": 1959,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Discoverer_1",
+      "episode": {
+        "id": 9,
+        "title": "Morning Drops #03 - Space Shift",
+        "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+        "songs": [
+          "Willy J Healey - Woke Up Smiling",
+          "The Chemical Brothers - Go",
+          "The Strokes - You Only Live Once"
+        ],
+        "music-genres": [
+          "Indie Rock",
+          "Electronic",
+          "Garage Rock"
+        ]
+      },
+      "match_reason": "A pioneering but failed polar-orbit attempt fits an episode about reimagining 'emptiness' as creative space and shifting perspective on space itself."
     }
   ],
   "generated_at": "2026-02-28T00:00:00.009898+00:00",
   "date": "2026-02-28",
-  "updated_at": "2026-02-28T00:00:44.812636+00:00"
+  "updated_at": "2026-02-28T01:00:01.570684+00:00"
 }
