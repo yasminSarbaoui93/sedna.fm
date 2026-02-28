@@ -1,60 +1,30 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "On February 28, 1990, Space Shuttle Atlantis launched on STS-36, a heavily classified Department of Defense mission. The orbiter’s exact payload and activities remained secret for years, illustrating how even the shuttle era mixed scientific exploration with covert surveillance.",
-    "fact_year": 1990,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-36",
+    "hour": 6,
+    "fact_text": "The 1997 Ardabil earthquake in northern Iran, with a magnitude of 6.1, killed around 1,100 people and destroyed numerous villages in minutes. Its devastation spurred renewed attention to rural building standards and the deadly vulnerability of traditional construction in seismic zones.",
+    "fact_year": 1997,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1997_Ardabil_earthquake",
     "episode": {
-      "id": 48,
-      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+      "id": 30,
+      "title": "Morning Drops #24 - The Rise Of Afrobeat",
+      "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
       "songs": [
-        "Stive Morgan - Solar Wind, Pt. 3",
-        "David Visan & Carlos Campos - Crystal Heart",
-        "Evan Mars - Ya Zareef Al Tool",
-        "Gerardo Frisina - Cuiabá",
-        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-        "The Busy Twist - Friday Night"
+        "E.T. Mensah - Ghana Freedom",
+        "I.K. Dairo - Salome",
+        "Fela Kuti - Great Kids",
+        "Fela Kuti - Expensive Shit"
       ],
       "music-genres": [
-        "Ambient",
-        "Deep House",
-        "World Music",
-        "Nu Jazz",
-        "Afrobeat",
-        "Funk",
-        "Electronic"
+        "Highlife",
+        "Jùjú",
+        "Afrobeat"
       ]
     },
-    "match_reason": "A secretive, nocturnal-leaning shuttle mission pairs with a slow-building, mysterious evening mix that starts in shadowy alleys and drifts into cosmic, \"solar wind\" moods."
+    "match_reason": "A quake exposing structural inequality is matched with Afrobeat, a genre born from confronting social realities—turning collective trauma and resistance into intensely rhythmic life-force."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "The 1997 Ardabil earthquake in northern Iran, with a magnitude of 6.1, killed around 1,100 people and destroyed numerous villages in minutes. Its devastation spurred renewed attention to rural building standards and the deadly vulnerability of traditional construction in seismic zones.",
-      "fact_year": 1997,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1997_Ardabil_earthquake",
-      "episode": {
-        "id": 30,
-        "title": "Morning Drops #24 - The Rise Of Afrobeat",
-        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
-        "songs": [
-          "E.T. Mensah - Ghana Freedom",
-          "I.K. Dairo - Salome",
-          "Fela Kuti - Great Kids",
-          "Fela Kuti - Expensive Shit"
-        ],
-        "music-genres": [
-          "Highlife",
-          "Jùjú",
-          "Afrobeat"
-        ]
-      },
-      "match_reason": "A quake exposing structural inequality is matched with Afrobeat, a genre born from confronting social realities—turning collective trauma and resistance into intensely rhythmic life-force."
-    },
     {
       "hour": 7,
       "fact_text": "In 1925, the Charlevoix–Kamouraska earthquake shook northeastern North America, one of the largest known quakes in eastern Canada. The region is a geological puzzle: a cluster of unusual seismicity within old, seemingly stable continental crust.",
@@ -647,9 +617,33 @@
         ]
       },
       "match_reason": "A secretive, nocturnal-leaning shuttle mission pairs with a slow-building, mysterious evening mix that starts in shadowy alleys and drifts into cosmic, \"solar wind\" moods."
+    },
+    {
+      "hour": 6,
+      "fact_text": "The 1997 Ardabil earthquake in northern Iran, with a magnitude of 6.1, killed around 1,100 people and destroyed numerous villages in minutes. Its devastation spurred renewed attention to rural building standards and the deadly vulnerability of traditional construction in seismic zones.",
+      "fact_year": 1997,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1997_Ardabil_earthquake",
+      "episode": {
+        "id": 30,
+        "title": "Morning Drops #24 - The Rise Of Afrobeat",
+        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
+        "songs": [
+          "E.T. Mensah - Ghana Freedom",
+          "I.K. Dairo - Salome",
+          "Fela Kuti - Great Kids",
+          "Fela Kuti - Expensive Shit"
+        ],
+        "music-genres": [
+          "Highlife",
+          "Jùjú",
+          "Afrobeat"
+        ]
+      },
+      "match_reason": "A quake exposing structural inequality is matched with Afrobeat, a genre born from confronting social realities—turning collective trauma and resistance into intensely rhythmic life-force."
     }
   ],
   "generated_at": "2026-02-28T00:00:00.009894+00:00",
   "date": "2026-02-28",
-  "updated_at": "2026-02-28T05:00:01.475529+00:00"
+  "updated_at": "2026-02-28T06:00:01.567071+00:00"
 }
