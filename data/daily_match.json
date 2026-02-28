@@ -1,56 +1,31 @@
 {
-  "current_hour": 22,
+  "current_hour": 23,
   "current_fact": {
-    "hour": 22,
-    "fact_text": "Over 50 years after the February 28 Incident, Taiwan’s government officially apologized and began commemorating the victims, transforming a silenced trauma into a public memory. Monuments, museums, and music now mark a day once only whispered about.",
-    "fact_year": 1947,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Taiwan",
+    "hour": 23,
+    "fact_text": "The Tempi train crash in 2023 not only exposed outdated signaling systems but also catalyzed Greek youth into the streets, chanting \"Δεν ήταν δυστύχημα, ήταν δολοφονία\" (“It wasn’t an accident, it was murder”). Art, graffiti, and songs rapidly turned anger and grief into a cultural reckoning with neglect.",
+    "fact_year": 2023,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Vale_of_Tempe",
     "episode": {
-      "id": 24,
-      "title": "Morning Drops #18 - Sardegna",
-      "description": "Yasmin traces her connection to Sardegna — the island where her Italian journey began. Through music and memory, she shares the story of how this place shaped her family's path, and why it still holds such a deep place in her heart.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-18-sardegna",
+      "id": 38,
+      "title": "Morning Drops #32 - A Weekend In London",
+      "description": "Recorded in London, marking a weekend reunion between Gaia and Yasmin. A selection inspired by London's energy, seen through the eyes of two inseparable friends — music from concerts, club nights, and long walks across town. Four tracks to ease you into the week at the right pace.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-weekend-in-london",
       "songs": [
-        "Piero Marras - Istrales",
-        "Mahmood & Tenores di Bitti - Com’è profondo il mare",
-        "Fabrizio De André - Hotel Supramonte",
-        "Giuni Russo - Alghero"
+        "Dele Sosimi - E Go Betta",
+        "Jimmy Castor Bunch - It's Just Begun",
+        "Little Simz feat. Obongjayar - Lion",
+        "The Asphodells - Late Flowering Lust (Phil Kieran Remix)"
       ],
       "music-genres": [
-        "Italian Folk",
-        "Sardinian",
-        "Italian Pop"
+        "Afrobeat",
+        "Funk",
+        "UK Hip-Hop",
+        "Electronic"
       ]
     },
-    "match_reason": "A once-suppressed wound becoming a place-based ritual of remembrance parallels an episode where an island’s songs carry memory, identity, and the weight of personal and collective past."
+    "match_reason": "A disaster that turns into a youth-led cry for accountability links with an episode grounded in urban energy, protest-ready UK hip-hop, and the feeling that \"it's just begun\"—a movement as much as a weekend."
   },
-  "queue": [
-    {
-      "hour": 23,
-      "fact_text": "The Tempi train crash in 2023 not only exposed outdated signaling systems but also catalyzed Greek youth into the streets, chanting \"Δεν ήταν δυστύχημα, ήταν δολοφονία\" (“It wasn’t an accident, it was murder”). Art, graffiti, and songs rapidly turned anger and grief into a cultural reckoning with neglect.",
-      "fact_year": 2023,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Vale_of_Tempe",
-      "episode": {
-        "id": 38,
-        "title": "Morning Drops #32 - A Weekend In London",
-        "description": "Recorded in London, marking a weekend reunion between Gaia and Yasmin. A selection inspired by London's energy, seen through the eyes of two inseparable friends — music from concerts, club nights, and long walks across town. Four tracks to ease you into the week at the right pace.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-weekend-in-london",
-        "songs": [
-          "Dele Sosimi - E Go Betta",
-          "Jimmy Castor Bunch - It's Just Begun",
-          "Little Simz feat. Obongjayar - Lion",
-          "The Asphodells - Late Flowering Lust (Phil Kieran Remix)"
-        ],
-        "music-genres": [
-          "Afrobeat",
-          "Funk",
-          "UK Hip-Hop",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A disaster that turns into a youth-led cry for accountability links with an episode grounded in urban energy, protest-ready UK hip-hop, and the feeling that \"it's just begun\"—a movement as much as a weekend."
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "hour": 0,
@@ -641,9 +616,34 @@
         ]
       },
       "match_reason": "A once-suppressed wound becoming a place-based ritual of remembrance parallels an episode where an island’s songs carry memory, identity, and the weight of personal and collective past."
+    },
+    {
+      "hour": 23,
+      "fact_text": "The Tempi train crash in 2023 not only exposed outdated signaling systems but also catalyzed Greek youth into the streets, chanting \"Δεν ήταν δυστύχημα, ήταν δολοφονία\" (“It wasn’t an accident, it was murder”). Art, graffiti, and songs rapidly turned anger and grief into a cultural reckoning with neglect.",
+      "fact_year": 2023,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Vale_of_Tempe",
+      "episode": {
+        "id": 38,
+        "title": "Morning Drops #32 - A Weekend In London",
+        "description": "Recorded in London, marking a weekend reunion between Gaia and Yasmin. A selection inspired by London's energy, seen through the eyes of two inseparable friends — music from concerts, club nights, and long walks across town. Four tracks to ease you into the week at the right pace.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-weekend-in-london",
+        "songs": [
+          "Dele Sosimi - E Go Betta",
+          "Jimmy Castor Bunch - It's Just Begun",
+          "Little Simz feat. Obongjayar - Lion",
+          "The Asphodells - Late Flowering Lust (Phil Kieran Remix)"
+        ],
+        "music-genres": [
+          "Afrobeat",
+          "Funk",
+          "UK Hip-Hop",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A disaster that turns into a youth-led cry for accountability links with an episode grounded in urban energy, protest-ready UK hip-hop, and the feeling that \"it's just begun\"—a movement as much as a weekend."
     }
   ],
   "generated_at": "2026-02-28T00:00:00.009894+00:00",
   "date": "2026-02-28",
-  "updated_at": "2026-02-28T22:00:01.726113+00:00"
+  "updated_at": "2026-02-28T23:00:01.469022+00:00"
 }
