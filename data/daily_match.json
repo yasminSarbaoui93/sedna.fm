@@ -1,56 +1,31 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On this day in 2002, Space Shuttle Columbia launched the STS-109 mission to service the Hubble Space Telescope. Astronauts upgraded Hubble’s instruments and power systems, dramatically sharpening humanity’s view of the cosmos and extending the telescope’s life far beyond its original plan.",
+    "hour": 2,
+    "fact_text": "Also in 2002, the European Space Agency launched Envisat, one of the largest Earth-observation satellites ever flown. From 800 km above our planet, it monitored oceans, ice, atmosphere, and land, quietly building a decade-long record of Earth’s changing climate.",
     "fact_year": 2002,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-109",
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Envisat",
     "episode": {
-      "id": 46,
-      "title": "Morning Drops #40 - Diving With Orcas",
-      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+      "id": 20,
+      "title": "Morning Drops #20 - Hitchhiking Poland",
+      "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
       "songs": [
-        "Ludovico Einaudi - Experience",
-        "The Temper Trap - Sweet Disposition",
-        "Alex Warren - Ordinary",
-        "Piero Umiliani - Il tuo volto"
+        "Pidżama Porno - Ezoteryczny Poznań",
+        "Seev, Masswo - Primal Scream",
+        "Antoha MC - Ритм сердца",
+        "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
       ],
       "music-genres": [
-        "Neo-Classical",
-        "Indie Rock",
-        "Pop",
-        "Italian Film Score"
+        "Polish Rock",
+        "Electronic",
+        "Russian Rap",
+        "Slavic Folk Rock"
       ]
     },
-    "match_reason": "Both the Hubble mission and the episode explore silent, awe-filled frontiers—one in deep space, one in deep ocean—through calm, cinematic moods."
+    "match_reason": "Envisat’s long journey over Europe and the globe parallels a human-scale journey across Poland, both tracing routes over the same Earth from different vantage points."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "Also in 2002, the European Space Agency launched Envisat, one of the largest Earth-observation satellites ever flown. From 800 km above our planet, it monitored oceans, ice, atmosphere, and land, quietly building a decade-long record of Earth’s changing climate.",
-      "fact_year": 2002,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Envisat",
-      "episode": {
-        "id": 20,
-        "title": "Morning Drops #20 - Hitchhiking Poland",
-        "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
-        "songs": [
-          "Pidżama Porno - Ezoteryczny Poznań",
-          "Seev, Masswo - Primal Scream",
-          "Antoha MC - Ритм сердца",
-          "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
-        ],
-        "music-genres": [
-          "Polish Rock",
-          "Electronic",
-          "Russian Rap",
-          "Slavic Folk Rock"
-        ]
-      },
-      "match_reason": "Envisat’s long journey over Europe and the globe parallels a human-scale journey across Poland, both tracing routes over the same Earth from different vantage points."
-    },
     {
       "hour": 3,
       "fact_text": "In 1954, the United States detonated the Castle Bravo hydrogen bomb at Bikini Atoll, yielding 15 megatons—more than twice what scientists had predicted. The miscalculation created severe radioactive fallout that contaminated nearby islands and even a Japanese fishing boat, reshaping global awareness of nuclear risks.",
@@ -651,9 +626,34 @@
         ]
       },
       "match_reason": "Both the Hubble mission and the episode explore silent, awe-filled frontiers—one in deep space, one in deep ocean—through calm, cinematic moods."
+    },
+    {
+      "hour": 2,
+      "fact_text": "Also in 2002, the European Space Agency launched Envisat, one of the largest Earth-observation satellites ever flown. From 800 km above our planet, it monitored oceans, ice, atmosphere, and land, quietly building a decade-long record of Earth’s changing climate.",
+      "fact_year": 2002,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Envisat",
+      "episode": {
+        "id": 20,
+        "title": "Morning Drops #20 - Hitchhiking Poland",
+        "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
+        "songs": [
+          "Pidżama Porno - Ezoteryczny Poznań",
+          "Seev, Masswo - Primal Scream",
+          "Antoha MC - Ритм сердца",
+          "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
+        ],
+        "music-genres": [
+          "Polish Rock",
+          "Electronic",
+          "Russian Rap",
+          "Slavic Folk Rock"
+        ]
+      },
+      "match_reason": "Envisat’s long journey over Europe and the globe parallels a human-scale journey across Poland, both tracing routes over the same Earth from different vantage points."
     }
   ],
   "generated_at": "2026-03-01T00:00:00.008981+00:00",
   "date": "2026-03-01",
-  "updated_at": "2026-03-01T01:00:01.708940+00:00"
+  "updated_at": "2026-03-01T02:00:01.320870+00:00"
 }
