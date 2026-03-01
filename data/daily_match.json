@@ -1,55 +1,31 @@
 {
-  "current_hour": 16,
+  "current_hour": 17,
   "current_fact": {
-    "hour": 16,
-    "fact_text": "On this day in 1815, Napoleon Bonaparte slipped away from exile on the island of Elba and returned to mainland France, marching toward Paris in what became known as the Hundred Days. Without firing a shot, he won back entire regiments simply by confronting them with his presence and legend.",
-    "fact_year": 1815,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Napoleon",
+    "hour": 17,
+    "fact_text": "In 1562, soldiers of the Catholic Duke of Guise attacked Huguenot worshippers in the town of Wassy, killing dozens in a barn where they had gathered. The Massacre of Vassy ignited the French Wars of Religion, turning simmering tensions into decades of open conflict.",
+    "fact_year": 1562,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Massacre_of_Vassy",
     "episode": {
-      "id": 36,
-      "title": "Morning Drops #30 - Star Treatment",
-      "description": "A celebration of change and transformation. Gaia traces the evolution of Arctic Monkeys - from raw energy to cinematic sound - reflecting on how artists, and all of us, grow and change through time. A journey through courage, curiosity, and the beauty of slowing down.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-star-treatment",
+      "id": 44,
+      "title": "Morning Drops #38 - History of Flamenco",
+      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
       "songs": [
-        "Arctic Monkeys - Brainstorm",
-        "Arctic Monkeys - Pretty Visitors",
-        "Arctic Monkeys - Star Treatment",
-        "Arctic Monkeys - There’d Better Be a Mirrorball"
+        "La Niña de los Peines - Al Gurugú",
+        "Lola Flores - Pena, penita, pena",
+        "Paco de Lucía - Entre dos aguas",
+        "Camarón de la Isla - La leyenda del tiempo",
+        "Rosalía - Pienso en tu mirá"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Psychedelic Rock",
-        "Lounge Pop"
+        "Flamenco",
+        "Spanish Folk",
+        "Nuevo Flamenco"
       ]
     },
-    "match_reason": "Napoleon’s dramatic comeback and reinvention as a returning legend parallels an episode about artistic evolution, shifting personas, and the changing ‘star treatment’ over time."
+    "match_reason": "The violence of religious conflict and persecution resonates with Flamenco’s deep emotional roots in marginalised, persecuted communities across Iberian history."
   },
   "queue": [
-    {
-      "hour": 17,
-      "fact_text": "In 1562, soldiers of the Catholic Duke of Guise attacked Huguenot worshippers in the town of Wassy, killing dozens in a barn where they had gathered. The Massacre of Vassy ignited the French Wars of Religion, turning simmering tensions into decades of open conflict.",
-      "fact_year": 1562,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Massacre_of_Vassy",
-      "episode": {
-        "id": 44,
-        "title": "Morning Drops #38 - History of Flamenco",
-        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
-        "songs": [
-          "La Niña de los Peines - Al Gurugú",
-          "Lola Flores - Pena, penita, pena",
-          "Paco de Lucía - Entre dos aguas",
-          "Camarón de la Isla - La leyenda del tiempo",
-          "Rosalía - Pienso en tu mirá"
-        ],
-        "music-genres": [
-          "Flamenco",
-          "Spanish Folk",
-          "Nuevo Flamenco"
-        ]
-      },
-      "match_reason": "The violence of religious conflict and persecution resonates with Flamenco’s deep emotional roots in marginalised, persecuted communities across Iberian history."
-    },
     {
       "hour": 18,
       "fact_text": "On this day in 1992, Bosnia and Herzegovina declared independence from the Socialist Federal Republic of Yugoslavia after a controversial referendum. The move was soon followed by a devastating war, but also laid the foundations for a new, multi-ethnic state in the Balkans.",
@@ -650,9 +626,34 @@
         ]
       },
       "match_reason": "Napoleon’s dramatic comeback and reinvention as a returning legend parallels an episode about artistic evolution, shifting personas, and the changing ‘star treatment’ over time."
+    },
+    {
+      "hour": 17,
+      "fact_text": "In 1562, soldiers of the Catholic Duke of Guise attacked Huguenot worshippers in the town of Wassy, killing dozens in a barn where they had gathered. The Massacre of Vassy ignited the French Wars of Religion, turning simmering tensions into decades of open conflict.",
+      "fact_year": 1562,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Massacre_of_Vassy",
+      "episode": {
+        "id": 44,
+        "title": "Morning Drops #38 - History of Flamenco",
+        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+        "songs": [
+          "La Niña de los Peines - Al Gurugú",
+          "Lola Flores - Pena, penita, pena",
+          "Paco de Lucía - Entre dos aguas",
+          "Camarón de la Isla - La leyenda del tiempo",
+          "Rosalía - Pienso en tu mirá"
+        ],
+        "music-genres": [
+          "Flamenco",
+          "Spanish Folk",
+          "Nuevo Flamenco"
+        ]
+      },
+      "match_reason": "The violence of religious conflict and persecution resonates with Flamenco’s deep emotional roots in marginalised, persecuted communities across Iberian history."
     }
   ],
   "generated_at": "2026-03-01T00:00:00.008981+00:00",
   "date": "2026-03-01",
-  "updated_at": "2026-03-01T16:00:01.667006+00:00"
+  "updated_at": "2026-03-01T17:00:01.363137+00:00"
 }
