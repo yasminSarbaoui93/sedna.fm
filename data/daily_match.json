@@ -1,54 +1,29 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 1896, while experimenting with phosphorescent uranium salts, Henri Becquerel accidentally discovered radioactive decay when photographic plates stored in a drawer mysteriously fogged. He had stumbled upon a new, invisible form of energy emitted spontaneously from atoms, opening the door to nuclear physics and fundamentally changing our understanding of matter.",
-    "fact_year": 1896,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Henri_Becquerel",
+    "hour": 1,
+    "fact_text": "On March 1, 1966, the Soviet Venera 3 probe smashed into the surface of Venus, becoming the first human-made object to reach another planet. It never sent data back from the surface, but its journey marked a bold step in interplanetary exploration toward one of the most hostile worlds in the Solar System.",
+    "fact_year": 1966,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Venera_3",
     "episode": {
-      "id": 11,
-      "title": "Morning Drops #05 - Electric Shock",
-      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+      "id": 9,
+      "title": "Morning Drops #03 - Space Shift",
+      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
       "songs": [
-        "Johnny Winter - Highway 61 Revisited",
-        "Joan Armatrading - Sleight of Hand",
-        "Joan Armatrading - Russian Roulette",
-        "Jimi Hendrix - Freedom",
-        "Jeff Beck - Scatterbrain"
+        "Willy J Healey - Woke Up Smiling",
+        "The Chemical Brothers - Go",
+        "The Strokes - You Only Live Once"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Rock",
-        "Electric Blues"
+        "Indie Rock",
+        "Electronic",
+        "Garage Rock"
       ]
     },
-    "match_reason": "Becquerel’s discovery of radioactivity was literally an invisible 'electric shock' to physics, matching the episode’s theme of sudden energy jolts and charged sound."
+    "match_reason": "A probe diving into the void of Venus pairs with an episode about reframing emptiness and 'space' as creative territory, with propulsive tracks echoing the momentum of a planetary mission."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On March 1, 1966, the Soviet Venera 3 probe smashed into the surface of Venus, becoming the first human-made object to reach another planet. It never sent data back from the surface, but its journey marked a bold step in interplanetary exploration toward one of the most hostile worlds in the Solar System.",
-      "fact_year": 1966,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Venera_3",
-      "episode": {
-        "id": 9,
-        "title": "Morning Drops #03 - Space Shift",
-        "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
-        "songs": [
-          "Willy J Healey - Woke Up Smiling",
-          "The Chemical Brothers - Go",
-          "The Strokes - You Only Live Once"
-        ],
-        "music-genres": [
-          "Indie Rock",
-          "Electronic",
-          "Garage Rock"
-        ]
-      },
-      "match_reason": "A probe diving into the void of Venus pairs with an episode about reframing emptiness and 'space' as creative territory, with propulsive tracks echoing the momentum of a planetary mission."
-    },
     {
       "hour": 2,
       "fact_text": "In 2002, Space Shuttle Columbia launched on mission STS-109, carrying astronauts to upgrade the Hubble Space Telescope in orbit. Their work extended Hubble’s life and sharpened its cosmic vision, setting the stage for many of the telescope’s most iconic deep-space images.",
@@ -660,9 +635,32 @@
         ]
       },
       "match_reason": "Becquerel’s discovery of radioactivity was literally an invisible 'electric shock' to physics, matching the episode’s theme of sudden energy jolts and charged sound."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On March 1, 1966, the Soviet Venera 3 probe smashed into the surface of Venus, becoming the first human-made object to reach another planet. It never sent data back from the surface, but its journey marked a bold step in interplanetary exploration toward one of the most hostile worlds in the Solar System.",
+      "fact_year": 1966,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Venera_3",
+      "episode": {
+        "id": 9,
+        "title": "Morning Drops #03 - Space Shift",
+        "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+        "songs": [
+          "Willy J Healey - Woke Up Smiling",
+          "The Chemical Brothers - Go",
+          "The Strokes - You Only Live Once"
+        ],
+        "music-genres": [
+          "Indie Rock",
+          "Electronic",
+          "Garage Rock"
+        ]
+      },
+      "match_reason": "A probe diving into the void of Venus pairs with an episode about reframing emptiness and 'space' as creative territory, with propulsive tracks echoing the momentum of a planetary mission."
     }
   ],
   "generated_at": "2026-03-01T00:00:00.011510+00:00",
   "date": "2026-03-01",
-  "updated_at": "2026-03-01T00:00:43.282714+00:00"
+  "updated_at": "2026-03-01T01:00:01.550583+00:00"
 }
