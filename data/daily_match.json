@@ -1,64 +1,39 @@
 {
-  "current_hour": 6,
+  "current_hour": 7,
   "current_fact": {
-    "hour": 6,
-    "fact_text": "Yellowstone’s creation in 1872 set a precedent, but national parks as a concept only spread globally over decades as other countries began safeguarding their own natural treasures. Today, thousands of protected areas trace their spiritual origin back to that single act of setting land aside simply because it was extraordinary.",
-    "fact_year": 1872,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/National_park",
+    "hour": 7,
+    "fact_text": "On March 1, 1893, Nikola Tesla gave one of the earliest public demonstrations of radio in St. Louis, transmitting signals without wires to astonished spectators. Decades before commercial broadcasting, he was already imagining a world stitched together by invisible waves.",
+    "fact_year": 1893,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Nikola_Tesla",
     "episode": {
-      "id": 45,
-      "title": "Morning Drops #39 - Moving Meditation",
-      "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
+      "id": 1,
+      "title": "Sedna FM #01 - November Bomb",
+      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
       "songs": [
-        "Stella & The Longos - La Flamme",
-        "España Circo Este - Dormo poco e sogno molto",
-        "Mystic Jungle - Sunset Breaker",
-        "Talking Heads - This Must Be the Place (Naive Melody)"
+        "berlioz - Open this wall",
+        "Nas - One Mic",
+        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+        "Frankie Knuckles - Your Love",
+        "Notorious B.I.G. - 17 Ten Crack Commandments",
+        "Liloca - Utani Xuva",
+        "Fela Kuti - Zombie",
+        "Neffa - Aspettando il sole",
+        "Childish Gambino - No Excuses",
+        "Modjo - Music takes you back"
       ],
       "music-genres": [
-        "Balearic",
-        "Italian Folk Rock",
-        "World Music",
-        "New Wave"
+        "Hip-Hop",
+        "Afrobeat",
+        "House",
+        "Italian Pop",
+        "R&B",
+        "Latin Rap"
       ]
     },
-    "match_reason": "The spread of national parks worldwide echoes an episode about travel, perspective shifts, and quiet environmental awareness, turning movement through landscapes into a kind of meditation."
+    "match_reason": "Tesla’s early radio show to a live crowd connects perfectly to Sedna’s own very first broadcast, both representing the birth of a new kind of wireless storytelling carried by invisible waves."
   },
   "queue": [
-    {
-      "hour": 7,
-      "fact_text": "On March 1, 1893, Nikola Tesla gave one of the earliest public demonstrations of radio in St. Louis, transmitting signals without wires to astonished spectators. Decades before commercial broadcasting, he was already imagining a world stitched together by invisible waves.",
-      "fact_year": 1893,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Nikola_Tesla",
-      "episode": {
-        "id": 1,
-        "title": "Sedna FM #01 - November Bomb",
-        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
-        "songs": [
-          "berlioz - Open this wall",
-          "Nas - One Mic",
-          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-          "Frankie Knuckles - Your Love",
-          "Notorious B.I.G. - 17 Ten Crack Commandments",
-          "Liloca - Utani Xuva",
-          "Fela Kuti - Zombie",
-          "Neffa - Aspettando il sole",
-          "Childish Gambino - No Excuses",
-          "Modjo - Music takes you back"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Afrobeat",
-          "House",
-          "Italian Pop",
-          "R&B",
-          "Latin Rap"
-        ]
-      },
-      "match_reason": "Tesla’s early radio show to a live crowd connects perfectly to Sedna’s own very first broadcast, both representing the birth of a new kind of wireless storytelling carried by invisible waves."
-    },
     {
       "hour": 8,
       "fact_text": "In 1956, the International Air Transport Association completed a draft of the radiotelephony spelling system that would become the NATO phonetic alphabet—Alpha, Bravo, Charlie, and beyond. Designed to be understood over crackling radios in any accent, it turned misheard letters into a thing of the past for global aviation.",
@@ -660,9 +635,42 @@
         ]
       },
       "match_reason": "The spread of national parks worldwide echoes an episode about travel, perspective shifts, and quiet environmental awareness, turning movement through landscapes into a kind of meditation."
+    },
+    {
+      "hour": 7,
+      "fact_text": "On March 1, 1893, Nikola Tesla gave one of the earliest public demonstrations of radio in St. Louis, transmitting signals without wires to astonished spectators. Decades before commercial broadcasting, he was already imagining a world stitched together by invisible waves.",
+      "fact_year": 1893,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Nikola_Tesla",
+      "episode": {
+        "id": 1,
+        "title": "Sedna FM #01 - November Bomb",
+        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+        "songs": [
+          "berlioz - Open this wall",
+          "Nas - One Mic",
+          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+          "Frankie Knuckles - Your Love",
+          "Notorious B.I.G. - 17 Ten Crack Commandments",
+          "Liloca - Utani Xuva",
+          "Fela Kuti - Zombie",
+          "Neffa - Aspettando il sole",
+          "Childish Gambino - No Excuses",
+          "Modjo - Music takes you back"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Afrobeat",
+          "House",
+          "Italian Pop",
+          "R&B",
+          "Latin Rap"
+        ]
+      },
+      "match_reason": "Tesla’s early radio show to a live crowd connects perfectly to Sedna’s own very first broadcast, both representing the birth of a new kind of wireless storytelling carried by invisible waves."
     }
   ],
   "generated_at": "2026-03-01T00:00:00.011510+00:00",
   "date": "2026-03-01",
-  "updated_at": "2026-03-01T06:00:01.556298+00:00"
+  "updated_at": "2026-03-01T07:00:01.501397+00:00"
 }
