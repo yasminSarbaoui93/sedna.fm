@@ -1,65 +1,30 @@
 {
-  "current_hour": 6,
+  "current_hour": 7,
   "current_fact": {
-    "hour": 6,
-    "fact_text": "On this day in 1998, James Cameron’s film \"Titanic\" became the first movie to gross over one billion dollars worldwide. Beyond its box-office record, the film fused meticulous historical detail with epic romance, turning a 1912 maritime disaster into a global cultural phenomenon.",
-    "fact_year": 1998,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Titanic_(1997_film)",
+    "hour": 7,
+    "fact_text": "In 1942, Japanese forces landed on Java, the heart of the Dutch East Indies, opening a brutal new chapter of World War II in Southeast Asia. The invasion reshaped colonial rule in the region and indirectly accelerated independence movements across the Indonesian archipelago.",
+    "fact_year": 1942,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Dutch_East_Indies",
     "episode": {
-      "id": 4,
-      "title": "Sedna FM #04 - Queen of Spades",
-      "description": "Tuning in from the planet of irrational love. Exploring love's most vulnerable side — the kind that awakens the child within us. A diverse music selection ranging from electric blues to downtempo, soul, and jazz. A tribute to the feeling that has moved artists to create the most beautiful works. Love makes us vulnerable, and there is no art without vulnerability.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/queen-of-spades",
+      "id": 22,
+      "title": "Morning Drops #16 - The Sound of Tuareg",
+      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
       "songs": [
-        "Alabama Shakes - Gimme All Your Love",
-        "Queens of the stone age - Make it wit chu",
-        "Rosa Passos - Fusion",
-        "Sade - Mr Wrong",
-        "Daft Punk - Something About Us",
-        "10cc - I'm Not in Love",
-        "Jonny Nash - Theories",
-        "Etta James - I'd Rather Go Blind",
-        "Adriano Celentano - Storia D'amore",
-        "Eric Clapton - Have you ever loved a woman",
-        "Arctic Monkey - The Bakery"
+        "Les Filles de Illighadad - Imigradan",
+        "Tinariwen - Amassakoul ’N’ Ténéré",
+        "Liya Ag Ablil - Awa Adounia",
+        "Tinariwen - Sastanàqqàm"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Stoner Rock",
-        "Bossa Nova",
-        "Soul",
-        "Electronic",
-        "Soft Rock",
-        "Blues"
+        "Desert Blues",
+        "Tuareg",
+        "World Music"
       ]
     },
-    "match_reason": "A legendary love story set on a doomed ship resonates with an episode devoted to love’s vulnerability, melancholy, and grand emotional stakes."
+    "match_reason": "The occupation of Java and the later struggle for independence echo the episode’s themes of colonization, resistance, and identity expressed through rooted, insurgent music."
   },
   "queue": [
-    {
-      "hour": 7,
-      "fact_text": "In 1942, Japanese forces landed on Java, the heart of the Dutch East Indies, opening a brutal new chapter of World War II in Southeast Asia. The invasion reshaped colonial rule in the region and indirectly accelerated independence movements across the Indonesian archipelago.",
-      "fact_year": 1942,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Dutch_East_Indies",
-      "episode": {
-        "id": 22,
-        "title": "Morning Drops #16 - The Sound of Tuareg",
-        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
-        "songs": [
-          "Les Filles de Illighadad - Imigradan",
-          "Tinariwen - Amassakoul ’N’ Ténéré",
-          "Liya Ag Ablil - Awa Adounia",
-          "Tinariwen - Sastanàqqàm"
-        ],
-        "music-genres": [
-          "Desert Blues",
-          "Tuareg",
-          "World Music"
-        ]
-      },
-      "match_reason": "The occupation of Java and the later struggle for independence echo the episode’s themes of colonization, resistance, and identity expressed through rooted, insurgent music."
-    },
     {
       "hour": 8,
       "fact_text": "Back in the year 293, Roman emperors Diocletian and Maximian appointed Constantius Chlorus and Galerius as junior emperors, creating the Tetrarchy. This four-man power-sharing system was an ambitious attempt to stabilize a vast, crisis-stricken empire by literally dividing the world between four rulers.",
@@ -661,9 +626,33 @@
         ]
       },
       "match_reason": "A legendary love story set on a doomed ship resonates with an episode devoted to love’s vulnerability, melancholy, and grand emotional stakes."
+    },
+    {
+      "hour": 7,
+      "fact_text": "In 1942, Japanese forces landed on Java, the heart of the Dutch East Indies, opening a brutal new chapter of World War II in Southeast Asia. The invasion reshaped colonial rule in the region and indirectly accelerated independence movements across the Indonesian archipelago.",
+      "fact_year": 1942,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Dutch_East_Indies",
+      "episode": {
+        "id": 22,
+        "title": "Morning Drops #16 - The Sound of Tuareg",
+        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+        "songs": [
+          "Les Filles de Illighadad - Imigradan",
+          "Tinariwen - Amassakoul ’N’ Ténéré",
+          "Liya Ag Ablil - Awa Adounia",
+          "Tinariwen - Sastanàqqàm"
+        ],
+        "music-genres": [
+          "Desert Blues",
+          "Tuareg",
+          "World Music"
+        ]
+      },
+      "match_reason": "The occupation of Java and the later struggle for independence echo the episode’s themes of colonization, resistance, and identity expressed through rooted, insurgent music."
     }
   ],
   "generated_at": "2026-03-01T00:00:00.008981+00:00",
   "date": "2026-03-01",
-  "updated_at": "2026-03-01T06:00:01.715349+00:00"
+  "updated_at": "2026-03-01T07:00:01.437002+00:00"
 }
