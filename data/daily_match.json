@@ -1,54 +1,31 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 1966, the Soviet probe Venera 3 became the first human-made object to impact the surface of another planet when it crash-landed on Venus. Although its communications failed before impact, the mission marked a bold early step in interplanetary exploration and hinted at the harsh, alien conditions on our neighboring world.",
-    "fact_year": 1966,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Venera_3",
+    "hour": 1,
+    "fact_text": "On this day in 2002, Space Shuttle Columbia launched the STS-109 mission to service the Hubble Space Telescope. Astronauts upgraded Hubble’s instruments and power systems, dramatically sharpening humanity’s view of the cosmos and extending the telescope’s life far beyond its original plan.",
+    "fact_year": 2002,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-109",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
+        "Neo-Classical",
         "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "A space probe aiming for another planet's surface fits the episode’s theme of reimagining “space” as possibility and forward motion."
+    "match_reason": "Both the Hubble mission and the episode explore silent, awe-filled frontiers—one in deep space, one in deep ocean—through calm, cinematic moods."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On this day in 2002, Space Shuttle Columbia launched the STS-109 mission to service the Hubble Space Telescope. Astronauts upgraded Hubble’s instruments and power systems, dramatically sharpening humanity’s view of the cosmos and extending the telescope’s life far beyond its original plan.",
-      "fact_year": 2002,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-109",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "Both the Hubble mission and the episode explore silent, awe-filled frontiers—one in deep space, one in deep ocean—through calm, cinematic moods."
-    },
     {
       "hour": 2,
       "fact_text": "Also in 2002, the European Space Agency launched Envisat, one of the largest Earth-observation satellites ever flown. From 800 km above our planet, it monitored oceans, ice, atmosphere, and land, quietly building a decade-long record of Earth’s changing climate.",
@@ -649,9 +626,34 @@
         ]
       },
       "match_reason": "A space probe aiming for another planet's surface fits the episode’s theme of reimagining “space” as possibility and forward motion."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On this day in 2002, Space Shuttle Columbia launched the STS-109 mission to service the Hubble Space Telescope. Astronauts upgraded Hubble’s instruments and power systems, dramatically sharpening humanity’s view of the cosmos and extending the telescope’s life far beyond its original plan.",
+      "fact_year": 2002,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-109",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "Both the Hubble mission and the episode explore silent, awe-filled frontiers—one in deep space, one in deep ocean—through calm, cinematic moods."
     }
   ],
   "generated_at": "2026-03-01T00:00:00.008981+00:00",
   "date": "2026-03-01",
-  "updated_at": "2026-03-01T00:00:40.925176+00:00"
+  "updated_at": "2026-03-01T01:00:01.708940+00:00"
 }
