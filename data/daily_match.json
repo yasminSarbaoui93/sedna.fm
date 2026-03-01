@@ -1,67 +1,31 @@
 {
-  "current_hour": 22,
+  "current_hour": 23,
   "current_fact": {
-    "hour": 22,
-    "fact_text": "On March 1, 1998, James Cameron’s film \"Titanic\" became the first movie to gross over one billion dollars worldwide. A three‑hour historical romance about a doomed ship unexpectedly turned into a planetary shared experience, blending technology, music, and myth into box‑office history.",
-    "fact_year": 1998,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Titanic_(1997_film)",
+    "hour": 23,
+    "fact_text": "On March 1, 2002, the launch of Envisat added a new, watchful 'eye' to the constellation of Earth‑observing satellites, quietly archiving changes in our oceans, ice sheets, and atmosphere. Long after it fell silent, its data still help scientists replay the early 21st‑century climate in remarkable detail.",
+    "fact_year": 2002,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Earth_observation_satellite",
     "episode": {
-      "id": 4,
-      "title": "Sedna FM #04 - Queen of Spades",
-      "description": "Tuning in from the planet of irrational love. Exploring love's most vulnerable side — the kind that awakens the child within us. A diverse music selection ranging from electric blues to downtempo, soul, and jazz. A tribute to the feeling that has moved artists to create the most beautiful works. Love makes us vulnerable, and there is no art without vulnerability.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/queen-of-spades",
+      "id": 39,
+      "title": "Morning Drops #33 - Immerse",
+      "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
       "songs": [
-        "Alabama Shakes - Gimme All Your Love",
-        "Queens of the stone age - Make it wit chu",
-        "Rosa Passos - Fusion",
-        "Sade - Mr Wrong",
-        "Daft Punk - Something About Us",
-        "10cc - I'm Not in Love",
-        "Jonny Nash - Theories",
-        "Etta James - I'd Rather Go Blind",
-        "Adriano Celentano - Storia D'amore",
-        "Eric Clapton - Have you ever loved a woman",
-        "Arctic Monkey - The Bakery"
+        "Pino D'Angiò - Un Po' d'Uva e un Liquore",
+        "Midlife - The Magnificent Moon",
+        "Tornado Wallace - Today",
+        "Nu Genea - Marechià (feat. Celia Kameni)"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Stoner Rock",
-        "Bossa Nova",
-        "Soul",
-        "Electronic",
-        "Soft Rock",
-        "Blues"
+        "Italo Disco",
+        "Indie",
+        "Balearic",
+        "Nu Disco"
       ]
     },
-    "match_reason": "A tragic love story set on an ocean liner becoming a global phenomenon fits an episode devoted to vulnerable, irrational love—the same emotional force that made audiences cry over a ship that sank a century earlier."
+    "match_reason": "A satellite continuously 'diving' its gaze into oceans and clouds mirrors an episode about immersion and going below the surface, with fluid, water‑like rhythms echoing Envisat’s long, circling watch over Earth."
   },
-  "queue": [
-    {
-      "hour": 23,
-      "fact_text": "On March 1, 2002, the launch of Envisat added a new, watchful 'eye' to the constellation of Earth‑observing satellites, quietly archiving changes in our oceans, ice sheets, and atmosphere. Long after it fell silent, its data still help scientists replay the early 21st‑century climate in remarkable detail.",
-      "fact_year": 2002,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Earth_observation_satellite",
-      "episode": {
-        "id": 39,
-        "title": "Morning Drops #33 - Immerse",
-        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
-        "songs": [
-          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
-          "Midlife - The Magnificent Moon",
-          "Tornado Wallace - Today",
-          "Nu Genea - Marechià (feat. Celia Kameni)"
-        ],
-        "music-genres": [
-          "Italo Disco",
-          "Indie",
-          "Balearic",
-          "Nu Disco"
-        ]
-      },
-      "match_reason": "A satellite continuously 'diving' its gaze into oceans and clouds mirrors an episode about immersion and going below the surface, with fluid, water‑like rhythms echoing Envisat’s long, circling watch over Earth."
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "hour": 0,
@@ -672,9 +636,34 @@
         ]
       },
       "match_reason": "A tragic love story set on an ocean liner becoming a global phenomenon fits an episode devoted to vulnerable, irrational love—the same emotional force that made audiences cry over a ship that sank a century earlier."
+    },
+    {
+      "hour": 23,
+      "fact_text": "On March 1, 2002, the launch of Envisat added a new, watchful 'eye' to the constellation of Earth‑observing satellites, quietly archiving changes in our oceans, ice sheets, and atmosphere. Long after it fell silent, its data still help scientists replay the early 21st‑century climate in remarkable detail.",
+      "fact_year": 2002,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Earth_observation_satellite",
+      "episode": {
+        "id": 39,
+        "title": "Morning Drops #33 - Immerse",
+        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
+        "songs": [
+          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
+          "Midlife - The Magnificent Moon",
+          "Tornado Wallace - Today",
+          "Nu Genea - Marechià (feat. Celia Kameni)"
+        ],
+        "music-genres": [
+          "Italo Disco",
+          "Indie",
+          "Balearic",
+          "Nu Disco"
+        ]
+      },
+      "match_reason": "A satellite continuously 'diving' its gaze into oceans and clouds mirrors an episode about immersion and going below the surface, with fluid, water‑like rhythms echoing Envisat’s long, circling watch over Earth."
     }
   ],
   "generated_at": "2026-03-01T00:00:00.011510+00:00",
   "date": "2026-03-01",
-  "updated_at": "2026-03-01T22:00:01.708857+00:00"
+  "updated_at": "2026-03-01T23:00:01.415117+00:00"
 }
