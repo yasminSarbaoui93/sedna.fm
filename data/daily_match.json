@@ -1,56 +1,31 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "On March 1, 1872, Yellowstone became the world’s first national park, protecting geysers, hot springs, and vast wilderness from private exploitation. This decision helped launch a global movement to preserve natural landscapes for both ecological health and human wonder.",
-    "fact_year": 1872,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Yellowstone_National_Park",
+    "hour": 5,
+    "fact_text": "In 1964, Chile’s Villarrica Volcano erupted in a dramatic strombolian display, triggering fast-moving volcanic mudflows called lahars that destroyed half the town of Coñaripe. The event showed how fire and ice—lava and snowmelt—can combine into one of nature’s most devastating forces.",
+    "fact_year": 1964,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Villarrica_(volcano)",
     "episode": {
-      "id": 46,
-      "title": "Morning Drops #40 - Diving With Orcas",
-      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+      "id": 53,
+      "title": "Morning Drops #46 - Fog and Fire",
+      "description": "In today’s Morning Drops, Gaia brings us on a passport-free trip between two Italian energies: the foggy stillness of the North and the volcanic pulse of the South. Throughout the journey, Gaia shares four of her favourite Italian songwriters. Grab your coffee and tune into the radio show from another planet!",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-fog-and-fire",
       "songs": [
-        "Ludovico Einaudi - Experience",
-        "The Temper Trap - Sweet Disposition",
-        "Alex Warren - Ordinary",
-        "Piero Umiliani - Il tuo volto"
+        "Edoardo Bennato - La Torre Di Babele",
+        "Zucchero - Diavolo in Me",
+        "Lucio Dalla - Com'è Profondo il Mare",
+        "Pino Daniele - Tutta N'ata Storia"
       ],
       "music-genres": [
-        "Neo-Classical",
-        "Indie Rock",
-        "Pop",
-        "Italian Film Score"
+        "Blues",
+        "indie",
+        "Italian",
+        "Soft Rock"
       ]
     },
-    "match_reason": "A pioneering act of nature protection resonates with an episode immersed in wild seascapes and marine life, both celebrating awe, conservation, and cinematic encounters with Earth’s untamed places."
+    "match_reason": "An explosive volcano and destructive lahars fit the 'fire' side of an episode explicitly about fog and volcanic energy, mirroring the tension between calm landscapes and sudden eruptions."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "In 1964, Chile’s Villarrica Volcano erupted in a dramatic strombolian display, triggering fast-moving volcanic mudflows called lahars that destroyed half the town of Coñaripe. The event showed how fire and ice—lava and snowmelt—can combine into one of nature’s most devastating forces.",
-      "fact_year": 1964,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Villarrica_(volcano)",
-      "episode": {
-        "id": 53,
-        "title": "Morning Drops #46 - Fog and Fire",
-        "description": "In today’s Morning Drops, Gaia brings us on a passport-free trip between two Italian energies: the foggy stillness of the North and the volcanic pulse of the South. Throughout the journey, Gaia shares four of her favourite Italian songwriters. Grab your coffee and tune into the radio show from another planet!",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-fog-and-fire",
-        "songs": [
-          "Edoardo Bennato - La Torre Di Babele",
-          "Zucchero - Diavolo in Me",
-          "Lucio Dalla - Com'è Profondo il Mare",
-          "Pino Daniele - Tutta N'ata Storia"
-        ],
-        "music-genres": [
-          "Blues",
-          "indie",
-          "Italian",
-          "Soft Rock"
-        ]
-      },
-      "match_reason": "An explosive volcano and destructive lahars fit the 'fire' side of an episode explicitly about fog and volcanic energy, mirroring the tension between calm landscapes and sudden eruptions."
-    },
     {
       "hour": 6,
       "fact_text": "Yellowstone’s creation in 1872 set a precedent, but national parks as a concept only spread globally over decades as other countries began safeguarding their own natural treasures. Today, thousands of protected areas trace their spiritual origin back to that single act of setting land aside simply because it was extraordinary.",
@@ -660,9 +635,34 @@
         ]
       },
       "match_reason": "A pioneering act of nature protection resonates with an episode immersed in wild seascapes and marine life, both celebrating awe, conservation, and cinematic encounters with Earth’s untamed places."
+    },
+    {
+      "hour": 5,
+      "fact_text": "In 1964, Chile’s Villarrica Volcano erupted in a dramatic strombolian display, triggering fast-moving volcanic mudflows called lahars that destroyed half the town of Coñaripe. The event showed how fire and ice—lava and snowmelt—can combine into one of nature’s most devastating forces.",
+      "fact_year": 1964,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Villarrica_(volcano)",
+      "episode": {
+        "id": 53,
+        "title": "Morning Drops #46 - Fog and Fire",
+        "description": "In today’s Morning Drops, Gaia brings us on a passport-free trip between two Italian energies: the foggy stillness of the North and the volcanic pulse of the South. Throughout the journey, Gaia shares four of her favourite Italian songwriters. Grab your coffee and tune into the radio show from another planet!",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-fog-and-fire",
+        "songs": [
+          "Edoardo Bennato - La Torre Di Babele",
+          "Zucchero - Diavolo in Me",
+          "Lucio Dalla - Com'è Profondo il Mare",
+          "Pino Daniele - Tutta N'ata Storia"
+        ],
+        "music-genres": [
+          "Blues",
+          "indie",
+          "Italian",
+          "Soft Rock"
+        ]
+      },
+      "match_reason": "An explosive volcano and destructive lahars fit the 'fire' side of an episode explicitly about fog and volcanic energy, mirroring the tension between calm landscapes and sudden eruptions."
     }
   ],
   "generated_at": "2026-03-01T00:00:00.011510+00:00",
   "date": "2026-03-01",
-  "updated_at": "2026-03-01T04:00:01.564666+00:00"
+  "updated_at": "2026-03-01T05:00:01.542961+00:00"
 }
