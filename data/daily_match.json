@@ -1,65 +1,30 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "In 1933, the original film \"King Kong\" roared onto screens at Radio City Music Hall, bringing a stop-motion giant ape to life atop the Empire State Building. Its groundbreaking visual effects and tragic monster turned a pulp adventure into a lasting myth about beauty, fear, and fascination with the unknown.",
-    "fact_year": 1933,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/King_Kong_(1933_film)",
+    "hour": 5,
+    "fact_text": "In 1978, Czech cosmonaut Vladimír Remek became the first person in space who was neither American nor Soviet, launching aboard Soyuz 28. His flight turned the cold vacuum into a brief symbol of shared achievement for smaller nations during the Cold War.",
+    "fact_year": 1978,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Vladim%C3%ADr_Remek",
     "episode": {
-      "id": 4,
-      "title": "Sedna FM #04 - Queen of Spades",
-      "description": "Tuning in from the planet of irrational love. Exploring love's most vulnerable side — the kind that awakens the child within us. A diverse music selection ranging from electric blues to downtempo, soul, and jazz. A tribute to the feeling that has moved artists to create the most beautiful works. Love makes us vulnerable, and there is no art without vulnerability.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/queen-of-spades",
+      "id": 36,
+      "title": "Morning Drops #30 - Star Treatment",
+      "description": "A celebration of change and transformation. Gaia traces the evolution of Arctic Monkeys - from raw energy to cinematic sound - reflecting on how artists, and all of us, grow and change through time. A journey through courage, curiosity, and the beauty of slowing down.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-star-treatment",
       "songs": [
-        "Alabama Shakes - Gimme All Your Love",
-        "Queens of the stone age - Make it wit chu",
-        "Rosa Passos - Fusion",
-        "Sade - Mr Wrong",
-        "Daft Punk - Something About Us",
-        "10cc - I'm Not in Love",
-        "Jonny Nash - Theories",
-        "Etta James - I'd Rather Go Blind",
-        "Adriano Celentano - Storia D'amore",
-        "Eric Clapton - Have you ever loved a woman",
-        "Arctic Monkey - The Bakery"
+        "Arctic Monkeys - Brainstorm",
+        "Arctic Monkeys - Pretty Visitors",
+        "Arctic Monkeys - Star Treatment",
+        "Arctic Monkeys - There’d Better Be a Mirrorball"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Stoner Rock",
-        "Bossa Nova",
-        "Soul",
-        "Electronic",
-        "Soft Rock",
-        "Blues"
+        "Indie Rock",
+        "Psychedelic Rock",
+        "Lounge Pop"
       ]
     },
-    "match_reason": "King Kong’s story is a wild, vulnerable tale of doomed affection and spectacle, echoing an episode devoted to irrational love and the emotional extremes it inspires."
+    "match_reason": "A once-unknown pilot becoming a new kind of space pioneer fits an episode about transformation and \"star treatment,\" where stepping into orbit mirrors stepping into the spotlight."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "In 1978, Czech cosmonaut Vladimír Remek became the first person in space who was neither American nor Soviet, launching aboard Soyuz 28. His flight turned the cold vacuum into a brief symbol of shared achievement for smaller nations during the Cold War.",
-      "fact_year": 1978,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Vladim%C3%ADr_Remek",
-      "episode": {
-        "id": 36,
-        "title": "Morning Drops #30 - Star Treatment",
-        "description": "A celebration of change and transformation. Gaia traces the evolution of Arctic Monkeys - from raw energy to cinematic sound - reflecting on how artists, and all of us, grow and change through time. A journey through courage, curiosity, and the beauty of slowing down.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-star-treatment",
-        "songs": [
-          "Arctic Monkeys - Brainstorm",
-          "Arctic Monkeys - Pretty Visitors",
-          "Arctic Monkeys - Star Treatment",
-          "Arctic Monkeys - There’d Better Be a Mirrorball"
-        ],
-        "music-genres": [
-          "Indie Rock",
-          "Psychedelic Rock",
-          "Lounge Pop"
-        ]
-      },
-      "match_reason": "A once-unknown pilot becoming a new kind of space pioneer fits an episode about transformation and \"star treatment,\" where stepping into orbit mirrors stepping into the spotlight."
-    },
     {
       "hour": 6,
       "fact_text": "In 1995, physicists at Fermilab announced the discovery of the top quark, the heaviest known fundamental particle. For an instant at a time, these particles flicker into existence in high-energy collisions, completing the quark family predicted by the Standard Model.",
@@ -687,9 +652,33 @@
         ]
       },
       "match_reason": "King Kong’s story is a wild, vulnerable tale of doomed affection and spectacle, echoing an episode devoted to irrational love and the emotional extremes it inspires."
+    },
+    {
+      "hour": 5,
+      "fact_text": "In 1978, Czech cosmonaut Vladimír Remek became the first person in space who was neither American nor Soviet, launching aboard Soyuz 28. His flight turned the cold vacuum into a brief symbol of shared achievement for smaller nations during the Cold War.",
+      "fact_year": 1978,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Vladim%C3%ADr_Remek",
+      "episode": {
+        "id": 36,
+        "title": "Morning Drops #30 - Star Treatment",
+        "description": "A celebration of change and transformation. Gaia traces the evolution of Arctic Monkeys - from raw energy to cinematic sound - reflecting on how artists, and all of us, grow and change through time. A journey through courage, curiosity, and the beauty of slowing down.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-star-treatment",
+        "songs": [
+          "Arctic Monkeys - Brainstorm",
+          "Arctic Monkeys - Pretty Visitors",
+          "Arctic Monkeys - Star Treatment",
+          "Arctic Monkeys - There’d Better Be a Mirrorball"
+        ],
+        "music-genres": [
+          "Indie Rock",
+          "Psychedelic Rock",
+          "Lounge Pop"
+        ]
+      },
+      "match_reason": "A once-unknown pilot becoming a new kind of space pioneer fits an episode about transformation and \"star treatment,\" where stepping into orbit mirrors stepping into the spotlight."
     }
   ],
   "generated_at": "2026-03-02T00:00:00.011077+00:00",
   "date": "2026-03-02",
-  "updated_at": "2026-03-02T04:00:01.706639+00:00"
+  "updated_at": "2026-03-02T05:00:01.489545+00:00"
 }
