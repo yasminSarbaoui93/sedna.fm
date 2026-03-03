@@ -1,55 +1,31 @@
 {
-  "current_hour": 16,
+  "current_hour": 17,
   "current_fact": {
-    "hour": 16,
-    "fact_text": "On March 3, 1969’s distant cousin in exploration, aviator Steve Fossett, completed the first solo nonstop airplane flight around the world without refueling in 2005. Sealed inside a lightweight experimental jet for just over 67 hours, he turned the planet into a racetrack and proved how far efficient design and human stubbornness could go together.",
-    "fact_year": 2005,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Steve_Fossett",
+    "hour": 17,
+    "fact_text": "On March 3, 1985, a magnitude 8.0+ earthquake struck Chile’s Valparaíso Region, shaking the coast for nearly a minute, killing 177 people, and leaving close to a million homeless. The quake exposed how a thin strip of land perched on a subduction zone lives with the constant tension between mountains, sea, and the deepest movements of Earth’s crust.",
+    "fact_year": 1985,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1985_Algarrobo_earthquake",
     "episode": {
-      "id": 48,
-      "title": "Morning Drops #48 - Cosmic Monday",
-      "description": "Cosmic Monday is a Morning Drops episode built around four Italian dance records, tracing how disco rhythms slowly became electronic language.\nGaia moves through four tracks like chapters: groove first, then machines, then that bright, futuristic feeling you only get when the bassline is doing the talking. It's not nostalgia, exactly. It's more like returning to a sound that still works — especially on mornings when you need a little extra energy, but you don't want anything aggressive.\nTake it as a slow transmission. Let it carry you into the day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-cosmic-monday",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "Giovanotti Mondani Meccanici - Don't Ask Me Why",
-        "Azoto - Sal Salvador",
-        "Capricorn - I Need Love",
-        "Cosmic Disco - Cosmic Sprint"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Italo Disco",
-        "Disco",
-        "Electronic"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "A futuristic, fuel‑stretching circumnavigation matches an episode about cosmic, machine‑driven dance music—both celebrate sleek engineering, long journeys, and orbit‑like repetition."
+    "match_reason": "A major quake along the Pacific margin connects to an ocean‑focused episode that also visits Patagonia and tectonically active coasts, both stories shaped by the raw power of Earth and sea."
   },
   "queue": [
-    {
-      "hour": 17,
-      "fact_text": "On March 3, 1985, a magnitude 8.0+ earthquake struck Chile’s Valparaíso Region, shaking the coast for nearly a minute, killing 177 people, and leaving close to a million homeless. The quake exposed how a thin strip of land perched on a subduction zone lives with the constant tension between mountains, sea, and the deepest movements of Earth’s crust.",
-      "fact_year": 1985,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1985_Algarrobo_earthquake",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "A major quake along the Pacific margin connects to an ocean‑focused episode that also visits Patagonia and tectonically active coasts, both stories shaped by the raw power of Earth and sea."
-    },
     {
       "hour": 18,
       "fact_text": "On March 3, 1991, a bystander in Los Angeles filmed four police officers brutally beating motorist Rodney King after a high‑speed chase—footage that shocked the world when it aired on television. The grainy amateur video became a turning point in how police violence could be seen, shared, and debated far beyond a single city.",
@@ -643,9 +619,34 @@
         ]
       },
       "match_reason": "A futuristic, fuel‑stretching circumnavigation matches an episode about cosmic, machine‑driven dance music—both celebrate sleek engineering, long journeys, and orbit‑like repetition."
+    },
+    {
+      "hour": 17,
+      "fact_text": "On March 3, 1985, a magnitude 8.0+ earthquake struck Chile’s Valparaíso Region, shaking the coast for nearly a minute, killing 177 people, and leaving close to a million homeless. The quake exposed how a thin strip of land perched on a subduction zone lives with the constant tension between mountains, sea, and the deepest movements of Earth’s crust.",
+      "fact_year": 1985,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1985_Algarrobo_earthquake",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "A major quake along the Pacific margin connects to an ocean‑focused episode that also visits Patagonia and tectonically active coasts, both stories shaped by the raw power of Earth and sea."
     }
   ],
   "generated_at": "2026-03-03T00:00:00.010937+00:00",
   "date": "2026-03-03",
-  "updated_at": "2026-03-03T16:00:01.801710+00:00"
+  "updated_at": "2026-03-03T17:00:01.866814+00:00"
 }
