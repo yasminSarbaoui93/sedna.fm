@@ -1,56 +1,31 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "On 3 March 1953, a de Havilland Comet operated by Canadian Pacific Air Lines crashed shortly after takeoff from Karachi, Pakistan, killing all 11 people on board. Early Comet crashes like this exposed hidden weaknesses in jet airliner design and led to breakthroughs in understanding metal fatigue and aircraft safety.",
-    "fact_year": 1953,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/De_Havilland_Comet",
+    "hour": 11,
+    "fact_text": "On 3 March 1969’s same era of bold engineering, the USS Nautilus—launched in 1954 as the world's first operational nuclear-powered submarine—was officially decommissioned in 1980. Its reactor allowed it to sail submerged under the polar ice, proving that submarines could roam almost indefinitely without surfacing.",
+    "fact_year": 1980,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/USS_Nautilus_(SSN-571)",
     "episode": {
-      "id": 31,
-      "title": "Morning Drops #25 - A Trip-Hop Journey",
-      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+      "id": 39,
+      "title": "Morning Drops #33 - Immerse",
+      "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
       "songs": [
-        "Massive Attack - Unfinished Sympathy",
-        "Tricky - Hell Is Round the Corner",
-        "DJ Shadow - Midnight in a Perfect World",
-        "Thievery Corporation - Lebanese Blonde",
-        "Smoke City - Underwater Love"
+        "Pino D'Angiò - Un Po' d'Uva e un Liquore",
+        "Midlife - The Magnificent Moon",
+        "Tornado Wallace - Today",
+        "Nu Genea - Marechià (feat. Celia Kameni)"
       ],
       "music-genres": [
-        "Trip-Hop",
-        "Downtempo",
-        "Electronic"
+        "Italo Disco",
+        "Indie",
+        "Balearic",
+        "Nu Disco"
       ]
     },
-    "match_reason": "The Comet’s cutting-edge yet fragile technology echoes trip-hop’s experimental, boundary-blurring spirit, with moody, cinematic sounds fitting the reflective tone of innovation, failure, and reinvention in aviation."
+    "match_reason": "A pioneering vessel living its whole life beneath the waves pairs with an episode about immersion and underwater-like flow, linking nuclear submarines’ hidden journeys to human experiences of depth and suspension."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "On 3 March 1969’s same era of bold engineering, the USS Nautilus—launched in 1954 as the world's first operational nuclear-powered submarine—was officially decommissioned in 1980. Its reactor allowed it to sail submerged under the polar ice, proving that submarines could roam almost indefinitely without surfacing.",
-      "fact_year": 1980,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/USS_Nautilus_(SSN-571)",
-      "episode": {
-        "id": 39,
-        "title": "Morning Drops #33 - Immerse",
-        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
-        "songs": [
-          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
-          "Midlife - The Magnificent Moon",
-          "Tornado Wallace - Today",
-          "Nu Genea - Marechià (feat. Celia Kameni)"
-        ],
-        "music-genres": [
-          "Italo Disco",
-          "Indie",
-          "Balearic",
-          "Nu Disco"
-        ]
-      },
-      "match_reason": "A pioneering vessel living its whole life beneath the waves pairs with an episode about immersion and underwater-like flow, linking nuclear submarines’ hidden journeys to human experiences of depth and suspension."
-    },
     {
       "hour": 12,
       "fact_text": "On 3 March 1985, an 8.3-magnitude earthquake struck Chile’s Valparaíso Region, shaking central Chile for nearly a minute. The quake killed 177 people and left close to a million homeless, reshaping local infrastructure and seismic awareness in one of the world’s most tectonically active countries.",
@@ -650,9 +625,34 @@
         ]
       },
       "match_reason": "The Comet’s cutting-edge yet fragile technology echoes trip-hop’s experimental, boundary-blurring spirit, with moody, cinematic sounds fitting the reflective tone of innovation, failure, and reinvention in aviation."
+    },
+    {
+      "hour": 11,
+      "fact_text": "On 3 March 1969’s same era of bold engineering, the USS Nautilus—launched in 1954 as the world's first operational nuclear-powered submarine—was officially decommissioned in 1980. Its reactor allowed it to sail submerged under the polar ice, proving that submarines could roam almost indefinitely without surfacing.",
+      "fact_year": 1980,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/USS_Nautilus_(SSN-571)",
+      "episode": {
+        "id": 39,
+        "title": "Morning Drops #33 - Immerse",
+        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
+        "songs": [
+          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
+          "Midlife - The Magnificent Moon",
+          "Tornado Wallace - Today",
+          "Nu Genea - Marechià (feat. Celia Kameni)"
+        ],
+        "music-genres": [
+          "Italo Disco",
+          "Indie",
+          "Balearic",
+          "Nu Disco"
+        ]
+      },
+      "match_reason": "A pioneering vessel living its whole life beneath the waves pairs with an episode about immersion and underwater-like flow, linking nuclear submarines’ hidden journeys to human experiences of depth and suspension."
     }
   ],
   "generated_at": "2026-03-03T00:00:00.009817+00:00",
   "date": "2026-03-03",
-  "updated_at": "2026-03-03T10:00:01.859232+00:00"
+  "updated_at": "2026-03-03T11:00:01.620288+00:00"
 }
