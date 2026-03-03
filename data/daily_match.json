@@ -1,56 +1,31 @@
 {
-  "current_hour": 14,
+  "current_hour": 15,
   "current_fact": {
-    "hour": 14,
-    "fact_text": "On March 3, 1945, British bombers mistakenly struck the Bezuidenhout neighborhood of The Hague instead of a nearby German V‑2 rocket site, killing 511 civilians. A simple navigational error, compounded by bad weather and faulty maps, turned a precision mission into one of the war’s most painful friendly‑fire episodes.",
-    "fact_year": 1945,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bombing_of_the_Bezuidenhout",
+    "hour": 15,
+    "fact_text": "On March 3, 1953, a de Havilland Comet jetliner operated by Canadian Pacific Air Lines crashed on departure from Karachi, Pakistan, killing all 11 people on board. The Comet was the world’s first commercial jet airliner, and its early accidents revealed hidden stresses in high‑altitude jet flight, reshaping aircraft design and safety.",
+    "fact_year": 1953,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/De_Havilland_Comet",
     "episode": {
-      "id": 52,
-      "title": "Morning Drops #45 - It Can't Rain Forever",
-      "description": "In this first broadcast of 2026, Gaia returns from the vivid landscapes of Morocco to open a space for reflection. This episode navigates the delicate transition between closing a significant chapter and stepping into the new year. It explores the concept of constancy amidst change, celebrating the grounding force of friendship and the creative sanctuary that is Sedna FM.\n\nThe musical selection mirrors this journey, moving from the orchestral depth of changing seasons into the golden warmth of psychedelic soul. It recalls memories of Swiss mountains and unexpected downpours, reminding us that shared optimism can weather any storm.\n\nTake a moment to breathe in the new morning and listen deeply.\n\nMood: Reflective, Warm, Transitional, Hopeful\nMusic genre: Classic Rock, Psychedelic Soul, Pop Rock, Soft Rock",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-it-cant-rain-forever",
+      "id": 41,
+      "title": "Morning Drops #35 - Thailand",
+      "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
       "songs": [
-        "Led Zeppelin - The Rain Song",
-        "Khruangbin & Leon Bridges - Texas Sun",
-        "Dragon - Rain",
-        "Fleetwood Mac - Don't Stop"
+        "Salin - Egungun",
+        "Justin Bieber - Love Yourself",
+        "Khun Narin - Phua Kao",
+        "Burna Boy - Cheat on Me (feat. Dave)"
       ],
       "music-genres": [
-        "Classic Rock",
-        "Psychedelic Soul",
-        "Pop Rock",
-        "Soft Rock"
+        "Afrobeat",
+        "Pop",
+        "Thai Funk",
+        "Afro-Fusion"
       ]
     },
-    "match_reason": "A bombing made worse by poor visibility and weather is paired with an episode that uses rainfall as a metaphor for hardship—and insists that even long storms eventually pass."
+    "match_reason": "An early jet age accident tied to global air routes through South Asia matches an episode recorded in another part of the region, reflecting on discipline, bodies in motion, and the risks of pushing limits."
   },
   "queue": [
-    {
-      "hour": 15,
-      "fact_text": "On March 3, 1953, a de Havilland Comet jetliner operated by Canadian Pacific Air Lines crashed on departure from Karachi, Pakistan, killing all 11 people on board. The Comet was the world’s first commercial jet airliner, and its early accidents revealed hidden stresses in high‑altitude jet flight, reshaping aircraft design and safety.",
-      "fact_year": 1953,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/De_Havilland_Comet",
-      "episode": {
-        "id": 41,
-        "title": "Morning Drops #35 - Thailand",
-        "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
-        "songs": [
-          "Salin - Egungun",
-          "Justin Bieber - Love Yourself",
-          "Khun Narin - Phua Kao",
-          "Burna Boy - Cheat on Me (feat. Dave)"
-        ],
-        "music-genres": [
-          "Afrobeat",
-          "Pop",
-          "Thai Funk",
-          "Afro-Fusion"
-        ]
-      },
-      "match_reason": "An early jet age accident tied to global air routes through South Asia matches an episode recorded in another part of the region, reflecting on discipline, bodies in motion, and the risks of pushing limits."
-    },
     {
       "hour": 16,
       "fact_text": "On March 3, 1969’s distant cousin in exploration, aviator Steve Fossett, completed the first solo nonstop airplane flight around the world without refueling in 2005. Sealed inside a lightweight experimental jet for just over 67 hours, he turned the planet into a racetrack and proved how far efficient design and human stubbornness could go together.",
@@ -644,9 +619,34 @@
         ]
       },
       "match_reason": "A bombing made worse by poor visibility and weather is paired with an episode that uses rainfall as a metaphor for hardship—and insists that even long storms eventually pass."
+    },
+    {
+      "hour": 15,
+      "fact_text": "On March 3, 1953, a de Havilland Comet jetliner operated by Canadian Pacific Air Lines crashed on departure from Karachi, Pakistan, killing all 11 people on board. The Comet was the world’s first commercial jet airliner, and its early accidents revealed hidden stresses in high‑altitude jet flight, reshaping aircraft design and safety.",
+      "fact_year": 1953,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/De_Havilland_Comet",
+      "episode": {
+        "id": 41,
+        "title": "Morning Drops #35 - Thailand",
+        "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
+        "songs": [
+          "Salin - Egungun",
+          "Justin Bieber - Love Yourself",
+          "Khun Narin - Phua Kao",
+          "Burna Boy - Cheat on Me (feat. Dave)"
+        ],
+        "music-genres": [
+          "Afrobeat",
+          "Pop",
+          "Thai Funk",
+          "Afro-Fusion"
+        ]
+      },
+      "match_reason": "An early jet age accident tied to global air routes through South Asia matches an episode recorded in another part of the region, reflecting on discipline, bodies in motion, and the risks of pushing limits."
     }
   ],
   "generated_at": "2026-03-03T00:00:00.010937+00:00",
   "date": "2026-03-03",
-  "updated_at": "2026-03-03T14:00:01.655834+00:00"
+  "updated_at": "2026-03-03T15:00:01.627552+00:00"
 }
