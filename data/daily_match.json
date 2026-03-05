@@ -1,56 +1,31 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "On this day in 1943, a general strike and protest march erupted in Athens against rumors that Greek workers would be forcibly sent to labor in Germany. Despite violent clashes with occupation forces, the protest succeeded: the decree was withdrawn the very next day, a rare victory under brutal conditions.",
-    "fact_year": 1943,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1943_Greek_protests_against_labour_mobilization",
+    "hour": 11,
+    "fact_text": "On March 5, 1940, six members of the Soviet Politburo—including Joseph Stalin—signed an order authorizing the execution of 25,700 Polish prisoners and intelligentsia, an atrocity remembered as the Katyn massacre. The killings were denied for decades, leaving a wound in Polish memory and a chilling example of how bureaucracy can mask mass violence.",
+    "fact_year": 1940,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Katyn_massacre",
     "episode": {
-      "id": 17,
-      "title": "Morning Drops #11 - Mediterranean Boat",
-      "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
+      "id": 26,
+      "title": "Morning Drops #20 - Hitchhiking Poland",
+      "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
       "songs": [
-        "Arleta - Bar To Navagio",
-        "Baba Zula - Tavla",
-        "Mylène Farmer - Désenchantée",
-        "Fabrizio De André - Crêuza de mä"
+        "Pidżama Porno - Ezoteryczny Poznań",
+        "Seev, Masswo - Primal Scream",
+        "Antoha MC - Ритм сердца",
+        "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
       ],
       "music-genres": [
-        "Greek Folk",
-        "Turkish Psychedelic",
-        "French Pop",
-        "Italian Singer-Songwriter"
+        "Polish Rock",
+        "Electronic",
+        "Russian Rap",
+        "Slavic Folk Rock"
       ]
     },
-    "match_reason": "A Greek-led protest on the Mediterranean shores fits a musical voyage through Mediterranean cultures, with Greek folk setting the emotional tone of collective resistance."
+    "match_reason": "A painful chapter in Polish history is paired with an episode built around modern Polish journeys, offering a softer, personal counterpoint to a national trauma."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "On March 5, 1940, six members of the Soviet Politburo—including Joseph Stalin—signed an order authorizing the execution of 25,700 Polish prisoners and intelligentsia, an atrocity remembered as the Katyn massacre. The killings were denied for decades, leaving a wound in Polish memory and a chilling example of how bureaucracy can mask mass violence.",
-      "fact_year": 1940,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Katyn_massacre",
-      "episode": {
-        "id": 26,
-        "title": "Morning Drops #20 - Hitchhiking Poland",
-        "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
-        "songs": [
-          "Pidżama Porno - Ezoteryczny Poznań",
-          "Seev, Masswo - Primal Scream",
-          "Antoha MC - Ритм сердца",
-          "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
-        ],
-        "music-genres": [
-          "Polish Rock",
-          "Electronic",
-          "Russian Rap",
-          "Slavic Folk Rock"
-        ]
-      },
-      "match_reason": "A painful chapter in Polish history is paired with an episode built around modern Polish journeys, offering a softer, personal counterpoint to a national trauma."
-    },
     {
       "hour": 12,
       "fact_text": "On this day in 1963, country music stars Patsy Cline, Hawkshaw Hawkins, Cowboy Copas, and their pilot Randy Hughes died in a plane crash near Camden, Tennessee. Cline’s voice had already redefined country’s emotional range, and her sudden death at 30 cemented her as a haunting, enduring icon.",
@@ -652,9 +627,34 @@
         ]
       },
       "match_reason": "A Greek-led protest on the Mediterranean shores fits a musical voyage through Mediterranean cultures, with Greek folk setting the emotional tone of collective resistance."
+    },
+    {
+      "hour": 11,
+      "fact_text": "On March 5, 1940, six members of the Soviet Politburo—including Joseph Stalin—signed an order authorizing the execution of 25,700 Polish prisoners and intelligentsia, an atrocity remembered as the Katyn massacre. The killings were denied for decades, leaving a wound in Polish memory and a chilling example of how bureaucracy can mask mass violence.",
+      "fact_year": 1940,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Katyn_massacre",
+      "episode": {
+        "id": 26,
+        "title": "Morning Drops #20 - Hitchhiking Poland",
+        "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
+        "songs": [
+          "Pidżama Porno - Ezoteryczny Poznań",
+          "Seev, Masswo - Primal Scream",
+          "Antoha MC - Ритм сердца",
+          "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
+        ],
+        "music-genres": [
+          "Polish Rock",
+          "Electronic",
+          "Russian Rap",
+          "Slavic Folk Rock"
+        ]
+      },
+      "match_reason": "A painful chapter in Polish history is paired with an episode built around modern Polish journeys, offering a softer, personal counterpoint to a national trauma."
     }
   ],
   "generated_at": "2026-03-05T00:00:00.014691+00:00",
   "date": "2026-03-05",
-  "updated_at": "2026-03-05T10:00:01.678821+00:00"
+  "updated_at": "2026-03-05T11:00:01.652085+00:00"
 }
