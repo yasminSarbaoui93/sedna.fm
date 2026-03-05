@@ -1,66 +1,31 @@
 {
-  "current_hour": 6,
+  "current_hour": 7,
   "current_fact": {
-    "hour": 6,
-    "fact_text": "On March 5, 1868, Arrigo Boito’s opera \"Mefistofele\" premiered at La Scala, offering a daring, philosophical take on Goethe’s Faust. Its initial failure—booed and cut short by censors—forced Boito to radically rewrite the work, which later returned to the stage as a respected, haunting masterpiece.",
-    "fact_year": 1868,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mefistofele",
+    "hour": 7,
+    "fact_text": "On March 5, 1811, at the Battle of Barrosa during the Peninsular War, a smaller Anglo-Spanish-Portuguese force unexpectedly routed Marshal Victor’s French army. The chaotic, fiercely contested fight became a rare Allied offensive success while the much larger Siege of Cádiz still dragged on nearby.",
+    "fact_year": 1811,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Barrosa",
     "episode": {
-      "id": 4,
-      "title": "Sedna FM #04 - Queen of Spades",
-      "description": "Tuning in from the planet of irrational love. Exploring love's most vulnerable side — the kind that awakens the child within us. A diverse music selection ranging from electric blues to downtempo, soul, and jazz. A tribute to the feeling that has moved artists to create the most beautiful works. Love makes us vulnerable, and there is no art without vulnerability.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/queen-of-spades",
+      "id": 56,
+      "title": "Morning Drops #49 - Rage Against The Machine",
+      "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
       "songs": [
-        "Alabama Shakes - Gimme All Your Love",
-        "Queens of the stone age - Make it wit chu",
-        "Rosa Passos - Fusion",
-        "Sade - Mr Wrong",
-        "Daft Punk - Something About Us",
-        "10cc - I'm Not in Love",
-        "Jonny Nash - Theories",
-        "Etta James - I'd Rather Go Blind",
-        "Adriano Celentano - Storia D'amore",
-        "Eric Clapton - Have you ever loved a woman",
-        "Arctic Monkey - The Bakery"
+        "Rage Against the Machine - Bombtrack",
+        "Rage Against the Machine - Killing in the Name",
+        "Rage Against the Machine - Without a Face",
+        "Rage Against the Machine - Guerrilla Radio",
+        "Rage Against the Machine - Sleep Now in the Fire"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Stoner Rock",
-        "Bossa Nova",
-        "Soul",
-        "Electronic",
-        "Soft Rock",
-        "Blues"
+        "Rap Metal",
+        "Political Rock",
+        "Alternative Metal"
       ]
     },
-    "match_reason": "An opera about a pact with the devil and intense human longing pairs with an episode diving into love, vulnerability, and dramatic emotion in music."
+    "match_reason": "A fierce, unlikely battlefield victory aligns with a politically charged, high-intensity episode about resistance and confrontation."
   },
   "queue": [
-    {
-      "hour": 7,
-      "fact_text": "On March 5, 1811, at the Battle of Barrosa during the Peninsular War, a smaller Anglo-Spanish-Portuguese force unexpectedly routed Marshal Victor’s French army. The chaotic, fiercely contested fight became a rare Allied offensive success while the much larger Siege of Cádiz still dragged on nearby.",
-      "fact_year": 1811,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Barrosa",
-      "episode": {
-        "id": 56,
-        "title": "Morning Drops #49 - Rage Against The Machine",
-        "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
-        "songs": [
-          "Rage Against the Machine - Bombtrack",
-          "Rage Against the Machine - Killing in the Name",
-          "Rage Against the Machine - Without a Face",
-          "Rage Against the Machine - Guerrilla Radio",
-          "Rage Against the Machine - Sleep Now in the Fire"
-        ],
-        "music-genres": [
-          "Rap Metal",
-          "Political Rock",
-          "Alternative Metal"
-        ]
-      },
-      "match_reason": "A fierce, unlikely battlefield victory aligns with a politically charged, high-intensity episode about resistance and confrontation."
-    },
     {
       "hour": 8,
       "fact_text": "In 363, the Roman emperor Julian marched out of Antioch at the head of roughly 90,000 troops to invade the Sasanian Empire. His grand campaign, driven partly by a desire to revive Rome’s old pagan identity, would end in his own death just months later in Mesopotamia.",
@@ -656,9 +621,34 @@
         ]
       },
       "match_reason": "An opera about a pact with the devil and intense human longing pairs with an episode diving into love, vulnerability, and dramatic emotion in music."
+    },
+    {
+      "hour": 7,
+      "fact_text": "On March 5, 1811, at the Battle of Barrosa during the Peninsular War, a smaller Anglo-Spanish-Portuguese force unexpectedly routed Marshal Victor’s French army. The chaotic, fiercely contested fight became a rare Allied offensive success while the much larger Siege of Cádiz still dragged on nearby.",
+      "fact_year": 1811,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Barrosa",
+      "episode": {
+        "id": 56,
+        "title": "Morning Drops #49 - Rage Against The Machine",
+        "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
+        "songs": [
+          "Rage Against the Machine - Bombtrack",
+          "Rage Against the Machine - Killing in the Name",
+          "Rage Against the Machine - Without a Face",
+          "Rage Against the Machine - Guerrilla Radio",
+          "Rage Against the Machine - Sleep Now in the Fire"
+        ],
+        "music-genres": [
+          "Rap Metal",
+          "Political Rock",
+          "Alternative Metal"
+        ]
+      },
+      "match_reason": "A fierce, unlikely battlefield victory aligns with a politically charged, high-intensity episode about resistance and confrontation."
     }
   ],
   "generated_at": "2026-03-05T00:00:00.007959+00:00",
   "date": "2026-03-05",
-  "updated_at": "2026-03-05T06:00:01.758377+00:00"
+  "updated_at": "2026-03-05T07:00:01.437301+00:00"
 }
