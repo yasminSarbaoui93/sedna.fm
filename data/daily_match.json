@@ -1,56 +1,31 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "In 1946, Ho Chi Minh signed the Ho–Sainteny Agreement with France, which recognized Vietnam as an autonomous state within the French Union. It was a fragile compromise—part liberation, part leash—that would soon fracture into the long First Indochina War.",
-    "fact_year": 1946,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ho%E2%80%93Sainteny_Agreement",
+    "hour": 11,
+    "fact_text": "On March 6, 1951, the espionage trial of Julius and Ethel Rosenberg began in New York, accusing the couple of passing atomic secrets to the Soviet Union. Their case, still debated today, condensed Cold War paranoia, anti‑communist fervor, and questions about justice into a single courtroom.",
+    "fact_year": 1951,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Julius_and_Ethel_Rosenberg",
     "episode": {
-      "id": 28,
-      "title": "Morning Drops #22 - Sicilians On The Dolomites",
-      "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "Franco Battiato - Haiku",
-        "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
-        "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
-        "Pink Floyd - Fearless"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Italian Art Pop",
-        "French Jazz",
-        "Italian Singer-Songwriter",
-        "Progressive Rock"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "The agreement’s tension between Vietnam and France resonates with an episode that drifts between Italian and French soundscapes, reflecting layered identities and shared histories."
+    "match_reason": "The Rosenberg trial crystallized fears about hidden networks and invisible information flows, themes that echo in an episode about digital dependence and unseen technological infrastructures."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "On March 6, 1951, the espionage trial of Julius and Ethel Rosenberg began in New York, accusing the couple of passing atomic secrets to the Soviet Union. Their case, still debated today, condensed Cold War paranoia, anti‑communist fervor, and questions about justice into a single courtroom.",
-      "fact_year": 1951,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Julius_and_Ethel_Rosenberg",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "The Rosenberg trial crystallized fears about hidden networks and invisible information flows, themes that echo in an episode about digital dependence and unseen technological infrastructures."
-    },
     {
       "hour": 12,
       "fact_text": "On March 6, 1965, Tom Playford lost power in South Australia after an extraordinary 27 years as premier. His long rule—propped up by an electoral system that over‑weighted rural votes—shows how democratic structures can quietly tilt the playing field for decades.",
@@ -632,9 +607,34 @@
         ]
       },
       "match_reason": "The agreement’s tension between Vietnam and France resonates with an episode that drifts between Italian and French soundscapes, reflecting layered identities and shared histories."
+    },
+    {
+      "hour": 11,
+      "fact_text": "On March 6, 1951, the espionage trial of Julius and Ethel Rosenberg began in New York, accusing the couple of passing atomic secrets to the Soviet Union. Their case, still debated today, condensed Cold War paranoia, anti‑communist fervor, and questions about justice into a single courtroom.",
+      "fact_year": 1951,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Julius_and_Ethel_Rosenberg",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "The Rosenberg trial crystallized fears about hidden networks and invisible information flows, themes that echo in an episode about digital dependence and unseen technological infrastructures."
     }
   ],
   "generated_at": "2026-03-06T00:00:00.012017+00:00",
   "date": "2026-03-06",
-  "updated_at": "2026-03-06T10:00:01.475170+00:00"
+  "updated_at": "2026-03-06T11:00:01.611484+00:00"
 }
