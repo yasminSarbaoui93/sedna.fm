@@ -1,56 +1,31 @@
 {
-  "current_hour": 9,
+  "current_hour": 10,
   "current_fact": {
-    "hour": 9,
-    "fact_text": "On March 6, 1945, American forces captured Cologne, turning its shattered cathedral and ruined streets into symbols of Germany’s collapsing war effort. That same day, far to the east, Germany launched Operation Spring Awakening in Hungary—its last major offensive, already doomed before it began.",
-    "fact_year": 1945,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Spring_Awakening",
+    "hour": 10,
+    "fact_text": "In 1946, Ho Chi Minh signed the Ho–Sainteny Agreement with France, which recognized Vietnam as an autonomous state within the French Union. It was a fragile compromise—part liberation, part leash—that would soon fracture into the long First Indochina War.",
+    "fact_year": 1946,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ho%E2%80%93Sainteny_Agreement",
     "episode": {
-      "id": 57,
-      "title": "Morning Drops #50 - Postcards from Earth-London",
-      "description": "Postcards from Earth-London is a Morning Drops walk through the city Gaia has called home for the past ten years, a place made of sound, memory, and late-night streets.\nFour tracks guide the journey: from iconic landmarks to quieter corners, from romance to reality checks, and back to the reason the city still feels alive: music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-postcards-from-earth-london",
+      "id": 28,
+      "title": "Morning Drops #22 - Sicilians On The Dolomites",
+      "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
       "songs": [
-        "The Beatles - Come Together",
-        "The Kinks - Waterloo Sunset",
-        "Amy Winehouse - Back to Black",
-        "Pink Floyd - Learning to Fly"
+        "Franco Battiato - Haiku",
+        "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
+        "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
+        "Pink Floyd - Fearless"
       ],
       "music-genres": [
-        "Classic Rock",
-        "British Rock",
-        "Soul",
+        "Italian Art Pop",
+        "French Jazz",
+        "Italian Singer-Songwriter",
         "Progressive Rock"
       ]
     },
-    "match_reason": "This city‑walk episode through London’s landmarks reflects on how war and history shape urban memory, much as Cologne’s ruins became a postcard of World War II’s end."
+    "match_reason": "The agreement’s tension between Vietnam and France resonates with an episode that drifts between Italian and French soundscapes, reflecting layered identities and shared histories."
   },
   "queue": [
-    {
-      "hour": 10,
-      "fact_text": "In 1946, Ho Chi Minh signed the Ho–Sainteny Agreement with France, which recognized Vietnam as an autonomous state within the French Union. It was a fragile compromise—part liberation, part leash—that would soon fracture into the long First Indochina War.",
-      "fact_year": 1946,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ho%E2%80%93Sainteny_Agreement",
-      "episode": {
-        "id": 28,
-        "title": "Morning Drops #22 - Sicilians On The Dolomites",
-        "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
-        "songs": [
-          "Franco Battiato - Haiku",
-          "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
-          "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
-          "Pink Floyd - Fearless"
-        ],
-        "music-genres": [
-          "Italian Art Pop",
-          "French Jazz",
-          "Italian Singer-Songwriter",
-          "Progressive Rock"
-        ]
-      },
-      "match_reason": "The agreement’s tension between Vietnam and France resonates with an episode that drifts between Italian and French soundscapes, reflecting layered identities and shared histories."
-    },
     {
       "hour": 11,
       "fact_text": "On March 6, 1951, the espionage trial of Julius and Ethel Rosenberg began in New York, accusing the couple of passing atomic secrets to the Soviet Union. Their case, still debated today, condensed Cold War paranoia, anti‑communist fervor, and questions about justice into a single courtroom.",
@@ -632,9 +607,34 @@
         ]
       },
       "match_reason": "This city‑walk episode through London’s landmarks reflects on how war and history shape urban memory, much as Cologne’s ruins became a postcard of World War II’s end."
+    },
+    {
+      "hour": 10,
+      "fact_text": "In 1946, Ho Chi Minh signed the Ho–Sainteny Agreement with France, which recognized Vietnam as an autonomous state within the French Union. It was a fragile compromise—part liberation, part leash—that would soon fracture into the long First Indochina War.",
+      "fact_year": 1946,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ho%E2%80%93Sainteny_Agreement",
+      "episode": {
+        "id": 28,
+        "title": "Morning Drops #22 - Sicilians On The Dolomites",
+        "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
+        "songs": [
+          "Franco Battiato - Haiku",
+          "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
+          "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
+          "Pink Floyd - Fearless"
+        ],
+        "music-genres": [
+          "Italian Art Pop",
+          "French Jazz",
+          "Italian Singer-Songwriter",
+          "Progressive Rock"
+        ]
+      },
+      "match_reason": "The agreement’s tension between Vietnam and France resonates with an episode that drifts between Italian and French soundscapes, reflecting layered identities and shared histories."
     }
   ],
   "generated_at": "2026-03-06T00:00:00.012017+00:00",
   "date": "2026-03-06",
-  "updated_at": "2026-03-06T09:00:01.696557+00:00"
+  "updated_at": "2026-03-06T10:00:01.475170+00:00"
 }
