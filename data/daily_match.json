@@ -1,59 +1,34 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 1876, Alexander Graham Bell was granted a patent for a strange device he called the “telephone,” which turned electrical signals into recognizable human speech. Many of his contemporaries saw it as a novelty rather than a revolution, yet within just a few decades, it rewired how the planet thought about distance and connection.",
-    "fact_year": 1876,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_Graham_Bell",
+    "hour": 1,
+    "fact_text": "On March 7, 1941, German U-boat commander Günther Prien and the crew of U-47 disappeared without a trace in the North Atlantic. Their submarine, once famed for slipping into Scapa Flow and sinking a British battleship, became its own unsolved wartime mystery beneath the waves.",
+    "fact_year": 1941,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/German_submarine_U-47_(1938)",
     "episode": {
-      "id": 33,
-      "title": "Morning Drops #27 - Nomophobia",
-      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "All Them Witches - Internet",
-        "James Blake - The Wilhelm Scream",
-        "Nick Mulvey - Juramidam",
-        "Kraftwerk - Computer Love"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Psychedelic Rock",
-        "Electronic",
-        "Folk",
-        "Synth-Pop"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "An episode about our dependency on phones is a perfect mirror to Bell’s first leap in telecommunication, tracing the line from the earliest telephone to the hyperconnected present."
+    "match_reason": "A sea-bound German submarine vanishing in wartime is contrasted with a peaceful modern voyage with Germans under open skies, turning the ocean from battlefield into shared playground."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On March 7, 1941, German U-boat commander Günther Prien and the crew of U-47 disappeared without a trace in the North Atlantic. Their submarine, once famed for slipping into Scapa Flow and sinking a British battleship, became its own unsolved wartime mystery beneath the waves.",
-      "fact_year": 1941,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/German_submarine_U-47_(1938)",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "A sea-bound German submarine vanishing in wartime is contrasted with a peaceful modern voyage with Germans under open skies, turning the ocean from battlefield into shared playground."
-    },
     {
       "hour": 2,
       "fact_text": "On this day in 1986, deep-sea divers from the USS Preserver located the crew cabin of the Space Shuttle Challenger on the ocean floor. The find brought painful closure to one of spaceflight’s darkest moments, where a journey meant to pierce the sky ended in fragments scattered across the sea.",
@@ -637,9 +612,37 @@
         ]
       },
       "match_reason": "An episode about our dependency on phones is a perfect mirror to Bell’s first leap in telecommunication, tracing the line from the earliest telephone to the hyperconnected present."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On March 7, 1941, German U-boat commander Günther Prien and the crew of U-47 disappeared without a trace in the North Atlantic. Their submarine, once famed for slipping into Scapa Flow and sinking a British battleship, became its own unsolved wartime mystery beneath the waves.",
+      "fact_year": 1941,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/German_submarine_U-47_(1938)",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "A sea-bound German submarine vanishing in wartime is contrasted with a peaceful modern voyage with Germans under open skies, turning the ocean from battlefield into shared playground."
     }
   ],
   "generated_at": "2026-03-07T00:00:00.008557+00:00",
   "date": "2026-03-07",
-  "updated_at": "2026-03-07T00:00:45.499863+00:00"
+  "updated_at": "2026-03-07T01:00:01.657452+00:00"
 }
