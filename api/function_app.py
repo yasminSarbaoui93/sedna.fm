@@ -2,6 +2,7 @@
 Sedna FM API Functions
 - Mood Recommendation API (GPT-5 nano)
 - Daily Fact & Match Feature (GPT-5.1)
+- SoundCloud Episode Sync (auto-add new episodes)
 - Subscriber Management (Cosmos DB)
 """
 
@@ -13,6 +14,7 @@ import random
 import re
 import uuid
 import httpx
+import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from typing import Any
 from openai import AzureOpenAI
@@ -911,6 +913,335 @@ async def generate_daily_fact_manual(req: func.HttpRequest) -> func.HttpResponse
             status_code=500,
             headers=headers
         )
+
+
+# ==============================================================================
+# SOUNDCLOUD EPISODE SYNC
+# ==============================================================================
+
+SOUNDCLOUD_RSS_URL = "https://feeds.soundcloud.com/users/{user_id}/sounds.rss"
+
+
+async def fetch_soundcloud_rss(user_id: str) -> list[dict[str, str]]:
+    """
+    Fetch the SoundCloud RSS feed and return a list of episodes.
+    
+    Returns:
+        List of dicts with keys: title, description, url
+    """
+    feed_url = SOUNDCLOUD_RSS_URL.format(user_id=user_id)
+    logger.info(f"Fetching SoundCloud RSS feed: {feed_url}")
+    
+    async with httpx.AsyncClient() as client:
+        response = await client.get(feed_url, timeout=30.0)
+        response.raise_for_status()
+    
+    root = ET.fromstring(response.text)
+    channel = root.find("channel")
+    if channel is None:
+        return []
+    
+    episodes = []
+    for item in channel.findall("item"):
+        title_el = item.find("title")
+        desc_el = item.find("description")
+        link_el = item.find("link")
+        
+        if title_el is None or link_el is None:
+            continue
+        
+        episodes.append({
+            "title": title_el.text.strip() if title_el.text else "",
+            "description": desc_el.text.strip() if desc_el is not None and desc_el.text else "",
+            "url": link_el.text.strip() if link_el.text else ""
+        })
+    
+    logger.info(f"Found {len(episodes)} episodes in RSS feed")
+    return episodes
+
+
+def get_github_file_raw(file_path: str) -> tuple[str, str] | None:
+    """
+    Get raw file content and SHA from GitHub.
+    
+    Returns:
+        Tuple of (content_string, sha) or None if not found
+    """
+    github_token = os.environ.get("GITHUB_TOKEN")
+    repo_name = os.environ.get("GITHUB_REPO", "yasminSarbaoui93/yasminSarbaoui93.github.io")
+    branch = os.environ.get("GITHUB_BRANCH", "main")
+    
+    if not github_token:
+        return None
+    
+    try:
+        g = Github(github_token)
+        repo = g.get_repo(repo_name)
+        file_content = repo.get_contents(file_path, ref=branch)
+        return (file_content.decoded_content.decode('utf-8'), file_content.sha)
+    except Exception as e:
+        logger.warning(f"Could not get {file_path} from GitHub: {e}")
+        return None
+
+
+async def parse_episode_with_gpt(title: str, description: str) -> dict[str, Any]:
+    """
+    Use Azure OpenAI to extract songs, clean description (without tracklist),
+    and infer music genres from a SoundCloud episode description.
+    
+    Args:
+        title: Episode title from SoundCloud
+        description: Full episode description from SoundCloud
+        
+    Returns:
+        Dict with keys: songs, description, music-genres
+    """
+    client = AzureOpenAI(
+        api_key=os.environ.get("AZURE_OPENAI_API_KEY"),
+        api_version="2025-01-01-preview",
+        azure_endpoint=os.environ.get("AZURE_OPENAI_ENDPOINT")
+    )
+    
+    system_prompt = """You are a music data extraction assistant for Sedna FM, a radio show.
+
+You will receive the title and full description of a SoundCloud episode. Your job is to:
+
+1. **Extract the tracklist**: Find all songs mentioned in the description. They are typically listed as "Artist - Song Title" or similar patterns. Return them as an array of strings in "Artist - Song Title" format.
+
+2. **Clean the description**: Return the EXACT original description text, but REMOVE the tracklist/songs section from it. Do NOT rewrite, summarize, or paraphrase the description. Keep it exactly as written, just without the track listing lines. If the tracklist is embedded inline within paragraphs (not a separate section), still remove just the track references and keep the surrounding text intact. Trim any trailing whitespace or extra newlines left after removal.
+
+3. **Infer music genres**: Based on the songs and the description context, return an array of music genre strings that best describe this episode.
+
+Respond ONLY with valid JSON in this exact format:
+{
+  "songs": ["Artist - Song Title", ...],
+  "description": "cleaned description without tracklist",
+  "music-genres": ["Genre1", "Genre2", ...]
+}
+
+If you cannot find any tracklist in the description, return songs as an empty array and return the full original description unchanged."""
+
+    user_message = f"""Episode title: {title}
+
+Full SoundCloud description:
+{description}"""
+
+    deployment = os.environ.get("AZURE_OPENAI_DEPLOYMENT_DAILY", os.environ.get("AZURE_OPENAI_DEPLOYMENT", "gpt-5"))
+
+    try:
+        response = client.chat.completions.create(
+            model=deployment,
+            messages=[
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": user_message}
+            ],
+            temperature=0.2,
+            response_format={"type": "json_object"}
+        )
+        
+        result = json.loads(response.choices[0].message.content)
+        logger.info(f"GPT extracted {len(result.get('songs', []))} songs and {len(result.get('music-genres', []))} genres")
+        return result
+        
+    except Exception as e:
+        logger.error(f"GPT parsing failed for '{title}': {e}")
+        # Fallback: return original description, empty songs/genres
+        return {
+            "songs": [],
+            "description": description,
+            "music-genres": []
+        }
+
+
+def commit_episode_files(
+    episodes_json_content: str,
+    episodes_json_sha: str,
+    episodes_js_content: str,
+    episodes_js_sha: str,
+    commit_message: str
+) -> bool:
+    """
+    Commit updated episodes.json and episodes.js to GitHub in a single operation.
+    
+    Returns:
+        True if successful, False otherwise
+    """
+    github_token = os.environ.get("GITHUB_TOKEN")
+    repo_name = os.environ.get("GITHUB_REPO", "yasminSarbaoui93/yasminSarbaoui93.github.io")
+    branch = os.environ.get("GITHUB_BRANCH", "main")
+    
+    if not github_token:
+        logger.error("GITHUB_TOKEN environment variable not set")
+        return False
+    
+    try:
+        g = Github(github_token)
+        repo = g.get_repo(repo_name)
+        
+        # Update episodes.json
+        repo.update_file(
+            path="data/episodes.json",
+            message=commit_message,
+            content=episodes_json_content,
+            sha=episodes_json_sha,
+            branch=branch
+        )
+        logger.info("Updated data/episodes.json")
+        
+        # Update episodes.js
+        # Need to re-fetch SHA since the commit above may have changed the tree
+        episodes_js_file = repo.get_contents("scripts/modules/episodes.js", ref=branch)
+        repo.update_file(
+            path="scripts/modules/episodes.js",
+            message=f"{commit_message} (episodes.js)",
+            content=episodes_js_content,
+            sha=episodes_js_file.sha,
+            branch=branch
+        )
+        logger.info("Updated scripts/modules/episodes.js")
+        
+        return True
+        
+    except Exception as e:
+        logger.error(f"Failed to commit episode files to GitHub: {e}")
+        return False
+
+
+# Timer Trigger: Runs every Monday at 7:00 CET
+# Requires WEBSITE_TIME_ZONE=Romance Standard Time on the Function App
+# CRON: second minute hour day month day-of-week
+# 0 0 7 * * 1 = Monday at 07:00
+@app.timer_trigger(
+    schedule="0 0 7 * * 1",
+    arg_name="timer",
+    run_on_startup=False,
+    use_monitor=True
+)
+async def soundcloud_episode_sync(timer: func.TimerRequest) -> None:
+    """
+    Timer-triggered function that checks for new SoundCloud episodes
+    every Monday at 7:00 CET and adds them to the website.
+    """
+    logger.info("SoundCloud episode sync started")
+    
+    if timer.past_due:
+        logger.info("The timer is past due!")
+    
+    try:
+        # Step 1: Fetch RSS feed
+        user_id = os.environ.get("SOUNDCLOUD_USER_ID", "1477315719")
+        rss_episodes = await fetch_soundcloud_rss(user_id)
+        
+        if not rss_episodes:
+            logger.warning("No episodes found in SoundCloud RSS feed")
+            return
+        
+        # Step 2: Get current episodes from GitHub
+        episodes_json_raw = get_github_file_raw("data/episodes.json")
+        episodes_js_raw = get_github_file_raw("scripts/modules/episodes.js")
+        
+        if not episodes_json_raw or not episodes_js_raw:
+            logger.error("Could not fetch current episode files from GitHub")
+            return
+        
+        episodes_json_str, episodes_json_sha = episodes_json_raw
+        episodes_js_str, episodes_js_sha = episodes_js_raw
+        
+        current_data = json.loads(episodes_json_str)
+        current_episodes = current_data.get("episodes", [])
+        
+        # Collect existing SoundCloud URLs
+        existing_urls = {ep["soundcloudUrl"] for ep in current_episodes if "soundcloudUrl" in ep}
+        
+        # Step 3: Find new episodes
+        new_rss_episodes = [
+            ep for ep in rss_episodes
+            if ep["url"] and ep["url"] not in existing_urls
+        ]
+        
+        if not new_rss_episodes:
+            logger.info("No new SoundCloud episodes found. All up to date.")
+            return
+        
+        logger.info(f"Found {len(new_rss_episodes)} new episode(s) to add")
+        
+        # Step 4: Process each new episode
+        next_id = max((ep["id"] for ep in current_episodes), default=0) + 1
+        new_entries = []
+        new_urls = []
+        
+        for rss_ep in new_rss_episodes:
+            logger.info(f"Processing new episode: {rss_ep['title']}")
+            
+            # Call GPT to extract songs, clean description, infer genres
+            gpt_result = await parse_episode_with_gpt(rss_ep["title"], rss_ep["description"])
+            
+            new_entry = {
+                "id": next_id,
+                "title": rss_ep["title"],
+                "description": gpt_result.get("description", rss_ep["description"]),
+                "soundcloudUrl": rss_ep["url"],
+                "songs": gpt_result.get("songs", []),
+                "music-genres": gpt_result.get("music-genres", [])
+            }
+            
+            new_entries.append(new_entry)
+            new_urls.append(rss_ep["url"])
+            next_id += 1
+        
+        # Step 5: Update episodes.json
+        current_data["episodes"].extend(new_entries)
+        updated_json = json.dumps(current_data, indent=2, ensure_ascii=False) + "\n"
+        
+        # Step 6: Update episodes.js — append new URLs to the EPISODES array
+        for url in new_urls:
+            # Insert new URL before the closing ];
+            episodes_js_str = episodes_js_str.rstrip()
+            # Find the last entry and add after it
+            last_quote_idx = episodes_js_str.rfind('"')
+            if last_quote_idx != -1:
+                # Find the position after the last URL string (after the closing quote)
+                insert_pos = last_quote_idx + 1
+                # Check if there's already a comma after it
+                remaining = episodes_js_str[insert_pos:].lstrip()
+                if remaining.startswith(','):
+                    # There's already a comma, find position after any whitespace/newlines before ];
+                    bracket_idx = episodes_js_str.rfind('];')
+                    episodes_js_str = (
+                        episodes_js_str[:bracket_idx].rstrip() +
+                        f',\n  "{url}"\n];\n'
+                    )
+                else:
+                    # No trailing comma — add one
+                    bracket_idx = episodes_js_str.rfind('];')
+                    episodes_js_str = (
+                        episodes_js_str[:bracket_idx].rstrip() +
+                        f',\n  "{url}"\n];\n'
+                    )
+        
+        # Step 7: Commit both files
+        episode_titles = ", ".join(e["title"] for e in new_entries)
+        commit_msg = f"🎵 New episode(s): {episode_titles}"
+        # Truncate commit message if too long
+        if len(commit_msg) > 200:
+            commit_msg = commit_msg[:197] + "..."
+        
+        success = commit_episode_files(
+            episodes_json_content=updated_json,
+            episodes_json_sha=episodes_json_sha,
+            episodes_js_content=episodes_js_str,
+            episodes_js_sha=episodes_js_sha,
+            commit_message=commit_msg
+        )
+        
+        if success:
+            logger.info(f"Successfully added {len(new_entries)} new episode(s): {episode_titles}")
+        else:
+            logger.error("Failed to commit new episodes to GitHub")
+            
+    except Exception as e:
+        logger.error(f"Error in SoundCloud episode sync: {e}")
+        raise
 
 
 # ==============================================================================
