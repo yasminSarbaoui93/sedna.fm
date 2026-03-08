@@ -1,66 +1,31 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "On March 8, 1702, Anne, younger sister of Mary II, became queen regnant of England, Scotland, and Ireland. Her reign would quietly oversee the Acts of Union and the birth of Great Britain, reshaping a map without a single battle line on that day.",
-    "fact_year": 1702,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Anne,_Queen_of_Great_Britain",
+    "hour": 11,
+    "fact_text": "On March 8, 1988, Aeroflot Flight 3739 was hijacked by members of the Ovechkin family and rerouted within the Soviet Union. Their desperate attempt to escape reflected a time when leaving one’s country could feel as impossible as escaping orbit.",
+    "fact_year": 1988,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Aeroflot_Flight_3739_(1988)",
     "episode": {
-      "id": 4,
-      "title": "Sedna FM #04 - Queen of Spades",
-      "description": "Tuning in from the planet of irrational love. Exploring love's most vulnerable side — the kind that awakens the child within us. A diverse music selection ranging from electric blues to downtempo, soul, and jazz. A tribute to the feeling that has moved artists to create the most beautiful works. Love makes us vulnerable, and there is no art without vulnerability.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/queen-of-spades",
+      "id": 26,
+      "title": "Morning Drops #20 - Hitchhiking Poland",
+      "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
       "songs": [
-        "Alabama Shakes - Gimme All Your Love",
-        "Queens of the stone age - Make it wit chu",
-        "Rosa Passos - Fusion",
-        "Sade - Mr Wrong",
-        "Daft Punk - Something About Us",
-        "10cc - I'm Not in Love",
-        "Jonny Nash - Theories",
-        "Etta James - I'd Rather Go Blind",
-        "Adriano Celentano - Storia D'amore",
-        "Eric Clapton - Have you ever loved a woman",
-        "Arctic Monkey - The Bakery"
+        "Pidżama Porno - Ezoteryczny Poznań",
+        "Seev, Masswo - Primal Scream",
+        "Antoha MC - Ритм сердца",
+        "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Stoner Rock",
-        "Bossa Nova",
-        "Soul",
+        "Polish Rock",
         "Electronic",
-        "Soft Rock",
-        "Blues"
+        "Russian Rap",
+        "Slavic Folk Rock"
       ]
     },
-    "match_reason": "The ascent of a queen regnant links thematically with an episode titled 'Queen of Spades', blending royalty, power, and the vulnerability behind public crowns."
+    "match_reason": "A hijacked flight born from longing to cross borders pairs with a hitchhiking episode about moving through Eastern Europe, freedom of movement, and the emotional weight of frontiers."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "On March 8, 1988, Aeroflot Flight 3739 was hijacked by members of the Ovechkin family and rerouted within the Soviet Union. Their desperate attempt to escape reflected a time when leaving one’s country could feel as impossible as escaping orbit.",
-      "fact_year": 1988,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Aeroflot_Flight_3739_(1988)",
-      "episode": {
-        "id": 26,
-        "title": "Morning Drops #20 - Hitchhiking Poland",
-        "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
-        "songs": [
-          "Pidżama Porno - Ezoteryczny Poznań",
-          "Seev, Masswo - Primal Scream",
-          "Antoha MC - Ритм сердца",
-          "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
-        ],
-        "music-genres": [
-          "Polish Rock",
-          "Electronic",
-          "Russian Rap",
-          "Slavic Folk Rock"
-        ]
-      },
-      "match_reason": "A hijacked flight born from longing to cross borders pairs with a hitchhiking episode about moving through Eastern Europe, freedom of movement, and the emotional weight of frontiers."
-    },
     {
       "hour": 12,
       "fact_text": "On March 8, 1979, Philips publicly demonstrated the compact disc for the first time, spinning a shiny plastic circle that stored music as digital pits and lands. The CD would soon shrink entire music collections into stacks of light and code, changing how humans listened, collected, and skipped tracks forever.",
@@ -667,9 +632,34 @@
         ]
       },
       "match_reason": "The ascent of a queen regnant links thematically with an episode titled 'Queen of Spades', blending royalty, power, and the vulnerability behind public crowns."
+    },
+    {
+      "hour": 11,
+      "fact_text": "On March 8, 1988, Aeroflot Flight 3739 was hijacked by members of the Ovechkin family and rerouted within the Soviet Union. Their desperate attempt to escape reflected a time when leaving one’s country could feel as impossible as escaping orbit.",
+      "fact_year": 1988,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Aeroflot_Flight_3739_(1988)",
+      "episode": {
+        "id": 26,
+        "title": "Morning Drops #20 - Hitchhiking Poland",
+        "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
+        "songs": [
+          "Pidżama Porno - Ezoteryczny Poznań",
+          "Seev, Masswo - Primal Scream",
+          "Antoha MC - Ритм сердца",
+          "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
+        ],
+        "music-genres": [
+          "Polish Rock",
+          "Electronic",
+          "Russian Rap",
+          "Slavic Folk Rock"
+        ]
+      },
+      "match_reason": "A hijacked flight born from longing to cross borders pairs with a hitchhiking episode about moving through Eastern Europe, freedom of movement, and the emotional weight of frontiers."
     }
   ],
   "generated_at": "2026-03-08T00:00:00.008180+00:00",
   "date": "2026-03-08",
-  "updated_at": "2026-03-08T10:00:01.481012+00:00"
+  "updated_at": "2026-03-08T11:00:01.679387+00:00"
 }
