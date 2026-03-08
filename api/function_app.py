@@ -919,7 +919,7 @@ async def generate_daily_fact_manual(req: func.HttpRequest) -> func.HttpResponse
 # SOUNDCLOUD EPISODE SYNC
 # ==============================================================================
 
-SOUNDCLOUD_RSS_URL = "https://feeds.soundcloud.com/users/{user_id}/sounds.rss"
+SOUNDCLOUD_RSS_URL = "https://feeds.soundcloud.com/users/soundcloud:users:{user_id}/sounds.rss"
 
 
 async def fetch_soundcloud_rss(user_id: str) -> list[dict[str, str]]:
