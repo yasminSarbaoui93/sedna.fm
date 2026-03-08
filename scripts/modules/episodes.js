@@ -56,5 +56,6 @@ export const EPISODES = [
   "https://soundcloud.com/sednafm/morning-drops-the-rise-of-autotune",
   "https://soundcloud.com/sednafm/morning-drops-cosmic-monday",
   "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
-  "https://soundcloud.com/sednafm/morning-drops-postcards-from-earth-london"
+  "https://soundcloud.com/sednafm/morning-drops-postcards-from-earth-london",
+  "https://soundcloud.com/sednafm/evening-flows-introduction-to-evening-flows"
 ];
