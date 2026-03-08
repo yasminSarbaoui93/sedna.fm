@@ -1,56 +1,31 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On March 8, 2001, Space Shuttle Discovery launched mission STS-102 to ferry the Expedition 2 crew to the International Space Station. The flight helped turn the ISS from a construction site into a continuously inhabited outpost, extending humanity's presence in orbit into something more like a long-term neighborhood.",
-    "fact_year": 2001,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-102",
+    "hour": 2,
+    "fact_text": "On March 8, 1844, Iceland's ancient parliament, the Althing, was reopened after being dissolved for 45 years. One of the world’s oldest parliamentary institutions, it symbolized a quiet but powerful reawakening of Icelandic self-governance and cultural identity in a harsh, volcanic land.",
+    "fact_year": 1844,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Althing",
     "episode": {
-      "id": 57,
-      "title": "Morning Drops #50 - Postcards from Earth-London",
-      "description": "Postcards from Earth-London is a Morning Drops walk through the city Gaia has called home for the past ten years, a place made of sound, memory, and late-night streets.\nFour tracks guide the journey: from iconic landmarks to quieter corners, from romance to reality checks, and back to the reason the city still feels alive: music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-postcards-from-earth-london",
+      "id": 27,
+      "title": "Morning Drops #21 - Endless Summer",
+      "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
       "songs": [
-        "The Beatles - Come Together",
-        "The Kinks - Waterloo Sunset",
-        "Amy Winehouse - Back to Black",
-        "Pink Floyd - Learning to Fly"
+        "Nik Bärtsch - Modul 14",
+        "Mama Terra - Chameleon (Single Edit)",
+        "Spyro Gyra - Morning Dance",
+        "Yussef Kamaal - Black Focus"
       ],
       "music-genres": [
-        "Classic Rock",
-        "British Rock",
-        "Soul",
-        "Progressive Rock"
+        "Minimal Jazz",
+        "Nu Jazz",
+        "Jazz Fusion",
+        "UK Jazz"
       ]
     },
-    "match_reason": "A shuttle carrying people to an orbital home matches a city-walk episode about inhabiting and mapping a place, with 'Learning to Fly' echoing the leap from Earth to orbit."
+    "match_reason": "The revival of an ancient parliament resonates with an episode about slow, cyclical continuity and returning to oneself, set to timeless, meditative jazz."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "On March 8, 1844, Iceland's ancient parliament, the Althing, was reopened after being dissolved for 45 years. One of the world’s oldest parliamentary institutions, it symbolized a quiet but powerful reawakening of Icelandic self-governance and cultural identity in a harsh, volcanic land.",
-      "fact_year": 1844,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Althing",
-      "episode": {
-        "id": 27,
-        "title": "Morning Drops #21 - Endless Summer",
-        "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
-        "songs": [
-          "Nik Bärtsch - Modul 14",
-          "Mama Terra - Chameleon (Single Edit)",
-          "Spyro Gyra - Morning Dance",
-          "Yussef Kamaal - Black Focus"
-        ],
-        "music-genres": [
-          "Minimal Jazz",
-          "Nu Jazz",
-          "Jazz Fusion",
-          "UK Jazz"
-        ]
-      },
-      "match_reason": "The revival of an ancient parliament resonates with an episode about slow, cyclical continuity and returning to oneself, set to timeless, meditative jazz."
-    },
     {
       "hour": 3,
       "fact_text": "On March 8, 2017, a violent storm finally brought down the Azure Window, a majestic natural limestone arch on the Maltese island of Gozo. After centuries of waves and wind sculpting it, the collapse turned a global tourist icon into a submerged ghost, still there—but only for divers to visit.",
@@ -657,9 +632,34 @@
         ]
       },
       "match_reason": "A shuttle carrying people to an orbital home matches a city-walk episode about inhabiting and mapping a place, with 'Learning to Fly' echoing the leap from Earth to orbit."
+    },
+    {
+      "hour": 2,
+      "fact_text": "On March 8, 1844, Iceland's ancient parliament, the Althing, was reopened after being dissolved for 45 years. One of the world’s oldest parliamentary institutions, it symbolized a quiet but powerful reawakening of Icelandic self-governance and cultural identity in a harsh, volcanic land.",
+      "fact_year": 1844,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Althing",
+      "episode": {
+        "id": 27,
+        "title": "Morning Drops #21 - Endless Summer",
+        "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
+        "songs": [
+          "Nik Bärtsch - Modul 14",
+          "Mama Terra - Chameleon (Single Edit)",
+          "Spyro Gyra - Morning Dance",
+          "Yussef Kamaal - Black Focus"
+        ],
+        "music-genres": [
+          "Minimal Jazz",
+          "Nu Jazz",
+          "Jazz Fusion",
+          "UK Jazz"
+        ]
+      },
+      "match_reason": "The revival of an ancient parliament resonates with an episode about slow, cyclical continuity and returning to oneself, set to timeless, meditative jazz."
     }
   ],
   "generated_at": "2026-03-08T00:00:00.008180+00:00",
   "date": "2026-03-08",
-  "updated_at": "2026-03-08T01:00:01.642742+00:00"
+  "updated_at": "2026-03-08T02:00:01.499482+00:00"
 }
