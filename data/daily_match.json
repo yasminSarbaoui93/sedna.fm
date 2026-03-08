@@ -1,56 +1,31 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On March 8, 2001, Space Shuttle Discovery launched the STS-102 mission, ferrying the Expedition 2 crew to the International Space Station for a long-duration stay. It was part of the early, fragile phase of building a permanently inhabited outpost in orbit.",
-    "fact_year": 2001,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-102",
+    "hour": 2,
+    "fact_text": "In 1844, Iceland reopened the Althing, its ancient parliament that traces its roots back to the Viking Age. After 45 years of silence, one of the world's oldest legislative assemblies began to speak for the island again.",
+    "fact_year": 1844,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Althing",
     "episode": {
-      "id": 57,
-      "title": "Morning Drops #50 - Postcards from Earth-London",
-      "description": "Postcards from Earth-London is a Morning Drops walk through the city Gaia has called home for the past ten years, a place made of sound, memory, and late-night streets.\nFour tracks guide the journey: from iconic landmarks to quieter corners, from romance to reality checks, and back to the reason the city still feels alive: music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-postcards-from-earth-london",
+      "id": 34,
+      "title": "Morning Drops #28 - Under Scottish Skies",
+      "description": "Gaia shares a personal moment of transition — a shift in seasons, in rhythm, and in life. From this space of quiet change comes a musical journey through Scotland: not the usual names, but voices that speak from the edges. A personal ritual and a small act of curiosity: an invitation to notice what grounds us when everything moves.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-under-scottish-skies",
       "songs": [
-        "The Beatles - Come Together",
-        "The Kinks - Waterloo Sunset",
-        "Amy Winehouse - Back to Black",
-        "Pink Floyd - Learning to Fly"
+        "Paolo Nutini - Pencil Full of Lead",
+        "Lapse - Lady Bug",
+        "Joesef - Let's Stay Together",
+        "Vital Spark - Stone of Destiny"
       ],
       "music-genres": [
-        "Classic Rock",
-        "British Rock",
+        "Indie Rock",
+        "Scottish Folk",
         "Soul",
-        "Progressive Rock"
+        "Celtic Rock"
       ]
     },
-    "match_reason": "A mission connecting Earth and orbit joins an episode framed as \"postcards from Earth,\" including the fitting track \"Learning to Fly.\""
+    "match_reason": "An old northern parliament reawakening is paired with an episode steeped in Celtic landscapes and questions of what grounds a people."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "In 1844, Iceland reopened the Althing, its ancient parliament that traces its roots back to the Viking Age. After 45 years of silence, one of the world's oldest legislative assemblies began to speak for the island again.",
-      "fact_year": 1844,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Althing",
-      "episode": {
-        "id": 34,
-        "title": "Morning Drops #28 - Under Scottish Skies",
-        "description": "Gaia shares a personal moment of transition — a shift in seasons, in rhythm, and in life. From this space of quiet change comes a musical journey through Scotland: not the usual names, but voices that speak from the edges. A personal ritual and a small act of curiosity: an invitation to notice what grounds us when everything moves.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-under-scottish-skies",
-        "songs": [
-          "Paolo Nutini - Pencil Full of Lead",
-          "Lapse - Lady Bug",
-          "Joesef - Let's Stay Together",
-          "Vital Spark - Stone of Destiny"
-        ],
-        "music-genres": [
-          "Indie Rock",
-          "Scottish Folk",
-          "Soul",
-          "Celtic Rock"
-        ]
-      },
-      "match_reason": "An old northern parliament reawakening is paired with an episode steeped in Celtic landscapes and questions of what grounds a people."
-    },
     {
       "hour": 3,
       "fact_text": "On a stormy day in 2017, the Azure Window — a vast limestone arch on the Maltese island of Gozo — collapsed into the sea. A natural icon that had stood for centuries vanished in hours, a reminder of how quickly coastal landscapes can be rewritten.",
@@ -658,9 +633,34 @@
         ]
       },
       "match_reason": "A mission connecting Earth and orbit joins an episode framed as \"postcards from Earth,\" including the fitting track \"Learning to Fly.\""
+    },
+    {
+      "hour": 2,
+      "fact_text": "In 1844, Iceland reopened the Althing, its ancient parliament that traces its roots back to the Viking Age. After 45 years of silence, one of the world's oldest legislative assemblies began to speak for the island again.",
+      "fact_year": 1844,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Althing",
+      "episode": {
+        "id": 34,
+        "title": "Morning Drops #28 - Under Scottish Skies",
+        "description": "Gaia shares a personal moment of transition — a shift in seasons, in rhythm, and in life. From this space of quiet change comes a musical journey through Scotland: not the usual names, but voices that speak from the edges. A personal ritual and a small act of curiosity: an invitation to notice what grounds us when everything moves.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-under-scottish-skies",
+        "songs": [
+          "Paolo Nutini - Pencil Full of Lead",
+          "Lapse - Lady Bug",
+          "Joesef - Let's Stay Together",
+          "Vital Spark - Stone of Destiny"
+        ],
+        "music-genres": [
+          "Indie Rock",
+          "Scottish Folk",
+          "Soul",
+          "Celtic Rock"
+        ]
+      },
+      "match_reason": "An old northern parliament reawakening is paired with an episode steeped in Celtic landscapes and questions of what grounds a people."
     }
   ],
   "generated_at": "2026-03-08T00:00:00.010367+00:00",
   "date": "2026-03-08",
-  "updated_at": "2026-03-08T01:00:01.395719+00:00"
+  "updated_at": "2026-03-08T02:00:01.531700+00:00"
 }
