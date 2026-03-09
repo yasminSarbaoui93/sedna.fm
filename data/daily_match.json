@@ -1,57 +1,31 @@
 {
-  "current_hour": 6,
+  "current_hour": 7,
   "current_fact": {
-    "hour": 6,
-    "fact_text": "On March 9, 1776, Scottish philosopher Adam Smith published \"The Wealth of Nations,\" a sprawling investigation into labor, markets, and what drives prosperity. His ideas about the division of labor, free trade, and the \"invisible hand\" helped define modern economics and still shape policy debates centuries later.",
-    "fact_year": 1776,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/The_Wealth_of_Nations",
+    "hour": 7,
+    "fact_text": "On March 9, 1842, Franciscan miners reported the first documented discovery of gold in California at Rancho San Francisco, near present-day Los Angeles. The find quietly foreshadowed the massive California Gold Rush that would erupt six years later and transform the region’s landscapes and societies.",
+    "fact_year": 1842,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Rancho_San_Francisco",
     "episode": {
-      "id": 49,
-      "title": "Morning Drops #42 - The Joy Of Learning",
-      "description": "Hosted by Yasmin, this Morning Drop explores learning as a lifelong process, focusing on persistence, repetition, and the emotional landscape that comes with challenging oneself over time.\n\nThrough personal stories and scientific insights, the episode looks at how learning reshapes the brain, generates joy through effort, and why progress often arrives after confusion and frustration. It reflects on the so-called delayed pleasure effect, the role of dopamine in motivation, and how curiosity and learning support long-term wellbeing.\n\nThe episode also questions our cultural relationship with failure and invites a softer, more realistic approach to learning, one that accepts mistakes as part of growth and sees persistence as a quiet form of strength.\n\nMood: reflective, grounded, quietly hopeful\nMusic genre: alternative rock, hip hop, electronic, neo-soul, drill\n\nA space to listen slowly and stay with the process.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-joy-of-learning",
+      "id": 27,
+      "title": "Morning Drops #21 - Endless Summer",
+      "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
       "songs": [
-        "Radiohead - Separator",
-        "Mac Miller - What's the Use?",
-        "Morad & Beny Jr - Sigue",
-        "Post Malone - White Iverson"
+        "Nik Bärtsch - Modul 14",
+        "Mama Terra - Chameleon (Single Edit)",
+        "Spyro Gyra - Morning Dance",
+        "Yussef Kamaal - Black Focus"
       ],
       "music-genres": [
-        "Alternative Rock",
-        "Experimental Electronic",
-        "Hip Hop",
-        "Neo-Soul",
-        "Drill / Trap"
+        "Minimal Jazz",
+        "Nu Jazz",
+        "Jazz Fusion",
+        "UK Jazz"
       ]
     },
-    "match_reason": "Smith spent years learning, observing, and synthesizing to write a foundational text; this reflective episode about learning and long-term effort mirrors the slow, analytical work behind \"The Wealth of Nations.\""
+    "match_reason": "An early glint of gold in sunny California hints at the long summers and dreams that would draw people west, aligning with this episode’s warm, sun-drenched, coastal jazz atmosphere."
   },
   "queue": [
-    {
-      "hour": 7,
-      "fact_text": "On March 9, 1842, Franciscan miners reported the first documented discovery of gold in California at Rancho San Francisco, near present-day Los Angeles. The find quietly foreshadowed the massive California Gold Rush that would erupt six years later and transform the region’s landscapes and societies.",
-      "fact_year": 1842,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Rancho_San_Francisco",
-      "episode": {
-        "id": 27,
-        "title": "Morning Drops #21 - Endless Summer",
-        "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
-        "songs": [
-          "Nik Bärtsch - Modul 14",
-          "Mama Terra - Chameleon (Single Edit)",
-          "Spyro Gyra - Morning Dance",
-          "Yussef Kamaal - Black Focus"
-        ],
-        "music-genres": [
-          "Minimal Jazz",
-          "Nu Jazz",
-          "Jazz Fusion",
-          "UK Jazz"
-        ]
-      },
-      "match_reason": "An early glint of gold in sunny California hints at the long summers and dreams that would draw people west, aligning with this episode’s warm, sun-drenched, coastal jazz atmosphere."
-    },
     {
       "hour": 8,
       "fact_text": "On March 9, 1842, Giuseppe Verdi’s opera \"Nabucco\" premiered at La Scala in Milan, and its rousing chorus \"Va, pensiero\" soon became an unofficial anthem of Italian longing and unity. The success of this third opera pulled Verdi from near-obscurity into the center of Italian musical life.",
@@ -654,9 +628,34 @@
         ]
       },
       "match_reason": "Smith spent years learning, observing, and synthesizing to write a foundational text; this reflective episode about learning and long-term effort mirrors the slow, analytical work behind \"The Wealth of Nations.\""
+    },
+    {
+      "hour": 7,
+      "fact_text": "On March 9, 1842, Franciscan miners reported the first documented discovery of gold in California at Rancho San Francisco, near present-day Los Angeles. The find quietly foreshadowed the massive California Gold Rush that would erupt six years later and transform the region’s landscapes and societies.",
+      "fact_year": 1842,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Rancho_San_Francisco",
+      "episode": {
+        "id": 27,
+        "title": "Morning Drops #21 - Endless Summer",
+        "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
+        "songs": [
+          "Nik Bärtsch - Modul 14",
+          "Mama Terra - Chameleon (Single Edit)",
+          "Spyro Gyra - Morning Dance",
+          "Yussef Kamaal - Black Focus"
+        ],
+        "music-genres": [
+          "Minimal Jazz",
+          "Nu Jazz",
+          "Jazz Fusion",
+          "UK Jazz"
+        ]
+      },
+      "match_reason": "An early glint of gold in sunny California hints at the long summers and dreams that would draw people west, aligning with this episode’s warm, sun-drenched, coastal jazz atmosphere."
     }
   ],
   "generated_at": "2026-03-09T00:00:00.010452+00:00",
   "date": "2026-03-09",
-  "updated_at": "2026-03-09T06:00:01.401191+00:00"
+  "updated_at": "2026-03-09T07:00:01.451697+00:00"
 }
