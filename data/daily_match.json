@@ -1,59 +1,36 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "On 9 March 2011, Space Shuttle Discovery glided back to Earth for the last time, closing a career of 39 missions that deployed telescopes, serviced the ISS, and carried the Hubble into orbit. Its final landing marked the end of NASA's most flown orbiter and a chapter of reusable human spaceflight that had lasted nearly three decades.",
-    "fact_year": 2011,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Discovery",
+    "hour": 1,
+    "fact_text": "On 9 March 1974, the Soviet Mars 7 spacecraft released its lander too early, sending the descent module past Mars instead of onto its surface. This near-miss became a classic example of how interplanetary exploration is shaped as much by failure as by success, teaching engineers how unforgiving deep-space navigation can be.",
+    "fact_year": 1974,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mars_7",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 48,
+      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Stive Morgan - Solar Wind, Pt. 3",
+        "David Visan & Carlos Campos - Crystal Heart",
+        "Evan Mars - Ya Zareef Al Tool",
+        "Gerardo Frisina - Cuiabá",
+        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+        "The Busy Twist - Friday Night"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Ambient",
+        "Deep House",
+        "World Music",
+        "Nu Jazz",
+        "Afrobeat",
+        "Funk",
+        "Electronic"
       ]
     },
-    "match_reason": "Discovery’s last mission is a literal space shift, echoing the episode’s theme of turning vast emptiness into a new space for creation and new beginnings."
+    "match_reason": "Tracks like “Solar Wind” and the slow-build structure mirror the eerie, drifting trajectory of a lander that missed its planet, turning a technical mishap into a cosmic, mysterious journey."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On 9 March 1974, the Soviet Mars 7 spacecraft released its lander too early, sending the descent module past Mars instead of onto its surface. This near-miss became a classic example of how interplanetary exploration is shaped as much by failure as by success, teaching engineers how unforgiving deep-space navigation can be.",
-      "fact_year": 1974,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mars_7",
-      "episode": {
-        "id": 48,
-        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
-        "songs": [
-          "Stive Morgan - Solar Wind, Pt. 3",
-          "David Visan & Carlos Campos - Crystal Heart",
-          "Evan Mars - Ya Zareef Al Tool",
-          "Gerardo Frisina - Cuiabá",
-          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-          "The Busy Twist - Friday Night"
-        ],
-        "music-genres": [
-          "Ambient",
-          "Deep House",
-          "World Music",
-          "Nu Jazz",
-          "Afrobeat",
-          "Funk",
-          "Electronic"
-        ]
-      },
-      "match_reason": "Tracks like “Solar Wind” and the slow-build structure mirror the eerie, drifting trajectory of a lander that missed its planet, turning a technical mishap into a cosmic, mysterious journey."
-    },
     {
       "hour": 2,
       "fact_text": "On 9 March 1961, the Soviet Union launched Sputnik 9 (Korabl-Sputnik 4), sending a dog, a human-shaped dummy, and other biological specimens into orbit and safely back. This dress rehearsal showed that a living body could survive launch, weightlessness, and re-entry, clearing the way for Yuri Gagarin’s historic flight weeks later.",
@@ -656,9 +633,39 @@
         ]
       },
       "match_reason": "Discovery’s last mission is a literal space shift, echoing the episode’s theme of turning vast emptiness into a new space for creation and new beginnings."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On 9 March 1974, the Soviet Mars 7 spacecraft released its lander too early, sending the descent module past Mars instead of onto its surface. This near-miss became a classic example of how interplanetary exploration is shaped as much by failure as by success, teaching engineers how unforgiving deep-space navigation can be.",
+      "fact_year": 1974,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mars_7",
+      "episode": {
+        "id": 48,
+        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+        "songs": [
+          "Stive Morgan - Solar Wind, Pt. 3",
+          "David Visan & Carlos Campos - Crystal Heart",
+          "Evan Mars - Ya Zareef Al Tool",
+          "Gerardo Frisina - Cuiabá",
+          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+          "The Busy Twist - Friday Night"
+        ],
+        "music-genres": [
+          "Ambient",
+          "Deep House",
+          "World Music",
+          "Nu Jazz",
+          "Afrobeat",
+          "Funk",
+          "Electronic"
+        ]
+      },
+      "match_reason": "Tracks like “Solar Wind” and the slow-build structure mirror the eerie, drifting trajectory of a lander that missed its planet, turning a technical mishap into a cosmic, mysterious journey."
     }
   ],
   "generated_at": "2026-03-09T00:00:00.015945+00:00",
   "date": "2026-03-09",
-  "updated_at": "2026-03-09T00:00:46.468391+00:00"
+  "updated_at": "2026-03-09T01:00:01.365900+00:00"
 }
