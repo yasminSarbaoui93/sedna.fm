@@ -1,54 +1,31 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "On March 9, 2011, Space Shuttle Discovery returned from its final mission and glided to a stop at Kennedy Space Center, closing a career of 39 flights and nearly 149 million miles traveled. Among its journeys were the Hubble Space Telescope deployment and multiple construction trips to the International Space Station, making Discovery the most flown orbiter in NASA's shuttle fleet.",
-    "fact_year": 2011,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Discovery",
+    "hour": 1,
+    "fact_text": "On March 9, 1974, the Soviet Mars 7 spacecraft released its lander too early, causing it to miss Mars by about 1,300 kilometers and drift into a solar orbit. Though the mission failed to land, the flyby bus still transmitted data about interplanetary space, turning a miscalculation into an unexpected kind of exploration.",
+    "fact_year": 1974,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mars_7",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 31,
+      "title": "Morning Drops #31 - A Trip-Hop Journey",
+      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Massive Attack - Unfinished Sympathy",
+        "Tricky - Hell Is Round the Corner",
+        "DJ Shadow - Midnight in a Perfect World",
+        "Thievery Corporation - Lebanese Blonde",
+        "Smoke City - Underwater Love"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Trip-Hop",
+        "Downtempo",
+        "Electronic"
       ]
     },
-    "match_reason": "Discovery’s final landing closes one era of space exploration and opens space for new ones, echoing the episode’s theme of seeing emptiness as creative space and its cosmic-tinged title, “Space Shift.”"
+    "match_reason": "Mars 7’s missed landing feels like a cinematic near-miss in deep space, fitting the moody, atmospheric, and slightly off-kilter explorations of trip-hop in this episode."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On March 9, 1974, the Soviet Mars 7 spacecraft released its lander too early, causing it to miss Mars by about 1,300 kilometers and drift into a solar orbit. Though the mission failed to land, the flyby bus still transmitted data about interplanetary space, turning a miscalculation into an unexpected kind of exploration.",
-      "fact_year": 1974,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mars_7",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #31 - A Trip-Hop Journey",
-        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
-        "songs": [
-          "Massive Attack - Unfinished Sympathy",
-          "Tricky - Hell Is Round the Corner",
-          "DJ Shadow - Midnight in a Perfect World",
-          "Thievery Corporation - Lebanese Blonde",
-          "Smoke City - Underwater Love"
-        ],
-        "music-genres": [
-          "Trip-Hop",
-          "Downtempo",
-          "Electronic"
-        ]
-      },
-      "match_reason": "Mars 7’s missed landing feels like a cinematic near-miss in deep space, fitting the moody, atmospheric, and slightly off-kilter explorations of trip-hop in this episode."
-    },
     {
       "hour": 2,
       "fact_text": "On March 9, 1961, the Soviet Union launched Sputnik 9 (Korabl-Sputnik 4), sending a dog, mice, and a human-shaped mannequin nicknamed \"Ivan Ivanovich\" into orbit before safely returning the capsule to Earth. This unusual test flight proved that living beings could survive launch, spaceflight, and re-entry, paving the way for Yuri Gagarin’s historic mission a month later.",
@@ -651,9 +628,34 @@
         ]
       },
       "match_reason": "Discovery’s final landing closes one era of space exploration and opens space for new ones, echoing the episode’s theme of seeing emptiness as creative space and its cosmic-tinged title, “Space Shift.”"
+    },
+    {
+      "hour": 1,
+      "fact_text": "On March 9, 1974, the Soviet Mars 7 spacecraft released its lander too early, causing it to miss Mars by about 1,300 kilometers and drift into a solar orbit. Though the mission failed to land, the flyby bus still transmitted data about interplanetary space, turning a miscalculation into an unexpected kind of exploration.",
+      "fact_year": 1974,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mars_7",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #31 - A Trip-Hop Journey",
+        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+        "songs": [
+          "Massive Attack - Unfinished Sympathy",
+          "Tricky - Hell Is Round the Corner",
+          "DJ Shadow - Midnight in a Perfect World",
+          "Thievery Corporation - Lebanese Blonde",
+          "Smoke City - Underwater Love"
+        ],
+        "music-genres": [
+          "Trip-Hop",
+          "Downtempo",
+          "Electronic"
+        ]
+      },
+      "match_reason": "Mars 7’s missed landing feels like a cinematic near-miss in deep space, fitting the moody, atmospheric, and slightly off-kilter explorations of trip-hop in this episode."
     }
   ],
   "generated_at": "2026-03-09T00:00:00.010452+00:00",
   "date": "2026-03-09",
-  "updated_at": "2026-03-09T00:00:46.428427+00:00"
+  "updated_at": "2026-03-09T01:00:01.725905+00:00"
 }
