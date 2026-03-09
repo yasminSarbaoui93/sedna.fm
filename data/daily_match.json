@@ -1,63 +1,31 @@
 {
-  "current_hour": 12,
+  "current_hour": 13,
   "current_fact": {
-    "hour": 12,
-    "fact_text": "On 9 March 1959, a 29-cent doll named Barbie debuted at the American International Toy Fair in New York, wearing a striped swimsuit and a high ponytail. Unlike most dolls of the time, she wasn’t a baby but a fashionable adult, reshaping how children imagined their future selves—for better and for controversy.",
-    "fact_year": 1959,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Barbie",
+    "hour": 13,
+    "fact_text": "On 9 March 1954, CBS aired \"A Report on Senator Joseph McCarthy\" on the program See It Now, with journalist Edward R. Murrow calmly dissecting the senator’s tactics. The broadcast is often credited with turning public opinion against McCarthyism, showing the power of television journalism to challenge political fearmongering.",
+    "fact_year": 1954,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/McCarthyism",
     "episode": {
-      "id": 3,
-      "title": "Sedna FM #03 - Beautiful as You Feel",
-      "description": "An episode about self-acceptance and inner beauty. Music that reminds us we are beautiful as we feel, embracing our authentic selves. Warm, uplifting sounds that celebrate individuality.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/beautiful-as-you-feel",
+      "id": 56,
+      "title": "Morning Drops #49 - Rage Against The Machine",
+      "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
       "songs": [
-        "Radiohead - Lotus Flower",
-        "Andrea Lazslo de Simone - Vivo",
-        "The The - this is the day",
-        "Steve Monite - Only You",
-        "DCTL - Deep Tannin f(eat Rafael Leafar)",
-        "Soufiane Sa3idi - El Njoum",
-        "Area - La mela di odessa",
-        "Carol King - Beautiful",
-        "Mannarino - Vivere la vita"
+        "Rage Against the Machine - Bombtrack",
+        "Rage Against the Machine - Killing in the Name",
+        "Rage Against the Machine - Without a Face",
+        "Rage Against the Machine - Guerrilla Radio",
+        "Rage Against the Machine - Sleep Now in the Fire"
       ],
       "music-genres": [
-        "Alternative Rock",
-        "Italian Singer-Songwriter",
-        "New Wave",
-        "Afro-Funk",
-        "Maghreb",
-        "Progressive Rock"
+        "Rap Metal",
+        "Political Rock",
+        "Alternative Metal"
       ]
     },
-    "match_reason": "Barbie’s debut sparked decades of debate about beauty and identity, which this episode gently reclaims by centering inner beauty and self-defined individuality instead of plastic perfection."
+    "match_reason": "Murrow’s broadcast used media to confront abuse of power much like Rage Against the Machine uses music to challenge authority—both are acts of public resistance amplified through sound."
   },
   "queue": [
-    {
-      "hour": 13,
-      "fact_text": "On 9 March 1954, CBS aired \"A Report on Senator Joseph McCarthy\" on the program See It Now, with journalist Edward R. Murrow calmly dissecting the senator’s tactics. The broadcast is often credited with turning public opinion against McCarthyism, showing the power of television journalism to challenge political fearmongering.",
-      "fact_year": 1954,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/McCarthyism",
-      "episode": {
-        "id": 56,
-        "title": "Morning Drops #49 - Rage Against The Machine",
-        "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
-        "songs": [
-          "Rage Against the Machine - Bombtrack",
-          "Rage Against the Machine - Killing in the Name",
-          "Rage Against the Machine - Without a Face",
-          "Rage Against the Machine - Guerrilla Radio",
-          "Rage Against the Machine - Sleep Now in the Fire"
-        ],
-        "music-genres": [
-          "Rap Metal",
-          "Political Rock",
-          "Alternative Metal"
-        ]
-      },
-      "match_reason": "Murrow’s broadcast used media to confront abuse of power much like Rage Against the Machine uses music to challenge authority—both are acts of public resistance amplified through sound."
-    },
     {
       "hour": 14,
       "fact_text": "On 9 March 1942, Dutch forces in the East Indies formally surrendered to Japan at Kalijati in West Java, ending a swift campaign that brought resource-rich islands under Japanese control. The occupation would prove brutal but also accelerate Indonesian nationalist movements that later pushed for independence.",
@@ -665,9 +633,34 @@
         ]
       },
       "match_reason": "Barbie’s debut sparked decades of debate about beauty and identity, which this episode gently reclaims by centering inner beauty and self-defined individuality instead of plastic perfection."
+    },
+    {
+      "hour": 13,
+      "fact_text": "On 9 March 1954, CBS aired \"A Report on Senator Joseph McCarthy\" on the program See It Now, with journalist Edward R. Murrow calmly dissecting the senator’s tactics. The broadcast is often credited with turning public opinion against McCarthyism, showing the power of television journalism to challenge political fearmongering.",
+      "fact_year": 1954,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/McCarthyism",
+      "episode": {
+        "id": 56,
+        "title": "Morning Drops #49 - Rage Against The Machine",
+        "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
+        "songs": [
+          "Rage Against the Machine - Bombtrack",
+          "Rage Against the Machine - Killing in the Name",
+          "Rage Against the Machine - Without a Face",
+          "Rage Against the Machine - Guerrilla Radio",
+          "Rage Against the Machine - Sleep Now in the Fire"
+        ],
+        "music-genres": [
+          "Rap Metal",
+          "Political Rock",
+          "Alternative Metal"
+        ]
+      },
+      "match_reason": "Murrow’s broadcast used media to confront abuse of power much like Rage Against the Machine uses music to challenge authority—both are acts of public resistance amplified through sound."
     }
   ],
   "generated_at": "2026-03-09T00:00:00.015945+00:00",
   "date": "2026-03-09",
-  "updated_at": "2026-03-09T12:00:01.529018+00:00"
+  "updated_at": "2026-03-09T13:00:01.577228+00:00"
 }
