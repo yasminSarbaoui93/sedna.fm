@@ -1,60 +1,30 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "When NASA's Mars Reconnaissance Orbiter slipped into Martian orbit on 10 March 2006, it became one of the most powerful cameras ever sent to another world. Its sharp-eyed instruments can spot objects as small as a desk on the surface, letting scientists watch avalanches, dust devils, and even the tracks of rovers creeping across the red planet.",
-    "fact_year": 2006,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mars_Reconnaissance_Orbiter",
+    "hour": 2,
+    "fact_text": "On 10 March 1977, astronomers watching Uranus pass in front of a distant star noticed the starlight flicker before and after the planet's disk. Those tiny dips revealed a surprise: Uranus is encircled by a system of dark, narrow rings, making it only the second planet after Saturn known to wear a delicate band of dust and ice.",
+    "fact_year": 1977,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Rings_of_Uranus",
     "episode": {
-      "id": 48,
-      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+      "id": 55,
+      "title": "Morning Drops #48 - Cosmic Monday",
+      "description": "Cosmic Monday is a Morning Drops episode built around four Italian dance records, tracing how disco rhythms slowly became electronic language.\nGaia moves through four tracks like chapters: groove first, then machines, then that bright, futuristic feeling you only get when the bassline is doing the talking. It's not nostalgia, exactly. It's more like returning to a sound that still works — especially on mornings when you need a little extra energy, but you don't want anything aggressive.\nTake it as a slow transmission. Let it carry you into the day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-cosmic-monday",
       "songs": [
-        "Stive Morgan - Solar Wind, Pt. 3",
-        "David Visan & Carlos Campos - Crystal Heart",
-        "Evan Mars - Ya Zareef Al Tool",
-        "Gerardo Frisina - Cuiabá",
-        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-        "The Busy Twist - Friday Night"
+        "Giovanotti Mondani Meccanici - Don't Ask Me Why",
+        "Azoto - Sal Salvador",
+        "Capricorn - I Need Love",
+        "Cosmic Disco - Cosmic Sprint"
       ],
       "music-genres": [
-        "Ambient",
-        "Deep House",
-        "World Music",
-        "Nu Jazz",
-        "Afrobeat",
-        "Funk",
+        "Italo Disco",
+        "Disco",
         "Electronic"
       ]
     },
-    "match_reason": "A spacecraft called Mars Reconnaissance Orbiter pairs neatly with an episode whose journey begins with 'Solar Wind' and drifts through cosmic, exploratory soundscapes."
+    "match_reason": "Newly discovered planetary rings echo the looping, orbital feel of 'Cosmic Monday' and its spacey disco lineage."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "On 10 March 1977, astronomers watching Uranus pass in front of a distant star noticed the starlight flicker before and after the planet's disk. Those tiny dips revealed a surprise: Uranus is encircled by a system of dark, narrow rings, making it only the second planet after Saturn known to wear a delicate band of dust and ice.",
-      "fact_year": 1977,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Rings_of_Uranus",
-      "episode": {
-        "id": 55,
-        "title": "Morning Drops #48 - Cosmic Monday",
-        "description": "Cosmic Monday is a Morning Drops episode built around four Italian dance records, tracing how disco rhythms slowly became electronic language.\nGaia moves through four tracks like chapters: groove first, then machines, then that bright, futuristic feeling you only get when the bassline is doing the talking. It's not nostalgia, exactly. It's more like returning to a sound that still works — especially on mornings when you need a little extra energy, but you don't want anything aggressive.\nTake it as a slow transmission. Let it carry you into the day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-cosmic-monday",
-        "songs": [
-          "Giovanotti Mondani Meccanici - Don't Ask Me Why",
-          "Azoto - Sal Salvador",
-          "Capricorn - I Need Love",
-          "Cosmic Disco - Cosmic Sprint"
-        ],
-        "music-genres": [
-          "Italo Disco",
-          "Disco",
-          "Electronic"
-        ]
-      },
-      "match_reason": "Newly discovered planetary rings echo the looping, orbital feel of 'Cosmic Monday' and its spacey disco lineage."
-    },
     {
       "hour": 3,
       "fact_text": "On 10 March 1535, Bishop Tomás de Berlanga's ship drifted off course in windless seas, delivering him by accident to the volcanic shores of the Galápagos Islands. His letters describing giant tortoises and tame seabirds became some of the earliest European records of a place that would later reshape biology through Darwin's theory of evolution.",
@@ -651,9 +621,33 @@
         ]
       },
       "match_reason": "A spacecraft called Mars Reconnaissance Orbiter pairs neatly with an episode whose journey begins with 'Solar Wind' and drifts through cosmic, exploratory soundscapes."
+    },
+    {
+      "hour": 2,
+      "fact_text": "On 10 March 1977, astronomers watching Uranus pass in front of a distant star noticed the starlight flicker before and after the planet's disk. Those tiny dips revealed a surprise: Uranus is encircled by a system of dark, narrow rings, making it only the second planet after Saturn known to wear a delicate band of dust and ice.",
+      "fact_year": 1977,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Rings_of_Uranus",
+      "episode": {
+        "id": 55,
+        "title": "Morning Drops #48 - Cosmic Monday",
+        "description": "Cosmic Monday is a Morning Drops episode built around four Italian dance records, tracing how disco rhythms slowly became electronic language.\nGaia moves through four tracks like chapters: groove first, then machines, then that bright, futuristic feeling you only get when the bassline is doing the talking. It's not nostalgia, exactly. It's more like returning to a sound that still works — especially on mornings when you need a little extra energy, but you don't want anything aggressive.\nTake it as a slow transmission. Let it carry you into the day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-cosmic-monday",
+        "songs": [
+          "Giovanotti Mondani Meccanici - Don't Ask Me Why",
+          "Azoto - Sal Salvador",
+          "Capricorn - I Need Love",
+          "Cosmic Disco - Cosmic Sprint"
+        ],
+        "music-genres": [
+          "Italo Disco",
+          "Disco",
+          "Electronic"
+        ]
+      },
+      "match_reason": "Newly discovered planetary rings echo the looping, orbital feel of 'Cosmic Monday' and its spacey disco lineage."
     }
   ],
   "generated_at": "2026-03-10T00:00:00.012984+00:00",
   "date": "2026-03-10",
-  "updated_at": "2026-03-10T01:00:01.793122+00:00"
+  "updated_at": "2026-03-10T02:00:01.455824+00:00"
 }
