@@ -1,55 +1,31 @@
 {
-  "current_hour": 2,
+  "current_hour": 3,
   "current_fact": {
-    "hour": 2,
-    "fact_text": "On 10 March 1977, astronomers watching Uranus pass in front of a distant star noticed the starlight flicker before and after the planet's disk. Those tiny dips revealed a surprise: Uranus is encircled by a system of dark, narrow rings, making it only the second planet after Saturn known to wear a delicate band of dust and ice.",
-    "fact_year": 1977,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Rings_of_Uranus",
+    "hour": 3,
+    "fact_text": "On 10 March 1535, Bishop Tomás de Berlanga's ship drifted off course in windless seas, delivering him by accident to the volcanic shores of the Galápagos Islands. His letters describing giant tortoises and tame seabirds became some of the earliest European records of a place that would later reshape biology through Darwin's theory of evolution.",
+    "fact_year": 1535,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Gal%C3%A1pagos_Islands",
     "episode": {
-      "id": 55,
-      "title": "Morning Drops #48 - Cosmic Monday",
-      "description": "Cosmic Monday is a Morning Drops episode built around four Italian dance records, tracing how disco rhythms slowly became electronic language.\nGaia moves through four tracks like chapters: groove first, then machines, then that bright, futuristic feeling you only get when the bassline is doing the talking. It's not nostalgia, exactly. It's more like returning to a sound that still works — especially on mornings when you need a little extra energy, but you don't want anything aggressive.\nTake it as a slow transmission. Let it carry you into the day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-cosmic-monday",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "Giovanotti Mondani Meccanici - Don't Ask Me Why",
-        "Azoto - Sal Salvador",
-        "Capricorn - I Need Love",
-        "Cosmic Disco - Cosmic Sprint"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Italo Disco",
-        "Disco",
-        "Electronic"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "Newly discovered planetary rings echo the looping, orbital feel of 'Cosmic Monday' and its spacey disco lineage."
+    "match_reason": "An accidental voyage to a wildlife-rich archipelago mirrors the episode’s meditative journey into remote waters and charismatic animals."
   },
   "queue": [
-    {
-      "hour": 3,
-      "fact_text": "On 10 March 1535, Bishop Tomás de Berlanga's ship drifted off course in windless seas, delivering him by accident to the volcanic shores of the Galápagos Islands. His letters describing giant tortoises and tame seabirds became some of the earliest European records of a place that would later reshape biology through Darwin's theory of evolution.",
-      "fact_year": 1535,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Gal%C3%A1pagos_Islands",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "An accidental voyage to a wildlife-rich archipelago mirrors the episode’s meditative journey into remote waters and charismatic animals."
-    },
     {
       "hour": 4,
       "fact_text": "On 10 March 1496, after founding the city of Santo Domingo in the Caribbean, Christopher Columbus departed for Spain, leaving his brother in charge of Europe's first permanent settlement in the Americas. The city would become a laboratory of cultural collision, where European, Indigenous, and African histories intertwined in ways that still echo today.",
@@ -645,9 +621,34 @@
         ]
       },
       "match_reason": "Newly discovered planetary rings echo the looping, orbital feel of 'Cosmic Monday' and its spacey disco lineage."
+    },
+    {
+      "hour": 3,
+      "fact_text": "On 10 March 1535, Bishop Tomás de Berlanga's ship drifted off course in windless seas, delivering him by accident to the volcanic shores of the Galápagos Islands. His letters describing giant tortoises and tame seabirds became some of the earliest European records of a place that would later reshape biology through Darwin's theory of evolution.",
+      "fact_year": 1535,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Gal%C3%A1pagos_Islands",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "An accidental voyage to a wildlife-rich archipelago mirrors the episode’s meditative journey into remote waters and charismatic animals."
     }
   ],
   "generated_at": "2026-03-10T00:00:00.012984+00:00",
   "date": "2026-03-10",
-  "updated_at": "2026-03-10T02:00:01.455824+00:00"
+  "updated_at": "2026-03-10T03:00:01.357887+00:00"
 }
