@@ -1,55 +1,31 @@
 {
-  "current_hour": 12,
+  "current_hour": 13,
   "current_fact": {
-    "hour": 11,
-    "fact_text": "On 10 March 1944, amid the Axis occupation of Greece, resistance groups formed the Political Committee of National Liberation as a rival government in the mountains. It ran courts, schools, and local administration—an underground experiment in democracy born in the middle of war.",
-    "fact_year": 1944,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Political_Committee_of_National_Liberation",
+    "hour": 12,
+    "fact_text": "On the night of 10 March 1945, American B-29 bombers dropped incendiaries over Tokyo in a raid that turned wooden neighborhoods into a firestorm. In just a few hours, more than 100,000 people—mostly civilians—were killed, making it one of the deadliest air attacks in human history.",
+    "fact_year": 1945,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bombing_of_Tokyo_(10_March_1945)",
     "episode": {
-      "id": 22,
-      "title": "Morning Drops #16 - The Sound of Tuareg",
-      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+      "id": 56,
+      "title": "Morning Drops #49 - Rage Against The Machine",
+      "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
       "songs": [
-        "Les Filles de Illighadad - Imigradan",
-        "Tinariwen - Amassakoul ’N’ Ténéré",
-        "Liya Ag Ablil - Awa Adounia",
-        "Tinariwen - Sastanàqqàm"
+        "Rage Against the Machine - Bombtrack",
+        "Rage Against the Machine - Killing in the Name",
+        "Rage Against the Machine - Without a Face",
+        "Rage Against the Machine - Guerrilla Radio",
+        "Rage Against the Machine - Sleep Now in the Fire"
       ],
       "music-genres": [
-        "Desert Blues",
-        "Tuareg",
-        "World Music"
+        "Rap Metal",
+        "Political Rock",
+        "Alternative Metal"
       ]
     },
-    "match_reason": "A clandestine liberation committee parallels Tuareg music born of exile and resistance, both channeling political struggle into new forms of community."
+    "match_reason": "An episode centered on politically charged music and the violence of modern warfare matches the devastating, contested legacy of Tokyo’s firebombing."
   },
   "queue": [
-    {
-      "hour": 12,
-      "fact_text": "On the night of 10 March 1945, American B-29 bombers dropped incendiaries over Tokyo in a raid that turned wooden neighborhoods into a firestorm. In just a few hours, more than 100,000 people—mostly civilians—were killed, making it one of the deadliest air attacks in human history.",
-      "fact_year": 1945,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bombing_of_Tokyo_(10_March_1945)",
-      "episode": {
-        "id": 56,
-        "title": "Morning Drops #49 - Rage Against The Machine",
-        "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
-        "songs": [
-          "Rage Against the Machine - Bombtrack",
-          "Rage Against the Machine - Killing in the Name",
-          "Rage Against the Machine - Without a Face",
-          "Rage Against the Machine - Guerrilla Radio",
-          "Rage Against the Machine - Sleep Now in the Fire"
-        ],
-        "music-genres": [
-          "Rap Metal",
-          "Political Rock",
-          "Alternative Metal"
-        ]
-      },
-      "match_reason": "An episode centered on politically charged music and the violence of modern warfare matches the devastating, contested legacy of Tokyo’s firebombing."
-    },
     {
       "hour": 13,
       "fact_text": "On 10 March 1949, American broadcaster Mildred Gillars—better known as \"Axis Sally\"—was convicted of treason for her Nazi propaganda broadcasts during World War II. Her case tested how far freedom of speech extends when a citizen's voice is used as a weapon against their own country.",
@@ -645,9 +621,34 @@
         ]
       },
       "match_reason": "A clandestine liberation committee parallels Tuareg music born of exile and resistance, both channeling political struggle into new forms of community."
+    },
+    {
+      "hour": 12,
+      "fact_text": "On the night of 10 March 1945, American B-29 bombers dropped incendiaries over Tokyo in a raid that turned wooden neighborhoods into a firestorm. In just a few hours, more than 100,000 people—mostly civilians—were killed, making it one of the deadliest air attacks in human history.",
+      "fact_year": 1945,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bombing_of_Tokyo_(10_March_1945)",
+      "episode": {
+        "id": 56,
+        "title": "Morning Drops #49 - Rage Against The Machine",
+        "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
+        "songs": [
+          "Rage Against the Machine - Bombtrack",
+          "Rage Against the Machine - Killing in the Name",
+          "Rage Against the Machine - Without a Face",
+          "Rage Against the Machine - Guerrilla Radio",
+          "Rage Against the Machine - Sleep Now in the Fire"
+        ],
+        "music-genres": [
+          "Rap Metal",
+          "Political Rock",
+          "Alternative Metal"
+        ]
+      },
+      "match_reason": "An episode centered on politically charged music and the violence of modern warfare matches the devastating, contested legacy of Tokyo’s firebombing."
     }
   ],
   "generated_at": "2026-03-10T00:00:00.012984+00:00",
   "date": "2026-03-10",
-  "updated_at": "2026-03-10T12:00:01.393860+00:00"
+  "updated_at": "2026-03-10T13:00:01.549521+00:00"
 }
