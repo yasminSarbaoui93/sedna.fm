@@ -1,56 +1,31 @@
 {
-  "current_hour": 8,
+  "current_hour": 9,
   "current_fact": {
-    "hour": 8,
-    "fact_text": "On March 11, 1945, the Imperial Japanese Navy launched Operation Tan No. 2, a large-scale kamikaze mission against the U.S. Pacific Fleet at Ulithi Atoll. Pilots flew one-way attacks in explosive-laden aircraft, turning their own planes into guided weapons.",
-    "fact_year": 1945,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Kamikaze",
+    "hour": 9,
+    "fact_text": "On March 11, 1851, Giuseppe Verdi’s opera \"Rigoletto\" premiered in Venice, stunning audiences with its dark storyline and melodies that audiences hummed as they left the theatre. The Duke’s song \"La donna è mobile\" was such an instant hit that Verdi kept it secret until opening night to prevent street musicians from spoiling the surprise.",
+    "fact_year": 1851,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Rigoletto",
     "episode": {
-      "id": 56,
-      "title": "Morning Drops #49 - Rage Against The Machine",
-      "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
+      "id": 44,
+      "title": "Morning Drops #38 - History of Flamenco",
+      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
       "songs": [
-        "Rage Against the Machine - Bombtrack",
-        "Rage Against the Machine - Killing in the Name",
-        "Rage Against the Machine - Without a Face",
-        "Rage Against the Machine - Guerrilla Radio",
-        "Rage Against the Machine - Sleep Now in the Fire"
+        "La Niña de los Peines - Al Gurugú",
+        "Lola Flores - Pena, penita, pena",
+        "Paco de Lucía - Entre dos aguas",
+        "Camarón de la Isla - La leyenda del tiempo",
+        "Rosalía - Pienso en tu mirá"
       ],
       "music-genres": [
-        "Rap Metal",
-        "Political Rock",
-        "Alternative Metal"
+        "Flamenco",
+        "Spanish Folk",
+        "Nuevo Flamenco"
       ]
     },
-    "match_reason": "A desperate, lethal tactic in war ties to an episode about aggressive political resistance and explosive confrontation through music."
+    "match_reason": "An operatic masterpiece’s premiere pairs with an episode tracing another intense, theatrical vocal tradition—Flamenco—as both reinvent the emotional power of the human voice on stage."
   },
   "queue": [
-    {
-      "hour": 9,
-      "fact_text": "On March 11, 1851, Giuseppe Verdi’s opera \"Rigoletto\" premiered in Venice, stunning audiences with its dark storyline and melodies that audiences hummed as they left the theatre. The Duke’s song \"La donna è mobile\" was such an instant hit that Verdi kept it secret until opening night to prevent street musicians from spoiling the surprise.",
-      "fact_year": 1851,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Rigoletto",
-      "episode": {
-        "id": 44,
-        "title": "Morning Drops #38 - History of Flamenco",
-        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
-        "songs": [
-          "La Niña de los Peines - Al Gurugú",
-          "Lola Flores - Pena, penita, pena",
-          "Paco de Lucía - Entre dos aguas",
-          "Camarón de la Isla - La leyenda del tiempo",
-          "Rosalía - Pienso en tu mirá"
-        ],
-        "music-genres": [
-          "Flamenco",
-          "Spanish Folk",
-          "Nuevo Flamenco"
-        ]
-      },
-      "match_reason": "An operatic masterpiece’s premiere pairs with an episode tracing another intense, theatrical vocal tradition—Flamenco—as both reinvent the emotional power of the human voice on stage."
-    },
     {
       "hour": 10,
       "fact_text": "On March 11, 1845, during the Flagstaff War in New Zealand, Māori chiefs Hōne Heke and Kawiti led warriors who cut down the British flagpole at Kororāreka for the fourth time. The act was a pointed protest against mistranslations and broken promises in the Treaty of Waitangi.",
@@ -626,9 +601,34 @@
         ]
       },
       "match_reason": "A desperate, lethal tactic in war ties to an episode about aggressive political resistance and explosive confrontation through music."
+    },
+    {
+      "hour": 9,
+      "fact_text": "On March 11, 1851, Giuseppe Verdi’s opera \"Rigoletto\" premiered in Venice, stunning audiences with its dark storyline and melodies that audiences hummed as they left the theatre. The Duke’s song \"La donna è mobile\" was such an instant hit that Verdi kept it secret until opening night to prevent street musicians from spoiling the surprise.",
+      "fact_year": 1851,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Rigoletto",
+      "episode": {
+        "id": 44,
+        "title": "Morning Drops #38 - History of Flamenco",
+        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+        "songs": [
+          "La Niña de los Peines - Al Gurugú",
+          "Lola Flores - Pena, penita, pena",
+          "Paco de Lucía - Entre dos aguas",
+          "Camarón de la Isla - La leyenda del tiempo",
+          "Rosalía - Pienso en tu mirá"
+        ],
+        "music-genres": [
+          "Flamenco",
+          "Spanish Folk",
+          "Nuevo Flamenco"
+        ]
+      },
+      "match_reason": "An operatic masterpiece’s premiere pairs with an episode tracing another intense, theatrical vocal tradition—Flamenco—as both reinvent the emotional power of the human voice on stage."
     }
   ],
   "generated_at": "2026-03-11T00:00:00.012214+00:00",
   "date": "2026-03-11",
-  "updated_at": "2026-03-11T08:00:01.782168+00:00"
+  "updated_at": "2026-03-11T09:00:01.868616+00:00"
 }
