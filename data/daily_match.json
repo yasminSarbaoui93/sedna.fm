@@ -1,46 +1,31 @@
 {
-  "current_hour": 20,
+  "current_hour": 21,
   "current_fact": {
-    "hour": 20,
-    "fact_text": "Also on March 11, 2008’s STS‑123 mission, astronauts carried the Canadian-built Dextre robot to the ISS, a two-armed \"handyman\" designed to perform delicate maintenance outside the station. It was a step toward more autonomous, robotic caretaking of human habitats in orbit.",
-    "fact_year": 2008,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Dextre",
+    "hour": 21,
+    "fact_text": "The 2011 Tōhoku earthquake was powerful enough that it shifted Earth’s axis by several centimeters and shortened the length of the day by microseconds. Our planet’s rotation literally changed in a matter of minutes as tectonic plates lurched past each other deep under the ocean.",
+    "fact_year": 2011,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Effects_of_the_2011_T%C5%8Dhoku_earthquake_and_tsunami",
     "episode": {
-      "id": 58,
-      "title": "Evening Flows #00 - Introduction to evening flows",
-      "description": "Sedna FM introduces a new format: Evening Flow, where you can enjoy curated music sets from selectors, DJs, and artists.\n\nEach mix is an invitation to drift beyond the expected. A space where hidden gems from personal archives come to light, where sound speaks its own language. There are no rules here, no patterns to follow. Just the steady unfolding of a mood, a texture, a journey shaped by feeling.\n\nLet the music lead the way - enjoy the trip!",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-introduction-to-evening-flows",
-      "songs": [],
-      "music-genres": []
+      "id": 31,
+      "title": "Morning Drops #31 - A Trip-Hop Journey",
+      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+      "songs": [
+        "Massive Attack - Unfinished Sympathy",
+        "Tricky - Hell Is Round the Corner",
+        "DJ Shadow - Midnight in a Perfect World",
+        "Thievery Corporation - Lebanese Blonde",
+        "Smoke City - Underwater Love"
+      ],
+      "music-genres": [
+        "Trip-Hop",
+        "Downtempo",
+        "Electronic"
+      ]
     },
-    "match_reason": "A new robotic \"helper\" joining the ISS mirrors the launch of a new show format; both quietly expand what’s possible in their orbit, with no fixed rules except exploration."
+    "match_reason": "A quake that subtly alters Earth’s rhythm parallels a genre like trip‑hop that subtly changes the rhythmic feel of music, bending time with downtempo beats and underwater atmospheres."
   },
   "queue": [
-    {
-      "hour": 21,
-      "fact_text": "The 2011 Tōhoku earthquake was powerful enough that it shifted Earth’s axis by several centimeters and shortened the length of the day by microseconds. Our planet’s rotation literally changed in a matter of minutes as tectonic plates lurched past each other deep under the ocean.",
-      "fact_year": 2011,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Effects_of_the_2011_T%C5%8Dhoku_earthquake_and_tsunami",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #31 - A Trip-Hop Journey",
-        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
-        "songs": [
-          "Massive Attack - Unfinished Sympathy",
-          "Tricky - Hell Is Round the Corner",
-          "DJ Shadow - Midnight in a Perfect World",
-          "Thievery Corporation - Lebanese Blonde",
-          "Smoke City - Underwater Love"
-        ],
-        "music-genres": [
-          "Trip-Hop",
-          "Downtempo",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A quake that subtly alters Earth’s rhythm parallels a genre like trip‑hop that subtly changes the rhythmic feel of music, bending time with downtempo beats and underwater atmospheres."
-    },
     {
       "hour": 22,
       "fact_text": "The Fukushima Daiichi nuclear accident that began on March 11, 2011, involved three reactor meltdowns after tsunami waves overwhelmed seawalls and backup generators. It forced over 100,000 people to evacuate and sparked a global rethinking of nuclear safety and energy policy.",
@@ -616,9 +601,34 @@
         "music-genres": []
       },
       "match_reason": "A new robotic \"helper\" joining the ISS mirrors the launch of a new show format; both quietly expand what’s possible in their orbit, with no fixed rules except exploration."
+    },
+    {
+      "hour": 21,
+      "fact_text": "The 2011 Tōhoku earthquake was powerful enough that it shifted Earth’s axis by several centimeters and shortened the length of the day by microseconds. Our planet’s rotation literally changed in a matter of minutes as tectonic plates lurched past each other deep under the ocean.",
+      "fact_year": 2011,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Effects_of_the_2011_T%C5%8Dhoku_earthquake_and_tsunami",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #31 - A Trip-Hop Journey",
+        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+        "songs": [
+          "Massive Attack - Unfinished Sympathy",
+          "Tricky - Hell Is Round the Corner",
+          "DJ Shadow - Midnight in a Perfect World",
+          "Thievery Corporation - Lebanese Blonde",
+          "Smoke City - Underwater Love"
+        ],
+        "music-genres": [
+          "Trip-Hop",
+          "Downtempo",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A quake that subtly alters Earth’s rhythm parallels a genre like trip‑hop that subtly changes the rhythmic feel of music, bending time with downtempo beats and underwater atmospheres."
     }
   ],
   "generated_at": "2026-03-11T00:00:00.012214+00:00",
   "date": "2026-03-11",
-  "updated_at": "2026-03-11T20:00:01.505717+00:00"
+  "updated_at": "2026-03-11T21:00:01.380060+00:00"
 }
