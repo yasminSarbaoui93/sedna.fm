@@ -1,56 +1,31 @@
 {
-  "current_hour": 7,
+  "current_hour": 8,
   "current_fact": {
-    "hour": 7,
-    "fact_text": "On March 11, 1941, U.S. President Franklin D. Roosevelt signed the Lend-Lease Act, authorizing vast shipments of weapons, food, and materials to Allied nations before the U.S. officially entered World War II. It transformed America into the \"arsenal of democracy\" and quietly tilted the balance of the war.",
-    "fact_year": 1941,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Lend-Lease",
+    "hour": 8,
+    "fact_text": "In 1945, the Imperial Japanese Navy launched Operation Tan No. 2, a massive kamikaze attack aimed at the U.S. Pacific Fleet anchored at Ulithi atoll. Pilots flew long distances in modified bombers, trying to turn their own aircraft into guided weapons in a last-ditch attempt to change the war’s course.",
+    "fact_year": 1945,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Kamikaze",
     "episode": {
-      "id": 31,
-      "title": "Morning Drops #31 - A Trip-Hop Journey",
-      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+      "id": 11,
+      "title": "Morning Drops #05 - Electric Shock",
+      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
       "songs": [
-        "Massive Attack - Unfinished Sympathy",
-        "Tricky - Hell Is Round the Corner",
-        "DJ Shadow - Midnight in a Perfect World",
-        "Thievery Corporation - Lebanese Blonde",
-        "Smoke City - Underwater Love"
+        "Johnny Winter - Highway 61 Revisited",
+        "Joan Armatrading - Sleight of Hand",
+        "Joan Armatrading - Russian Roulette",
+        "Jimi Hendrix - Freedom",
+        "Jeff Beck - Scatterbrain"
       ],
       "music-genres": [
-        "Trip-Hop",
-        "Downtempo",
-        "Electronic"
+        "Blues Rock",
+        "Rock",
+        "Electric Blues"
       ]
     },
-    "match_reason": "Lend-Lease blurred strict national boundaries through supply lines, just as trip-hop blurred genre borders, creating new global flows of influence."
+    "match_reason": "The sudden, violent impact of kamikaze strikes is echoed metaphorically by the raw, high-voltage guitar energy of an 'Electric Shock' rock set."
   },
   "queue": [
-    {
-      "hour": 8,
-      "fact_text": "In 1945, the Imperial Japanese Navy launched Operation Tan No. 2, a massive kamikaze attack aimed at the U.S. Pacific Fleet anchored at Ulithi atoll. Pilots flew long distances in modified bombers, trying to turn their own aircraft into guided weapons in a last-ditch attempt to change the war’s course.",
-      "fact_year": 1945,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Kamikaze",
-      "episode": {
-        "id": 11,
-        "title": "Morning Drops #05 - Electric Shock",
-        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
-        "songs": [
-          "Johnny Winter - Highway 61 Revisited",
-          "Joan Armatrading - Sleight of Hand",
-          "Joan Armatrading - Russian Roulette",
-          "Jimi Hendrix - Freedom",
-          "Jeff Beck - Scatterbrain"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Rock",
-          "Electric Blues"
-        ]
-      },
-      "match_reason": "The sudden, violent impact of kamikaze strikes is echoed metaphorically by the raw, high-voltage guitar energy of an 'Electric Shock' rock set."
-    },
     {
       "hour": 9,
       "fact_text": "On March 11, 1851, Giuseppe Verdi’s opera \"Rigoletto\" premiered in Venice, introducing audiences to a hunchbacked court jester whose tragic story scandalized censors. Its hit aria \"La donna è mobile\" was so catchy that the tenor was forbidden from singing it in public before opening night to prevent pirates from copying it.",
@@ -628,9 +603,34 @@
         ]
       },
       "match_reason": "Lend-Lease blurred strict national boundaries through supply lines, just as trip-hop blurred genre borders, creating new global flows of influence."
+    },
+    {
+      "hour": 8,
+      "fact_text": "In 1945, the Imperial Japanese Navy launched Operation Tan No. 2, a massive kamikaze attack aimed at the U.S. Pacific Fleet anchored at Ulithi atoll. Pilots flew long distances in modified bombers, trying to turn their own aircraft into guided weapons in a last-ditch attempt to change the war’s course.",
+      "fact_year": 1945,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Kamikaze",
+      "episode": {
+        "id": 11,
+        "title": "Morning Drops #05 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "songs": [
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
+        ]
+      },
+      "match_reason": "The sudden, violent impact of kamikaze strikes is echoed metaphorically by the raw, high-voltage guitar energy of an 'Electric Shock' rock set."
     }
   ],
   "generated_at": "2026-03-11T00:00:00.033061+00:00",
   "date": "2026-03-11",
-  "updated_at": "2026-03-11T07:00:01.756366+00:00"
+  "updated_at": "2026-03-11T08:00:01.430519+00:00"
 }
