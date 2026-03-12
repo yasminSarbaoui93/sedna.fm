@@ -1,56 +1,31 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "On 12 March 1989, a young software engineer at CERN named Tim Berners-Lee submitted a modest proposal for an \"information management\" system based on linked documents. That dry memo became the seed of the World Wide Web, the invisible architecture behind almost everything we now do online.",
-    "fact_year": 1989,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/World_Wide_Web",
+    "hour": 1,
+    "fact_text": "On 12 March 2011, a hydrogen explosion ripped through a reactor building at Japan’s Fukushima Daiichi Nuclear Power Plant, one day after a massive earthquake and tsunami hit the coast. It became one of the worst nuclear accidents in history, reshaping global debates about energy, risk, and resilience.",
+    "fact_year": 2011,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Fukushima_Daiichi_Nuclear_Power_Plant",
     "episode": {
-      "id": 33,
-      "title": "Morning Drops #27 - Nomophobia",
-      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+      "id": 11,
+      "title": "Morning Drops #05 - Electric Shock",
+      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
       "songs": [
-        "All Them Witches - Internet",
-        "James Blake - The Wilhelm Scream",
-        "Nick Mulvey - Juramidam",
-        "Kraftwerk - Computer Love"
+        "Johnny Winter - Highway 61 Revisited",
+        "Joan Armatrading - Sleight of Hand",
+        "Joan Armatrading - Russian Roulette",
+        "Jimi Hendrix - Freedom",
+        "Jeff Beck - Scatterbrain"
       ],
       "music-genres": [
-        "Psychedelic Rock",
-        "Electronic",
-        "Folk",
-        "Synth-Pop"
+        "Blues Rock",
+        "Rock",
+        "Electric Blues"
       ]
     },
-    "match_reason": "Both the fact and the episode explore how digital networks shape our lives, from the birth of the Web to our tangled relationship with always-online devices."
+    "match_reason": "The reactor blast is a literal, catastrophic \"electric shock\"; the episode’s title and high-voltage guitar energy echo the raw power and danger of harnessing electricity at scale."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On 12 March 2011, a hydrogen explosion ripped through a reactor building at Japan’s Fukushima Daiichi Nuclear Power Plant, one day after a massive earthquake and tsunami hit the coast. It became one of the worst nuclear accidents in history, reshaping global debates about energy, risk, and resilience.",
-      "fact_year": 2011,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Fukushima_Daiichi_Nuclear_Power_Plant",
-      "episode": {
-        "id": 11,
-        "title": "Morning Drops #05 - Electric Shock",
-        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
-        "songs": [
-          "Johnny Winter - Highway 61 Revisited",
-          "Joan Armatrading - Sleight of Hand",
-          "Joan Armatrading - Russian Roulette",
-          "Jimi Hendrix - Freedom",
-          "Jeff Beck - Scatterbrain"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Rock",
-          "Electric Blues"
-        ]
-      },
-      "match_reason": "The reactor blast is a literal, catastrophic \"electric shock\"; the episode’s title and high-voltage guitar energy echo the raw power and danger of harnessing electricity at scale."
-    },
     {
       "hour": 2,
       "fact_text": "On 12 March 2003, the World Health Organization issued its first global alert about a mysterious new illness: Severe Acute Respiratory Syndrome (SARS). That warning marked one of the earliest modern attempts to coordinate a worldwide response to an emerging viral outbreak.",
@@ -629,9 +604,34 @@
         ]
       },
       "match_reason": "Both the fact and the episode explore how digital networks shape our lives, from the birth of the Web to our tangled relationship with always-online devices."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On 12 March 2011, a hydrogen explosion ripped through a reactor building at Japan’s Fukushima Daiichi Nuclear Power Plant, one day after a massive earthquake and tsunami hit the coast. It became one of the worst nuclear accidents in history, reshaping global debates about energy, risk, and resilience.",
+      "fact_year": 2011,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Fukushima_Daiichi_Nuclear_Power_Plant",
+      "episode": {
+        "id": 11,
+        "title": "Morning Drops #05 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "songs": [
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
+        ]
+      },
+      "match_reason": "The reactor blast is a literal, catastrophic \"electric shock\"; the episode’s title and high-voltage guitar energy echo the raw power and danger of harnessing electricity at scale."
     }
   ],
   "generated_at": "2026-03-12T00:00:00.014286+00:00",
   "date": "2026-03-12",
-  "updated_at": "2026-03-12T00:00:57.508463+00:00"
+  "updated_at": "2026-03-12T01:00:01.689835+00:00"
 }
