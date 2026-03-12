@@ -1,61 +1,36 @@
 {
-  "current_hour": 17,
+  "current_hour": 18,
   "current_fact": {
-    "hour": 17,
-    "fact_text": "On 12 March 1622, Ignatius of Loyola and Francis Xavier, co‑founders of the Jesuits, were canonized by the Catholic Church. Their order would become one of the most influential networks of educators and missionaries on the planet, blending spirituality, scholarship, and global travel.",
-    "fact_year": 1622,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Jesuits",
+    "hour": 18,
+    "fact_text": "On 12 March 1088, Urban II was elected pope, a leader who would later call for the First Crusade. His decision set in motion centuries of religiously framed warfare and cultural contact between Europe and the Eastern Mediterranean.",
+    "fact_year": 1088,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pope_Urban_II",
     "episode": {
-      "id": 44,
-      "title": "Morning Drops #38 - History of Flamenco",
-      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+      "id": 48,
+      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
       "songs": [
-        "La Niña de los Peines - Al Gurugú",
-        "Lola Flores - Pena, penita, pena",
-        "Paco de Lucía - Entre dos aguas",
-        "Camarón de la Isla - La leyenda del tiempo",
-        "Rosalía - Pienso en tu mirá"
+        "Stive Morgan - Solar Wind, Pt. 3",
+        "David Visan & Carlos Campos - Crystal Heart",
+        "Evan Mars - Ya Zareef Al Tool",
+        "Gerardo Frisina - Cuiabá",
+        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+        "The Busy Twist - Friday Night"
       ],
       "music-genres": [
-        "Flamenco",
-        "Spanish Folk",
-        "Nuevo Flamenco"
+        "Ambient",
+        "Deep House",
+        "World Music",
+        "Nu Jazz",
+        "Afrobeat",
+        "Funk",
+        "Electronic"
       ]
     },
-    "match_reason": "The Jesuits’ Spanish roots and global cultural influence pair naturally with an episode on Flamenco’s evolution—both tell a story of Iberian ideas radiating outward and transforming."
+    "match_reason": "Urban II’s call for crusades sent Europeans toward Middle Eastern medinas; this episode’s journey from medina soundscapes to African rhythms reframes those crossings as cultural exchange instead of conquest."
   },
   "queue": [
-    {
-      "hour": 18,
-      "fact_text": "On 12 March 1088, Urban II was elected pope, a leader who would later call for the First Crusade. His decision set in motion centuries of religiously framed warfare and cultural contact between Europe and the Eastern Mediterranean.",
-      "fact_year": 1088,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pope_Urban_II",
-      "episode": {
-        "id": 48,
-        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
-        "songs": [
-          "Stive Morgan - Solar Wind, Pt. 3",
-          "David Visan & Carlos Campos - Crystal Heart",
-          "Evan Mars - Ya Zareef Al Tool",
-          "Gerardo Frisina - Cuiabá",
-          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-          "The Busy Twist - Friday Night"
-        ],
-        "music-genres": [
-          "Ambient",
-          "Deep House",
-          "World Music",
-          "Nu Jazz",
-          "Afrobeat",
-          "Funk",
-          "Electronic"
-        ]
-      },
-      "match_reason": "Urban II’s call for crusades sent Europeans toward Middle Eastern medinas; this episode’s journey from medina soundscapes to African rhythms reframes those crossings as cultural exchange instead of conquest."
-    },
     {
       "hour": 19,
       "fact_text": "On 12 March 1579, the Siege of Maastricht began during the Eighty Years’ War, as Spanish forces surrounded a strategically vital Dutch city. The siege became infamous for its brutality, but it also marked a key episode in the long struggle that would eventually create a new Dutch republic.",
@@ -629,9 +604,39 @@
         ]
       },
       "match_reason": "The Jesuits’ Spanish roots and global cultural influence pair naturally with an episode on Flamenco’s evolution—both tell a story of Iberian ideas radiating outward and transforming."
+    },
+    {
+      "hour": 18,
+      "fact_text": "On 12 March 1088, Urban II was elected pope, a leader who would later call for the First Crusade. His decision set in motion centuries of religiously framed warfare and cultural contact between Europe and the Eastern Mediterranean.",
+      "fact_year": 1088,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pope_Urban_II",
+      "episode": {
+        "id": 48,
+        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+        "songs": [
+          "Stive Morgan - Solar Wind, Pt. 3",
+          "David Visan & Carlos Campos - Crystal Heart",
+          "Evan Mars - Ya Zareef Al Tool",
+          "Gerardo Frisina - Cuiabá",
+          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+          "The Busy Twist - Friday Night"
+        ],
+        "music-genres": [
+          "Ambient",
+          "Deep House",
+          "World Music",
+          "Nu Jazz",
+          "Afrobeat",
+          "Funk",
+          "Electronic"
+        ]
+      },
+      "match_reason": "Urban II’s call for crusades sent Europeans toward Middle Eastern medinas; this episode’s journey from medina soundscapes to African rhythms reframes those crossings as cultural exchange instead of conquest."
     }
   ],
   "generated_at": "2026-03-12T00:00:00.014286+00:00",
   "date": "2026-03-12",
-  "updated_at": "2026-03-12T17:00:01.886031+00:00"
+  "updated_at": "2026-03-12T18:00:01.623347+00:00"
 }
