@@ -1,57 +1,31 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "On March 13, 1997, the Missionaries of Charity chose Sister Nirmala to succeed Mother Teresa, entrusting her with leading a global network of homes, clinics, and schools for the poorest. A quiet, bookish nun with a law degree and a Hindu-Brahmin background, she represented a very different kind of charisma—but continued the same radical focus on service.",
-    "fact_year": 1997,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Nirmala_Joshi",
+    "hour": 11,
+    "fact_text": "In 1991’s Cuba, on March 13, 1957, student revolutionaries stormed the presidential palace in Havana in an audacious attempt to assassinate dictator Fulgencio Batista. The attack failed and many of them died, but it became one of the defining sparks in the broader Cuban revolutionary struggle.",
+    "fact_year": 1957,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Museum_of_the_Revolution_(Cuba)",
     "episode": {
-      "id": 49,
-      "title": "Morning Drops #42 - The Joy Of Learning",
-      "description": "Hosted by Yasmin, this Morning Drop explores learning as a lifelong process, focusing on persistence, repetition, and the emotional landscape that comes with challenging oneself over time.\n\nThrough personal stories and scientific insights, the episode looks at how learning reshapes the brain, generates joy through effort, and why progress often arrives after confusion and frustration. It reflects on the so-called delayed pleasure effect, the role of dopamine in motivation, and how curiosity and learning support long-term wellbeing.\n\nThe episode also questions our cultural relationship with failure and invites a softer, more realistic approach to learning, one that accepts mistakes as part of growth and sees persistence as a quiet form of strength.\n\nMood: reflective, grounded, quietly hopeful\nMusic genre: alternative rock, hip hop, electronic, neo-soul, drill\n\nA space to listen slowly and stay with the process.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-joy-of-learning",
+      "id": 56,
+      "title": "Morning Drops #49 - Rage Against The Machine",
+      "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
       "songs": [
-        "Radiohead - Separator",
-        "Mac Miller - What's the Use?",
-        "Morad & Beny Jr - Sigue",
-        "Post Malone - White Iverson"
+        "Rage Against the Machine - Bombtrack",
+        "Rage Against the Machine - Killing in the Name",
+        "Rage Against the Machine - Without a Face",
+        "Rage Against the Machine - Guerrilla Radio",
+        "Rage Against the Machine - Sleep Now in the Fire"
       ],
       "music-genres": [
-        "Alternative Rock",
-        "Experimental Electronic",
-        "Hip Hop",
-        "Neo-Soul",
-        "Drill / Trap"
+        "Rap Metal",
+        "Political Rock",
+        "Alternative Metal"
       ]
     },
-    "match_reason": "A leadership transition and a life devoted to service resonate with an episode about long-term growth, persistence, and gentle inner strength."
+    "match_reason": "A student-led attempt to topple a dictator matches an episode centered on politically charged music and resistance against oppressive systems."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "In 1991’s Cuba, on March 13, 1957, student revolutionaries stormed the presidential palace in Havana in an audacious attempt to assassinate dictator Fulgencio Batista. The attack failed and many of them died, but it became one of the defining sparks in the broader Cuban revolutionary struggle.",
-      "fact_year": 1957,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Museum_of_the_Revolution_(Cuba)",
-      "episode": {
-        "id": 56,
-        "title": "Morning Drops #49 - Rage Against The Machine",
-        "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
-        "songs": [
-          "Rage Against the Machine - Bombtrack",
-          "Rage Against the Machine - Killing in the Name",
-          "Rage Against the Machine - Without a Face",
-          "Rage Against the Machine - Guerrilla Radio",
-          "Rage Against the Machine - Sleep Now in the Fire"
-        ],
-        "music-genres": [
-          "Rap Metal",
-          "Political Rock",
-          "Alternative Metal"
-        ]
-      },
-      "match_reason": "A student-led attempt to topple a dictator matches an episode centered on politically charged music and resistance against oppressive systems."
-    },
     {
       "hour": 12,
       "fact_text": "On March 13, 1815, delegates at the Congress of Vienna responded to Napoleon’s dramatic escape from exile on Elba by declaring him an outlaw—essentially stripping him of any legal protections as a ruler. It was a rare moment when the great powers of Europe tried to use international law to brand a single person a threat to the entire continent.",
@@ -642,9 +616,34 @@
         ]
       },
       "match_reason": "A leadership transition and a life devoted to service resonate with an episode about long-term growth, persistence, and gentle inner strength."
+    },
+    {
+      "hour": 11,
+      "fact_text": "In 1991’s Cuba, on March 13, 1957, student revolutionaries stormed the presidential palace in Havana in an audacious attempt to assassinate dictator Fulgencio Batista. The attack failed and many of them died, but it became one of the defining sparks in the broader Cuban revolutionary struggle.",
+      "fact_year": 1957,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Museum_of_the_Revolution_(Cuba)",
+      "episode": {
+        "id": 56,
+        "title": "Morning Drops #49 - Rage Against The Machine",
+        "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
+        "songs": [
+          "Rage Against the Machine - Bombtrack",
+          "Rage Against the Machine - Killing in the Name",
+          "Rage Against the Machine - Without a Face",
+          "Rage Against the Machine - Guerrilla Radio",
+          "Rage Against the Machine - Sleep Now in the Fire"
+        ],
+        "music-genres": [
+          "Rap Metal",
+          "Political Rock",
+          "Alternative Metal"
+        ]
+      },
+      "match_reason": "A student-led attempt to topple a dictator matches an episode centered on politically charged music and resistance against oppressive systems."
     }
   ],
   "generated_at": "2026-03-13T00:00:00.015093+00:00",
   "date": "2026-03-13",
-  "updated_at": "2026-03-13T10:00:01.679533+00:00"
+  "updated_at": "2026-03-13T11:00:01.717435+00:00"
 }
