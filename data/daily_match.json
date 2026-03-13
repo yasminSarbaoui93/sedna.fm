@@ -1,65 +1,40 @@
 {
-  "current_hour": 16,
+  "current_hour": 17,
   "current_fact": {
-    "hour": 16,
-    "fact_text": "On this day in 1567, the Battle of Oosterweel near Antwerp is traditionally regarded as the beginning of the Eighty Years’ War. A small Calvinist rebel force was crushed by Spanish troops, but the clash ignited a long struggle that would eventually lead to the independence of the Dutch Republic.",
-    "fact_year": 1567,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Oosterweel",
+    "hour": 17,
+    "fact_text": "On March 13 in the year 222, the Roman emperor Elagabalus was murdered alongside his mother by members of the Praetorian Guard. The teenage ruler—known for religious eccentricity and breaking social norms—was replaced by his 14‑year‑old cousin Severus Alexander, in a bloody reset of imperial image.",
+    "fact_year": 222,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Elagabalus",
     "episode": {
-      "id": 23,
-      "title": "Morning Drops #17 - Steel City",
-      "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
+      "id": 6,
+      "title": "Sedna FM #06 - Alters of an Ego",
+      "description": "What if you could step outside yourself and become someone freer, bolder, or completely unexpected? Exploring the artistry of musicians who craft alter-egos and parallel realities to experiment with new dimensions of their identity. It's not about hiding who they are — it's about expanding who they can be.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/alters-of-an-ego",
       "songs": [
-        "The Human League - The Sound Of The Crowd",
-        "Cabaret Voltaire - Deep Time",
-        "Pulp - Common People",
-        "Arctic Monkeys - A Certain Romance"
+        "The Thin White Duke - Stay",
+        "Mac Miller - Dang (feat. Anderson .Paak)",
+        "Larry Lovestein - Love Affair",
+        "The Fireman - Strawberries Oceans Ships Forest",
+        "Paul McCartney - Oh! Darling",
+        "Prince - Kiss",
+        "Camille - Rebirth of the Flash",
+        "MF DOOM - Deep Fried Frenz",
+        "Gorillaz - Dirty Harry",
+        "Gorillaz - Andromeda"
       ],
       "music-genres": [
-        "Synthpop",
-        "Industrial",
-        "Britpop",
-        "Indie Rock"
+        "Glam Rock",
+        "Hip-Hop",
+        "Jazz",
+        "Ambient",
+        "Classic Rock",
+        "Funk",
+        "Electronic"
       ]
     },
-    "match_reason": "An industrial-age Northern city soundtrack underscores an early modern rebellion that helped create a new state, linking themes of working people, independence, and common life."
+    "match_reason": "An emperor notorious for radical self-presentation and shifting identities aligns with an episode about alter-egos and reinventing who you can be."
   },
   "queue": [
-    {
-      "hour": 17,
-      "fact_text": "On March 13 in the year 222, the Roman emperor Elagabalus was murdered alongside his mother by members of the Praetorian Guard. The teenage ruler—known for religious eccentricity and breaking social norms—was replaced by his 14‑year‑old cousin Severus Alexander, in a bloody reset of imperial image.",
-      "fact_year": 222,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Elagabalus",
-      "episode": {
-        "id": 6,
-        "title": "Sedna FM #06 - Alters of an Ego",
-        "description": "What if you could step outside yourself and become someone freer, bolder, or completely unexpected? Exploring the artistry of musicians who craft alter-egos and parallel realities to experiment with new dimensions of their identity. It's not about hiding who they are — it's about expanding who they can be.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/alters-of-an-ego",
-        "songs": [
-          "The Thin White Duke - Stay",
-          "Mac Miller - Dang (feat. Anderson .Paak)",
-          "Larry Lovestein - Love Affair",
-          "The Fireman - Strawberries Oceans Ships Forest",
-          "Paul McCartney - Oh! Darling",
-          "Prince - Kiss",
-          "Camille - Rebirth of the Flash",
-          "MF DOOM - Deep Fried Frenz",
-          "Gorillaz - Dirty Harry",
-          "Gorillaz - Andromeda"
-        ],
-        "music-genres": [
-          "Glam Rock",
-          "Hip-Hop",
-          "Jazz",
-          "Ambient",
-          "Classic Rock",
-          "Funk",
-          "Electronic"
-        ]
-      },
-      "match_reason": "An emperor notorious for radical self-presentation and shifting identities aligns with an episode about alter-egos and reinventing who you can be."
-    },
     {
       "hour": 18,
       "fact_text": "On this day in 1964, Kitty Genovese was murdered in New York City, a crime that later inspired influential—if partly mythologized—research into the bystander effect. The story sparked decades of debate on how urban anonymity, perception, and social cues shape whether people step in to help.",
@@ -633,9 +608,43 @@
         ]
       },
       "match_reason": "An industrial-age Northern city soundtrack underscores an early modern rebellion that helped create a new state, linking themes of working people, independence, and common life."
+    },
+    {
+      "hour": 17,
+      "fact_text": "On March 13 in the year 222, the Roman emperor Elagabalus was murdered alongside his mother by members of the Praetorian Guard. The teenage ruler—known for religious eccentricity and breaking social norms—was replaced by his 14‑year‑old cousin Severus Alexander, in a bloody reset of imperial image.",
+      "fact_year": 222,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Elagabalus",
+      "episode": {
+        "id": 6,
+        "title": "Sedna FM #06 - Alters of an Ego",
+        "description": "What if you could step outside yourself and become someone freer, bolder, or completely unexpected? Exploring the artistry of musicians who craft alter-egos and parallel realities to experiment with new dimensions of their identity. It's not about hiding who they are — it's about expanding who they can be.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/alters-of-an-ego",
+        "songs": [
+          "The Thin White Duke - Stay",
+          "Mac Miller - Dang (feat. Anderson .Paak)",
+          "Larry Lovestein - Love Affair",
+          "The Fireman - Strawberries Oceans Ships Forest",
+          "Paul McCartney - Oh! Darling",
+          "Prince - Kiss",
+          "Camille - Rebirth of the Flash",
+          "MF DOOM - Deep Fried Frenz",
+          "Gorillaz - Dirty Harry",
+          "Gorillaz - Andromeda"
+        ],
+        "music-genres": [
+          "Glam Rock",
+          "Hip-Hop",
+          "Jazz",
+          "Ambient",
+          "Classic Rock",
+          "Funk",
+          "Electronic"
+        ]
+      },
+      "match_reason": "An emperor notorious for radical self-presentation and shifting identities aligns with an episode about alter-egos and reinventing who you can be."
     }
   ],
   "generated_at": "2026-03-13T00:00:00.014270+00:00",
   "date": "2026-03-13",
-  "updated_at": "2026-03-13T16:00:01.500475+00:00"
+  "updated_at": "2026-03-13T17:00:01.659141+00:00"
 }
