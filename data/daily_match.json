@@ -1,45 +1,30 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On March 13, 1989, Space Shuttle Discovery launched on mission STS-29 to deploy the TDRS-4 communications satellite, a key node in NASA’s Tracking and Data Relay Satellite network. This invisible infrastructure quietly transformed space operations, enabling near‑continuous contact with spacecraft instead of brief ground‑station windows.",
-    "fact_year": 1989,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-29",
+    "hour": 2,
+    "fact_text": "In 1930, Lowell Observatory announced the discovery of Pluto, a tiny, distant world first spotted on photographic plates by 23‑year‑old Clyde Tombaugh. For decades it was hailed as the ninth planet, long before its reclassification as the most famous of the dwarf planets.",
+    "fact_year": 1930,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pluto",
     "episode": {
-      "id": 58,
-      "title": "Evening Flows #00 - Introduction to evening flows",
-      "description": "Sedna FM introduces a new format: Evening Flow, where you can enjoy curated music sets from selectors, DJs, and artists.\n\nEach mix is an invitation to drift beyond the expected. A space where hidden gems from personal archives come to light, where sound speaks its own language. There are no rules here, no patterns to follow. Just the steady unfolding of a mood, a texture, a journey shaped by feeling.\n\nLet the music lead the way - enjoy the trip!",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-introduction-to-evening-flows",
-      "songs": [],
-      "music-genres": []
+      "id": 55,
+      "title": "Morning Drops #48 - Cosmic Monday",
+      "description": "Cosmic Monday is a Morning Drops episode built around four Italian dance records, tracing how disco rhythms slowly became electronic language.\nGaia moves through four tracks like chapters: groove first, then machines, then that bright, futuristic feeling you only get when the bassline is doing the talking. It's not nostalgia, exactly. It's more like returning to a sound that still works — especially on mornings when you need a little extra energy, but you don't want anything aggressive.\nTake it as a slow transmission. Let it carry you into the day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-cosmic-monday",
+      "songs": [
+        "Giovanotti Mondani Meccanici - Don't Ask Me Why",
+        "Azoto - Sal Salvador",
+        "Capricorn - I Need Love",
+        "Cosmic Disco - Cosmic Sprint"
+      ],
+      "music-genres": [
+        "Italo Disco",
+        "Disco",
+        "Electronic"
+      ]
     },
-    "match_reason": "A mission that upgrades communication links matches a format that introduces a new transmission channel for Sedna FM, both quietly reshaping how signals flow."
+    "match_reason": "A \"cosmic\" dance selection is a playful companion to the discovery of a distant world at the edge of the Solar System."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "In 1930, Lowell Observatory announced the discovery of Pluto, a tiny, distant world first spotted on photographic plates by 23‑year‑old Clyde Tombaugh. For decades it was hailed as the ninth planet, long before its reclassification as the most famous of the dwarf planets.",
-      "fact_year": 1930,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pluto",
-      "episode": {
-        "id": 55,
-        "title": "Morning Drops #48 - Cosmic Monday",
-        "description": "Cosmic Monday is a Morning Drops episode built around four Italian dance records, tracing how disco rhythms slowly became electronic language.\nGaia moves through four tracks like chapters: groove first, then machines, then that bright, futuristic feeling you only get when the bassline is doing the talking. It's not nostalgia, exactly. It's more like returning to a sound that still works — especially on mornings when you need a little extra energy, but you don't want anything aggressive.\nTake it as a slow transmission. Let it carry you into the day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-cosmic-monday",
-        "songs": [
-          "Giovanotti Mondani Meccanici - Don't Ask Me Why",
-          "Azoto - Sal Salvador",
-          "Capricorn - I Need Love",
-          "Cosmic Disco - Cosmic Sprint"
-        ],
-        "music-genres": [
-          "Italo Disco",
-          "Disco",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A \"cosmic\" dance selection is a playful companion to the discovery of a distant world at the edge of the Solar System."
-    },
     {
       "hour": 3,
       "fact_text": "On this day in 1781, William Herschel noticed what he thought was a comet—only to discover the first new planet found in modern times: Uranus. Its strange, tilted rotation and pale blue hue revealed that the Solar System was stranger and larger than previously imagined.",
@@ -623,9 +608,33 @@
         "music-genres": []
       },
       "match_reason": "A mission that upgrades communication links matches a format that introduces a new transmission channel for Sedna FM, both quietly reshaping how signals flow."
+    },
+    {
+      "hour": 2,
+      "fact_text": "In 1930, Lowell Observatory announced the discovery of Pluto, a tiny, distant world first spotted on photographic plates by 23‑year‑old Clyde Tombaugh. For decades it was hailed as the ninth planet, long before its reclassification as the most famous of the dwarf planets.",
+      "fact_year": 1930,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pluto",
+      "episode": {
+        "id": 55,
+        "title": "Morning Drops #48 - Cosmic Monday",
+        "description": "Cosmic Monday is a Morning Drops episode built around four Italian dance records, tracing how disco rhythms slowly became electronic language.\nGaia moves through four tracks like chapters: groove first, then machines, then that bright, futuristic feeling you only get when the bassline is doing the talking. It's not nostalgia, exactly. It's more like returning to a sound that still works — especially on mornings when you need a little extra energy, but you don't want anything aggressive.\nTake it as a slow transmission. Let it carry you into the day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-cosmic-monday",
+        "songs": [
+          "Giovanotti Mondani Meccanici - Don't Ask Me Why",
+          "Azoto - Sal Salvador",
+          "Capricorn - I Need Love",
+          "Cosmic Disco - Cosmic Sprint"
+        ],
+        "music-genres": [
+          "Italo Disco",
+          "Disco",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A \"cosmic\" dance selection is a playful companion to the discovery of a distant world at the edge of the Solar System."
     }
   ],
   "generated_at": "2026-03-13T00:00:00.014270+00:00",
   "date": "2026-03-13",
-  "updated_at": "2026-03-13T01:00:01.556376+00:00"
+  "updated_at": "2026-03-13T02:00:01.623331+00:00"
 }
