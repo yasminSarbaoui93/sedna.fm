@@ -1,70 +1,36 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On March 13, 1969, Apollo 9 splashed down safely after testing the Lunar Module in Earth orbit for the first time. This mission was essentially a full dress rehearsal in space, proving that the fragile-looking lander could separate, maneuver, and rendezvous—turning the dream of walking on the Moon into a near-certainty.",
-    "fact_year": 1969,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Apollo_9",
+    "hour": 2,
+    "fact_text": "In 1781, William Herschel pointed a homemade telescope at what he thought was a fuzzy star and instead found Uranus—the first new planet discovered in modern history. The find doubled the known size of the Solar System at the time and showed that the map of the sky was still far from finished.",
+    "fact_year": 1781,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Uranus",
     "episode": {
-      "id": 2,
-      "title": "Sedna FM #02 - Destination Sedna",
-      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+      "id": 48,
+      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
       "songs": [
-        "Pink Floyd - Breathe",
-        "The fountain DC - Starburster",
-        "Laura Cahen - La Poussiere",
-        "Taxi Kebab - Lmchi w rjou3",
-        "Odion Iruoje - Identify With Your Roots",
-        "Depeche mode - world in my eyes (Oil Tank Mix)",
-        "Massive attack - Dissolved girl",
-        "Kokoroko - Three piece suite",
-        "Salin - Egungun",
-        "E.S.P. - It's You"
+        "Stive Morgan - Solar Wind, Pt. 3",
+        "David Visan & Carlos Campos - Crystal Heart",
+        "Evan Mars - Ya Zareef Al Tool",
+        "Gerardo Frisina - Cuiabá",
+        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+        "The Busy Twist - Friday Night"
       ],
       "music-genres": [
-        "Progressive Rock",
-        "Post-Punk",
-        "French Pop",
-        "Maghreb",
+        "Ambient",
+        "Deep House",
+        "World Music",
+        "Nu Jazz",
         "Afrobeat",
-        "Synthpop",
-        "Trip-Hop"
+        "Funk",
+        "Electronic"
       ]
     },
-    "match_reason": "A mission called Apollo 9 testing a Moon-bound craft pairs with a sonic 'Destination Sedna' voyage through new territories."
+    "match_reason": "A new planet emerging from the dark mirrors a mix that starts mysterious and slowly expands into a wider, luminous sound universe."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "In 1781, William Herschel pointed a homemade telescope at what he thought was a fuzzy star and instead found Uranus—the first new planet discovered in modern history. The find doubled the known size of the Solar System at the time and showed that the map of the sky was still far from finished.",
-      "fact_year": 1781,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Uranus",
-      "episode": {
-        "id": 48,
-        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
-        "songs": [
-          "Stive Morgan - Solar Wind, Pt. 3",
-          "David Visan & Carlos Campos - Crystal Heart",
-          "Evan Mars - Ya Zareef Al Tool",
-          "Gerardo Frisina - Cuiabá",
-          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-          "The Busy Twist - Friday Night"
-        ],
-        "music-genres": [
-          "Ambient",
-          "Deep House",
-          "World Music",
-          "Nu Jazz",
-          "Afrobeat",
-          "Funk",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A new planet emerging from the dark mirrors a mix that starts mysterious and slowly expands into a wider, luminous sound universe."
-    },
     {
       "hour": 3,
       "fact_text": "On March 13, 1989, Space Shuttle Discovery lifted off on mission STS-29 to deploy the TDRS-4 satellite, part of a network that quietly relayed data between spacecraft and Earth. These relay satellites turned low Earth orbit into a high-speed information web, letting missions stay in almost constant contact with home.",
@@ -650,9 +616,39 @@
         ]
       },
       "match_reason": "A mission called Apollo 9 testing a Moon-bound craft pairs with a sonic 'Destination Sedna' voyage through new territories."
+    },
+    {
+      "hour": 2,
+      "fact_text": "In 1781, William Herschel pointed a homemade telescope at what he thought was a fuzzy star and instead found Uranus—the first new planet discovered in modern history. The find doubled the known size of the Solar System at the time and showed that the map of the sky was still far from finished.",
+      "fact_year": 1781,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Uranus",
+      "episode": {
+        "id": 48,
+        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+        "songs": [
+          "Stive Morgan - Solar Wind, Pt. 3",
+          "David Visan & Carlos Campos - Crystal Heart",
+          "Evan Mars - Ya Zareef Al Tool",
+          "Gerardo Frisina - Cuiabá",
+          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+          "The Busy Twist - Friday Night"
+        ],
+        "music-genres": [
+          "Ambient",
+          "Deep House",
+          "World Music",
+          "Nu Jazz",
+          "Afrobeat",
+          "Funk",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A new planet emerging from the dark mirrors a mix that starts mysterious and slowly expands into a wider, luminous sound universe."
     }
   ],
   "generated_at": "2026-03-13T00:00:00.015093+00:00",
   "date": "2026-03-13",
-  "updated_at": "2026-03-13T01:00:01.353326+00:00"
+  "updated_at": "2026-03-13T02:00:01.583591+00:00"
 }
