@@ -1,56 +1,31 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "On March 14, 1961, a U.S. Air Force B-52 bomber carrying nuclear weapons crashed near Yuba City, California. Multiple safety systems worked as designed, preventing a nuclear detonation and turning a potential catastrophe into a chilling near-miss.",
-    "fact_year": 1961,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1961_Yuba_City_B-52_crash",
+    "hour": 5,
+    "fact_text": "In 1903, Pelican Island in Florida became the first U.S. National Wildlife Refuge, declared by President Theodore Roosevelt to protect brown pelicans from being hunted to near extinction. This tiny mangrove-covered island quietly launched a vast federal conservation network.",
+    "fact_year": 1903,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pelican_Island_National_Wildlife_Refuge",
     "episode": {
-      "id": 33,
-      "title": "Morning Drops #27 - Nomophobia",
-      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "All Them Witches - Internet",
-        "James Blake - The Wilhelm Scream",
-        "Nick Mulvey - Juramidam",
-        "Kraftwerk - Computer Love"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Psychedelic Rock",
-        "Electronic",
-        "Folk",
-        "Synth-Pop"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "A nuclear-armed crash underscores how much we rely on complex systems, mirroring this episode’s reflection on invisible technological dependence and the anxiety around it."
+    "match_reason": "Both the refuge’s creation and this episode center on protecting and admiring wild animals in their own spaces, from Florida pelicans to Arctic orcas."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "In 1903, Pelican Island in Florida became the first U.S. National Wildlife Refuge, declared by President Theodore Roosevelt to protect brown pelicans from being hunted to near extinction. This tiny mangrove-covered island quietly launched a vast federal conservation network.",
-      "fact_year": 1903,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pelican_Island_National_Wildlife_Refuge",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "Both the refuge’s creation and this episode center on protecting and admiring wild animals in their own spaces, from Florida pelicans to Arctic orcas."
-    },
     {
       "hour": 6,
       "fact_text": "When Cyclone Idai made landfall near Beira, Mozambique in 2019, it unleashed catastrophic floods across Mozambique, Zimbabwe, and Malawi. The storm became one of the deadliest cyclones recorded in the Southern Hemisphere, exposing both the power of nature and the vulnerability of coastal cities.",
@@ -639,9 +614,34 @@
         ]
       },
       "match_reason": "A nuclear-armed crash underscores how much we rely on complex systems, mirroring this episode’s reflection on invisible technological dependence and the anxiety around it."
+    },
+    {
+      "hour": 5,
+      "fact_text": "In 1903, Pelican Island in Florida became the first U.S. National Wildlife Refuge, declared by President Theodore Roosevelt to protect brown pelicans from being hunted to near extinction. This tiny mangrove-covered island quietly launched a vast federal conservation network.",
+      "fact_year": 1903,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pelican_Island_National_Wildlife_Refuge",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "Both the refuge’s creation and this episode center on protecting and admiring wild animals in their own spaces, from Florida pelicans to Arctic orcas."
     }
   ],
   "generated_at": "2026-03-14T00:00:00.013644+00:00",
   "date": "2026-03-14",
-  "updated_at": "2026-03-14T04:00:01.500006+00:00"
+  "updated_at": "2026-03-14T05:00:01.366771+00:00"
 }
