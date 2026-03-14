@@ -1,56 +1,31 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "In 1663, German polymath Otto von Guericke completed his book \"Experimenta Nova,\" documenting spectacular vacuum experiments and the first clear description of electrostatic repulsion. His famous Magdeburg hemispheres demo showed that teams of horses couldn’t pull apart two evacuated copper domes, stunning onlookers and reshaping physics.",
-    "fact_year": 1663,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Otto_von_Guericke",
+    "hour": 2,
+    "fact_text": "On this day in 1885, Gilbert and Sullivan’s comic opera \"The Mikado\" premiered in London, setting its satire of British society in an imagined Japan to dodge censorship. Its catchy tunes and playful jabs at bureaucracy turned it into one of the most performed operas in history.",
+    "fact_year": 1885,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/The_Mikado",
     "episode": {
-      "id": 11,
-      "title": "Morning Drops #05 - Electric Shock",
-      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+      "id": 18,
+      "title": "Morning Drops #12 - 80's Club",
+      "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
       "songs": [
-        "Johnny Winter - Highway 61 Revisited",
-        "Joan Armatrading - Sleight of Hand",
-        "Joan Armatrading - Russian Roulette",
-        "Jimi Hendrix - Freedom",
-        "Jeff Beck - Scatterbrain"
+        "Donna Summer - I Feel Love",
+        "Depeche Mode - Just Can't Get Enough",
+        "Ken Laszlo - Hey Hey Guy",
+        "Mylène Farmer - Sans Contrefaçon"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Rock",
-        "Electric Blues"
+        "Disco",
+        "Synthpop",
+        "Italo Disco",
+        "French Pop"
       ]
     },
-    "match_reason": "Electrostatic repulsion and vacuum experiments resonate perfectly with an episode themed around an 'electric shock' of sound."
+    "match_reason": "Both 'The Mikado' and the 80s Club episode celebrate theatrical, catchy, and highly stylized popular music that defined their eras."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "On this day in 1885, Gilbert and Sullivan’s comic opera \"The Mikado\" premiered in London, setting its satire of British society in an imagined Japan to dodge censorship. Its catchy tunes and playful jabs at bureaucracy turned it into one of the most performed operas in history.",
-      "fact_year": 1885,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/The_Mikado",
-      "episode": {
-        "id": 18,
-        "title": "Morning Drops #12 - 80's Club",
-        "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
-        "songs": [
-          "Donna Summer - I Feel Love",
-          "Depeche Mode - Just Can't Get Enough",
-          "Ken Laszlo - Hey Hey Guy",
-          "Mylène Farmer - Sans Contrefaçon"
-        ],
-        "music-genres": [
-          "Disco",
-          "Synthpop",
-          "Italo Disco",
-          "French Pop"
-        ]
-      },
-      "match_reason": "Both 'The Mikado' and the 80s Club episode celebrate theatrical, catchy, and highly stylized popular music that defined their eras."
-    },
     {
       "hour": 3,
       "fact_text": "In 1945, the Royal Air Force dropped the enormous \"Grand Slam\" bomb in combat for the first time, targeting a railway viaduct near Bielefeld, Germany. Designed as an \"earthquake bomb,\" it was so heavy it could penetrate deep into the ground before detonating, shattering structures with shockwaves.",
@@ -639,9 +614,34 @@
         ]
       },
       "match_reason": "Electrostatic repulsion and vacuum experiments resonate perfectly with an episode themed around an 'electric shock' of sound."
+    },
+    {
+      "hour": 2,
+      "fact_text": "On this day in 1885, Gilbert and Sullivan’s comic opera \"The Mikado\" premiered in London, setting its satire of British society in an imagined Japan to dodge censorship. Its catchy tunes and playful jabs at bureaucracy turned it into one of the most performed operas in history.",
+      "fact_year": 1885,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/The_Mikado",
+      "episode": {
+        "id": 18,
+        "title": "Morning Drops #12 - 80's Club",
+        "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
+        "songs": [
+          "Donna Summer - I Feel Love",
+          "Depeche Mode - Just Can't Get Enough",
+          "Ken Laszlo - Hey Hey Guy",
+          "Mylène Farmer - Sans Contrefaçon"
+        ],
+        "music-genres": [
+          "Disco",
+          "Synthpop",
+          "Italo Disco",
+          "French Pop"
+        ]
+      },
+      "match_reason": "Both 'The Mikado' and the 80s Club episode celebrate theatrical, catchy, and highly stylized popular music that defined their eras."
     }
   ],
   "generated_at": "2026-03-14T00:00:00.013644+00:00",
   "date": "2026-03-14",
-  "updated_at": "2026-03-14T01:00:01.575143+00:00"
+  "updated_at": "2026-03-14T02:00:01.517676+00:00"
 }
