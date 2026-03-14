@@ -1,56 +1,31 @@
 {
-  "current_hour": 8,
+  "current_hour": 9,
   "current_fact": {
-    "hour": 8,
-    "fact_text": "On March 14, 1931, India’s first talking film \"Alam Ara\" premiered, drawing such crowds that police were called in to control the queues. Its songs and spoken dialogue launched the era of sound in Indian cinema and laid the groundwork for Bollywood’s musical storytelling tradition.",
-    "fact_year": 1931,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Alam_Ara",
+    "hour": 9,
+    "fact_text": "In 1864, Rossini’s \"Petite messe solennelle\" was first performed not in a cathedral, but in a private Parisian mansion by just twelve singers, two pianists, and a harmonium. The composer jokingly called it his \"little solemn mass,\" though its music is anything but modest.",
+    "fact_year": 1864,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Petite_messe_solennelle",
     "episode": {
-      "id": 31,
-      "title": "Morning Drops #25 - A Trip-Hop Journey",
-      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+      "id": 27,
+      "title": "Morning Drops #21 - Endless Summer",
+      "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
       "songs": [
-        "Massive Attack - Unfinished Sympathy",
-        "Tricky - Hell Is Round the Corner",
-        "DJ Shadow - Midnight in a Perfect World",
-        "Thievery Corporation - Lebanese Blonde",
-        "Smoke City - Underwater Love"
+        "Nik Bärtsch - Modul 14",
+        "Mama Terra - Chameleon (Single Edit)",
+        "Spyro Gyra - Morning Dance",
+        "Yussef Kamaal - Black Focus"
       ],
       "music-genres": [
-        "Trip-Hop",
-        "Downtempo",
-        "Electronic"
+        "Minimal Jazz",
+        "Nu Jazz",
+        "Jazz Fusion",
+        "UK Jazz"
       ]
     },
-    "match_reason": "The birth of Indian sound cinema aligns with an episode about cinematic, boundary-blurring music that feels like a film score for the mind."
+    "match_reason": "A small, intimate yet \"solemn\" chamber mass fits the reflective, quietly spiritual mood of a jazz-infused, contemplative Endless Summer morning."
   },
   "queue": [
-    {
-      "hour": 9,
-      "fact_text": "In 1864, Rossini’s \"Petite messe solennelle\" was first performed not in a cathedral, but in a private Parisian mansion by just twelve singers, two pianists, and a harmonium. The composer jokingly called it his \"little solemn mass,\" though its music is anything but modest.",
-      "fact_year": 1864,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Petite_messe_solennelle",
-      "episode": {
-        "id": 27,
-        "title": "Morning Drops #21 - Endless Summer",
-        "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
-        "songs": [
-          "Nik Bärtsch - Modul 14",
-          "Mama Terra - Chameleon (Single Edit)",
-          "Spyro Gyra - Morning Dance",
-          "Yussef Kamaal - Black Focus"
-        ],
-        "music-genres": [
-          "Minimal Jazz",
-          "Nu Jazz",
-          "Jazz Fusion",
-          "UK Jazz"
-        ]
-      },
-      "match_reason": "A small, intimate yet \"solemn\" chamber mass fits the reflective, quietly spiritual mood of a jazz-infused, contemplative Endless Summer morning."
-    },
     {
       "hour": 10,
       "fact_text": "In 1780, during the American Revolutionary War, Spanish forces captured Fort Charlotte at Mobile, Alabama, eliminating the last British outpost that could threaten New Orleans from the east. The victory is a reminder that the struggle for American independence stretched far beyond the original thirteen colonies.",
@@ -639,9 +614,34 @@
         ]
       },
       "match_reason": "The birth of Indian sound cinema aligns with an episode about cinematic, boundary-blurring music that feels like a film score for the mind."
+    },
+    {
+      "hour": 9,
+      "fact_text": "In 1864, Rossini’s \"Petite messe solennelle\" was first performed not in a cathedral, but in a private Parisian mansion by just twelve singers, two pianists, and a harmonium. The composer jokingly called it his \"little solemn mass,\" though its music is anything but modest.",
+      "fact_year": 1864,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Petite_messe_solennelle",
+      "episode": {
+        "id": 27,
+        "title": "Morning Drops #21 - Endless Summer",
+        "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
+        "songs": [
+          "Nik Bärtsch - Modul 14",
+          "Mama Terra - Chameleon (Single Edit)",
+          "Spyro Gyra - Morning Dance",
+          "Yussef Kamaal - Black Focus"
+        ],
+        "music-genres": [
+          "Minimal Jazz",
+          "Nu Jazz",
+          "Jazz Fusion",
+          "UK Jazz"
+        ]
+      },
+      "match_reason": "A small, intimate yet \"solemn\" chamber mass fits the reflective, quietly spiritual mood of a jazz-infused, contemplative Endless Summer morning."
     }
   ],
   "generated_at": "2026-03-14T00:00:00.013644+00:00",
   "date": "2026-03-14",
-  "updated_at": "2026-03-14T08:00:01.700961+00:00"
+  "updated_at": "2026-03-14T09:00:01.553401+00:00"
 }
