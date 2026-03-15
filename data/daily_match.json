@@ -1,56 +1,31 @@
 {
-  "current_hour": 8,
+  "current_hour": 9,
   "current_fact": {
-    "hour": 8,
-    "fact_text": "On March 15, 1943, during the Third Battle of Kharkiv, German forces recaptured the Ukrainian city from the Red Army. It was a fleeting victory on the Eastern Front, emblematic of a war that seesawed at immense human cost.",
-    "fact_year": 1943,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Third_Battle_of_Kharkov",
+    "hour": 9,
+    "fact_text": "On March 15, 1888, Britain launched the Sikkim expedition, marking the start of the Anglo-Tibetan War. The campaign pushed imperial forces high into the Himalayas, where politics, trade routes, and mountain passes became tightly intertwined.",
+    "fact_year": 1888,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Sikkim_expedition",
     "episode": {
-      "id": 31,
-      "title": "Morning Drops #25 - A Trip-Hop Journey",
-      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+      "id": 28,
+      "title": "Morning Drops #22 - Sicilians On The Dolomites",
+      "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
       "songs": [
-        "Massive Attack - Unfinished Sympathy",
-        "Tricky - Hell Is Round the Corner",
-        "DJ Shadow - Midnight in a Perfect World",
-        "Thievery Corporation - Lebanese Blonde",
-        "Smoke City - Underwater Love"
+        "Franco Battiato - Haiku",
+        "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
+        "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
+        "Pink Floyd - Fearless"
       ],
       "music-genres": [
-        "Trip-Hop",
-        "Downtempo",
-        "Electronic"
+        "Italian Art Pop",
+        "French Jazz",
+        "Italian Singer-Songwriter",
+        "Progressive Rock"
       ]
     },
-    "match_reason": "The foggy, cinematic atmosphere of trip-hop matches the grim, urban battleground of Kharkiv, offering a reflective lens on a city that has endured multiple cycles of conflict."
+    "match_reason": "A high-altitude imperial expedition into the Himalayas pairs well with an episode shaped by mountain landscapes, where music and stories climb their own emotional passes."
   },
   "queue": [
-    {
-      "hour": 9,
-      "fact_text": "On March 15, 1888, Britain launched the Sikkim expedition, marking the start of the Anglo-Tibetan War. The campaign pushed imperial forces high into the Himalayas, where politics, trade routes, and mountain passes became tightly intertwined.",
-      "fact_year": 1888,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Sikkim_expedition",
-      "episode": {
-        "id": 28,
-        "title": "Morning Drops #22 - Sicilians On The Dolomites",
-        "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
-        "songs": [
-          "Franco Battiato - Haiku",
-          "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
-          "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
-          "Pink Floyd - Fearless"
-        ],
-        "music-genres": [
-          "Italian Art Pop",
-          "French Jazz",
-          "Italian Singer-Songwriter",
-          "Progressive Rock"
-        ]
-      },
-      "match_reason": "A high-altitude imperial expedition into the Himalayas pairs well with an episode shaped by mountain landscapes, where music and stories climb their own emotional passes."
-    },
     {
       "hour": 10,
       "fact_text": "On March 15, 200 BC, the Roman Republic declared war on King Philip V of Macedon, beginning the Second Macedonian War. The conflict projected Roman power deep into the Greek world and set the stage for centuries of Mediterranean dominance.",
@@ -641,9 +616,34 @@
         ]
       },
       "match_reason": "The foggy, cinematic atmosphere of trip-hop matches the grim, urban battleground of Kharkiv, offering a reflective lens on a city that has endured multiple cycles of conflict."
+    },
+    {
+      "hour": 9,
+      "fact_text": "On March 15, 1888, Britain launched the Sikkim expedition, marking the start of the Anglo-Tibetan War. The campaign pushed imperial forces high into the Himalayas, where politics, trade routes, and mountain passes became tightly intertwined.",
+      "fact_year": 1888,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Sikkim_expedition",
+      "episode": {
+        "id": 28,
+        "title": "Morning Drops #22 - Sicilians On The Dolomites",
+        "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
+        "songs": [
+          "Franco Battiato - Haiku",
+          "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
+          "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
+          "Pink Floyd - Fearless"
+        ],
+        "music-genres": [
+          "Italian Art Pop",
+          "French Jazz",
+          "Italian Singer-Songwriter",
+          "Progressive Rock"
+        ]
+      },
+      "match_reason": "A high-altitude imperial expedition into the Himalayas pairs well with an episode shaped by mountain landscapes, where music and stories climb their own emotional passes."
     }
   ],
   "generated_at": "2026-03-15T00:00:00.023342+00:00",
   "date": "2026-03-15",
-  "updated_at": "2026-03-15T08:00:01.440551+00:00"
+  "updated_at": "2026-03-15T09:00:01.653793+00:00"
 }
