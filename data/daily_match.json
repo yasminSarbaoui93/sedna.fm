@@ -1,64 +1,39 @@
 {
-  "current_hour": 9,
+  "current_hour": 10,
   "current_fact": {
-    "hour": 9,
-    "fact_text": "In 1988, Avianca Flight 410, a Colombian Boeing 727, crashed into a fog‑shrouded mountain shortly after takeoff, killing all 143 people on board. The tragedy spurred changes in crew training and navigation procedures, turning a disaster into hard‑won lessons for safer skies.",
-    "fact_year": 1988,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Avianca_Flight_410",
+    "hour": 10,
+    "fact_text": "On March 17, 1948, Belgium, France, Luxembourg, the Netherlands, and the United Kingdom signed the Treaty of Brussels, a mutual defense pact born from the ruins of World War II. It became a key stepping stone toward NATO and the broader idea that security could be shared across borders.",
+    "fact_year": 1948,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Treaty_of_Brussels",
     "episode": {
-      "id": 31,
-      "title": "Morning Drops #25 - A Trip-Hop Journey",
-      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+      "id": 1,
+      "title": "Sedna FM #01 - November Bomb",
+      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
       "songs": [
-        "Massive Attack - Unfinished Sympathy",
-        "Tricky - Hell Is Round the Corner",
-        "DJ Shadow - Midnight in a Perfect World",
-        "Thievery Corporation - Lebanese Blonde",
-        "Smoke City - Underwater Love"
+        "berlioz - Open this wall",
+        "Nas - One Mic",
+        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+        "Frankie Knuckles - Your Love",
+        "Notorious B.I.G. - 17 Ten Crack Commandments",
+        "Liloca - Utani Xuva",
+        "Fela Kuti - Zombie",
+        "Neffa - Aspettando il sole",
+        "Childish Gambino - No Excuses",
+        "Modjo - Music takes you back"
       ],
       "music-genres": [
-        "Trip-Hop",
-        "Downtempo",
-        "Electronic"
+        "Hip-Hop",
+        "Afrobeat",
+        "House",
+        "Italian Pop",
+        "R&B",
+        "Latin Rap"
       ]
     },
-    "match_reason": "The somber, atmospheric textures of trip‑hop align with the reflective mood surrounding a mountain air disaster and the slow, systemic changes that followed."
+    "match_reason": "A treaty that becomes the origin of a vast security alliance mirrors an inaugural episode that marks 'where it all began' for Sedna FM, both setting the foundations for what comes next."
   },
   "queue": [
-    {
-      "hour": 10,
-      "fact_text": "On March 17, 1948, Belgium, France, Luxembourg, the Netherlands, and the United Kingdom signed the Treaty of Brussels, a mutual defense pact born from the ruins of World War II. It became a key stepping stone toward NATO and the broader idea that security could be shared across borders.",
-      "fact_year": 1948,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Treaty_of_Brussels",
-      "episode": {
-        "id": 1,
-        "title": "Sedna FM #01 - November Bomb",
-        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
-        "songs": [
-          "berlioz - Open this wall",
-          "Nas - One Mic",
-          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-          "Frankie Knuckles - Your Love",
-          "Notorious B.I.G. - 17 Ten Crack Commandments",
-          "Liloca - Utani Xuva",
-          "Fela Kuti - Zombie",
-          "Neffa - Aspettando il sole",
-          "Childish Gambino - No Excuses",
-          "Modjo - Music takes you back"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Afrobeat",
-          "House",
-          "Italian Pop",
-          "R&B",
-          "Latin Rap"
-        ]
-      },
-      "match_reason": "A treaty that becomes the origin of a vast security alliance mirrors an inaugural episode that marks 'where it all began' for Sedna FM, both setting the foundations for what comes next."
-    },
     {
       "hour": 11,
       "fact_text": "In 1960, U.S. President Dwight D. Eisenhower approved a covert program against Cuba that would eventually culminate in the Bay of Pigs invasion. What began as a classified directive would spill into one of the Cold War’s most infamous failed operations.",
@@ -645,9 +620,42 @@
         ]
       },
       "match_reason": "The somber, atmospheric textures of trip‑hop align with the reflective mood surrounding a mountain air disaster and the slow, systemic changes that followed."
+    },
+    {
+      "hour": 10,
+      "fact_text": "On March 17, 1948, Belgium, France, Luxembourg, the Netherlands, and the United Kingdom signed the Treaty of Brussels, a mutual defense pact born from the ruins of World War II. It became a key stepping stone toward NATO and the broader idea that security could be shared across borders.",
+      "fact_year": 1948,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Treaty_of_Brussels",
+      "episode": {
+        "id": 1,
+        "title": "Sedna FM #01 - November Bomb",
+        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+        "songs": [
+          "berlioz - Open this wall",
+          "Nas - One Mic",
+          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+          "Frankie Knuckles - Your Love",
+          "Notorious B.I.G. - 17 Ten Crack Commandments",
+          "Liloca - Utani Xuva",
+          "Fela Kuti - Zombie",
+          "Neffa - Aspettando il sole",
+          "Childish Gambino - No Excuses",
+          "Modjo - Music takes you back"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Afrobeat",
+          "House",
+          "Italian Pop",
+          "R&B",
+          "Latin Rap"
+        ]
+      },
+      "match_reason": "A treaty that becomes the origin of a vast security alliance mirrors an inaugural episode that marks 'where it all began' for Sedna FM, both setting the foundations for what comes next."
     }
   ],
   "generated_at": "2026-03-17T00:00:00.007081+00:00",
   "date": "2026-03-17",
-  "updated_at": "2026-03-17T09:00:01.812122+00:00"
+  "updated_at": "2026-03-17T10:00:01.473327+00:00"
 }
