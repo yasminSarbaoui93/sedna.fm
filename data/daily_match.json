@@ -1,65 +1,40 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "In 1963, Bali’s sacred volcano Mount Agung erupted with devastating force, sending ash 10 kilometers into the sky and killing more than 1,100 people. Many Balinese interpreted the eruption as a spiritual sign, as it occurred near the time of major religious ceremonies on the island.",
-    "fact_year": 1963,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mount_Agung",
+    "hour": 5,
+    "fact_text": "On March 17, 1862, Finland’s first railway line, the Päärata, officially opened between Helsinki and Hämeenlinna. This single track stitched together forests, lakes, and distant towns, quietly reshaping how people, ideas, and goods moved through the far north.",
+    "fact_year": 1862,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Rail_transport_in_Finland",
     "episode": {
-      "id": 46,
-      "title": "Morning Drops #40 - Diving With Orcas",
-      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+      "id": 5,
+      "title": "Sedna FM #05 - On The Go - Zero Zero",
+      "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
       "songs": [
-        "Ludovico Einaudi - Experience",
-        "The Temper Trap - Sweet Disposition",
-        "Alex Warren - Ordinary",
-        "Piero Umiliani - Il tuo volto"
+        "Alborosie - Rock the dancehall",
+        "Grace Jones - Pull up to the bumper",
+        "Hollie cook - Happy hour",
+        "Easy star all star - Soul love",
+        "Jeremie Albino - Rolling down the 405",
+        "Cyril Neville - I found joy",
+        "Aretha Franklin - Rock steady",
+        "James Brown - Talking loud and saying nothing (remix)",
+        "Nubiyan Twist - So mi stay",
+        "Professor Wouassa - Fallou Fall",
+        "Jarabe de Palo - La Flaca"
       ],
       "music-genres": [
-        "Neo-Classical",
-        "Indie Rock",
-        "Pop",
-        "Italian Film Score"
+        "Reggae",
+        "Funk",
+        "Soul",
+        "Afrobeat",
+        "Latin Rock",
+        "New Wave"
       ]
     },
-    "match_reason": "Both the volcanic eruption and the orca dives are encounters with overwhelming natural forces that inspire awe, fear, and spiritual reflection, fitting the episode’s cinematic, nature‑immersed mood."
+    "match_reason": "The inauguration of a nation’s first railway is literally a story of being 'on the go,' matching an upbeat travel‑oriented mix about movement and new journeys."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "On March 17, 1862, Finland’s first railway line, the Päärata, officially opened between Helsinki and Hämeenlinna. This single track stitched together forests, lakes, and distant towns, quietly reshaping how people, ideas, and goods moved through the far north.",
-      "fact_year": 1862,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Rail_transport_in_Finland",
-      "episode": {
-        "id": 5,
-        "title": "Sedna FM #05 - On The Go - Zero Zero",
-        "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
-        "songs": [
-          "Alborosie - Rock the dancehall",
-          "Grace Jones - Pull up to the bumper",
-          "Hollie cook - Happy hour",
-          "Easy star all star - Soul love",
-          "Jeremie Albino - Rolling down the 405",
-          "Cyril Neville - I found joy",
-          "Aretha Franklin - Rock steady",
-          "James Brown - Talking loud and saying nothing (remix)",
-          "Nubiyan Twist - So mi stay",
-          "Professor Wouassa - Fallou Fall",
-          "Jarabe de Palo - La Flaca"
-        ],
-        "music-genres": [
-          "Reggae",
-          "Funk",
-          "Soul",
-          "Afrobeat",
-          "Latin Rock",
-          "New Wave"
-        ]
-      },
-      "match_reason": "The inauguration of a nation’s first railway is literally a story of being 'on the go,' matching an upbeat travel‑oriented mix about movement and new journeys."
-    },
     {
       "hour": 6,
       "fact_text": "In 1979, Scotland’s Penmanshiel Tunnel collapsed during engineering works, killing two workers and burying part of a major railway link. Instead of reopening the tunnel, engineers ultimately rerouted the line over the hill, leaving the sealed portal as a quiet monument to the risks hidden inside the landscape.",
@@ -645,9 +620,43 @@
         ]
       },
       "match_reason": "Both the volcanic eruption and the orca dives are encounters with overwhelming natural forces that inspire awe, fear, and spiritual reflection, fitting the episode’s cinematic, nature‑immersed mood."
+    },
+    {
+      "hour": 5,
+      "fact_text": "On March 17, 1862, Finland’s first railway line, the Päärata, officially opened between Helsinki and Hämeenlinna. This single track stitched together forests, lakes, and distant towns, quietly reshaping how people, ideas, and goods moved through the far north.",
+      "fact_year": 1862,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Rail_transport_in_Finland",
+      "episode": {
+        "id": 5,
+        "title": "Sedna FM #05 - On The Go - Zero Zero",
+        "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
+        "songs": [
+          "Alborosie - Rock the dancehall",
+          "Grace Jones - Pull up to the bumper",
+          "Hollie cook - Happy hour",
+          "Easy star all star - Soul love",
+          "Jeremie Albino - Rolling down the 405",
+          "Cyril Neville - I found joy",
+          "Aretha Franklin - Rock steady",
+          "James Brown - Talking loud and saying nothing (remix)",
+          "Nubiyan Twist - So mi stay",
+          "Professor Wouassa - Fallou Fall",
+          "Jarabe de Palo - La Flaca"
+        ],
+        "music-genres": [
+          "Reggae",
+          "Funk",
+          "Soul",
+          "Afrobeat",
+          "Latin Rock",
+          "New Wave"
+        ]
+      },
+      "match_reason": "The inauguration of a nation’s first railway is literally a story of being 'on the go,' matching an upbeat travel‑oriented mix about movement and new journeys."
     }
   ],
   "generated_at": "2026-03-17T00:00:00.007081+00:00",
   "date": "2026-03-17",
-  "updated_at": "2026-03-17T04:00:01.479749+00:00"
+  "updated_at": "2026-03-17T05:00:01.960102+00:00"
 }
