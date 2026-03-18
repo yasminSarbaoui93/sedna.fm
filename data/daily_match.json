@@ -1,56 +1,31 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "On March 18, 1953, a powerful earthquake struck western Turkey, devastating towns around Yenice and Gönen and killing over a thousand people. The event highlighted how the North Anatolian Fault, one of Earth’s major fracture lines, runs beneath communities that must live with a restless crust.",
-    "fact_year": 1953,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1953_Yenice%E2%80%93G%C3%B6nen_earthquake",
+    "hour": 6,
+    "fact_text": "A thousand years earlier, in 1068, a series of massive earthquakes shook the Levant and Arabian Peninsula, reportedly killing up to 20,000 people. Medieval chroniclers described cities shattered and landscapes reshaped, long before plate tectonics offered any explanation for such upheaval.",
+    "fact_year": 1068,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1068_Near_East_earthquakes",
     "episode": {
-      "id": 20,
-      "title": "Morning Drops #14 - Slow Planet",
-      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+      "id": 31,
+      "title": "Morning Drops #25 - A Trip-Hop Journey",
+      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
       "songs": [
-        "Air - Cherry Blossom Girl",
-        "Kruder & Dorfmeister - Keep On Believing",
-        "Tosca - Orozco",
-        "Bonobo - Terrapin"
+        "Massive Attack - Unfinished Sympathy",
+        "Tricky - Hell Is Round the Corner",
+        "DJ Shadow - Midnight in a Perfect World",
+        "Thievery Corporation - Lebanese Blonde",
+        "Smoke City - Underwater Love"
       ],
       "music-genres": [
-        "Downtempo",
         "Trip-Hop",
-        "Electronic",
-        "Chillout"
+        "Downtempo",
+        "Electronic"
       ]
     },
-    "match_reason": "After the violence of an earthquake, the idea of a 'Slow Planet' offers a sonic counterweight: calming, grounding downtempo to reflect on Earth’s power and fragility."
+    "match_reason": "An ancient Near Eastern catastrophe connects with a trip-hop journey that includes 'Lebanese Blonde', bridging geography and a moody, cinematic sense of shifting ground."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "A thousand years earlier, in 1068, a series of massive earthquakes shook the Levant and Arabian Peninsula, reportedly killing up to 20,000 people. Medieval chroniclers described cities shattered and landscapes reshaped, long before plate tectonics offered any explanation for such upheaval.",
-      "fact_year": 1068,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1068_Near_East_earthquakes",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #25 - A Trip-Hop Journey",
-        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
-        "songs": [
-          "Massive Attack - Unfinished Sympathy",
-          "Tricky - Hell Is Round the Corner",
-          "DJ Shadow - Midnight in a Perfect World",
-          "Thievery Corporation - Lebanese Blonde",
-          "Smoke City - Underwater Love"
-        ],
-        "music-genres": [
-          "Trip-Hop",
-          "Downtempo",
-          "Electronic"
-        ]
-      },
-      "match_reason": "An ancient Near Eastern catastrophe connects with a trip-hop journey that includes 'Lebanese Blonde', bridging geography and a moody, cinematic sense of shifting ground."
-    },
     {
       "hour": 7,
       "fact_text": "In 1971, a huge landslide thundered into Yanawayin Lake in Peru, generating a wave that swept away the Chungar mining camp and killing around 200 people. It was a reminder that mountains can fail catastrophically, and that water can become a weapon when rock meets lake at speed.",
@@ -635,9 +610,34 @@
         ]
       },
       "match_reason": "After the violence of an earthquake, the idea of a 'Slow Planet' offers a sonic counterweight: calming, grounding downtempo to reflect on Earth’s power and fragility."
+    },
+    {
+      "hour": 6,
+      "fact_text": "A thousand years earlier, in 1068, a series of massive earthquakes shook the Levant and Arabian Peninsula, reportedly killing up to 20,000 people. Medieval chroniclers described cities shattered and landscapes reshaped, long before plate tectonics offered any explanation for such upheaval.",
+      "fact_year": 1068,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1068_Near_East_earthquakes",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #25 - A Trip-Hop Journey",
+        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+        "songs": [
+          "Massive Attack - Unfinished Sympathy",
+          "Tricky - Hell Is Round the Corner",
+          "DJ Shadow - Midnight in a Perfect World",
+          "Thievery Corporation - Lebanese Blonde",
+          "Smoke City - Underwater Love"
+        ],
+        "music-genres": [
+          "Trip-Hop",
+          "Downtempo",
+          "Electronic"
+        ]
+      },
+      "match_reason": "An ancient Near Eastern catastrophe connects with a trip-hop journey that includes 'Lebanese Blonde', bridging geography and a moody, cinematic sense of shifting ground."
     }
   ],
   "generated_at": "2026-03-18T00:00:00.012279+00:00",
   "date": "2026-03-18",
-  "updated_at": "2026-03-18T05:00:01.644955+00:00"
+  "updated_at": "2026-03-18T06:00:01.668799+00:00"
 }
