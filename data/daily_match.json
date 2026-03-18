@@ -1,59 +1,36 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "On 18 March 1965, Soviet cosmonaut Alexei Leonov left his spacecraft Voskhod 2 and became the first human to walk in space. His 12-minute spacewalk was so risky that his suit ballooned, he barely fit back through the hatch, and he had to vent air from the suit to survive. The mission was kept partially secret for years because of how close it came to disaster.",
-    "fact_year": 1965,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Voskhod_2",
+    "hour": 1,
+    "fact_text": "In 1899, astronomers announced the discovery of Phoebe, an irregular, dark moon of Saturn first identified on photographic plates taken in 1898. Unlike Saturn’s bright inner moons, Phoebe orbits backwards and far out, suggesting it may be a captured object from the outer Solar System. It would not be seen up close until the Cassini spacecraft flew past it a century later.",
+    "fact_year": 1899,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Phoebe_(moon)",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 48,
+      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Stive Morgan - Solar Wind, Pt. 3",
+        "David Visan & Carlos Campos - Crystal Heart",
+        "Evan Mars - Ya Zareef Al Tool",
+        "Gerardo Frisina - Cuiabá",
+        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+        "The Busy Twist - Friday Night"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Ambient",
+        "Deep House",
+        "World Music",
+        "Nu Jazz",
+        "Afrobeat",
+        "Funk",
+        "Electronic"
       ]
     },
-    "match_reason": "A literal first step into outer space pairs with an episode about reimagining emptiness as creative space, both celebrating bold leaps into the unknown."
+    "match_reason": "A mysterious, distant Saturnian moon discovered on old plates fits the slow, cosmic ambience and ‘solar wind’ textures of this Evening Flow set."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "In 1899, astronomers announced the discovery of Phoebe, an irregular, dark moon of Saturn first identified on photographic plates taken in 1898. Unlike Saturn’s bright inner moons, Phoebe orbits backwards and far out, suggesting it may be a captured object from the outer Solar System. It would not be seen up close until the Cassini spacecraft flew past it a century later.",
-      "fact_year": 1899,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Phoebe_(moon)",
-      "episode": {
-        "id": 48,
-        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
-        "songs": [
-          "Stive Morgan - Solar Wind, Pt. 3",
-          "David Visan & Carlos Campos - Crystal Heart",
-          "Evan Mars - Ya Zareef Al Tool",
-          "Gerardo Frisina - Cuiabá",
-          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-          "The Busy Twist - Friday Night"
-        ],
-        "music-genres": [
-          "Ambient",
-          "Deep House",
-          "World Music",
-          "Nu Jazz",
-          "Afrobeat",
-          "Funk",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A mysterious, distant Saturnian moon discovered on old plates fits the slow, cosmic ambience and ‘solar wind’ textures of this Evening Flow set."
-    },
     {
       "hour": 2,
       "fact_text": "On 18 March 1980, a Vostok-2M rocket exploded during fueling at Plesetsk Cosmodrome’s Site 43, killing 48 people. The Soviet Union kept the disaster secret for nearly a decade, and only later did detailed accounts of the accident and its victims emerge. It remains one of the deadliest ground accidents in rocketry history, a stark reminder of the risks behind spaceflight.",
@@ -650,9 +627,39 @@
         ]
       },
       "match_reason": "A literal first step into outer space pairs with an episode about reimagining emptiness as creative space, both celebrating bold leaps into the unknown."
+    },
+    {
+      "hour": 1,
+      "fact_text": "In 1899, astronomers announced the discovery of Phoebe, an irregular, dark moon of Saturn first identified on photographic plates taken in 1898. Unlike Saturn’s bright inner moons, Phoebe orbits backwards and far out, suggesting it may be a captured object from the outer Solar System. It would not be seen up close until the Cassini spacecraft flew past it a century later.",
+      "fact_year": 1899,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Phoebe_(moon)",
+      "episode": {
+        "id": 48,
+        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+        "songs": [
+          "Stive Morgan - Solar Wind, Pt. 3",
+          "David Visan & Carlos Campos - Crystal Heart",
+          "Evan Mars - Ya Zareef Al Tool",
+          "Gerardo Frisina - Cuiabá",
+          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+          "The Busy Twist - Friday Night"
+        ],
+        "music-genres": [
+          "Ambient",
+          "Deep House",
+          "World Music",
+          "Nu Jazz",
+          "Afrobeat",
+          "Funk",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A mysterious, distant Saturnian moon discovered on old plates fits the slow, cosmic ambience and ‘solar wind’ textures of this Evening Flow set."
     }
   ],
   "generated_at": "2026-03-18T00:00:00.013094+00:00",
   "date": "2026-03-18",
-  "updated_at": "2026-03-18T00:01:06.226671+00:00"
+  "updated_at": "2026-03-18T01:00:01.445273+00:00"
 }
