@@ -1,53 +1,30 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 1965, Alexei Leonov opened the hatch of Voskhod 2 and became the first human to walk in space, floating outside his spacecraft for 12 minutes. His suit ballooned so much in the vacuum that he had to bleed off pressure and squeeze back through the hatch headfirst, improvising his way back to safety.",
-    "fact_year": 1965,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Voskhod_2",
+    "hour": 1,
+    "fact_text": "In 1899, astronomers identified Phoebe, a distant moon of Saturn, using photographic plates taken months earlier. Unlike Saturn’s bright inner moons, Phoebe orbits backward, is unusually dark, and may be a captured Kuiper Belt object, making it a cosmic interloper in Saturn’s sky.",
+    "fact_year": 1899,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Phoebe_(moon)",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 55,
+      "title": "Morning Drops #48 - Cosmic Monday",
+      "description": "Cosmic Monday is a Morning Drops episode built around four Italian dance records, tracing how disco rhythms slowly became electronic language.\nGaia moves through four tracks like chapters: groove first, then machines, then that bright, futuristic feeling you only get when the bassline is doing the talking. It's not nostalgia, exactly. It's more like returning to a sound that still works — especially on mornings when you need a little extra energy, but you don't want anything aggressive.\nTake it as a slow transmission. Let it carry you into the day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-cosmic-monday",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Giovanotti Mondani Meccanici - Don't Ask Me Why",
+        "Azoto - Sal Salvador",
+        "Capricorn - I Need Love",
+        "Cosmic Disco - Cosmic Sprint"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Italo Disco",
+        "Disco",
+        "Electronic"
       ]
     },
-    "match_reason": "A literal first step into outer space pairs with an episode about reimagining emptiness as creative space and shifting perspective."
+    "match_reason": "A strange, retrograde moon discovered on old plates fits the futuristic, space-tinted pulse of a 'Cosmic Monday' dance selection."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "In 1899, astronomers identified Phoebe, a distant moon of Saturn, using photographic plates taken months earlier. Unlike Saturn’s bright inner moons, Phoebe orbits backward, is unusually dark, and may be a captured Kuiper Belt object, making it a cosmic interloper in Saturn’s sky.",
-      "fact_year": 1899,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Phoebe_(moon)",
-      "episode": {
-        "id": 55,
-        "title": "Morning Drops #48 - Cosmic Monday",
-        "description": "Cosmic Monday is a Morning Drops episode built around four Italian dance records, tracing how disco rhythms slowly became electronic language.\nGaia moves through four tracks like chapters: groove first, then machines, then that bright, futuristic feeling you only get when the bassline is doing the talking. It's not nostalgia, exactly. It's more like returning to a sound that still works — especially on mornings when you need a little extra energy, but you don't want anything aggressive.\nTake it as a slow transmission. Let it carry you into the day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-cosmic-monday",
-        "songs": [
-          "Giovanotti Mondani Meccanici - Don't Ask Me Why",
-          "Azoto - Sal Salvador",
-          "Capricorn - I Need Love",
-          "Cosmic Disco - Cosmic Sprint"
-        ],
-        "music-genres": [
-          "Italo Disco",
-          "Disco",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A strange, retrograde moon discovered on old plates fits the futuristic, space-tinted pulse of a 'Cosmic Monday' dance selection."
-    },
     {
       "hour": 2,
       "fact_text": "On March 18, 1848, William Henry Fry’s opera *Leonora* premiered in Philadelphia, becoming the first known grand opera by an American composer to be publicly performed. It was an ambitious attempt to prove that large-scale, European-style opera could grow roots in the New World.",
@@ -633,9 +610,33 @@
         ]
       },
       "match_reason": "A literal first step into outer space pairs with an episode about reimagining emptiness as creative space and shifting perspective."
+    },
+    {
+      "hour": 1,
+      "fact_text": "In 1899, astronomers identified Phoebe, a distant moon of Saturn, using photographic plates taken months earlier. Unlike Saturn’s bright inner moons, Phoebe orbits backward, is unusually dark, and may be a captured Kuiper Belt object, making it a cosmic interloper in Saturn’s sky.",
+      "fact_year": 1899,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Phoebe_(moon)",
+      "episode": {
+        "id": 55,
+        "title": "Morning Drops #48 - Cosmic Monday",
+        "description": "Cosmic Monday is a Morning Drops episode built around four Italian dance records, tracing how disco rhythms slowly became electronic language.\nGaia moves through four tracks like chapters: groove first, then machines, then that bright, futuristic feeling you only get when the bassline is doing the talking. It's not nostalgia, exactly. It's more like returning to a sound that still works — especially on mornings when you need a little extra energy, but you don't want anything aggressive.\nTake it as a slow transmission. Let it carry you into the day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-cosmic-monday",
+        "songs": [
+          "Giovanotti Mondani Meccanici - Don't Ask Me Why",
+          "Azoto - Sal Salvador",
+          "Capricorn - I Need Love",
+          "Cosmic Disco - Cosmic Sprint"
+        ],
+        "music-genres": [
+          "Italo Disco",
+          "Disco",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A strange, retrograde moon discovered on old plates fits the futuristic, space-tinted pulse of a 'Cosmic Monday' dance selection."
     }
   ],
   "generated_at": "2026-03-18T00:00:00.012279+00:00",
   "date": "2026-03-18",
-  "updated_at": "2026-03-18T00:00:59.051636+00:00"
+  "updated_at": "2026-03-18T01:00:02.001276+00:00"
 }
