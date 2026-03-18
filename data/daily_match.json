@@ -1,56 +1,31 @@
 {
-  "current_hour": 13,
+  "current_hour": 14,
   "current_fact": {
-    "hour": 13,
-    "fact_text": "On 18 March 1944, Mount Vesuvius erupted for the last time in the 20th century, spewing lava and ash down its slopes. The eruption damaged nearby villages and destroyed dozens of Allied bombers parked at an airfield—one of the rare times a volcano has wiped out an air fleet. Today, millions live in its shadow, making Vesuvius one of the world’s most closely watched volcanoes.",
-    "fact_year": 1944,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mount_Vesuvius",
+    "hour": 14,
+    "fact_text": "In 1940, Adolf Hitler and Benito Mussolini met at the Brenner Pass in the Alps and agreed to cement their alliance against France and the United Kingdom. The mountaintop summit, held above a Europe already at war, symbolized the tightening of the Axis partnership. The decisions made there would ripple through battlefields, cities, and lives across the continent.",
+    "fact_year": 1940,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/World_War_II",
     "episode": {
-      "id": 46,
-      "title": "Morning Drops #40 - Diving With Orcas",
-      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+      "id": 28,
+      "title": "Morning Drops #22 - Sicilians On The Dolomites",
+      "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
       "songs": [
-        "Ludovico Einaudi - Experience",
-        "The Temper Trap - Sweet Disposition",
-        "Alex Warren - Ordinary",
-        "Piero Umiliani - Il tuo volto"
+        "Franco Battiato - Haiku",
+        "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
+        "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
+        "Pink Floyd - Fearless"
       ],
       "music-genres": [
-        "Neo-Classical",
-        "Indie Rock",
-        "Pop",
-        "Italian Film Score"
+        "Italian Art Pop",
+        "French Jazz",
+        "Italian Singer-Songwriter",
+        "Progressive Rock"
       ]
     },
-    "match_reason": "An iconic Italian volcano’s dramatic eruption meets an episode about awe-inspiring natural forces in another extreme landscape—volcanic fire balanced by Arctic water, both scored cinematically."
+    "match_reason": "A tense wartime meeting in an Alpine pass connects with a mountain-themed episode; both take place high above the plains, but one turns the peaks into a space for music and stories instead of alliances."
   },
   "queue": [
-    {
-      "hour": 14,
-      "fact_text": "In 1940, Adolf Hitler and Benito Mussolini met at the Brenner Pass in the Alps and agreed to cement their alliance against France and the United Kingdom. The mountaintop summit, held above a Europe already at war, symbolized the tightening of the Axis partnership. The decisions made there would ripple through battlefields, cities, and lives across the continent.",
-      "fact_year": 1940,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/World_War_II",
-      "episode": {
-        "id": 28,
-        "title": "Morning Drops #22 - Sicilians On The Dolomites",
-        "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
-        "songs": [
-          "Franco Battiato - Haiku",
-          "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
-          "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
-          "Pink Floyd - Fearless"
-        ],
-        "music-genres": [
-          "Italian Art Pop",
-          "French Jazz",
-          "Italian Singer-Songwriter",
-          "Progressive Rock"
-        ]
-      },
-      "match_reason": "A tense wartime meeting in an Alpine pass connects with a mountain-themed episode; both take place high above the plains, but one turns the peaks into a space for music and stories instead of alliances."
-    },
     {
       "hour": 15,
       "fact_text": "In 1241, Mongol forces invading Poland crushed local armies at the Battle of Chmielnik, opening the way to plunder Kraków. Contemporary accounts describe swift cavalry, feigned retreats, and smoke screens used to confuse defenders—tactics that made the Mongol army feel almost supernatural. The campaign showed how a nomadic empire could project power deep into settled Europe.",
@@ -652,9 +627,34 @@
         ]
       },
       "match_reason": "An iconic Italian volcano’s dramatic eruption meets an episode about awe-inspiring natural forces in another extreme landscape—volcanic fire balanced by Arctic water, both scored cinematically."
+    },
+    {
+      "hour": 14,
+      "fact_text": "In 1940, Adolf Hitler and Benito Mussolini met at the Brenner Pass in the Alps and agreed to cement their alliance against France and the United Kingdom. The mountaintop summit, held above a Europe already at war, symbolized the tightening of the Axis partnership. The decisions made there would ripple through battlefields, cities, and lives across the continent.",
+      "fact_year": 1940,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/World_War_II",
+      "episode": {
+        "id": 28,
+        "title": "Morning Drops #22 - Sicilians On The Dolomites",
+        "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
+        "songs": [
+          "Franco Battiato - Haiku",
+          "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
+          "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
+          "Pink Floyd - Fearless"
+        ],
+        "music-genres": [
+          "Italian Art Pop",
+          "French Jazz",
+          "Italian Singer-Songwriter",
+          "Progressive Rock"
+        ]
+      },
+      "match_reason": "A tense wartime meeting in an Alpine pass connects with a mountain-themed episode; both take place high above the plains, but one turns the peaks into a space for music and stories instead of alliances."
     }
   ],
   "generated_at": "2026-03-18T00:00:00.013094+00:00",
   "date": "2026-03-18",
-  "updated_at": "2026-03-18T13:00:01.852019+00:00"
+  "updated_at": "2026-03-18T14:00:01.908174+00:00"
 }
