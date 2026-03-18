@@ -1,57 +1,31 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "In 1994, Bosniak and Croat leaders signed the Washington Agreement, ending their bitter conflict within Bosnia and Herzegovina and creating a joint federation. The accord transformed former enemies into uneasy partners to resist larger forces threatening to tear the country apart. It showed how borders can be redrawn not only on maps, but inside people’s identities.",
-    "fact_year": 1994,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina",
+    "hour": 11,
+    "fact_text": "On 18 March 1969, the United States began Operation Menu, a secret bombing campaign against targets along the Sihanouk Trail in neutral Cambodia. For over a year the strikes were concealed even from parts of the U.S. government, logged under code names like \"Breakfast\" and \"Lunch.\" The campaign helped destabilize Cambodia, with consequences that would echo far beyond official maps.",
+    "fact_year": 1969,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Menu",
     "episode": {
-      "id": 51,
-      "title": "Morning Drops #44 - Residente",
-      "description": "In this edition of Morning Drops, Yasmin navigates the complex geography of René Pérez Joglar, known to the world as Residente. His story is not just a musical evolution; it is a timeline marked by resistance, lyrical obsession, and a relentless search for identity.\n\nFrom the gated streets of Trujillo Alto to the global stage, we explore how a restless mind transformed into the voice of a generation. The selection moves through the textures of his life: hearing the raw energy of his early rebellion, the sharp precision of his political critique, and finally, the fragile silence of his most personal confessions.\n\nIt is a study in duality. We witness the rapper who dismantles giants and the son who misses his mother. It is a soundscape that proves that sometimes, the loudest revolution happens inside.\n\nMood: Raw, Revolutionary, Introspective, Honest\nMusic genre: Latin Alternative, Hip Hop, Urban, World",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-residente",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "Calle 13 - La Jirafa",
-        "Calle 13 - Adentro",
-        "Residente - René",
-        "Calle 13 - La Vuelta al Mundo"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Latin Alternative",
-        "Hip Hop",
-        "Urban",
-        "Rap",
-        "World"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "A hard-won political peace between communities mirrors an episode about identity, resistance, and reconciliation within one artist and his divided homeland."
+    "match_reason": "A covert operation hidden behind code names resonates with an episode about the unseen infrastructures—networks, screens, systems—that quietly shape how we live and perceive reality."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "On 18 March 1969, the United States began Operation Menu, a secret bombing campaign against targets along the Sihanouk Trail in neutral Cambodia. For over a year the strikes were concealed even from parts of the U.S. government, logged under code names like \"Breakfast\" and \"Lunch.\" The campaign helped destabilize Cambodia, with consequences that would echo far beyond official maps.",
-      "fact_year": 1969,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Menu",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "A covert operation hidden behind code names resonates with an episode about the unseen infrastructures—networks, screens, systems—that quietly shape how we live and perceive reality."
-    },
     {
       "hour": 12,
       "fact_text": "In 1959, the Hawaii Admission Act was signed into law, setting the stage for Hawaii to become the 50th U.S. state. The islands’ path to statehood was shaped by a complex history of indigenous sovereignty, monarchy, annexation, and strategic importance in the Pacific. When Hawaiians later voted for statehood, it formally bound a volcanic archipelago in the middle of the ocean to a continental nation.",
@@ -653,9 +627,34 @@
         ]
       },
       "match_reason": "A hard-won political peace between communities mirrors an episode about identity, resistance, and reconciliation within one artist and his divided homeland."
+    },
+    {
+      "hour": 11,
+      "fact_text": "On 18 March 1969, the United States began Operation Menu, a secret bombing campaign against targets along the Sihanouk Trail in neutral Cambodia. For over a year the strikes were concealed even from parts of the U.S. government, logged under code names like \"Breakfast\" and \"Lunch.\" The campaign helped destabilize Cambodia, with consequences that would echo far beyond official maps.",
+      "fact_year": 1969,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Menu",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "A covert operation hidden behind code names resonates with an episode about the unseen infrastructures—networks, screens, systems—that quietly shape how we live and perceive reality."
     }
   ],
   "generated_at": "2026-03-18T00:00:00.013094+00:00",
   "date": "2026-03-18",
-  "updated_at": "2026-03-18T10:00:01.539554+00:00"
+  "updated_at": "2026-03-18T11:00:01.604364+00:00"
 }
