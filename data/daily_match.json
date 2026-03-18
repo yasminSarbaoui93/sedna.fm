@@ -1,58 +1,31 @@
 {
-  "current_hour": 22,
+  "current_hour": 23,
   "current_fact": {
-    "hour": 22,
-    "fact_text": "On 18 March 1965, Alexei Leonov’s historic spacewalk almost ended in disaster when his spacesuit ballooned in the vacuum, making him too large to fit back through the Voskhod 2 airlock. To survive, he manually bled pressure from his suit, risking decompression sickness, and re-entered headfirst against procedure. He later admitted his heart was racing so fast that his spacesuit’s sensors couldn’t keep up.",
-    "fact_year": 1965,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Alexei_Leonov",
+    "hour": 23,
+    "fact_text": "In 1848, the revolutionary wave sweeping Europe reached Milan, where civilians forced Austrian troops out in a dramatic five-day uprising. While short-lived, the victory electrified other movements and showed how quickly a city’s everyday rhythms could transform into a collective push for change. The echoes of those barricades would later shape Italy’s path toward unification.",
+    "fact_year": 1848,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Milan",
     "episode": {
-      "id": 49,
-      "title": "Morning Drops #42 - The Joy Of Learning",
-      "description": "Hosted by Yasmin, this Morning Drop explores learning as a lifelong process, focusing on persistence, repetition, and the emotional landscape that comes with challenging oneself over time.\n\nThrough personal stories and scientific insights, the episode looks at how learning reshapes the brain, generates joy through effort, and why progress often arrives after confusion and frustration. It reflects on the so-called delayed pleasure effect, the role of dopamine in motivation, and how curiosity and learning support long-term wellbeing.\n\nThe episode also questions our cultural relationship with failure and invites a softer, more realistic approach to learning, one that accepts mistakes as part of growth and sees persistence as a quiet form of strength.\n\nMood: reflective, grounded, quietly hopeful\nMusic genre: alternative rock, hip hop, electronic, neo-soul, drill\n\nA space to listen slowly and stay with the process.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-joy-of-learning",
+      "id": 23,
+      "title": "Morning Drops #17 - Steel City",
+      "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
       "songs": [
-        "Radiohead - Separator",
-        "Mac Miller - What's the Use?",
-        "Morad & Beny Jr - Sigue",
-        "Post Malone - White Iverson"
+        "The Human League - The Sound Of The Crowd",
+        "Cabaret Voltaire - Deep Time",
+        "Pulp - Common People",
+        "Arctic Monkeys - A Certain Romance"
       ],
       "music-genres": [
-        "Alternative Rock",
-        "Experimental Electronic",
-        "Hip Hop",
-        "Neo-Soul",
-        "Drill / Trap"
+        "Synthpop",
+        "Industrial",
+        "Britpop",
+        "Indie Rock"
       ]
     },
-    "match_reason": "Leonov’s near-fatal improvisation in orbit reflects an extreme form of trial, error, and adaptation—themes mirrored in an episode about learning through confusion, failure, and persistence."
+    "match_reason": "A city’s identity being re-forged through revolt is paired with an episode about another city whose soundtracks capture working-class struggle and reinvention—Milan’s barricades meeting Sheffield’s guitars."
   },
-  "queue": [
-    {
-      "hour": 23,
-      "fact_text": "In 1848, the revolutionary wave sweeping Europe reached Milan, where civilians forced Austrian troops out in a dramatic five-day uprising. While short-lived, the victory electrified other movements and showed how quickly a city’s everyday rhythms could transform into a collective push for change. The echoes of those barricades would later shape Italy’s path toward unification.",
-      "fact_year": 1848,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Milan",
-      "episode": {
-        "id": 23,
-        "title": "Morning Drops #17 - Steel City",
-        "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
-        "songs": [
-          "The Human League - The Sound Of The Crowd",
-          "Cabaret Voltaire - Deep Time",
-          "Pulp - Common People",
-          "Arctic Monkeys - A Certain Romance"
-        ],
-        "music-genres": [
-          "Synthpop",
-          "Industrial",
-          "Britpop",
-          "Indie Rock"
-        ]
-      },
-      "match_reason": "A city’s identity being re-forged through revolt is paired with an episode about another city whose soundtracks capture working-class struggle and reinvention—Milan’s barricades meeting Sheffield’s guitars."
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "hour": 0,
@@ -653,9 +626,34 @@
         ]
       },
       "match_reason": "Leonov’s near-fatal improvisation in orbit reflects an extreme form of trial, error, and adaptation—themes mirrored in an episode about learning through confusion, failure, and persistence."
+    },
+    {
+      "hour": 23,
+      "fact_text": "In 1848, the revolutionary wave sweeping Europe reached Milan, where civilians forced Austrian troops out in a dramatic five-day uprising. While short-lived, the victory electrified other movements and showed how quickly a city’s everyday rhythms could transform into a collective push for change. The echoes of those barricades would later shape Italy’s path toward unification.",
+      "fact_year": 1848,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Milan",
+      "episode": {
+        "id": 23,
+        "title": "Morning Drops #17 - Steel City",
+        "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
+        "songs": [
+          "The Human League - The Sound Of The Crowd",
+          "Cabaret Voltaire - Deep Time",
+          "Pulp - Common People",
+          "Arctic Monkeys - A Certain Romance"
+        ],
+        "music-genres": [
+          "Synthpop",
+          "Industrial",
+          "Britpop",
+          "Indie Rock"
+        ]
+      },
+      "match_reason": "A city’s identity being re-forged through revolt is paired with an episode about another city whose soundtracks capture working-class struggle and reinvention—Milan’s barricades meeting Sheffield’s guitars."
     }
   ],
   "generated_at": "2026-03-18T00:00:00.013094+00:00",
   "date": "2026-03-18",
-  "updated_at": "2026-03-18T22:00:01.816504+00:00"
+  "updated_at": "2026-03-18T23:00:01.801069+00:00"
 }
