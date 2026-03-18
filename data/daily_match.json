@@ -1,56 +1,31 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "On this day in 1959, the Hawaii Admission Act was signed into law, clearing the way for the islands to become the 50th U.S. state. It transformed a remote Pacific archipelago into a symbol of both postwar American expansion and the blending of Indigenous, Asian, and Western cultures.",
-    "fact_year": 1959,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Hawaii_Admission_Act",
+    "hour": 4,
+    "fact_text": "In 1944, Mount Vesuvius erupted in the middle of World War II, sending ash over nearby towns and destroying dozens of Allied bombers parked at an airfield. It was a rare moment when a volcano, rather than an enemy army, grounded air power in a global war.",
+    "fact_year": 1944,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mount_Vesuvius",
     "episode": {
-      "id": 27,
-      "title": "Morning Drops #21 - Endless Summer",
-      "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
+      "id": 53,
+      "title": "Morning Drops #46 - Fog and Fire",
+      "description": "In today’s Morning Drops, Gaia brings us on a passport-free trip between two Italian energies: the foggy stillness of the North and the volcanic pulse of the South. Throughout the journey, Gaia shares four of her favourite Italian songwriters. Grab your coffee and tune into the radio show from another planet!",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-fog-and-fire",
       "songs": [
-        "Nik Bärtsch - Modul 14",
-        "Mama Terra - Chameleon (Single Edit)",
-        "Spyro Gyra - Morning Dance",
-        "Yussef Kamaal - Black Focus"
+        "Edoardo Bennato - La Torre Di Babele",
+        "Zucchero - Diavolo in Me",
+        "Lucio Dalla - Com'é Profondo il Mare",
+        "Pino Daniele - Tutta N'ata Storia"
       ],
       "music-genres": [
-        "Minimal Jazz",
-        "Nu Jazz",
-        "Jazz Fusion",
-        "UK Jazz"
+        "Blues",
+        "indie",
+        "Italian",
+        "Soft Rock"
       ]
     },
-    "match_reason": "Hawaii’s statehood, wrapped in sunlit Pacific imagery, pairs with an episode built around coastlines, long summers, and warm, flowing jazz."
+    "match_reason": "An eruption from Italy’s most iconic volcano fits an episode explicitly themed around Italy’s \"volcanic pulse\" and fiery southern energy."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "In 1944, Mount Vesuvius erupted in the middle of World War II, sending ash over nearby towns and destroying dozens of Allied bombers parked at an airfield. It was a rare moment when a volcano, rather than an enemy army, grounded air power in a global war.",
-      "fact_year": 1944,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mount_Vesuvius",
-      "episode": {
-        "id": 53,
-        "title": "Morning Drops #46 - Fog and Fire",
-        "description": "In today’s Morning Drops, Gaia brings us on a passport-free trip between two Italian energies: the foggy stillness of the North and the volcanic pulse of the South. Throughout the journey, Gaia shares four of her favourite Italian songwriters. Grab your coffee and tune into the radio show from another planet!",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-fog-and-fire",
-        "songs": [
-          "Edoardo Bennato - La Torre Di Babele",
-          "Zucchero - Diavolo in Me",
-          "Lucio Dalla - Com'é Profondo il Mare",
-          "Pino Daniele - Tutta N'ata Storia"
-        ],
-        "music-genres": [
-          "Blues",
-          "indie",
-          "Italian",
-          "Soft Rock"
-        ]
-      },
-      "match_reason": "An eruption from Italy’s most iconic volcano fits an episode explicitly themed around Italy’s \"volcanic pulse\" and fiery southern energy."
-    },
     {
       "hour": 5,
       "fact_text": "On March 18, 1953, a powerful earthquake struck western Turkey, devastating towns around Yenice and Gönen and killing over a thousand people. The event highlighted how the North Anatolian Fault, one of Earth’s major fracture lines, runs beneath communities that must live with a restless crust.",
@@ -635,9 +610,34 @@
         ]
       },
       "match_reason": "Hawaii’s statehood, wrapped in sunlit Pacific imagery, pairs with an episode built around coastlines, long summers, and warm, flowing jazz."
+    },
+    {
+      "hour": 4,
+      "fact_text": "In 1944, Mount Vesuvius erupted in the middle of World War II, sending ash over nearby towns and destroying dozens of Allied bombers parked at an airfield. It was a rare moment when a volcano, rather than an enemy army, grounded air power in a global war.",
+      "fact_year": 1944,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mount_Vesuvius",
+      "episode": {
+        "id": 53,
+        "title": "Morning Drops #46 - Fog and Fire",
+        "description": "In today’s Morning Drops, Gaia brings us on a passport-free trip between two Italian energies: the foggy stillness of the North and the volcanic pulse of the South. Throughout the journey, Gaia shares four of her favourite Italian songwriters. Grab your coffee and tune into the radio show from another planet!",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-fog-and-fire",
+        "songs": [
+          "Edoardo Bennato - La Torre Di Babele",
+          "Zucchero - Diavolo in Me",
+          "Lucio Dalla - Com'é Profondo il Mare",
+          "Pino Daniele - Tutta N'ata Storia"
+        ],
+        "music-genres": [
+          "Blues",
+          "indie",
+          "Italian",
+          "Soft Rock"
+        ]
+      },
+      "match_reason": "An eruption from Italy’s most iconic volcano fits an episode explicitly themed around Italy’s \"volcanic pulse\" and fiery southern energy."
     }
   ],
   "generated_at": "2026-03-18T00:00:00.012279+00:00",
   "date": "2026-03-18",
-  "updated_at": "2026-03-18T03:00:01.653156+00:00"
+  "updated_at": "2026-03-18T04:00:01.906447+00:00"
 }
