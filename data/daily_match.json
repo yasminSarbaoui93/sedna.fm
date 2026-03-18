@@ -1,56 +1,31 @@
 {
-  "current_hour": 21,
+  "current_hour": 22,
   "current_fact": {
-    "hour": 21,
-    "fact_text": "The 1848 premiere of *Leonora* in Philadelphia also marked an early moment when American musical identity began to diverge from Europe’s orbit. While critics were divided, the performance showed that large, ambitious works could be composed in—and for—the young United States, not just imported from abroad.",
-    "fact_year": 1848,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Grand_opera",
+    "hour": 22,
+    "fact_text": "The 1899 discovery of Phoebe using photographs was the first time a planetary moon was found via a technological 'memory' rather than a human’s live gaze. Astronomers could return to those plates again and again, extracting new information long after the original observation night had passed.",
+    "fact_year": 1899,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Moons_of_Saturn",
     "episode": {
-      "id": 44,
-      "title": "Morning Drops #38 - History of Flamenco",
-      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+      "id": 38,
+      "title": "Morning Drops #32 - A Weekend In London",
+      "description": "Recorded in London, marking a weekend reunion between Gaia and Yasmin. A selection inspired by London's energy, seen through the eyes of two inseparable friends — music from concerts, club nights, and long walks across town. Four tracks to ease you into the week at the right pace.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-weekend-in-london",
       "songs": [
-        "La Niña de los Peines - Al Gurugú",
-        "Lola Flores - Pena, penita, pena",
-        "Paco de Lucía - Entre dos aguas",
-        "Camarón de la Isla - La leyenda del tiempo",
-        "Rosalía - Pienso en tu mirá"
+        "Dele Sosimi - E Go Betta",
+        "Jimmy Castor Bunch - It's Just Begun",
+        "Little Simz feat. Obongjayar - Lion",
+        "The Asphodells - Late Flowering Lust (Phil Kieran Remix)"
       ],
       "music-genres": [
-        "Flamenco",
-        "Spanish Folk",
-        "Nuevo Flamenco"
+        "Afrobeat",
+        "Funk",
+        "UK Hip-Hop",
+        "Electronic"
       ]
     },
-    "match_reason": "An American attempt at grand opera pairs with an episode about Flamenco’s evolution—both trace how local traditions take on large, theatrical forms and claim space on the world’s stages."
+    "match_reason": "Streets of London captured in memory and music mirror how photographic plates captured Saturn’s faint companions—both are snapshots you can revisit, noticing new details with each return."
   },
   "queue": [
-    {
-      "hour": 22,
-      "fact_text": "The 1899 discovery of Phoebe using photographs was the first time a planetary moon was found via a technological 'memory' rather than a human’s live gaze. Astronomers could return to those plates again and again, extracting new information long after the original observation night had passed.",
-      "fact_year": 1899,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Moons_of_Saturn",
-      "episode": {
-        "id": 38,
-        "title": "Morning Drops #32 - A Weekend In London",
-        "description": "Recorded in London, marking a weekend reunion between Gaia and Yasmin. A selection inspired by London's energy, seen through the eyes of two inseparable friends — music from concerts, club nights, and long walks across town. Four tracks to ease you into the week at the right pace.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-weekend-in-london",
-        "songs": [
-          "Dele Sosimi - E Go Betta",
-          "Jimmy Castor Bunch - It's Just Begun",
-          "Little Simz feat. Obongjayar - Lion",
-          "The Asphodells - Late Flowering Lust (Phil Kieran Remix)"
-        ],
-        "music-genres": [
-          "Afrobeat",
-          "Funk",
-          "UK Hip-Hop",
-          "Electronic"
-        ]
-      },
-      "match_reason": "Streets of London captured in memory and music mirror how photographic plates captured Saturn’s faint companions—both are snapshots you can revisit, noticing new details with each return."
-    },
     {
       "hour": 23,
       "fact_text": "By repealing the Stamp Act in 1766, Britain tried to dial down a crisis without realizing it had helped teach colonists the power of coordinated resistance. Pamphlets, newspapers, and public debate—all the printed matter once taxed—would soon become tools for spreading revolutionary ideas even faster.",
@@ -635,9 +610,34 @@
         ]
       },
       "match_reason": "An American attempt at grand opera pairs with an episode about Flamenco’s evolution—both trace how local traditions take on large, theatrical forms and claim space on the world’s stages."
+    },
+    {
+      "hour": 22,
+      "fact_text": "The 1899 discovery of Phoebe using photographs was the first time a planetary moon was found via a technological 'memory' rather than a human’s live gaze. Astronomers could return to those plates again and again, extracting new information long after the original observation night had passed.",
+      "fact_year": 1899,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Moons_of_Saturn",
+      "episode": {
+        "id": 38,
+        "title": "Morning Drops #32 - A Weekend In London",
+        "description": "Recorded in London, marking a weekend reunion between Gaia and Yasmin. A selection inspired by London's energy, seen through the eyes of two inseparable friends — music from concerts, club nights, and long walks across town. Four tracks to ease you into the week at the right pace.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-weekend-in-london",
+        "songs": [
+          "Dele Sosimi - E Go Betta",
+          "Jimmy Castor Bunch - It's Just Begun",
+          "Little Simz feat. Obongjayar - Lion",
+          "The Asphodells - Late Flowering Lust (Phil Kieran Remix)"
+        ],
+        "music-genres": [
+          "Afrobeat",
+          "Funk",
+          "UK Hip-Hop",
+          "Electronic"
+        ]
+      },
+      "match_reason": "Streets of London captured in memory and music mirror how photographic plates captured Saturn’s faint companions—both are snapshots you can revisit, noticing new details with each return."
     }
   ],
   "generated_at": "2026-03-18T00:00:00.012279+00:00",
   "date": "2026-03-18",
-  "updated_at": "2026-03-18T21:00:01.834179+00:00"
+  "updated_at": "2026-03-18T22:00:01.693495+00:00"
 }
