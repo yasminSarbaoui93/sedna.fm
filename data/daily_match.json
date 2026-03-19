@@ -1,59 +1,31 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On March 19, 1965, teenage diver E. Lee Spence located the wreck of the Confederate steamer SS Georgiana exactly 102 years after it sank. The ship, once touted as the most powerful Confederate cruiser and valued at over $50 million in modern terms, helped establish Spence as a pioneer of underwater archaeology.",
-    "fact_year": 1965,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/SS_Georgiana",
+    "hour": 2,
+    "fact_text": "In 1979, the U.S. House of Representatives began broadcasting its daily proceedings on the cable network C‑SPAN. For the first time, anyone with a TV could quietly eavesdrop on live democracy, watching debates unfold unedited instead of just hearing about them later in the news.",
+    "fact_year": 1979,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/C-SPAN",
     "episode": {
-      "id": 37,
-      "title": "Morning Drops #31 - Sailing With Germans",
-      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "Billy Talent - Dead Silence",
-        "Ben Howard - Keep Your Head Up",
-        "Ziggy Alberts - Simple Things",
-        "Vitor Kley - O Sol",
-        "Enya - Orinoco Flow",
-        "Paveier - Leev Marie"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Punk Rock",
-        "Indie Folk",
-        "Surf Pop",
-        "New Age",
-        "German Folk"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "A shipwreck discovery and a sea-focused episode both live on the water; the sailing stories echo the romance and danger of 19th-century steamers under the waves."
+    "match_reason": "C‑SPAN’s launch marks a new media-technology relationship with politics, mirroring the episode’s exploration of how screens and connectivity reshape how we experience public life."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "In 1979, the U.S. House of Representatives began broadcasting its daily proceedings on the cable network C‑SPAN. For the first time, anyone with a TV could quietly eavesdrop on live democracy, watching debates unfold unedited instead of just hearing about them later in the news.",
-      "fact_year": 1979,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/C-SPAN",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "C‑SPAN’s launch marks a new media-technology relationship with politics, mirroring the episode’s exploration of how screens and connectivity reshape how we experience public life."
-    },
     {
       "hour": 3,
       "fact_text": "On March 19, 1687, the French explorer René-Robert Cavelier de La Salle was murdered by his own men while searching for the mouth of the Mississippi River. His ambitious dream of a French North American empire collapsed in the Texas wilderness, a reminder of how fragile great expeditions could be when trust eroded.",
@@ -634,9 +606,34 @@
         ]
       },
       "match_reason": "A shipwreck discovery and a sea-focused episode both live on the water; the sailing stories echo the romance and danger of 19th-century steamers under the waves."
+    },
+    {
+      "hour": 2,
+      "fact_text": "In 1979, the U.S. House of Representatives began broadcasting its daily proceedings on the cable network C‑SPAN. For the first time, anyone with a TV could quietly eavesdrop on live democracy, watching debates unfold unedited instead of just hearing about them later in the news.",
+      "fact_year": 1979,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/C-SPAN",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "C‑SPAN’s launch marks a new media-technology relationship with politics, mirroring the episode’s exploration of how screens and connectivity reshape how we experience public life."
     }
   ],
   "generated_at": "2026-03-19T00:00:00.014270+00:00",
   "date": "2026-03-19",
-  "updated_at": "2026-03-19T01:00:01.805525+00:00"
+  "updated_at": "2026-03-19T02:00:01.571710+00:00"
 }
