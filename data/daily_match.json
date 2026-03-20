@@ -1,56 +1,31 @@
 {
-  "current_hour": 22,
+  "current_hour": 23,
   "current_fact": {
-    "hour": 22,
-    "fact_text": "On 20 March, observers of the Moon sometimes witness a ‘supermoon’, when a full or new Moon occurs near its closest approach to Earth. The Moon appears subtly larger and brighter, inspiring photographers and poets even though the orbital mechanics behind it are rigorously mundane.",
+    "hour": 23,
+    "fact_text": "On 20 March 2011, NASA’s MESSENGER spacecraft slipped into orbit around Mercury, becoming the first probe ever to circle the innermost planet. For four years it mapped a world of shriveled cliffs, frozen polar shadow, and a surprisingly dynamic magnetic field only a few tens of millions of kilometers from the Sun.",
     "fact_year": 2011,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Supermoon",
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/MESSENGER",
     "episode": {
-      "id": 55,
-      "title": "Morning Drops #48 - Cosmic Monday",
-      "description": "Cosmic Monday is a Morning Drops episode built around four Italian dance records, tracing how disco rhythms slowly became electronic language.\nGaia moves through four tracks like chapters: groove first, then machines, then that bright, futuristic feeling you only get when the bassline is doing the talking. It's not nostalgia, exactly. It's more like returning to a sound that still works — especially on mornings when you need a little extra energy, but you don't want anything aggressive.\nTake it as a slow transmission. Let it carry you into the day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-cosmic-monday",
+      "id": 31,
+      "title": "Morning Drops #31 - A Trip-Hop Journey",
+      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
       "songs": [
-        "Giovanotti Mondani Meccanici - Don't Ask Me Why",
-        "Azoto - Sal Salvador",
-        "Capricorn - I Need Love",
-        "Cosmic Disco - Cosmic Sprint"
+        "Massive Attack - Unfinished Sympathy",
+        "Tricky - Hell Is Round the Corner",
+        "DJ Shadow - Midnight in a Perfect World",
+        "Thievery Corporation - Lebanese Blonde",
+        "Smoke City - Underwater Love"
       ],
       "music-genres": [
-        "Italo Disco",
-        "Disco",
+        "Trip-Hop",
+        "Downtempo",
         "Electronic"
       ]
     },
-    "match_reason": "The slightly larger, brighter ‘cosmic’ Moon overhead fits perfectly with an episode built on cosmic disco energy and spacey dance-floor momentum."
+    "match_reason": "MESSENGER’s long, looping journey into a strange inner world parallels trip-hop’s cinematic drift into shadowy, boundary-blurring soundscapes—an orbiting exploration set to downtempo beats."
   },
-  "queue": [
-    {
-      "hour": 23,
-      "fact_text": "On 20 March 2011, NASA’s MESSENGER spacecraft slipped into orbit around Mercury, becoming the first probe ever to circle the innermost planet. For four years it mapped a world of shriveled cliffs, frozen polar shadow, and a surprisingly dynamic magnetic field only a few tens of millions of kilometers from the Sun.",
-      "fact_year": 2011,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/MESSENGER",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #31 - A Trip-Hop Journey",
-        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
-        "songs": [
-          "Massive Attack - Unfinished Sympathy",
-          "Tricky - Hell Is Round the Corner",
-          "DJ Shadow - Midnight in a Perfect World",
-          "Thievery Corporation - Lebanese Blonde",
-          "Smoke City - Underwater Love"
-        ],
-        "music-genres": [
-          "Trip-Hop",
-          "Downtempo",
-          "Electronic"
-        ]
-      },
-      "match_reason": "MESSENGER’s long, looping journey into a strange inner world parallels trip-hop’s cinematic drift into shadowy, boundary-blurring soundscapes—an orbiting exploration set to downtempo beats."
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "hour": 0,
@@ -633,9 +608,34 @@
         ]
       },
       "match_reason": "The slightly larger, brighter ‘cosmic’ Moon overhead fits perfectly with an episode built on cosmic disco energy and spacey dance-floor momentum."
+    },
+    {
+      "hour": 23,
+      "fact_text": "On 20 March 2011, NASA’s MESSENGER spacecraft slipped into orbit around Mercury, becoming the first probe ever to circle the innermost planet. For four years it mapped a world of shriveled cliffs, frozen polar shadow, and a surprisingly dynamic magnetic field only a few tens of millions of kilometers from the Sun.",
+      "fact_year": 2011,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/MESSENGER",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #31 - A Trip-Hop Journey",
+        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+        "songs": [
+          "Massive Attack - Unfinished Sympathy",
+          "Tricky - Hell Is Round the Corner",
+          "DJ Shadow - Midnight in a Perfect World",
+          "Thievery Corporation - Lebanese Blonde",
+          "Smoke City - Underwater Love"
+        ],
+        "music-genres": [
+          "Trip-Hop",
+          "Downtempo",
+          "Electronic"
+        ]
+      },
+      "match_reason": "MESSENGER’s long, looping journey into a strange inner world parallels trip-hop’s cinematic drift into shadowy, boundary-blurring soundscapes—an orbiting exploration set to downtempo beats."
     }
   ],
   "generated_at": "2026-03-20T00:00:00.012439+00:00",
   "date": "2026-03-20",
-  "updated_at": "2026-03-20T22:00:01.327753+00:00"
+  "updated_at": "2026-03-20T23:00:01.843198+00:00"
 }
