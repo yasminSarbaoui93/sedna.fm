@@ -1,56 +1,31 @@
 {
-  "current_hour": 12,
+  "current_hour": 13,
   "current_fact": {
-    "hour": 12,
-    "fact_text": "On March 20, 1616, Sir Walter Raleigh walked out of the Tower of London after 13 years as a prisoner. Once a celebrated explorer and court favorite, he had spent over a decade in stone walls contemplating lost voyages and half‑imagined continents. His release felt like an old map being opened again, even though the world he returned to had changed.",
-    "fact_year": 1616,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Walter_Raleigh",
+    "hour": 13,
+    "fact_text": "In 1933, Heinrich Himmler ordered the creation of Dachau, one of the first Nazi concentration camps, near Munich. Initially presented as a place for ‘political prisoners,’ it became a brutal prototype for an entire system of terror, forced labor, and mass murder. Dachau’s gates marked the point where cruelty was industrialized and bureaucracy learned to manage horror.",
+    "fact_year": 1933,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Dachau_concentration_camp",
     "episode": {
-      "id": 39,
-      "title": "Morning Drops #33 - Immerse",
-      "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
+      "id": 31,
+      "title": "Morning Drops #31 - A Trip-Hop Journey",
+      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
       "songs": [
-        "Pino D'Angiò - Un Po' d'Uva e un Liquore",
-        "Midlife - The Magnificent Moon",
-        "Tornado Wallace - Today",
-        "Nu Genea - Marechià (feat. Celia Kameni)"
+        "Massive Attack - Unfinished Sympathy",
+        "Tricky - Hell Is Round the Corner",
+        "DJ Shadow - Midnight in a Perfect World",
+        "Thievery Corporation - Lebanese Blonde",
+        "Smoke City - Underwater Love"
       ],
       "music-genres": [
-        "Italo Disco",
-        "Indie",
-        "Balearic",
-        "Nu Disco"
+        "Trip-Hop",
+        "Downtempo",
+        "Electronic"
       ]
     },
-    "match_reason": "Raleigh’s release after long confinement echoes the episode’s theme of emerging from constriction to immerse again in the wider world—trading stone walls for open seas and deep experience."
+    "match_reason": "Dachau is a stark reminder of mechanized inhumanity; the dark, reflective atmospheres of classic trip‑hop in this episode offer a contemplative, somber soundscape that suits remembering heavy history without glamorizing it."
   },
   "queue": [
-    {
-      "hour": 13,
-      "fact_text": "In 1933, Heinrich Himmler ordered the creation of Dachau, one of the first Nazi concentration camps, near Munich. Initially presented as a place for ‘political prisoners,’ it became a brutal prototype for an entire system of terror, forced labor, and mass murder. Dachau’s gates marked the point where cruelty was industrialized and bureaucracy learned to manage horror.",
-      "fact_year": 1933,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Dachau_concentration_camp",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #31 - A Trip-Hop Journey",
-        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
-        "songs": [
-          "Massive Attack - Unfinished Sympathy",
-          "Tricky - Hell Is Round the Corner",
-          "DJ Shadow - Midnight in a Perfect World",
-          "Thievery Corporation - Lebanese Blonde",
-          "Smoke City - Underwater Love"
-        ],
-        "music-genres": [
-          "Trip-Hop",
-          "Downtempo",
-          "Electronic"
-        ]
-      },
-      "match_reason": "Dachau is a stark reminder of mechanized inhumanity; the dark, reflective atmospheres of classic trip‑hop in this episode offer a contemplative, somber soundscape that suits remembering heavy history without glamorizing it."
-    },
     {
       "hour": 14,
       "fact_text": "On March 20, 1848, amid the turbulent German revolutions of 1848–49, King Ludwig I of Bavaria abdicated his throne. Pressure from liberal uprisings, scandal over his private life, and demands for a constitution pushed a monarch to step aside in favor of his son. It was a rare moment when street protests and new ideas about citizenship shook a royal crown loose.",
@@ -648,9 +623,34 @@
         ]
       },
       "match_reason": "Raleigh’s release after long confinement echoes the episode’s theme of emerging from constriction to immerse again in the wider world—trading stone walls for open seas and deep experience."
+    },
+    {
+      "hour": 13,
+      "fact_text": "In 1933, Heinrich Himmler ordered the creation of Dachau, one of the first Nazi concentration camps, near Munich. Initially presented as a place for ‘political prisoners,’ it became a brutal prototype for an entire system of terror, forced labor, and mass murder. Dachau’s gates marked the point where cruelty was industrialized and bureaucracy learned to manage horror.",
+      "fact_year": 1933,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Dachau_concentration_camp",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #31 - A Trip-Hop Journey",
+        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+        "songs": [
+          "Massive Attack - Unfinished Sympathy",
+          "Tricky - Hell Is Round the Corner",
+          "DJ Shadow - Midnight in a Perfect World",
+          "Thievery Corporation - Lebanese Blonde",
+          "Smoke City - Underwater Love"
+        ],
+        "music-genres": [
+          "Trip-Hop",
+          "Downtempo",
+          "Electronic"
+        ]
+      },
+      "match_reason": "Dachau is a stark reminder of mechanized inhumanity; the dark, reflective atmospheres of classic trip‑hop in this episode offer a contemplative, somber soundscape that suits remembering heavy history without glamorizing it."
     }
   ],
   "generated_at": "2026-03-20T00:00:00.011571+00:00",
   "date": "2026-03-20",
-  "updated_at": "2026-03-20T12:00:01.528475+00:00"
+  "updated_at": "2026-03-20T13:00:01.839765+00:00"
 }
