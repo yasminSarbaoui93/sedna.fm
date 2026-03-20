@@ -1,55 +1,30 @@
 {
-  "current_hour": 13,
+  "current_hour": 14,
   "current_fact": {
-    "hour": 13,
-    "fact_text": "In 1933, Heinrich Himmler ordered the creation of Dachau, one of the first Nazi concentration camps, near Munich. Initially presented as a place for ‘political prisoners,’ it became a brutal prototype for an entire system of terror, forced labor, and mass murder. Dachau’s gates marked the point where cruelty was industrialized and bureaucracy learned to manage horror.",
-    "fact_year": 1933,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Dachau_concentration_camp",
+    "hour": 14,
+    "fact_text": "On March 20, 1848, amid the turbulent German revolutions of 1848–49, King Ludwig I of Bavaria abdicated his throne. Pressure from liberal uprisings, scandal over his private life, and demands for a constitution pushed a monarch to step aside in favor of his son. It was a rare moment when street protests and new ideas about citizenship shook a royal crown loose.",
+    "fact_year": 1848,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/German_revolutions_of_1848%E2%80%931849",
     "episode": {
-      "id": 31,
-      "title": "Morning Drops #31 - A Trip-Hop Journey",
-      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+      "id": 42,
+      "title": "Morning Drops #36 - Women of Rock",
+      "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
       "songs": [
-        "Massive Attack - Unfinished Sympathy",
-        "Tricky - Hell Is Round the Corner",
-        "DJ Shadow - Midnight in a Perfect World",
-        "Thievery Corporation - Lebanese Blonde",
-        "Smoke City - Underwater Love"
+        "Suzi Quatro - Can the Can",
+        "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
+        "Laura Cox - Hard Blues Shot",
+        "Jackie Venson - Always Free (Live)"
       ],
       "music-genres": [
-        "Trip-Hop",
-        "Downtempo",
-        "Electronic"
+        "Glam Rock",
+        "Hard Rock",
+        "Blues Rock"
       ]
     },
-    "match_reason": "Dachau is a stark reminder of mechanized inhumanity; the dark, reflective atmospheres of classic trip‑hop in this episode offer a contemplative, somber soundscape that suits remembering heavy history without glamorizing it."
+    "match_reason": "A king forced to abdicate during revolutionary fervor and women seizing space in rock both challenge old hierarchies—one in politics, the other in culture—echoing the spirit of upheaval and rebalancing power."
   },
   "queue": [
-    {
-      "hour": 14,
-      "fact_text": "On March 20, 1848, amid the turbulent German revolutions of 1848–49, King Ludwig I of Bavaria abdicated his throne. Pressure from liberal uprisings, scandal over his private life, and demands for a constitution pushed a monarch to step aside in favor of his son. It was a rare moment when street protests and new ideas about citizenship shook a royal crown loose.",
-      "fact_year": 1848,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/German_revolutions_of_1848%E2%80%931849",
-      "episode": {
-        "id": 42,
-        "title": "Morning Drops #36 - Women of Rock",
-        "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
-        "songs": [
-          "Suzi Quatro - Can the Can",
-          "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
-          "Laura Cox - Hard Blues Shot",
-          "Jackie Venson - Always Free (Live)"
-        ],
-        "music-genres": [
-          "Glam Rock",
-          "Hard Rock",
-          "Blues Rock"
-        ]
-      },
-      "match_reason": "A king forced to abdicate during revolutionary fervor and women seizing space in rock both challenge old hierarchies—one in politics, the other in culture—echoing the spirit of upheaval and rebalancing power."
-    },
     {
       "hour": 15,
       "fact_text": "On March 20, 2015, Kurdish YPG fighters and allied Free Syrian Army units broke the months‑long Siege of Kobanê in northern Syria. The small city had become a global symbol of resistance against ISIS, with its defenders fighting street by street against overwhelming odds. When the siege finally lifted, it marked not just a military turning point but a powerful story of local communities resisting annihilation.",
@@ -648,9 +623,33 @@
         ]
       },
       "match_reason": "Dachau is a stark reminder of mechanized inhumanity; the dark, reflective atmospheres of classic trip‑hop in this episode offer a contemplative, somber soundscape that suits remembering heavy history without glamorizing it."
+    },
+    {
+      "hour": 14,
+      "fact_text": "On March 20, 1848, amid the turbulent German revolutions of 1848–49, King Ludwig I of Bavaria abdicated his throne. Pressure from liberal uprisings, scandal over his private life, and demands for a constitution pushed a monarch to step aside in favor of his son. It was a rare moment when street protests and new ideas about citizenship shook a royal crown loose.",
+      "fact_year": 1848,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/German_revolutions_of_1848%E2%80%931849",
+      "episode": {
+        "id": 42,
+        "title": "Morning Drops #36 - Women of Rock",
+        "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
+        "songs": [
+          "Suzi Quatro - Can the Can",
+          "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
+          "Laura Cox - Hard Blues Shot",
+          "Jackie Venson - Always Free (Live)"
+        ],
+        "music-genres": [
+          "Glam Rock",
+          "Hard Rock",
+          "Blues Rock"
+        ]
+      },
+      "match_reason": "A king forced to abdicate during revolutionary fervor and women seizing space in rock both challenge old hierarchies—one in politics, the other in culture—echoing the spirit of upheaval and rebalancing power."
     }
   ],
   "generated_at": "2026-03-20T00:00:00.011571+00:00",
   "date": "2026-03-20",
-  "updated_at": "2026-03-20T13:00:01.839765+00:00"
+  "updated_at": "2026-03-20T14:00:01.549453+00:00"
 }
