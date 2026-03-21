@@ -1,56 +1,31 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "On March 21, 1814, French and Austrian forces clashed at the Battle of Arcis-sur-Aube during the waning days of the Napoleonic Wars. Napoleon personally led a vastly outnumbered army, narrowly escaping encirclement in a battle that symbolized both his tactical daring and the crumbling of his empire.",
-    "fact_year": 1814,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Arcis-sur-Aube",
+    "hour": 4,
+    "fact_text": "In 1999, Bertrand Piccard and Brian Jones completed the first nonstop circumnavigation of Earth in a hot air balloon, the Breitling Orbiter 3. For 19 days they rode winds in the stratosphere, turning an old, romantic technology into a record-breaking feat of modern exploration.",
+    "fact_year": 1999,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Breitling_Orbiter_3",
     "episode": {
-      "id": 56,
-      "title": "Morning Drops #49 - Rage Against The Machine",
-      "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
+      "id": 45,
+      "title": "Morning Drops #39 - Moving Meditation",
+      "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
       "songs": [
-        "Rage Against the Machine - Bombtrack",
-        "Rage Against the Machine - Killing in the Name",
-        "Rage Against the Machine - Without a Face",
-        "Rage Against the Machine - Guerrilla Radio",
-        "Rage Against the Machine - Sleep Now in the Fire"
+        "Stella & The Longos - La Flamme",
+        "España Circo Este - Dormo poco e sogno molto",
+        "Mystic Jungle - Sunset Breaker",
+        "Talking Heads - This Must Be the Place (Naive Melody)"
       ],
       "music-genres": [
-        "Rap Metal",
-        "Political Rock",
-        "Alternative Metal"
+        "Balearic",
+        "Italian Folk Rock",
+        "World Music",
+        "New Wave"
       ]
     },
-    "match_reason": "A brutal, politically charged battlefield moment fits with an episode centered on musical resistance, conflict, and the cost of power struggles."
+    "match_reason": "A serene yet daring flight around the planet matches an episode about travel as a moving meditation and the perspective shifts that come with circling the world."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "In 1999, Bertrand Piccard and Brian Jones completed the first nonstop circumnavigation of Earth in a hot air balloon, the Breitling Orbiter 3. For 19 days they rode winds in the stratosphere, turning an old, romantic technology into a record-breaking feat of modern exploration.",
-      "fact_year": 1999,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Breitling_Orbiter_3",
-      "episode": {
-        "id": 45,
-        "title": "Morning Drops #39 - Moving Meditation",
-        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
-        "songs": [
-          "Stella & The Longos - La Flamme",
-          "España Circo Este - Dormo poco e sogno molto",
-          "Mystic Jungle - Sunset Breaker",
-          "Talking Heads - This Must Be the Place (Naive Melody)"
-        ],
-        "music-genres": [
-          "Balearic",
-          "Italian Folk Rock",
-          "World Music",
-          "New Wave"
-        ]
-      },
-      "match_reason": "A serene yet daring flight around the planet matches an episode about travel as a moving meditation and the perspective shifts that come with circling the world."
-    },
     {
       "hour": 5,
       "fact_text": "On March 21, 1994, the United Nations Framework Convention on Climate Change (UNFCCC) formally entered into force. This treaty quietly became the backbone of global climate negotiations, framing how nations measure, debate, and attempt to limit the human impact on Earth’s atmosphere.",
@@ -645,9 +620,34 @@
         ]
       },
       "match_reason": "A brutal, politically charged battlefield moment fits with an episode centered on musical resistance, conflict, and the cost of power struggles."
+    },
+    {
+      "hour": 4,
+      "fact_text": "In 1999, Bertrand Piccard and Brian Jones completed the first nonstop circumnavigation of Earth in a hot air balloon, the Breitling Orbiter 3. For 19 days they rode winds in the stratosphere, turning an old, romantic technology into a record-breaking feat of modern exploration.",
+      "fact_year": 1999,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Breitling_Orbiter_3",
+      "episode": {
+        "id": 45,
+        "title": "Morning Drops #39 - Moving Meditation",
+        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
+        "songs": [
+          "Stella & The Longos - La Flamme",
+          "España Circo Este - Dormo poco e sogno molto",
+          "Mystic Jungle - Sunset Breaker",
+          "Talking Heads - This Must Be the Place (Naive Melody)"
+        ],
+        "music-genres": [
+          "Balearic",
+          "Italian Folk Rock",
+          "World Music",
+          "New Wave"
+        ]
+      },
+      "match_reason": "A serene yet daring flight around the planet matches an episode about travel as a moving meditation and the perspective shifts that come with circling the world."
     }
   ],
   "generated_at": "2026-03-21T00:00:00.008741+00:00",
   "date": "2026-03-21",
-  "updated_at": "2026-03-21T03:00:01.949964+00:00"
+  "updated_at": "2026-03-21T04:00:01.632212+00:00"
 }
