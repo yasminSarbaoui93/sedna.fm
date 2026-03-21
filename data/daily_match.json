@@ -1,52 +1,30 @@
 {
-  "current_hour": 11,
+  "current_hour": 12,
   "current_fact": {
-    "hour": 11,
-    "fact_text": "On March 21, 1965, Martin Luther King Jr. and thousands of marchers began the third Selma to Montgomery march, this time under federal protection. Their journey along Alabama highways became a moving human river that helped secure passage of the U.S. Voting Rights Act.",
-    "fact_year": 1965,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Selma_to_Montgomery_marches",
+    "hour": 12,
+    "fact_text": "In 1945, British forces captured Mandalay in Burma, a key city in the Allied campaign to push Japanese troops out of Southeast Asia. The battle’s end symbolized a turning of the tide in a theater of World War II often overshadowed by events in Europe and the Pacific islands.",
+    "fact_year": 1945,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Burma_campaign",
     "episode": {
-      "id": 14,
-      "title": "Morning Drops #08 - (un)Boxing",
-      "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
+      "id": 22,
+      "title": "Morning Drops #16 - The Sound of Tuareg",
+      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
       "songs": [
-        "Kendrick Lamar - Feel",
-        "Kendrick Lamar - The Blacker the Berry",
-        "Kendrick Lamar - Mirror"
+        "Les Filles de Illighadad - Imigradan",
+        "Tinariwen - Amassakoul ’N’ Ténéré",
+        "Liya Ag Ablil - Awa Adounia",
+        "Tinariwen - Sastanàqqàm"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Conscious Rap"
+        "Desert Blues",
+        "Tuareg",
+        "World Music"
       ]
     },
-    "match_reason": "A landmark civil rights march demanding full humanity aligns with an episode about breaking boxes and uses socially conscious hip hop that echoes the marchers’ call for justice."
+    "match_reason": "A difficult campaign in a often-overlooked front of WWII resonates with an episode about desert-rooted music, survival, and the quieter stories of resistance outside the usual narratives."
   },
   "queue": [
-    {
-      "hour": 12,
-      "fact_text": "In 1945, British forces captured Mandalay in Burma, a key city in the Allied campaign to push Japanese troops out of Southeast Asia. The battle’s end symbolized a turning of the tide in a theater of World War II often overshadowed by events in Europe and the Pacific islands.",
-      "fact_year": 1945,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Burma_campaign",
-      "episode": {
-        "id": 22,
-        "title": "Morning Drops #16 - The Sound of Tuareg",
-        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
-        "songs": [
-          "Les Filles de Illighadad - Imigradan",
-          "Tinariwen - Amassakoul ’N’ Ténéré",
-          "Liya Ag Ablil - Awa Adounia",
-          "Tinariwen - Sastanàqqàm"
-        ],
-        "music-genres": [
-          "Desert Blues",
-          "Tuareg",
-          "World Music"
-        ]
-      },
-      "match_reason": "A difficult campaign in a often-overlooked front of WWII resonates with an episode about desert-rooted music, survival, and the quieter stories of resistance outside the usual narratives."
-    },
     {
       "hour": 13,
       "fact_text": "Also in 1945, the Royal Air Force carried out Operation Carthage, a low-level raid on Gestapo headquarters in Copenhagen. While the attack severely damaged the Nazi command center, it tragically also struck a nearby school, killing 125 civilians and showing how even precise missions can carry heartbreaking unintended consequences.",
@@ -642,9 +620,33 @@
         ]
       },
       "match_reason": "A landmark civil rights march demanding full humanity aligns with an episode about breaking boxes and uses socially conscious hip hop that echoes the marchers’ call for justice."
+    },
+    {
+      "hour": 12,
+      "fact_text": "In 1945, British forces captured Mandalay in Burma, a key city in the Allied campaign to push Japanese troops out of Southeast Asia. The battle’s end symbolized a turning of the tide in a theater of World War II often overshadowed by events in Europe and the Pacific islands.",
+      "fact_year": 1945,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Burma_campaign",
+      "episode": {
+        "id": 22,
+        "title": "Morning Drops #16 - The Sound of Tuareg",
+        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+        "songs": [
+          "Les Filles de Illighadad - Imigradan",
+          "Tinariwen - Amassakoul ’N’ Ténéré",
+          "Liya Ag Ablil - Awa Adounia",
+          "Tinariwen - Sastanàqqàm"
+        ],
+        "music-genres": [
+          "Desert Blues",
+          "Tuareg",
+          "World Music"
+        ]
+      },
+      "match_reason": "A difficult campaign in a often-overlooked front of WWII resonates with an episode about desert-rooted music, survival, and the quieter stories of resistance outside the usual narratives."
     }
   ],
   "generated_at": "2026-03-21T00:00:00.008741+00:00",
   "date": "2026-03-21",
-  "updated_at": "2026-03-21T11:00:01.354644+00:00"
+  "updated_at": "2026-03-21T12:00:01.857808+00:00"
 }
