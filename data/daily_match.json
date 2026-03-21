@@ -1,67 +1,34 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On March 21, 1952, DJ Alan Freed hosted the Moondog Coronation Ball in Cleveland, often hailed as the first major rock and roll concert. The event was so wildly oversold that thousands of fans were left outside and the show was shut down after just one song, revealing how explosive this new sound had become.",
-    "fact_year": 1952,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Moondog_Coronation_Ball",
+    "hour": 2,
+    "fact_text": "In 1871, journalist Henry Morton Stanley set off on a perilous expedition through central Africa to find the long‑missing explorer and missionary David Livingstone. His eventual greeting, “Dr. Livingstone, I presume?”, became one of history’s most famous lines, symbolizing both Victorian exploration and its myths.",
+    "fact_year": 1871,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Henry_Morton_Stanley",
     "episode": {
-      "id": 1,
-      "title": "Sedna FM #01 - November Bomb",
-      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "berlioz - Open this wall",
-        "Nas - One Mic",
-        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-        "Frankie Knuckles - Your Love",
-        "Notorious B.I.G. - 17 Ten Crack Commandments",
-        "Liloca - Utani Xuva",
-        "Fela Kuti - Zombie",
-        "Neffa - Aspettando il sole",
-        "Childish Gambino - No Excuses",
-        "Modjo - Music takes you back"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Afrobeat",
-        "House",
-        "Italian Pop",
-        "R&B",
-        "Latin Rap"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "The first explosive rock concert parallels Sedna’s own origin episode — both are chaotic, foundational moments that ignite a new musical journey."
+    "match_reason": "A months‑long trek to find a man in the interior mirrors a modern shared voyage by boat — both are about endurance, navigation, and the stories we collect along a journey."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "In 1871, journalist Henry Morton Stanley set off on a perilous expedition through central Africa to find the long‑missing explorer and missionary David Livingstone. His eventual greeting, “Dr. Livingstone, I presume?”, became one of history’s most famous lines, symbolizing both Victorian exploration and its myths.",
-      "fact_year": 1871,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Henry_Morton_Stanley",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "A months‑long trek to find a man in the interior mirrors a modern shared voyage by boat — both are about endurance, navigation, and the stories we collect along a journey."
-    },
     {
       "hour": 3,
       "fact_text": "During the Napoleonic Wars, the 1814 Battle of Arcis‑sur‑Aube saw Austrian forces turn back Napoleon’s army in eastern France. It was one of his last major battles on home soil, a moment when his aura of invincibility began to fracture.",
@@ -641,9 +608,37 @@
         ]
       },
       "match_reason": "The first explosive rock concert parallels Sedna’s own origin episode — both are chaotic, foundational moments that ignite a new musical journey."
+    },
+    {
+      "hour": 2,
+      "fact_text": "In 1871, journalist Henry Morton Stanley set off on a perilous expedition through central Africa to find the long‑missing explorer and missionary David Livingstone. His eventual greeting, “Dr. Livingstone, I presume?”, became one of history’s most famous lines, symbolizing both Victorian exploration and its myths.",
+      "fact_year": 1871,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Henry_Morton_Stanley",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "A months‑long trek to find a man in the interior mirrors a modern shared voyage by boat — both are about endurance, navigation, and the stories we collect along a journey."
     }
   ],
   "generated_at": "2026-03-21T00:00:00.012098+00:00",
   "date": "2026-03-21",
-  "updated_at": "2026-03-21T01:00:01.439819+00:00"
+  "updated_at": "2026-03-21T02:00:01.577980+00:00"
 }
