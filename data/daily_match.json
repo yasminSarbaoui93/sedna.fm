@@ -1,60 +1,30 @@
 {
-  "current_hour": 20,
+  "current_hour": 21,
   "current_fact": {
-    "hour": 20,
-    "fact_text": "NASA’s Space Shuttle Columbia returned to this date not only as a spacecraft, but as part of a broader story of human risk in spaceflight that would later include its tragic loss in 2003. Every shuttle mission, including STS-3, quietly tested the boundaries of how far we’re willing to push fragile machines and fragile bodies in orbit.",
-    "fact_year": 1982,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/NASA",
+    "hour": 21,
+    "fact_text": "The Jamestown massacre and the long wars that followed weren’t just isolated episodes of violence—they were part of a slow, relentless reshaping of an entire continent’s human map. Each treaty, raid, and retaliation rewrote who could call which land home, long before anyone wrote national borders on a globe.",
+    "fact_year": 1622,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Algonquian_peoples",
     "episode": {
-      "id": 48,
-      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+      "id": 22,
+      "title": "Morning Drops #16 - The Sound of Tuareg",
+      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
       "songs": [
-        "Stive Morgan - Solar Wind, Pt. 3",
-        "David Visan & Carlos Campos - Crystal Heart",
-        "Evan Mars - Ya Zareef Al Tool",
-        "Gerardo Frisina - Cuiabá",
-        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-        "The Busy Twist - Friday Night"
+        "Les Filles de Illighadad - Imigradan",
+        "Tinariwen - Amassakoul ’N’ Ténéré",
+        "Liya Ag Ablil - Awa Adounia",
+        "Tinariwen - Sastanàqqàm"
       ],
       "music-genres": [
-        "Ambient",
-        "Deep House",
-        "World Music",
-        "Nu Jazz",
-        "Afrobeat",
-        "Funk",
-        "Electronic"
+        "Desert Blues",
+        "Tuareg",
+        "World Music"
       ]
     },
-    "match_reason": "Revisiting NASA as a symbol of boundary‑pushing exploration fits an evening mix that gradually leaves familiar ground and travels across sonic landscapes, echoing the feeling of drifting into the unknown."
+    "match_reason": "The displacement and resistance of Indigenous peoples in North America is poignantly mirrored by Tuareg music born from exile, land, and survival—both telling stories of people whose identities are bound to contested territories."
   },
   "queue": [
-    {
-      "hour": 21,
-      "fact_text": "The Jamestown massacre and the long wars that followed weren’t just isolated episodes of violence—they were part of a slow, relentless reshaping of an entire continent’s human map. Each treaty, raid, and retaliation rewrote who could call which land home, long before anyone wrote national borders on a globe.",
-      "fact_year": 1622,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Algonquian_peoples",
-      "episode": {
-        "id": 22,
-        "title": "Morning Drops #16 - The Sound of Tuareg",
-        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
-        "songs": [
-          "Les Filles de Illighadad - Imigradan",
-          "Tinariwen - Amassakoul ’N’ Ténéré",
-          "Liya Ag Ablil - Awa Adounia",
-          "Tinariwen - Sastanàqqàm"
-        ],
-        "music-genres": [
-          "Desert Blues",
-          "Tuareg",
-          "World Music"
-        ]
-      },
-      "match_reason": "The displacement and resistance of Indigenous peoples in North America is poignantly mirrored by Tuareg music born from exile, land, and survival—both telling stories of people whose identities are bound to contested territories."
-    },
     {
       "hour": 22,
       "fact_text": "The Lumière brothers’ 1895 film demonstration opened the door for cinema, but it also quietly introduced a new way of remembering: we could replay time, over and over. Stories, gestures, and songs no longer vanished when they ended—they could loop, travel, and survive us.",
@@ -647,9 +617,33 @@
         ]
       },
       "match_reason": "Revisiting NASA as a symbol of boundary‑pushing exploration fits an evening mix that gradually leaves familiar ground and travels across sonic landscapes, echoing the feeling of drifting into the unknown."
+    },
+    {
+      "hour": 21,
+      "fact_text": "The Jamestown massacre and the long wars that followed weren’t just isolated episodes of violence—they were part of a slow, relentless reshaping of an entire continent’s human map. Each treaty, raid, and retaliation rewrote who could call which land home, long before anyone wrote national borders on a globe.",
+      "fact_year": 1622,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Algonquian_peoples",
+      "episode": {
+        "id": 22,
+        "title": "Morning Drops #16 - The Sound of Tuareg",
+        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+        "songs": [
+          "Les Filles de Illighadad - Imigradan",
+          "Tinariwen - Amassakoul ’N’ Ténéré",
+          "Liya Ag Ablil - Awa Adounia",
+          "Tinariwen - Sastanàqqàm"
+        ],
+        "music-genres": [
+          "Desert Blues",
+          "Tuareg",
+          "World Music"
+        ]
+      },
+      "match_reason": "The displacement and resistance of Indigenous peoples in North America is poignantly mirrored by Tuareg music born from exile, land, and survival—both telling stories of people whose identities are bound to contested territories."
     }
   ],
   "generated_at": "2026-03-22T00:00:00.010178+00:00",
   "date": "2026-03-22",
-  "updated_at": "2026-03-22T20:00:01.613253+00:00"
+  "updated_at": "2026-03-22T21:00:01.465312+00:00"
 }
