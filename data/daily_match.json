@@ -1,59 +1,34 @@
 {
-  "current_hour": 13,
+  "current_hour": 14,
   "current_fact": {
-    "hour": 13,
-    "fact_text": "On March 22, 1942, British and Italian warships clashed in the Second Battle of Sirte in the Mediterranean Sea, fighting over vital supply routes to North Africa. Despite heavy shelling, the British convoy squeezed through, showing how control of a single stretch of water can alter the course of a wider war.",
-    "fact_year": 1942,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Second_Battle_of_Sirte",
+    "hour": 14,
+    "fact_text": "On March 22, 1668, the privateer Henry Morgan landed in Cuba to raid the inland town of Puerto del Príncipe, marching his men through dense terrain to surprise the locals. Morgan operated with a government commission, walking the blurred line between pirate and official warfighter in the Caribbean.",
+    "fact_year": 1668,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Henry_Morgan",
     "episode": {
-      "id": 17,
-      "title": "Morning Drops #11 - Mediterranean Boat",
-      "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "Arleta - Bar To Navagio",
-        "Baba Zula - Tavla",
-        "Mylène Farmer - Désenchantée",
-        "Fabrizio De André - Crêuza de mä"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Greek Folk",
-        "Turkish Psychedelic",
-        "French Pop",
-        "Italian Singer-Songwriter"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "A naval battle in the Mediterranean over critical sea lanes ties thematically to an episode sailing peacefully across the same sea, replacing wartime convoys with musical voyages."
+    "match_reason": "A notorious privateer sailing Caribbean waters connects neatly with an episode literally made from the deck of a boat, trading plunder and raids for friendship and shared songs at sea."
   },
   "queue": [
-    {
-      "hour": 14,
-      "fact_text": "On March 22, 1668, the privateer Henry Morgan landed in Cuba to raid the inland town of Puerto del Príncipe, marching his men through dense terrain to surprise the locals. Morgan operated with a government commission, walking the blurred line between pirate and official warfighter in the Caribbean.",
-      "fact_year": 1668,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Henry_Morgan",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "A notorious privateer sailing Caribbean waters connects neatly with an episode literally made from the deck of a boat, trading plunder and raids for friendship and shared songs at sea."
-    },
     {
       "hour": 15,
       "fact_text": "On March 22, 1622, Powhatan warriors launched a coordinated attack on English settlements around Jamestown, killing about a third of the colonists in a single day. To the English it was a massacre; to the Powhatan, it was a desperate attempt to push back an expansion that was reshaping their homelands.",
@@ -636,9 +611,37 @@
         ]
       },
       "match_reason": "A naval battle in the Mediterranean over critical sea lanes ties thematically to an episode sailing peacefully across the same sea, replacing wartime convoys with musical voyages."
+    },
+    {
+      "hour": 14,
+      "fact_text": "On March 22, 1668, the privateer Henry Morgan landed in Cuba to raid the inland town of Puerto del Príncipe, marching his men through dense terrain to surprise the locals. Morgan operated with a government commission, walking the blurred line between pirate and official warfighter in the Caribbean.",
+      "fact_year": 1668,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Henry_Morgan",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "A notorious privateer sailing Caribbean waters connects neatly with an episode literally made from the deck of a boat, trading plunder and raids for friendship and shared songs at sea."
     }
   ],
   "generated_at": "2026-03-22T00:00:00.005203+00:00",
   "date": "2026-03-22",
-  "updated_at": "2026-03-22T13:00:01.544189+00:00"
+  "updated_at": "2026-03-22T14:00:01.548959+00:00"
 }
