@@ -1,55 +1,31 @@
 {
-  "current_hour": 7,
+  "current_hour": 8,
   "current_fact": {
-    "hour": 7,
-    "fact_text": "In 1997, Comet Hale–Bopp swept past Earth at about 1.3 astronomical units away, so bright that it was visible to the naked eye for a record 18 months. Its icy nucleus, older than our planet, carried ancient material from the early solar system, briefly painting the night sky with a cosmic time capsule.",
-    "fact_year": 1997,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp",
+    "hour": 8,
+    "fact_text": "On March 22, 1895, the Lumière brothers publicly demonstrated their movie film technology, projecting moving images for an audience who had mostly only known still photographs. To those first viewers, the sight of a train rushing toward the camera or workers leaving a factory felt like magic: reality captured and replayed in light.",
+    "fact_year": 1895,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Auguste_and_Louis_Lumi%C3%A8re",
     "episode": {
-      "id": 55,
-      "title": "Morning Drops #48 - Cosmic Monday",
-      "description": "Cosmic Monday is a Morning Drops episode built around four Italian dance records, tracing how disco rhythms slowly became electronic language.\nGaia moves through four tracks like chapters: groove first, then machines, then that bright, futuristic feeling you only get when the bassline is doing the talking. It's not nostalgia, exactly. It's more like returning to a sound that still works — especially on mornings when you need a little extra energy, but you don't want anything aggressive.\nTake it as a slow transmission. Let it carry you into the day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-cosmic-monday",
+      "id": 44,
+      "title": "Morning Drops #38 - History of Flamenco",
+      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
       "songs": [
-        "Giovanotti Mondani Meccanici - Don't Ask Me Why",
-        "Azoto - Sal Salvador",
-        "Capricorn - I Need Love",
-        "Cosmic Disco - Cosmic Sprint"
+        "La Niña de los Peines - Al Gurugú",
+        "Lola Flores - Pena, penita, pena",
+        "Paco de Lucía - Entre dos aguas",
+        "Camarón de la Isla - La leyenda del tiempo",
+        "Rosalía - Pienso en tu mirá"
       ],
       "music-genres": [
-        "Italo Disco",
-        "Disco",
-        "Electronic"
+        "Flamenco",
+        "Spanish Folk",
+        "Nuevo Flamenco"
       ]
     },
-    "match_reason": "A spectacular comet lighting up the sky is a literal cosmic event, perfectly matched with an episode themed around \"Cosmic\" energy and futuristic, space-tinged dance music."
+    "match_reason": "Early cinema and flamenco both evolved into performance arts that fuse movement, emotion, and storytelling; this episode about the history of a visual, dramatic music tradition mirrors the birth of film as moving images."
   },
   "queue": [
-    {
-      "hour": 8,
-      "fact_text": "On March 22, 1895, the Lumière brothers publicly demonstrated their movie film technology, projecting moving images for an audience who had mostly only known still photographs. To those first viewers, the sight of a train rushing toward the camera or workers leaving a factory felt like magic: reality captured and replayed in light.",
-      "fact_year": 1895,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Auguste_and_Louis_Lumi%C3%A8re",
-      "episode": {
-        "id": 44,
-        "title": "Morning Drops #38 - History of Flamenco",
-        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
-        "songs": [
-          "La Niña de los Peines - Al Gurugú",
-          "Lola Flores - Pena, penita, pena",
-          "Paco de Lucía - Entre dos aguas",
-          "Camarón de la Isla - La leyenda del tiempo",
-          "Rosalía - Pienso en tu mirá"
-        ],
-        "music-genres": [
-          "Flamenco",
-          "Spanish Folk",
-          "Nuevo Flamenco"
-        ]
-      },
-      "match_reason": "Early cinema and flamenco both evolved into performance arts that fuse movement, emotion, and storytelling; this episode about the history of a visual, dramatic music tradition mirrors the birth of film as moving images."
-    },
     {
       "hour": 9,
       "fact_text": "In 1621, the Pilgrims of Plymouth Colony signed a peace treaty with Massasoit, leader of the Wampanoag, with Squanto serving as interpreter. For several decades it held as a fragile bridge between newcomers and the Indigenous people whose land and knowledge made the colonists’ survival possible.",
@@ -641,9 +617,34 @@
         ]
       },
       "match_reason": "A spectacular comet lighting up the sky is a literal cosmic event, perfectly matched with an episode themed around \"Cosmic\" energy and futuristic, space-tinged dance music."
+    },
+    {
+      "hour": 8,
+      "fact_text": "On March 22, 1895, the Lumière brothers publicly demonstrated their movie film technology, projecting moving images for an audience who had mostly only known still photographs. To those first viewers, the sight of a train rushing toward the camera or workers leaving a factory felt like magic: reality captured and replayed in light.",
+      "fact_year": 1895,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Auguste_and_Louis_Lumi%C3%A8re",
+      "episode": {
+        "id": 44,
+        "title": "Morning Drops #38 - History of Flamenco",
+        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+        "songs": [
+          "La Niña de los Peines - Al Gurugú",
+          "Lola Flores - Pena, penita, pena",
+          "Paco de Lucía - Entre dos aguas",
+          "Camarón de la Isla - La leyenda del tiempo",
+          "Rosalía - Pienso en tu mirá"
+        ],
+        "music-genres": [
+          "Flamenco",
+          "Spanish Folk",
+          "Nuevo Flamenco"
+        ]
+      },
+      "match_reason": "Early cinema and flamenco both evolved into performance arts that fuse movement, emotion, and storytelling; this episode about the history of a visual, dramatic music tradition mirrors the birth of film as moving images."
     }
   ],
   "generated_at": "2026-03-22T00:00:00.010178+00:00",
   "date": "2026-03-22",
-  "updated_at": "2026-03-22T07:00:01.412708+00:00"
+  "updated_at": "2026-03-22T08:00:01.476262+00:00"
 }
