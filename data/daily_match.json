@@ -1,66 +1,40 @@
 {
-  "current_hour": 22,
+  "current_hour": 23,
   "current_fact": {
-    "hour": 22,
-    "fact_text": "On March 22, 1950, the first World Health Organization malaria eradication pilot projects were proposed, targeting mosquitoes across entire regions rather than just treating patients. It was one of the earliest attempts to tackle a disease by reshaping an ecosystem at scale.",
-    "fact_year": 1950,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Malaria_eradication",
+    "hour": 23,
+    "fact_text": "On March 22, 1965, NASA’s Ranger 9 spacecraft deliberately crashed into the Moon after sending back thousands of detailed television images of its surface. It turned a final fall into a last burst of data, helping scientists scout possible landing sites for the Apollo missions.",
+    "fact_year": 1965,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ranger_9",
     "episode": {
-      "id": 31,
-      "title": "Morning Drops #31 - A Trip-Hop Journey",
-      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+      "id": 2,
+      "title": "Sedna FM #02 - Destination Sedna",
+      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
       "songs": [
-        "Massive Attack - Unfinished Sympathy",
-        "Tricky - Hell Is Round the Corner",
-        "DJ Shadow - Midnight in a Perfect World",
-        "Thievery Corporation - Lebanese Blonde",
-        "Smoke City - Underwater Love"
+        "Pink Floyd - Breathe",
+        "The fountain DC - Starburster",
+        "Laura Cahen - La Poussiere",
+        "Taxi Kebab - Lmchi w rjou3",
+        "Odion Iruoje - Identify With Your Roots",
+        "Depeche mode - world in my eyes (Oil Tank Mix)",
+        "Massive attack - Dissolved girl",
+        "Kokoroko - Three piece suite",
+        "Salin - Egungun",
+        "E.S.P. - It's You"
       ],
       "music-genres": [
-        "Trip-Hop",
-        "Downtempo",
-        "Electronic"
+        "Progressive Rock",
+        "Post-Punk",
+        "French Pop",
+        "Maghreb",
+        "Afrobeat",
+        "Synthpop",
+        "Trip-Hop"
       ]
     },
-    "match_reason": "A global health campaign that blurred lines between medicine, ecology, and engineering mirrors a genre that blurs musical boundaries, layering influences into a new, atmospheric whole."
+    "match_reason": "A probe’s terminal dive into the Moon to scout future journeys resonates with an episode about 'Destination' and exploration—both are voyages that prepare the way for others to follow."
   },
-  "queue": [
-    {
-      "hour": 23,
-      "fact_text": "On March 22, 1965, NASA’s Ranger 9 spacecraft deliberately crashed into the Moon after sending back thousands of detailed television images of its surface. It turned a final fall into a last burst of data, helping scientists scout possible landing sites for the Apollo missions.",
-      "fact_year": 1965,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ranger_9",
-      "episode": {
-        "id": 2,
-        "title": "Sedna FM #02 - Destination Sedna",
-        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
-        "songs": [
-          "Pink Floyd - Breathe",
-          "The fountain DC - Starburster",
-          "Laura Cahen - La Poussiere",
-          "Taxi Kebab - Lmchi w rjou3",
-          "Odion Iruoje - Identify With Your Roots",
-          "Depeche mode - world in my eyes (Oil Tank Mix)",
-          "Massive attack - Dissolved girl",
-          "Kokoroko - Three piece suite",
-          "Salin - Egungun",
-          "E.S.P. - It's You"
-        ],
-        "music-genres": [
-          "Progressive Rock",
-          "Post-Punk",
-          "French Pop",
-          "Maghreb",
-          "Afrobeat",
-          "Synthpop",
-          "Trip-Hop"
-        ]
-      },
-      "match_reason": "A probe’s terminal dive into the Moon to scout future journeys resonates with an episode about 'Destination' and exploration—both are voyages that prepare the way for others to follow."
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "hour": 0,
@@ -636,9 +610,43 @@
         ]
       },
       "match_reason": "A global health campaign that blurred lines between medicine, ecology, and engineering mirrors a genre that blurs musical boundaries, layering influences into a new, atmospheric whole."
+    },
+    {
+      "hour": 23,
+      "fact_text": "On March 22, 1965, NASA’s Ranger 9 spacecraft deliberately crashed into the Moon after sending back thousands of detailed television images of its surface. It turned a final fall into a last burst of data, helping scientists scout possible landing sites for the Apollo missions.",
+      "fact_year": 1965,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ranger_9",
+      "episode": {
+        "id": 2,
+        "title": "Sedna FM #02 - Destination Sedna",
+        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+        "songs": [
+          "Pink Floyd - Breathe",
+          "The fountain DC - Starburster",
+          "Laura Cahen - La Poussiere",
+          "Taxi Kebab - Lmchi w rjou3",
+          "Odion Iruoje - Identify With Your Roots",
+          "Depeche mode - world in my eyes (Oil Tank Mix)",
+          "Massive attack - Dissolved girl",
+          "Kokoroko - Three piece suite",
+          "Salin - Egungun",
+          "E.S.P. - It's You"
+        ],
+        "music-genres": [
+          "Progressive Rock",
+          "Post-Punk",
+          "French Pop",
+          "Maghreb",
+          "Afrobeat",
+          "Synthpop",
+          "Trip-Hop"
+        ]
+      },
+      "match_reason": "A probe’s terminal dive into the Moon to scout future journeys resonates with an episode about 'Destination' and exploration—both are voyages that prepare the way for others to follow."
     }
   ],
   "generated_at": "2026-03-22T00:00:00.005203+00:00",
   "date": "2026-03-22",
-  "updated_at": "2026-03-22T22:00:01.495416+00:00"
+  "updated_at": "2026-03-22T23:00:01.799581+00:00"
 }
