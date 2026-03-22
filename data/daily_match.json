@@ -1,60 +1,30 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "Space Shuttle Atlantis launched on March 22, 1996, for mission STS-76, ferrying astronauts to the Russian Mir space station. Tucked into the mission was a spacewalk that helped prepare for a future all-new outpost: the International Space Station.",
-    "fact_year": 1996,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-76",
+    "hour": 4,
+    "fact_text": "On March 22, 1963, The Beatles released their debut album \"Please Please Me,\" recorded astonishingly in a single marathon day of studio work. What started as a modest attempt to capture their live act became a seismic moment that helped ignite Beatlemania.",
+    "fact_year": 1963,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Please_Please_Me",
     "episode": {
-      "id": 48,
-      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+      "id": 36,
+      "title": "Morning Drops #30 - Star Treatment",
+      "description": "A celebration of change and transformation. Gaia traces the evolution of Arctic Monkeys - from raw energy to cinematic sound - reflecting on how artists, and all of us, grow and change through time. A journey through courage, curiosity, and the beauty of slowing down.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-star-treatment",
       "songs": [
-        "Stive Morgan - Solar Wind, Pt. 3",
-        "David Visan & Carlos Campos - Crystal Heart",
-        "Evan Mars - Ya Zareef Al Tool",
-        "Gerardo Frisina - Cuiabá",
-        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-        "The Busy Twist - Friday Night"
+        "Arctic Monkeys - Brainstorm",
+        "Arctic Monkeys - Pretty Visitors",
+        "Arctic Monkeys - Star Treatment",
+        "Arctic Monkeys - There’d Better Be a Mirrorball"
       ],
       "music-genres": [
-        "Ambient",
-        "Deep House",
-        "World Music",
-        "Nu Jazz",
-        "Afrobeat",
-        "Funk",
-        "Electronic"
+        "Indie Rock",
+        "Psychedelic Rock",
+        "Lounge Pop"
       ]
     },
-    "match_reason": "A shuttle docking with an orbital outpost echoes the episode’s slow 'launch' from deep, atmospheric beginnings into a free, roaming dance across distant sonic landscapes."
+    "match_reason": "The Beatles’ explosive first album mirrors another band’s long arc of evolution; both stories chart how a guitar group grows into a cultural force and experiments with sound over time."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "On March 22, 1963, The Beatles released their debut album \"Please Please Me,\" recorded astonishingly in a single marathon day of studio work. What started as a modest attempt to capture their live act became a seismic moment that helped ignite Beatlemania.",
-      "fact_year": 1963,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Please_Please_Me",
-      "episode": {
-        "id": 36,
-        "title": "Morning Drops #30 - Star Treatment",
-        "description": "A celebration of change and transformation. Gaia traces the evolution of Arctic Monkeys - from raw energy to cinematic sound - reflecting on how artists, and all of us, grow and change through time. A journey through courage, curiosity, and the beauty of slowing down.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-star-treatment",
-        "songs": [
-          "Arctic Monkeys - Brainstorm",
-          "Arctic Monkeys - Pretty Visitors",
-          "Arctic Monkeys - Star Treatment",
-          "Arctic Monkeys - There’d Better Be a Mirrorball"
-        ],
-        "music-genres": [
-          "Indie Rock",
-          "Psychedelic Rock",
-          "Lounge Pop"
-        ]
-      },
-      "match_reason": "The Beatles’ explosive first album mirrors another band’s long arc of evolution; both stories chart how a guitar group grows into a cultural force and experiments with sound over time."
-    },
     {
       "hour": 5,
       "fact_text": "On March 22, 1957, a U.S. Air Force Boeing C-97 Stratofreighter vanished over the Pacific Ocean with 67 people on board, leaving no confirmed wreckage behind. The disappearance still lingers as a little-known Cold War mystery over one of Earth’s vastest stretches of water.",
@@ -641,9 +611,33 @@
         ]
       },
       "match_reason": "A shuttle docking with an orbital outpost echoes the episode’s slow 'launch' from deep, atmospheric beginnings into a free, roaming dance across distant sonic landscapes."
+    },
+    {
+      "hour": 4,
+      "fact_text": "On March 22, 1963, The Beatles released their debut album \"Please Please Me,\" recorded astonishingly in a single marathon day of studio work. What started as a modest attempt to capture their live act became a seismic moment that helped ignite Beatlemania.",
+      "fact_year": 1963,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Please_Please_Me",
+      "episode": {
+        "id": 36,
+        "title": "Morning Drops #30 - Star Treatment",
+        "description": "A celebration of change and transformation. Gaia traces the evolution of Arctic Monkeys - from raw energy to cinematic sound - reflecting on how artists, and all of us, grow and change through time. A journey through courage, curiosity, and the beauty of slowing down.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-star-treatment",
+        "songs": [
+          "Arctic Monkeys - Brainstorm",
+          "Arctic Monkeys - Pretty Visitors",
+          "Arctic Monkeys - Star Treatment",
+          "Arctic Monkeys - There’d Better Be a Mirrorball"
+        ],
+        "music-genres": [
+          "Indie Rock",
+          "Psychedelic Rock",
+          "Lounge Pop"
+        ]
+      },
+      "match_reason": "The Beatles’ explosive first album mirrors another band’s long arc of evolution; both stories chart how a guitar group grows into a cultural force and experiments with sound over time."
     }
   ],
   "generated_at": "2026-03-22T00:00:00.005203+00:00",
   "date": "2026-03-22",
-  "updated_at": "2026-03-22T03:00:01.600942+00:00"
+  "updated_at": "2026-03-22T04:00:01.684759+00:00"
 }
