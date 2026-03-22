@@ -1,64 +1,36 @@
 {
-  "current_hour": 2,
+  "current_hour": 3,
   "current_fact": {
-    "hour": 2,
-    "fact_text": "On March 22, 1960, Arthur Schawlow and Charles Townes received the first patent for a laser, at a time when many saw it as a 'solution looking for a problem.' Their abstract physics experiment eventually reshaped medicine, communications, and even the way your music is read on a CD.",
-    "fact_year": 1960,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Arthur_Leonard_Schawlow",
+    "hour": 3,
+    "fact_text": "Space Shuttle Atlantis launched on March 22, 1996, for mission STS-76, ferrying astronauts to the Russian Mir space station. Tucked into the mission was a spacewalk that helped prepare for a future all-new outpost: the International Space Station.",
+    "fact_year": 1996,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-76",
     "episode": {
-      "id": 54,
-      "title": "Morning Drops #47 - The Rise Of Autotune",
-      "description": "In this Morning Drop, Yasmin explores the explosive rise of Auto-Tune, a tool that quietly changed the sound of music without asking for attention. From fragile, imperfect recordings to voices shaped with precision, this episode follows the moment when correction became standard and sound became controlled.\n\nAlong the way, we discover the curious story of how it was invented, how it moved from the background of studios to the center of debate, and how a few artists turned it into something expressive rather than hidden.\n\nListen slowly, and let us know what you think about Autotune.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-autotune",
+      "id": 48,
+      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
       "songs": [
-        "Chet Baker – I Fall in Love Too Easily",
-        "Destiny’s Child – Survivor",
-        "T-Pain – I’m Sprung",
-        "Jay-Z – D.O.A. (Death of Auto-Tune)",
-        "Travis Scott feat. Kacy Hill – 90210"
+        "Stive Morgan - Solar Wind, Pt. 3",
+        "David Visan & Carlos Campos - Crystal Heart",
+        "Evan Mars - Ya Zareef Al Tool",
+        "Gerardo Frisina - Cuiabá",
+        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+        "The Busy Twist - Friday Night"
       ],
       "music-genres": [
-        "Jazz",
-        "R&B",
-        "Hip-Hop",
-        "Pop",
-        "Trap",
+        "Ambient",
+        "Deep House",
+        "World Music",
+        "Nu Jazz",
+        "Afrobeat",
+        "Funk",
         "Electronic"
       ]
     },
-    "match_reason": "Both the laser and Auto-Tune are precision technologies that began as controversial tools and ended up quietly redefining how we see and hear the world."
+    "match_reason": "A shuttle docking with an orbital outpost echoes the episode’s slow 'launch' from deep, atmospheric beginnings into a free, roaming dance across distant sonic landscapes."
   },
   "queue": [
-    {
-      "hour": 3,
-      "fact_text": "Space Shuttle Atlantis launched on March 22, 1996, for mission STS-76, ferrying astronauts to the Russian Mir space station. Tucked into the mission was a spacewalk that helped prepare for a future all-new outpost: the International Space Station.",
-      "fact_year": 1996,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-76",
-      "episode": {
-        "id": 48,
-        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
-        "songs": [
-          "Stive Morgan - Solar Wind, Pt. 3",
-          "David Visan & Carlos Campos - Crystal Heart",
-          "Evan Mars - Ya Zareef Al Tool",
-          "Gerardo Frisina - Cuiabá",
-          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-          "The Busy Twist - Friday Night"
-        ],
-        "music-genres": [
-          "Ambient",
-          "Deep House",
-          "World Music",
-          "Nu Jazz",
-          "Afrobeat",
-          "Funk",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A shuttle docking with an orbital outpost echoes the episode’s slow 'launch' from deep, atmospheric beginnings into a free, roaming dance across distant sonic landscapes."
-    },
     {
       "hour": 4,
       "fact_text": "On March 22, 1963, The Beatles released their debut album \"Please Please Me,\" recorded astonishingly in a single marathon day of studio work. What started as a modest attempt to capture their live act became a seismic moment that helped ignite Beatlemania.",
@@ -639,9 +611,39 @@
         ]
       },
       "match_reason": "Both the laser and Auto-Tune are precision technologies that began as controversial tools and ended up quietly redefining how we see and hear the world."
+    },
+    {
+      "hour": 3,
+      "fact_text": "Space Shuttle Atlantis launched on March 22, 1996, for mission STS-76, ferrying astronauts to the Russian Mir space station. Tucked into the mission was a spacewalk that helped prepare for a future all-new outpost: the International Space Station.",
+      "fact_year": 1996,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-76",
+      "episode": {
+        "id": 48,
+        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+        "songs": [
+          "Stive Morgan - Solar Wind, Pt. 3",
+          "David Visan & Carlos Campos - Crystal Heart",
+          "Evan Mars - Ya Zareef Al Tool",
+          "Gerardo Frisina - Cuiabá",
+          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+          "The Busy Twist - Friday Night"
+        ],
+        "music-genres": [
+          "Ambient",
+          "Deep House",
+          "World Music",
+          "Nu Jazz",
+          "Afrobeat",
+          "Funk",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A shuttle docking with an orbital outpost echoes the episode’s slow 'launch' from deep, atmospheric beginnings into a free, roaming dance across distant sonic landscapes."
     }
   ],
   "generated_at": "2026-03-22T00:00:00.005203+00:00",
   "date": "2026-03-22",
-  "updated_at": "2026-03-22T02:00:01.534217+00:00"
+  "updated_at": "2026-03-22T03:00:01.600942+00:00"
 }
