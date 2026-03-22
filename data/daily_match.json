@@ -1,54 +1,31 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 1982, Space Shuttle Columbia lifted off on STS-3, a mission that tested the shuttle like a prototype spaceship-car: astronauts deliberately flew it in manual modes, exposed it to extreme heating, and even carried a secret test pallet in the cargo bay. It was only the third shuttle flight in history, yet NASA was already learning how to turn experimental spaceplanes into a reusable fleet.",
-    "fact_year": 1982,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Columbia",
+    "hour": 1,
+    "fact_text": "When cosmonaut Valeri Polyakov returned to Earth in 1995, he had been in orbit for 438 days straight—the longest continuous human spaceflight ever. His mission turned his own body into a living experiment on whether humans could physically and psychologically endure a journey as long as a trip to Mars.",
+    "fact_year": 1995,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Valeri_Polyakov",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 20,
+      "title": "Morning Drops #14 - Slow Planet",
+      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Air - Cherry Blossom Girl",
+        "Kruder & Dorfmeister - Keep On Believing",
+        "Tosca - Orozco",
+        "Bonobo - Terrapin"
       ],
       "music-genres": [
-        "Indie Rock",
+        "Downtempo",
+        "Trip-Hop",
         "Electronic",
-        "Garage Rock"
+        "Chillout"
       ]
     },
-    "match_reason": "A literal space shuttle mission pairs with an episode built around the metaphor of \"space\" as possibility and momentum, capturing the experimental optimism of early shuttle flights."
+    "match_reason": "Polyakov’s long, patient orbit around Earth echoes the reflective, slow-motion mood of \"Slow Planet,\" both about stretching time and adapting to extended journeys."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "When cosmonaut Valeri Polyakov returned to Earth in 1995, he had been in orbit for 438 days straight—the longest continuous human spaceflight ever. His mission turned his own body into a living experiment on whether humans could physically and psychologically endure a journey as long as a trip to Mars.",
-      "fact_year": 1995,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Valeri_Polyakov",
-      "episode": {
-        "id": 20,
-        "title": "Morning Drops #14 - Slow Planet",
-        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
-        "songs": [
-          "Air - Cherry Blossom Girl",
-          "Kruder & Dorfmeister - Keep On Believing",
-          "Tosca - Orozco",
-          "Bonobo - Terrapin"
-        ],
-        "music-genres": [
-          "Downtempo",
-          "Trip-Hop",
-          "Electronic",
-          "Chillout"
-        ]
-      },
-      "match_reason": "Polyakov’s long, patient orbit around Earth echoes the reflective, slow-motion mood of \"Slow Planet,\" both about stretching time and adapting to extended journeys."
-    },
     {
       "hour": 2,
       "fact_text": "On March 22, 1960, Arthur Schawlow and Charles Townes received the first patent for a laser—essentially a machine that makes light march in perfect lockstep. Lasers, once a science-fiction idea, now quietly run our barcode scanners, fiber-optic internet, eye surgeries, and even some of the instruments that measure the universe.",
@@ -640,9 +617,34 @@
         ]
       },
       "match_reason": "A literal space shuttle mission pairs with an episode built around the metaphor of \"space\" as possibility and momentum, capturing the experimental optimism of early shuttle flights."
+    },
+    {
+      "hour": 1,
+      "fact_text": "When cosmonaut Valeri Polyakov returned to Earth in 1995, he had been in orbit for 438 days straight—the longest continuous human spaceflight ever. His mission turned his own body into a living experiment on whether humans could physically and psychologically endure a journey as long as a trip to Mars.",
+      "fact_year": 1995,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Valeri_Polyakov",
+      "episode": {
+        "id": 20,
+        "title": "Morning Drops #14 - Slow Planet",
+        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+        "songs": [
+          "Air - Cherry Blossom Girl",
+          "Kruder & Dorfmeister - Keep On Believing",
+          "Tosca - Orozco",
+          "Bonobo - Terrapin"
+        ],
+        "music-genres": [
+          "Downtempo",
+          "Trip-Hop",
+          "Electronic",
+          "Chillout"
+        ]
+      },
+      "match_reason": "Polyakov’s long, patient orbit around Earth echoes the reflective, slow-motion mood of \"Slow Planet,\" both about stretching time and adapting to extended journeys."
     }
   ],
   "generated_at": "2026-03-22T00:00:00.010178+00:00",
   "date": "2026-03-22",
-  "updated_at": "2026-03-22T00:00:48.683473+00:00"
+  "updated_at": "2026-03-22T01:00:01.920306+00:00"
 }
