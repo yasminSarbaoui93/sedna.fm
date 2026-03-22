@@ -1,55 +1,30 @@
 {
-  "current_hour": 6,
+  "current_hour": 7,
   "current_fact": {
-    "hour": 6,
-    "fact_text": "On March 22, 1508, Ferdinand II of Aragon appointed explorer Amerigo Vespucci as chief navigator of the Spanish Empire. The man whose name would label two entire continents was officially tasked with charting routes through oceans he had only just begun to understand.",
-    "fact_year": 1508,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Amerigo_Vespucci",
+    "hour": 7,
+    "fact_text": "Comet Hale–Bopp made its closest pass to Earth on March 22, 1997, yet still remained over 1.3 astronomical units away—farther than the distance from Earth to the Sun. It was so bright that more than half the planet’s population could see it with the naked eye, turning the night sky into a shared global spectacle.",
+    "fact_year": 1997,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp",
     "episode": {
-      "id": 28,
-      "title": "Morning Drops #22 - Sicilians On The Dolomites",
-      "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
+      "id": 55,
+      "title": "Morning Drops #48 - Cosmic Monday",
+      "description": "Cosmic Monday is a Morning Drops episode built around four Italian dance records, tracing how disco rhythms slowly became electronic language.\nGaia moves through four tracks like chapters: groove first, then machines, then that bright, futuristic feeling you only get when the bassline is doing the talking. It's not nostalgia, exactly. It's more like returning to a sound that still works — especially on mornings when you need a little extra energy, but you don't want anything aggressive.\nTake it as a slow transmission. Let it carry you into the day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-cosmic-monday",
       "songs": [
-        "Franco Battiato - Haiku",
-        "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
-        "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
-        "Pink Floyd - Fearless"
+        "Giovanotti Mondani Meccanici - Don't Ask Me Why",
+        "Azoto - Sal Salvador",
+        "Capricorn - I Need Love",
+        "Cosmic Disco - Cosmic Sprint"
       ],
       "music-genres": [
-        "Italian Art Pop",
-        "French Jazz",
-        "Italian Singer-Songwriter",
-        "Progressive Rock"
+        "Italo Disco",
+        "Disco",
+        "Electronic"
       ]
     },
-    "match_reason": "A royal commission to map the world resonates with an episode about travel, landscapes, and seafaring songs—modern sonic explorers echoing Vespucci’s navigational legacy."
+    "match_reason": "A brilliant comet lighting up Earth’s sky fits naturally with a 'Cosmic' themed mix, where spacey disco and electronics echo the sense of celestial brightness and shared wonder."
   },
   "queue": [
-    {
-      "hour": 7,
-      "fact_text": "Comet Hale–Bopp made its closest pass to Earth on March 22, 1997, yet still remained over 1.3 astronomical units away—farther than the distance from Earth to the Sun. It was so bright that more than half the planet’s population could see it with the naked eye, turning the night sky into a shared global spectacle.",
-      "fact_year": 1997,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp",
-      "episode": {
-        "id": 55,
-        "title": "Morning Drops #48 - Cosmic Monday",
-        "description": "Cosmic Monday is a Morning Drops episode built around four Italian dance records, tracing how disco rhythms slowly became electronic language.\nGaia moves through four tracks like chapters: groove first, then machines, then that bright, futuristic feeling you only get when the bassline is doing the talking. It's not nostalgia, exactly. It's more like returning to a sound that still works — especially on mornings when you need a little extra energy, but you don't want anything aggressive.\nTake it as a slow transmission. Let it carry you into the day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-cosmic-monday",
-        "songs": [
-          "Giovanotti Mondani Meccanici - Don't Ask Me Why",
-          "Azoto - Sal Salvador",
-          "Capricorn - I Need Love",
-          "Cosmic Disco - Cosmic Sprint"
-        ],
-        "music-genres": [
-          "Italo Disco",
-          "Disco",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A brilliant comet lighting up Earth’s sky fits naturally with a 'Cosmic' themed mix, where spacey disco and electronics echo the sense of celestial brightness and shared wonder."
-    },
     {
       "hour": 8,
       "fact_text": "On March 22, 1895, Auguste and Louis Lumière gave one of the first public demonstrations of their motion picture system in Paris. Their short, flickering scenes—workers leaving a factory, a train arriving—were so vivid that some early viewers reportedly flinched as if the train might burst out of the screen.",
@@ -636,9 +611,33 @@
         ]
       },
       "match_reason": "A royal commission to map the world resonates with an episode about travel, landscapes, and seafaring songs—modern sonic explorers echoing Vespucci’s navigational legacy."
+    },
+    {
+      "hour": 7,
+      "fact_text": "Comet Hale–Bopp made its closest pass to Earth on March 22, 1997, yet still remained over 1.3 astronomical units away—farther than the distance from Earth to the Sun. It was so bright that more than half the planet’s population could see it with the naked eye, turning the night sky into a shared global spectacle.",
+      "fact_year": 1997,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp",
+      "episode": {
+        "id": 55,
+        "title": "Morning Drops #48 - Cosmic Monday",
+        "description": "Cosmic Monday is a Morning Drops episode built around four Italian dance records, tracing how disco rhythms slowly became electronic language.\nGaia moves through four tracks like chapters: groove first, then machines, then that bright, futuristic feeling you only get when the bassline is doing the talking. It's not nostalgia, exactly. It's more like returning to a sound that still works — especially on mornings when you need a little extra energy, but you don't want anything aggressive.\nTake it as a slow transmission. Let it carry you into the day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-cosmic-monday",
+        "songs": [
+          "Giovanotti Mondani Meccanici - Don't Ask Me Why",
+          "Azoto - Sal Salvador",
+          "Capricorn - I Need Love",
+          "Cosmic Disco - Cosmic Sprint"
+        ],
+        "music-genres": [
+          "Italo Disco",
+          "Disco",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A brilliant comet lighting up Earth’s sky fits naturally with a 'Cosmic' themed mix, where spacey disco and electronics echo the sense of celestial brightness and shared wonder."
     }
   ],
   "generated_at": "2026-03-22T00:00:00.005203+00:00",
   "date": "2026-03-22",
-  "updated_at": "2026-03-22T06:00:01.442562+00:00"
+  "updated_at": "2026-03-22T07:00:01.707905+00:00"
 }
