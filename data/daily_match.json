@@ -1,55 +1,31 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "In 1991, the Revolutionary United Front, backed by Charles Taylor’s forces from Liberia, crossed into Sierra Leone to overthrow the government, sparking an 11‑year civil war notorious for child soldiers and conflict diamonds. The invasion turned remote border regions into the first pages of a brutal chapter in West African history.",
-    "fact_year": 1991,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Revolutionary_United_Front",
+    "hour": 11,
+    "fact_text": "On March 23, 2020, UK Prime Minister Boris Johnson announced the country’s first nationwide COVID‑19 lockdown, telling millions to stay at home almost overnight. Streets fell silent, birdsong grew louder in cities, and living rooms became offices, gyms, and concert halls in a massive social experiment in slowing a virus.",
+    "fact_year": 2020,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Boris_Johnson",
     "episode": {
-      "id": 30,
-      "title": "Morning Drops #24 - The Rise Of Afrobeat",
-      "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "E.T. Mensah - Ghana Freedom",
-        "I.K. Dairo - Salome",
-        "Fela Kuti - Great Kids",
-        "Fela Kuti - Expensive Shit"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Highlife",
-        "Jùjú",
-        "Afrobeat"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "While the fact is about West African conflict, the Afrobeat episode amplifies another side of the region: political music, resistance, and joy, offering cultural context and a counter‑narrative to violence."
+    "match_reason": "Lockdown radically intensified our relationship with screens and phones; an episode about digital dependence and disconnection resonates with that sudden shift to life mediated through devices."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "On March 23, 2020, UK Prime Minister Boris Johnson announced the country’s first nationwide COVID‑19 lockdown, telling millions to stay at home almost overnight. Streets fell silent, birdsong grew louder in cities, and living rooms became offices, gyms, and concert halls in a massive social experiment in slowing a virus.",
-      "fact_year": 2020,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Boris_Johnson",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "Lockdown radically intensified our relationship with screens and phones; an episode about digital dependence and disconnection resonates with that sudden shift to life mediated through devices."
-    },
     {
       "hour": 12,
       "fact_text": "In 1983, U.S. President Ronald Reagan unveiled the Strategic Defense Initiative, a futuristic plan to use space‑based and ground‑based systems to intercept nuclear missiles. Nicknamed “Star Wars,” it blended physics, lasers, and geopolitics into a vision that felt as much like science fiction as strategy.",
@@ -635,9 +611,34 @@
         ]
       },
       "match_reason": "While the fact is about West African conflict, the Afrobeat episode amplifies another side of the region: political music, resistance, and joy, offering cultural context and a counter‑narrative to violence."
+    },
+    {
+      "hour": 11,
+      "fact_text": "On March 23, 2020, UK Prime Minister Boris Johnson announced the country’s first nationwide COVID‑19 lockdown, telling millions to stay at home almost overnight. Streets fell silent, birdsong grew louder in cities, and living rooms became offices, gyms, and concert halls in a massive social experiment in slowing a virus.",
+      "fact_year": 2020,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Boris_Johnson",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "Lockdown radically intensified our relationship with screens and phones; an episode about digital dependence and disconnection resonates with that sudden shift to life mediated through devices."
     }
   ],
   "generated_at": "2026-03-23T00:00:00.014724+00:00",
   "date": "2026-03-23",
-  "updated_at": "2026-03-23T10:00:01.845353+00:00"
+  "updated_at": "2026-03-23T11:00:01.530503+00:00"
 }
