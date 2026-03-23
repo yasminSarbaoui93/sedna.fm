@@ -1,56 +1,30 @@
 {
-  "current_hour": 9,
+  "current_hour": 10,
   "current_fact": {
-    "hour": 9,
-    "fact_text": "On March 23, 2014, the World Health Organization announced Ebola cases in rural southeastern Guinea, quietly marking the beginning of the largest Ebola outbreak in history. What started in forested villages would soon test global health systems, highlight frontline courage, and expose how viruses exploit the smallest gaps in our connected world.",
-    "fact_year": 2014,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ebola",
+    "hour": 10,
+    "fact_text": "In 1991, the Revolutionary United Front, backed by Charles Taylor’s forces from Liberia, crossed into Sierra Leone to overthrow the government, sparking an 11‑year civil war notorious for child soldiers and conflict diamonds. The invasion turned remote border regions into the first pages of a brutal chapter in West African history.",
+    "fact_year": 1991,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Revolutionary_United_Front",
     "episode": {
-      "id": 49,
-      "title": "Morning Drops #42 - The Joy Of Learning",
-      "description": "Hosted by Yasmin, this Morning Drop explores learning as a lifelong process, focusing on persistence, repetition, and the emotional landscape that comes with challenging oneself over time.\n\nThrough personal stories and scientific insights, the episode looks at how learning reshapes the brain, generates joy through effort, and why progress often arrives after confusion and frustration. It reflects on the so-called delayed pleasure effect, the role of dopamine in motivation, and how curiosity and learning support long-term wellbeing.\n\nThe episode also questions our cultural relationship with failure and invites a softer, more realistic approach to learning, one that accepts mistakes as part of growth and sees persistence as a quiet form of strength.\n\nMood: reflective, grounded, quietly hopeful\nMusic genre: alternative rock, hip hop, electronic, neo-soul, drill\n\nA space to listen slowly and stay with the process.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-joy-of-learning",
+      "id": 30,
+      "title": "Morning Drops #24 - The Rise Of Afrobeat",
+      "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
       "songs": [
-        "Radiohead - Separator",
-        "Mac Miller - What's the Use?",
-        "Morad & Beny Jr - Sigue",
-        "Post Malone - White Iverson"
+        "E.T. Mensah - Ghana Freedom",
+        "I.K. Dairo - Salome",
+        "Fela Kuti - Great Kids",
+        "Fela Kuti - Expensive Shit"
       ],
       "music-genres": [
-        "Alternative Rock",
-        "Experimental Electronic",
-        "Hip Hop",
-        "Neo-Soul",
-        "Drill / Trap"
+        "Highlife",
+        "Jùjú",
+        "Afrobeat"
       ]
     },
-    "match_reason": "A global health crisis forced scientists and societies into a steep learning curve about viruses, systems, and resilience, fitting an episode that delves into science, adaptation, and the emotional side of learning."
+    "match_reason": "While the fact is about West African conflict, the Afrobeat episode amplifies another side of the region: political music, resistance, and joy, offering cultural context and a counter‑narrative to violence."
   },
   "queue": [
-    {
-      "hour": 10,
-      "fact_text": "In 1991, the Revolutionary United Front, backed by Charles Taylor’s forces from Liberia, crossed into Sierra Leone to overthrow the government, sparking an 11‑year civil war notorious for child soldiers and conflict diamonds. The invasion turned remote border regions into the first pages of a brutal chapter in West African history.",
-      "fact_year": 1991,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Revolutionary_United_Front",
-      "episode": {
-        "id": 30,
-        "title": "Morning Drops #24 - The Rise Of Afrobeat",
-        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
-        "songs": [
-          "E.T. Mensah - Ghana Freedom",
-          "I.K. Dairo - Salome",
-          "Fela Kuti - Great Kids",
-          "Fela Kuti - Expensive Shit"
-        ],
-        "music-genres": [
-          "Highlife",
-          "Jùjú",
-          "Afrobeat"
-        ]
-      },
-      "match_reason": "While the fact is about West African conflict, the Afrobeat episode amplifies another side of the region: political music, resistance, and joy, offering cultural context and a counter‑narrative to violence."
-    },
     {
       "hour": 11,
       "fact_text": "On March 23, 2020, UK Prime Minister Boris Johnson announced the country’s first nationwide COVID‑19 lockdown, telling millions to stay at home almost overnight. Streets fell silent, birdsong grew louder in cities, and living rooms became offices, gyms, and concert halls in a massive social experiment in slowing a virus.",
@@ -637,9 +611,33 @@
         ]
       },
       "match_reason": "A global health crisis forced scientists and societies into a steep learning curve about viruses, systems, and resilience, fitting an episode that delves into science, adaptation, and the emotional side of learning."
+    },
+    {
+      "hour": 10,
+      "fact_text": "In 1991, the Revolutionary United Front, backed by Charles Taylor’s forces from Liberia, crossed into Sierra Leone to overthrow the government, sparking an 11‑year civil war notorious for child soldiers and conflict diamonds. The invasion turned remote border regions into the first pages of a brutal chapter in West African history.",
+      "fact_year": 1991,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Revolutionary_United_Front",
+      "episode": {
+        "id": 30,
+        "title": "Morning Drops #24 - The Rise Of Afrobeat",
+        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
+        "songs": [
+          "E.T. Mensah - Ghana Freedom",
+          "I.K. Dairo - Salome",
+          "Fela Kuti - Great Kids",
+          "Fela Kuti - Expensive Shit"
+        ],
+        "music-genres": [
+          "Highlife",
+          "Jùjú",
+          "Afrobeat"
+        ]
+      },
+      "match_reason": "While the fact is about West African conflict, the Afrobeat episode amplifies another side of the region: political music, resistance, and joy, offering cultural context and a counter‑narrative to violence."
     }
   ],
   "generated_at": "2026-03-23T00:00:00.014724+00:00",
   "date": "2026-03-23",
-  "updated_at": "2026-03-23T09:00:01.725966+00:00"
+  "updated_at": "2026-03-23T10:00:01.845353+00:00"
 }
