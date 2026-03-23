@@ -1,49 +1,34 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On 23 March 2001, the Russian space station Mir—once the largest human‑made object in orbit and home to dozens of long‑duration missions—was deliberately deorbited after 15 years in space. It broke apart in the atmosphere and splashed into the Pacific Ocean near Fiji, ending an era when Mir symbolized both Soviet ambition and international cooperation in orbit.",
-    "fact_year": 2001,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Deorbit_of_Mir",
+    "hour": 2,
+    "fact_text": "In 1806, after reaching the Pacific Ocean, the Lewis and Clark Expedition turned back east to begin its grueling return journey across an almost unmapped North America. Their Corps of Discovery had traversed more than 4,000 miles, and the homeward trek would be just as perilous, filled with tense encounters, near‑starvation, and meticulous note‑taking that reshaped maps of a continent.",
+    "fact_year": 1806,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Lewis_and_Clark_Expedition",
     "episode": {
-      "id": 58,
-      "title": "Evening Flows #00 - Introduction to evening flows",
-      "description": "Sedna FM introduces a new format: Evening Flow, where you can enjoy curated music sets from selectors, DJs, and artists.\n\nEach mix is an invitation to drift beyond the expected. A space where hidden gems from personal archives come to light, where sound speaks its own language. There are no rules here, no patterns to follow. Just the steady unfolding of a mood, a texture, a journey shaped by feeling.\n\nLet the music lead the way - enjoy the trip!",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-introduction-to-evening-flows",
-      "songs": [],
-      "music-genres": []
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+      "songs": [
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
+      ],
+      "music-genres": [
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
+      ]
     },
-    "match_reason": "Mir’s slow, controlled fall from orbit feels like a long fade‑out, fitting an introductory 'Evening Flow' that drifts beyond the expected and marks the end of one chapter, start of another."
+    "match_reason": "A months‑long, water‑threaded expedition fits with a seafaring episode about shared journeys, resilience, and the rhythm of traveling together."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "In 1806, after reaching the Pacific Ocean, the Lewis and Clark Expedition turned back east to begin its grueling return journey across an almost unmapped North America. Their Corps of Discovery had traversed more than 4,000 miles, and the homeward trek would be just as perilous, filled with tense encounters, near‑starvation, and meticulous note‑taking that reshaped maps of a continent.",
-      "fact_year": 1806,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Lewis_and_Clark_Expedition",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "A months‑long, water‑threaded expedition fits with a seafaring episode about shared journeys, resilience, and the rhythm of traveling together."
-    },
     {
       "hour": 3,
       "fact_text": "On 23 March 1839, a devastating earthquake destroyed the former imperial capital of Inwa (Ava) in what is now Myanmar. The quake toppled centuries‑old monasteries and palace structures in seconds, abruptly erasing much of a dynastic heartland that had dominated Burmese politics for generations.",
@@ -616,9 +601,37 @@
         "music-genres": []
       },
       "match_reason": "Mir’s slow, controlled fall from orbit feels like a long fade‑out, fitting an introductory 'Evening Flow' that drifts beyond the expected and marks the end of one chapter, start of another."
+    },
+    {
+      "hour": 2,
+      "fact_text": "In 1806, after reaching the Pacific Ocean, the Lewis and Clark Expedition turned back east to begin its grueling return journey across an almost unmapped North America. Their Corps of Discovery had traversed more than 4,000 miles, and the homeward trek would be just as perilous, filled with tense encounters, near‑starvation, and meticulous note‑taking that reshaped maps of a continent.",
+      "fact_year": 1806,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Lewis_and_Clark_Expedition",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "A months‑long, water‑threaded expedition fits with a seafaring episode about shared journeys, resilience, and the rhythm of traveling together."
     }
   ],
   "generated_at": "2026-03-23T00:00:00.012234+00:00",
   "date": "2026-03-23",
-  "updated_at": "2026-03-23T01:00:01.525813+00:00"
+  "updated_at": "2026-03-23T02:00:01.697653+00:00"
 }
