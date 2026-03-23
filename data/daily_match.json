@@ -1,54 +1,30 @@
 {
-  "current_hour": 12,
+  "current_hour": 13,
   "current_fact": {
-    "hour": 12,
-    "fact_text": "On 23 March 1983, U.S. President Ronald Reagan announced the Strategic Defense Initiative, a plan to build space‑ and ground‑based systems to intercept incoming nuclear missiles. Nicknamed 'Star Wars', it blended genuine research into missile defense with almost science‑fiction visions of lasers, particle beams, and orbiting battle stations.",
-    "fact_year": 1983,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Strategic_Defense_Initiative",
+    "hour": 13,
+    "fact_text": "In 1991, the Revolutionary United Front (RUF), backed by Charles Taylor’s National Patriotic Front of Liberia, crossed into Sierra Leone and ignited an 11‑year civil war. The conflict would become notorious for 'blood diamonds', child soldiers, and brutal amputations, eventually reshaping global debates about resource exploitation and war crimes.",
+    "fact_year": 1991,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Revolutionary_United_Front",
     "episode": {
-      "id": 55,
-      "title": "Morning Drops #48 - Cosmic Monday",
-      "description": "Cosmic Monday is a Morning Drops episode built around four Italian dance records, tracing how disco rhythms slowly became electronic language.\nGaia moves through four tracks like chapters: groove first, then machines, then that bright, futuristic feeling you only get when the bassline is doing the talking. It's not nostalgia, exactly. It's more like returning to a sound that still works — especially on mornings when you need a little extra energy, but you don't want anything aggressive.\nTake it as a slow transmission. Let it carry you into the day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-cosmic-monday",
+      "id": 30,
+      "title": "Morning Drops #24 - The Rise Of Afrobeat",
+      "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
       "songs": [
-        "Giovanotti Mondani Meccanici - Don't Ask Me Why",
-        "Azoto - Sal Salvador",
-        "Capricorn - I Need Love",
-        "Cosmic Disco - Cosmic Sprint"
+        "E.T. Mensah - Ghana Freedom",
+        "I.K. Dairo - Salome",
+        "Fela Kuti - Great Kids",
+        "Fela Kuti - Expensive Shit"
       ],
       "music-genres": [
-        "Italo Disco",
-        "Disco",
-        "Electronic"
+        "Highlife",
+        "Jùjú",
+        "Afrobeat"
       ]
     },
-    "match_reason": "A futuristic missile shield dubbed 'Star Wars' fits the bright, machine‑driven, cosmic dance energy of an episode about electronic evolution and spacey optimism."
+    "match_reason": "A West African conflict over power and resources contrasts with an episode celebrating West African musical resistance and political consciousness through Afrobeat and highlife."
   },
   "queue": [
-    {
-      "hour": 13,
-      "fact_text": "In 1991, the Revolutionary United Front (RUF), backed by Charles Taylor’s National Patriotic Front of Liberia, crossed into Sierra Leone and ignited an 11‑year civil war. The conflict would become notorious for 'blood diamonds', child soldiers, and brutal amputations, eventually reshaping global debates about resource exploitation and war crimes.",
-      "fact_year": 1991,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Revolutionary_United_Front",
-      "episode": {
-        "id": 30,
-        "title": "Morning Drops #24 - The Rise Of Afrobeat",
-        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
-        "songs": [
-          "E.T. Mensah - Ghana Freedom",
-          "I.K. Dairo - Salome",
-          "Fela Kuti - Great Kids",
-          "Fela Kuti - Expensive Shit"
-        ],
-        "music-genres": [
-          "Highlife",
-          "Jùjú",
-          "Afrobeat"
-        ]
-      },
-      "match_reason": "A West African conflict over power and resources contrasts with an episode celebrating West African musical resistance and political consciousness through Afrobeat and highlife."
-    },
     {
       "hour": 14,
       "fact_text": "On 23 March 1994, an F‑16 fighter collided with a C‑130 transport at Pope Air Force Base in North Carolina, sending flaming debris into a group of paratroopers preparing to jump. The tragedy, known as the Green Ramp disaster, killed 24 soldiers on the ground and became a somber case study in aviation safety and risk on crowded military airfields.",
@@ -625,9 +601,33 @@
         ]
       },
       "match_reason": "A futuristic missile shield dubbed 'Star Wars' fits the bright, machine‑driven, cosmic dance energy of an episode about electronic evolution and spacey optimism."
+    },
+    {
+      "hour": 13,
+      "fact_text": "In 1991, the Revolutionary United Front (RUF), backed by Charles Taylor’s National Patriotic Front of Liberia, crossed into Sierra Leone and ignited an 11‑year civil war. The conflict would become notorious for 'blood diamonds', child soldiers, and brutal amputations, eventually reshaping global debates about resource exploitation and war crimes.",
+      "fact_year": 1991,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Revolutionary_United_Front",
+      "episode": {
+        "id": 30,
+        "title": "Morning Drops #24 - The Rise Of Afrobeat",
+        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
+        "songs": [
+          "E.T. Mensah - Ghana Freedom",
+          "I.K. Dairo - Salome",
+          "Fela Kuti - Great Kids",
+          "Fela Kuti - Expensive Shit"
+        ],
+        "music-genres": [
+          "Highlife",
+          "Jùjú",
+          "Afrobeat"
+        ]
+      },
+      "match_reason": "A West African conflict over power and resources contrasts with an episode celebrating West African musical resistance and political consciousness through Afrobeat and highlife."
     }
   ],
   "generated_at": "2026-03-23T00:00:00.012234+00:00",
   "date": "2026-03-23",
-  "updated_at": "2026-03-23T12:00:01.662298+00:00"
+  "updated_at": "2026-03-23T13:00:01.620440+00:00"
 }
