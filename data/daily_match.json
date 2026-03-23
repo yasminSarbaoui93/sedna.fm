@@ -1,45 +1,30 @@
 {
-  "current_hour": 16,
+  "current_hour": 17,
   "current_fact": {
-    "hour": 16,
-    "fact_text": "On March 23, 2003, the Battle of Nasiriyah became one of the first major engagements of the Iraq invasion, where U.S. forces fought through an urban maze of bridges, ambushes, and civilian areas. The chaos of miscommunication and resistance there foreshadowed a conflict far more complex than initial plans imagined.",
-    "fact_year": 2003,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Nasiriyah",
+    "hour": 17,
+    "fact_text": "In 1982, a military coup in Guatemala ousted President Fernando Romeo Lucas García and brought General Efraín Ríos Montt to power, ushering in one of the most violent phases of the country’s civil war. Ríos Montt’s regime would later be associated with scorched‑earth campaigns against Indigenous communities and historic genocide trials.",
+    "fact_year": 1982,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Efra%C3%ADn_R%C3%ADos_Montt",
     "episode": {
-      "id": 59,
-      "title": "Morning Drops #51 - The Dancefloor",
-      "description": "For International Women’s Day, this Morning Drop turns its focus to women on the dancefloor, not as a trend, but as a cultural force.\n\nAcross five tracks, Gaia follows a line from disco closers to hip hop club classics, tracing how the dancefloor became a place where women could take space, build confidence, and create connection, sometimes with friends, sometimes alone, always with music at the centre.\n\nThis episode isn’t about pointing fingers. It’s a gentle reminder that spaces like the dancefloor still matter: places where people can express themselves, meet each other with respect, and feel part of something bigger than a night out.\n\nTracklist:\nDonna Summer - Last Dance (1978)\nThe Sequence  - Funk you up\nSalt-N-Pepa - Push It\nQueen Latifah - Ladies First\nAlicia Bridges - I Love the Nightlife",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-dancefloor",
-      "songs": [],
-      "music-genres": []
+      "id": 32,
+      "title": "Morning Drops #26 - Canserbero",
+      "description": "Yasmin guides us through the story of Canserbero, the Venezuelan rapper who reshaped Latin American hip hop with his raw voice and deeply reflective lyrics. A journey into his music, his vision, and the legacy of an artist who transformed personal and social struggles into powerful storytelling.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-canserbero",
+      "songs": [
+        "Canserbero - Mañana será otro día",
+        "Canserbero - Querer Querernos",
+        "Canserbero - Jeremías",
+        "Canserbero - De la vida como una película y su tragedia, comedia y ficción"
+      ],
+      "music-genres": [
+        "Latin Rap",
+        "Hip-Hop",
+        "Conscious Rap"
+      ]
     },
-    "match_reason": "A city turned into a battlefield contrasts starkly with the idea of the dancefloor as a safer public space; pairing them underlines how contested urban space can be reclaimed through bodies, rhythm, and community."
+    "match_reason": "A brutal Latin American dictatorship and civil war pair with an episode exploring a Latin rapper whose conscious lyrics confront violence, injustice, and the weight of political realities."
   },
   "queue": [
-    {
-      "hour": 17,
-      "fact_text": "In 1982, a military coup in Guatemala ousted President Fernando Romeo Lucas García and brought General Efraín Ríos Montt to power, ushering in one of the most violent phases of the country’s civil war. Ríos Montt’s regime would later be associated with scorched‑earth campaigns against Indigenous communities and historic genocide trials.",
-      "fact_year": 1982,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Efra%C3%ADn_R%C3%ADos_Montt",
-      "episode": {
-        "id": 32,
-        "title": "Morning Drops #26 - Canserbero",
-        "description": "Yasmin guides us through the story of Canserbero, the Venezuelan rapper who reshaped Latin American hip hop with his raw voice and deeply reflective lyrics. A journey into his music, his vision, and the legacy of an artist who transformed personal and social struggles into powerful storytelling.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-canserbero",
-        "songs": [
-          "Canserbero - Mañana será otro día",
-          "Canserbero - Querer Querernos",
-          "Canserbero - Jeremías",
-          "Canserbero - De la vida como una película y su tragedia, comedia y ficción"
-        ],
-        "music-genres": [
-          "Latin Rap",
-          "Hip-Hop",
-          "Conscious Rap"
-        ]
-      },
-      "match_reason": "A brutal Latin American dictatorship and civil war pair with an episode exploring a Latin rapper whose conscious lyrics confront violence, injustice, and the weight of political realities."
-    },
     {
       "hour": 18,
       "fact_text": "On this day in 1980, Archbishop Óscar Romero of El Salvador delivered a sermon urging soldiers to disobey orders to kill civilians, telling them, “In the name of God, stop the repression.” He was assassinated the very next day while saying Mass, and decades later was canonized as a saint for his defense of human rights.",
@@ -626,9 +611,33 @@
         "music-genres": []
       },
       "match_reason": "A city turned into a battlefield contrasts starkly with the idea of the dancefloor as a safer public space; pairing them underlines how contested urban space can be reclaimed through bodies, rhythm, and community."
+    },
+    {
+      "hour": 17,
+      "fact_text": "In 1982, a military coup in Guatemala ousted President Fernando Romeo Lucas García and brought General Efraín Ríos Montt to power, ushering in one of the most violent phases of the country’s civil war. Ríos Montt’s regime would later be associated with scorched‑earth campaigns against Indigenous communities and historic genocide trials.",
+      "fact_year": 1982,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Efra%C3%ADn_R%C3%ADos_Montt",
+      "episode": {
+        "id": 32,
+        "title": "Morning Drops #26 - Canserbero",
+        "description": "Yasmin guides us through the story of Canserbero, the Venezuelan rapper who reshaped Latin American hip hop with his raw voice and deeply reflective lyrics. A journey into his music, his vision, and the legacy of an artist who transformed personal and social struggles into powerful storytelling.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-canserbero",
+        "songs": [
+          "Canserbero - Mañana será otro día",
+          "Canserbero - Querer Querernos",
+          "Canserbero - Jeremías",
+          "Canserbero - De la vida como una película y su tragedia, comedia y ficción"
+        ],
+        "music-genres": [
+          "Latin Rap",
+          "Hip-Hop",
+          "Conscious Rap"
+        ]
+      },
+      "match_reason": "A brutal Latin American dictatorship and civil war pair with an episode exploring a Latin rapper whose conscious lyrics confront violence, injustice, and the weight of political realities."
     }
   ],
   "generated_at": "2026-03-23T00:00:00.014724+00:00",
   "date": "2026-03-23",
-  "updated_at": "2026-03-23T16:00:02.021918+00:00"
+  "updated_at": "2026-03-23T17:00:01.907855+00:00"
 }
