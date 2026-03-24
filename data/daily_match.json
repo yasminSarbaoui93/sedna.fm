@@ -1,56 +1,30 @@
 {
-  "current_hour": 22,
+  "current_hour": 23,
   "current_fact": {
-    "hour": 22,
-    "fact_text": "On 24 March 1989, the Exxon Valdez oil tanker struck Bligh Reef in Alaska’s Prince William Sound, releasing millions of gallons of crude oil into a pristine marine ecosystem. The spill blackened coastlines, devastated wildlife, and helped galvanize modern environmental activism and stricter shipping regulations.",
-    "fact_year": 1989,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill",
+    "hour": 23,
+    "fact_text": "On 24 March 2004, physicists at Brookhaven National Laboratory announced evidence for a new form of ordinary matter: a “perfect” liquid created in heavy-ion collisions that behaves more like a frictionless fluid than a gas of particles. This quark–gluon plasma briefly recreates conditions microseconds after the Big Bang, inside a metal ring on Long Island.",
+    "fact_year": 2004,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Quark%E2%80%93gluon_plasma",
     "episode": {
-      "id": 46,
-      "title": "Morning Drops #40 - Diving With Orcas",
-      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+      "id": 55,
+      "title": "Morning Drops #48 - Cosmic Monday",
+      "description": "Cosmic Monday is a Morning Drops episode built around four Italian dance records, tracing how disco rhythms slowly became electronic language.\nGaia moves through four tracks like chapters: groove first, then machines, then that bright, futuristic feeling you only get when the bassline is doing the talking. It's not nostalgia, exactly. It's more like returning to a sound that still works — especially on mornings when you need a little extra energy, but you don't want anything aggressive.\nTake it as a slow transmission. Let it carry you into the day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-cosmic-monday",
       "songs": [
-        "Ludovico Einaudi - Experience",
-        "The Temper Trap - Sweet Disposition",
-        "Alex Warren - Ordinary",
-        "Piero Umiliani - Il tuo volto"
+        "Giovanotti Mondani Meccanici - Don't Ask Me Why",
+        "Azoto - Sal Salvador",
+        "Capricorn - I Need Love",
+        "Cosmic Disco - Cosmic Sprint"
       ],
       "music-genres": [
-        "Neo-Classical",
-        "Indie Rock",
-        "Pop",
-        "Italian Film Score"
+        "Italo Disco",
+        "Disco",
+        "Electronic"
       ]
     },
-    "match_reason": "A catastrophic oil spill in cold northern waters pairs powerfully with an episode immersed in Arctic seas and marine life, highlighting both the beauty and vulnerability of ocean ecosystems."
+    "match_reason": "A laboratory recreation of early-universe matter, described as a nearly perfect liquid, matches the futuristic, cosmic-leaning dance textures of an episode titled “Cosmic Monday,” both touching the edges of the universe through human-made machines."
   },
-  "queue": [
-    {
-      "hour": 23,
-      "fact_text": "On 24 March 2004, physicists at Brookhaven National Laboratory announced evidence for a new form of ordinary matter: a “perfect” liquid created in heavy-ion collisions that behaves more like a frictionless fluid than a gas of particles. This quark–gluon plasma briefly recreates conditions microseconds after the Big Bang, inside a metal ring on Long Island.",
-      "fact_year": 2004,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Quark%E2%80%93gluon_plasma",
-      "episode": {
-        "id": 55,
-        "title": "Morning Drops #48 - Cosmic Monday",
-        "description": "Cosmic Monday is a Morning Drops episode built around four Italian dance records, tracing how disco rhythms slowly became electronic language.\nGaia moves through four tracks like chapters: groove first, then machines, then that bright, futuristic feeling you only get when the bassline is doing the talking. It's not nostalgia, exactly. It's more like returning to a sound that still works — especially on mornings when you need a little extra energy, but you don't want anything aggressive.\nTake it as a slow transmission. Let it carry you into the day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-cosmic-monday",
-        "songs": [
-          "Giovanotti Mondani Meccanici - Don't Ask Me Why",
-          "Azoto - Sal Salvador",
-          "Capricorn - I Need Love",
-          "Cosmic Disco - Cosmic Sprint"
-        ],
-        "music-genres": [
-          "Italo Disco",
-          "Disco",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A laboratory recreation of early-universe matter, described as a nearly perfect liquid, matches the futuristic, cosmic-leaning dance textures of an episode titled “Cosmic Monday,” both touching the edges of the universe through human-made machines."
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "hour": 0,
@@ -634,9 +608,33 @@
         ]
       },
       "match_reason": "A catastrophic oil spill in cold northern waters pairs powerfully with an episode immersed in Arctic seas and marine life, highlighting both the beauty and vulnerability of ocean ecosystems."
+    },
+    {
+      "hour": 23,
+      "fact_text": "On 24 March 2004, physicists at Brookhaven National Laboratory announced evidence for a new form of ordinary matter: a “perfect” liquid created in heavy-ion collisions that behaves more like a frictionless fluid than a gas of particles. This quark–gluon plasma briefly recreates conditions microseconds after the Big Bang, inside a metal ring on Long Island.",
+      "fact_year": 2004,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Quark%E2%80%93gluon_plasma",
+      "episode": {
+        "id": 55,
+        "title": "Morning Drops #48 - Cosmic Monday",
+        "description": "Cosmic Monday is a Morning Drops episode built around four Italian dance records, tracing how disco rhythms slowly became electronic language.\nGaia moves through four tracks like chapters: groove first, then machines, then that bright, futuristic feeling you only get when the bassline is doing the talking. It's not nostalgia, exactly. It's more like returning to a sound that still works — especially on mornings when you need a little extra energy, but you don't want anything aggressive.\nTake it as a slow transmission. Let it carry you into the day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-cosmic-monday",
+        "songs": [
+          "Giovanotti Mondani Meccanici - Don't Ask Me Why",
+          "Azoto - Sal Salvador",
+          "Capricorn - I Need Love",
+          "Cosmic Disco - Cosmic Sprint"
+        ],
+        "music-genres": [
+          "Italo Disco",
+          "Disco",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A laboratory recreation of early-universe matter, described as a nearly perfect liquid, matches the futuristic, cosmic-leaning dance textures of an episode titled “Cosmic Monday,” both touching the edges of the universe through human-made machines."
     }
   ],
   "generated_at": "2026-03-24T00:00:00.010296+00:00",
   "date": "2026-03-24",
-  "updated_at": "2026-03-24T22:00:01.709408+00:00"
+  "updated_at": "2026-03-24T23:00:01.500974+00:00"
 }
