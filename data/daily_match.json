@@ -1,56 +1,31 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On 24 March 1721, Johann Sebastian Bach dedicated a set of six concertos to Margrave Christian Ludwig of Brandenburg-Schwedt, works that later became known as the Brandenburg Concertos. These pieces, forgotten for more than a century, are now celebrated as some of the most inventive and joyful orchestral music of the Baroque era.",
-    "fact_year": 1721,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach",
+    "hour": 2,
+    "fact_text": "On 24 March 1992, Space Shuttle Atlantis launched on mission STS-45, carrying the first Atmospheric Laboratory for Applications and Science (ATLAS-1). For nine days, astronauts orbited Earth studying the planet’s atmosphere and the Sun, turning the shuttle into a flying observatory for our fragile air envelope.",
+    "fact_year": 1992,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-45",
     "episode": {
-      "id": 27,
-      "title": "Morning Drops #27 - Endless Summer",
-      "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "Nik Bärtsch - Modul 14",
-        "Mama Terra - Chameleon (Single Edit)",
-        "Spyro Gyra - Morning Dance",
-        "Yussef Kamaal - Black Focus"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Minimal Jazz",
-        "Nu Jazz",
-        "Jazz Fusion",
-        "UK Jazz"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "Bach’s intricate, timeless concertos resonate with an episode built around sophisticated, enduring instrumental music and a sense of calm, crafted structure."
+    "match_reason": "A shuttle mission studying Earth’s atmosphere mirrors the episode’s theme of exploring Earth’s extreme environments from another perspective, both turning the planet into an object of awe and observation."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "On 24 March 1992, Space Shuttle Atlantis launched on mission STS-45, carrying the first Atmospheric Laboratory for Applications and Science (ATLAS-1). For nine days, astronauts orbited Earth studying the planet’s atmosphere and the Sun, turning the shuttle into a flying observatory for our fragile air envelope.",
-      "fact_year": 1992,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-45",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "A shuttle mission studying Earth’s atmosphere mirrors the episode’s theme of exploring Earth’s extreme environments from another perspective, both turning the planet into an object of awe and observation."
-    },
     {
       "hour": 3,
       "fact_text": "On 24 March 1882, Robert Koch announced his discovery of Mycobacterium tuberculosis, the bacterium responsible for tuberculosis. At a time when TB was one of the deadliest diseases on Earth, identifying its microscopic cause transformed it from a mysterious curse into a solvable scientific puzzle.",
@@ -634,9 +609,34 @@
         ]
       },
       "match_reason": "Bach’s intricate, timeless concertos resonate with an episode built around sophisticated, enduring instrumental music and a sense of calm, crafted structure."
+    },
+    {
+      "hour": 2,
+      "fact_text": "On 24 March 1992, Space Shuttle Atlantis launched on mission STS-45, carrying the first Atmospheric Laboratory for Applications and Science (ATLAS-1). For nine days, astronauts orbited Earth studying the planet’s atmosphere and the Sun, turning the shuttle into a flying observatory for our fragile air envelope.",
+      "fact_year": 1992,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-45",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "A shuttle mission studying Earth’s atmosphere mirrors the episode’s theme of exploring Earth’s extreme environments from another perspective, both turning the planet into an object of awe and observation."
     }
   ],
   "generated_at": "2026-03-24T00:00:00.010296+00:00",
   "date": "2026-03-24",
-  "updated_at": "2026-03-24T01:00:01.854698+00:00"
+  "updated_at": "2026-03-24T02:00:01.524749+00:00"
 }
