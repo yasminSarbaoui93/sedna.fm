@@ -1,54 +1,31 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "On 24 March 1993, astronomers Carolyn and Eugene Shoemaker, along with David Levy, discovered Comet Shoemaker–Levy 9 at Palomar Observatory in California. The comet later fragmented and famously crashed into Jupiter in 1994, giving scientists a rare chance to watch an extraterrestrial collision reshape a giant planet’s atmosphere in real time.",
-    "fact_year": 1993,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Comet_Shoemaker%E2%80%93Levy_9",
+    "hour": 1,
+    "fact_text": "On 24 March 1721, Johann Sebastian Bach dedicated a set of six concertos to Margrave Christian Ludwig of Brandenburg-Schwedt, works that later became known as the Brandenburg Concertos. These pieces, forgotten for more than a century, are now celebrated as some of the most inventive and joyful orchestral music of the Baroque era.",
+    "fact_year": 1721,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 27,
+      "title": "Morning Drops #27 - Endless Summer",
+      "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Nik Bärtsch - Modul 14",
+        "Mama Terra - Chameleon (Single Edit)",
+        "Spyro Gyra - Morning Dance",
+        "Yussef Kamaal - Black Focus"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Minimal Jazz",
+        "Nu Jazz",
+        "Jazz Fusion",
+        "UK Jazz"
       ]
     },
-    "match_reason": "A cosmic discovery about a comet and planetary impacts pairs naturally with an episode themed around \"space\" and creative emptiness, echoing the vastness of the solar system."
+    "match_reason": "Bach’s intricate, timeless concertos resonate with an episode built around sophisticated, enduring instrumental music and a sense of calm, crafted structure."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On 24 March 1721, Johann Sebastian Bach dedicated a set of six concertos to Margrave Christian Ludwig of Brandenburg-Schwedt, works that later became known as the Brandenburg Concertos. These pieces, forgotten for more than a century, are now celebrated as some of the most inventive and joyful orchestral music of the Baroque era.",
-      "fact_year": 1721,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach",
-      "episode": {
-        "id": 27,
-        "title": "Morning Drops #27 - Endless Summer",
-        "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
-        "songs": [
-          "Nik Bärtsch - Modul 14",
-          "Mama Terra - Chameleon (Single Edit)",
-          "Spyro Gyra - Morning Dance",
-          "Yussef Kamaal - Black Focus"
-        ],
-        "music-genres": [
-          "Minimal Jazz",
-          "Nu Jazz",
-          "Jazz Fusion",
-          "UK Jazz"
-        ]
-      },
-      "match_reason": "Bach’s intricate, timeless concertos resonate with an episode built around sophisticated, enduring instrumental music and a sense of calm, crafted structure."
-    },
     {
       "hour": 2,
       "fact_text": "On 24 March 1992, Space Shuttle Atlantis launched on mission STS-45, carrying the first Atmospheric Laboratory for Applications and Science (ATLAS-1). For nine days, astronauts orbited Earth studying the planet’s atmosphere and the Sun, turning the shuttle into a flying observatory for our fragile air envelope.",
@@ -632,9 +609,34 @@
         ]
       },
       "match_reason": "A cosmic discovery about a comet and planetary impacts pairs naturally with an episode themed around \"space\" and creative emptiness, echoing the vastness of the solar system."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On 24 March 1721, Johann Sebastian Bach dedicated a set of six concertos to Margrave Christian Ludwig of Brandenburg-Schwedt, works that later became known as the Brandenburg Concertos. These pieces, forgotten for more than a century, are now celebrated as some of the most inventive and joyful orchestral music of the Baroque era.",
+      "fact_year": 1721,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach",
+      "episode": {
+        "id": 27,
+        "title": "Morning Drops #27 - Endless Summer",
+        "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
+        "songs": [
+          "Nik Bärtsch - Modul 14",
+          "Mama Terra - Chameleon (Single Edit)",
+          "Spyro Gyra - Morning Dance",
+          "Yussef Kamaal - Black Focus"
+        ],
+        "music-genres": [
+          "Minimal Jazz",
+          "Nu Jazz",
+          "Jazz Fusion",
+          "UK Jazz"
+        ]
+      },
+      "match_reason": "Bach’s intricate, timeless concertos resonate with an episode built around sophisticated, enduring instrumental music and a sense of calm, crafted structure."
     }
   ],
   "generated_at": "2026-03-24T00:00:00.010296+00:00",
   "date": "2026-03-24",
-  "updated_at": "2026-03-24T00:01:37.710533+00:00"
+  "updated_at": "2026-03-24T01:00:01.854698+00:00"
 }
