@@ -1,56 +1,31 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "On March 25, 1821, Greeks traditionally mark the start of the Greek War of Independence against the Ottoman Empire, even though skirmishes had begun earlier. The date blends myth, religion, and rebellion into one symbolic birthday for a modern nation, showing how revolutions are as much stories as they are battles.",
-    "fact_year": 1821,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Greek_War_of_Independence",
+    "hour": 6,
+    "fact_text": "In 1776, during the American Revolutionary War, Patriot forces raided Georgia’s Tybee Island—not to attack British troops, but to recapture enslaved people who had sought refuge with them. The episode reveals how the struggle for independence coexisted with, and sometimes protected, the institution of slavery.",
+    "fact_year": 1776,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Raid_on_Tybee_Island",
     "episode": {
-      "id": 17,
-      "title": "Morning Drops #11 - Mediterranean Boat",
-      "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
+      "id": 56,
+      "title": "Morning Drops #49 - Rage Against The Machine",
+      "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
       "songs": [
-        "Arleta - Bar To Navagio",
-        "Baba Zula - Tavla",
-        "Mylène Farmer - Désenchantée",
-        "Fabrizio De André - Crêuza de mä"
+        "Rage Against the Machine - Bombtrack",
+        "Rage Against the Machine - Killing in the Name",
+        "Rage Against the Machine - Without a Face",
+        "Rage Against the Machine - Guerrilla Radio",
+        "Rage Against the Machine - Sleep Now in the Fire"
       ],
       "music-genres": [
-        "Greek Folk",
-        "Turkish Psychedelic",
-        "French Pop",
-        "Italian Singer-Songwriter"
+        "Rap Metal",
+        "Political Rock",
+        "Alternative Metal"
       ]
     },
-    "match_reason": "A Mediterranean uprising for Greek independence pairs with a cross-Mediterranean musical voyage, with Greek folk already on board as a sonic flag."
+    "match_reason": "A raid exposing the contradictions of ‘freedom’ aligns with an episode centered on Rage Against the Machine, whose music relentlessly interrogates power, liberation, and hypocrisy."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "In 1776, during the American Revolutionary War, Patriot forces raided Georgia’s Tybee Island—not to attack British troops, but to recapture enslaved people who had sought refuge with them. The episode reveals how the struggle for independence coexisted with, and sometimes protected, the institution of slavery.",
-      "fact_year": 1776,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Raid_on_Tybee_Island",
-      "episode": {
-        "id": 56,
-        "title": "Morning Drops #49 - Rage Against The Machine",
-        "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
-        "songs": [
-          "Rage Against the Machine - Bombtrack",
-          "Rage Against the Machine - Killing in the Name",
-          "Rage Against the Machine - Without a Face",
-          "Rage Against the Machine - Guerrilla Radio",
-          "Rage Against the Machine - Sleep Now in the Fire"
-        ],
-        "music-genres": [
-          "Rap Metal",
-          "Political Rock",
-          "Alternative Metal"
-        ]
-      },
-      "match_reason": "A raid exposing the contradictions of ‘freedom’ aligns with an episode centered on Rage Against the Machine, whose music relentlessly interrogates power, liberation, and hypocrisy."
-    },
     {
       "hour": 7,
       "fact_text": "On this day in 1941, the Kingdom of Yugoslavia signed the Tripartite Pact and formally joined the Axis powers, a move so unpopular it helped trigger a coup just two days later. The country’s brief alignment with Nazi Germany and its allies shows how quickly political alliances can shift under pressure—and how quickly people can push back.",
@@ -633,9 +608,34 @@
         ]
       },
       "match_reason": "A Mediterranean uprising for Greek independence pairs with a cross-Mediterranean musical voyage, with Greek folk already on board as a sonic flag."
+    },
+    {
+      "hour": 6,
+      "fact_text": "In 1776, during the American Revolutionary War, Patriot forces raided Georgia’s Tybee Island—not to attack British troops, but to recapture enslaved people who had sought refuge with them. The episode reveals how the struggle for independence coexisted with, and sometimes protected, the institution of slavery.",
+      "fact_year": 1776,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Raid_on_Tybee_Island",
+      "episode": {
+        "id": 56,
+        "title": "Morning Drops #49 - Rage Against The Machine",
+        "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
+        "songs": [
+          "Rage Against the Machine - Bombtrack",
+          "Rage Against the Machine - Killing in the Name",
+          "Rage Against the Machine - Without a Face",
+          "Rage Against the Machine - Guerrilla Radio",
+          "Rage Against the Machine - Sleep Now in the Fire"
+        ],
+        "music-genres": [
+          "Rap Metal",
+          "Political Rock",
+          "Alternative Metal"
+        ]
+      },
+      "match_reason": "A raid exposing the contradictions of ‘freedom’ aligns with an episode centered on Rage Against the Machine, whose music relentlessly interrogates power, liberation, and hypocrisy."
     }
   ],
   "generated_at": "2026-03-25T00:00:00.011791+00:00",
   "date": "2026-03-25",
-  "updated_at": "2026-03-25T05:00:01.571398+00:00"
+  "updated_at": "2026-03-25T06:00:01.681271+00:00"
 }
