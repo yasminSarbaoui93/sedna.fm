@@ -1,56 +1,31 @@
 {
-  "current_hour": 14,
+  "current_hour": 15,
   "current_fact": {
-    "hour": 14,
-    "fact_text": "On March 25, 1949, the Soviet Union launched Operation Priboi, deporting more than 92,000 people—labeled \"kulaks\" and other \"enemies\"—from the Baltic states to remote regions of Siberia in just a few days. Entire families were taken in night raids, their lives compressed into cattle cars and a single suitcase.",
-    "fact_year": 1949,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Priboi",
+    "hour": 15,
+    "fact_text": "On March 25, 1971, South Vietnamese forces abandoned Operation Lam Son 719, a major attempt to cut the Ho Chi Minh trail in Laos. The operation’s retreat exposed the difficulties of “Vietnamization” and showed how jungle geography, logistics, and morale can matter as much as raw firepower.",
+    "fact_year": 1971,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Lam_Son_719",
     "episode": {
-      "id": 26,
-      "title": "Morning Drops #20 - Hitchhiking Poland",
-      "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
+      "id": 41,
+      "title": "Morning Drops #35 - Thailand",
+      "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
       "songs": [
-        "Pidżama Porno - Ezoteryczny Poznań",
-        "Seev, Masswo - Primal Scream",
-        "Antoha MC - Ритм сердца",
-        "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
+        "Salin - Egungun",
+        "Justin Bieber - Love Yourself",
+        "Khun Narin - Phua Kao",
+        "Burna Boy - Cheat on Me (feat. Dave)"
       ],
       "music-genres": [
-        "Polish Rock",
-        "Electronic",
-        "Russian Rap",
-        "Slavic Folk Rock"
+        "Afrobeat",
+        "Pop",
+        "Thai Funk",
+        "Afro-Fusion"
       ]
     },
-    "match_reason": "A mass deportation from Eastern Europe is paired with an episode traveling through nearby Polish and Slavic landscapes, hinting at the region’s heavy historical shadows beneath today’s journeys."
+    "match_reason": "A fraught Southeast Asian military campaign is juxtaposed with an episode set in peaceful, contemporary Thailand, transforming a region once defined by war into a space of discipline and healing movement."
   },
   "queue": [
-    {
-      "hour": 15,
-      "fact_text": "On March 25, 1971, South Vietnamese forces abandoned Operation Lam Son 719, a major attempt to cut the Ho Chi Minh trail in Laos. The operation’s retreat exposed the difficulties of “Vietnamization” and showed how jungle geography, logistics, and morale can matter as much as raw firepower.",
-      "fact_year": 1971,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Lam_Son_719",
-      "episode": {
-        "id": 41,
-        "title": "Morning Drops #35 - Thailand",
-        "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
-        "songs": [
-          "Salin - Egungun",
-          "Justin Bieber - Love Yourself",
-          "Khun Narin - Phua Kao",
-          "Burna Boy - Cheat on Me (feat. Dave)"
-        ],
-        "music-genres": [
-          "Afrobeat",
-          "Pop",
-          "Thai Funk",
-          "Afro-Fusion"
-        ]
-      },
-      "match_reason": "A fraught Southeast Asian military campaign is juxtaposed with an episode set in peaceful, contemporary Thailand, transforming a region once defined by war into a space of discipline and healing movement."
-    },
     {
       "hour": 16,
       "fact_text": "On March 25, 1995, Ward Cunningham made the WikiWikiWeb public, creating the first true wiki—an editable website where anyone could modify pages directly in the browser. The name itself came from the Hawaiian word for “quick,” and the concept quietly rewired how humans collaborate, laying the groundwork for everything from fan communities to Wikipedia.",
@@ -632,9 +607,34 @@
         ]
       },
       "match_reason": "A mass deportation from Eastern Europe is paired with an episode traveling through nearby Polish and Slavic landscapes, hinting at the region’s heavy historical shadows beneath today’s journeys."
+    },
+    {
+      "hour": 15,
+      "fact_text": "On March 25, 1971, South Vietnamese forces abandoned Operation Lam Son 719, a major attempt to cut the Ho Chi Minh trail in Laos. The operation’s retreat exposed the difficulties of “Vietnamization” and showed how jungle geography, logistics, and morale can matter as much as raw firepower.",
+      "fact_year": 1971,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Lam_Son_719",
+      "episode": {
+        "id": 41,
+        "title": "Morning Drops #35 - Thailand",
+        "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
+        "songs": [
+          "Salin - Egungun",
+          "Justin Bieber - Love Yourself",
+          "Khun Narin - Phua Kao",
+          "Burna Boy - Cheat on Me (feat. Dave)"
+        ],
+        "music-genres": [
+          "Afrobeat",
+          "Pop",
+          "Thai Funk",
+          "Afro-Fusion"
+        ]
+      },
+      "match_reason": "A fraught Southeast Asian military campaign is juxtaposed with an episode set in peaceful, contemporary Thailand, transforming a region once defined by war into a space of discipline and healing movement."
     }
   ],
   "generated_at": "2026-03-25T00:00:00.012059+00:00",
   "date": "2026-03-25",
-  "updated_at": "2026-03-25T14:00:01.718375+00:00"
+  "updated_at": "2026-03-25T15:00:01.688764+00:00"
 }
