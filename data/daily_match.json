@@ -1,57 +1,30 @@
 {
-  "current_hour": 8,
+  "current_hour": 9,
   "current_fact": {
-    "hour": 8,
-    "fact_text": "In 1949, over 92,000 people—labeled ‘kulaks’, along with their families—were deported overnight from the Baltic states to Siberia in a Soviet operation code-named Priboi. Entire communities were loaded into cattle cars in a matter of hours, turning a quiet March night into the beginning of decades-long exile.",
-    "fact_year": 1949,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Priboi",
+    "hour": 9,
+    "fact_text": "In 1971, the Army of the Republic of Vietnam abandoned Operation Lam Son 719, their attempt to sever the Ho Chi Minh Trail through Laos. The withdrawal underscored how vital that hidden network of jungle roads and footpaths was—and how difficult it was to cut a supply line that was as much landscape as infrastructure.",
+    "fact_year": 1971,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Lam_Son_719",
     "episode": {
-      "id": 50,
-      "title": "Morning Drops #43 - Looking Back",
-      "description": "In this first Morning Drop of 2026, Yasmin opens a space for quiet reflection on the nature of transitions. The episode traces a personal journey that began three years ago, when a sudden injury on New Year’s Day turned a desire for movement into a mandatory season of stillness.\n\nThrough the story of a broken knee and the slow process of relearning to walk, the narrative explores the difference between being strong and being aware. It touches on the vulnerability of the body, the unexpected joy found in daily progress, and the warmth that comes from finally allowing oneself to accept help. The musical selection mirrors this path of recovery, moving from the uncertainty of change to the steady rhythm of healing.\n\nMood: Reflective, Resilient, Grounded\nMusic genre: Indie Pop, Cinematic, World, Soul\n\nWe invite you to listen deeply and find comfort in your own pace.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-looking-back",
+      "id": 22,
+      "title": "Morning Drops #16 - The Sound of Tuareg",
+      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
       "songs": [
-        "Alt-J - 3WW",
-        "Kelly Finnigan - I Don't Wanna Wait",
-        "Goran Bregović & Iggy Pop - This Is a Film",
-        "Ishihonana - Lucia (Original Mix)",
-        "The Weeknd - Save Your Tears"
+        "Les Filles de Illighadad - Imigradan",
+        "Tinariwen - Amassakoul ’N’ Ténéré",
+        "Liya Ag Ablil - Awa Adounia",
+        "Tinariwen - Sastanàqqàm"
       ],
       "music-genres": [
-        "Indie Pop",
-        "Soul",
-        "World",
-        "Cinematic",
-        "Synth-Pop"
+        "Desert Blues",
+        "Tuareg",
+        "World Music"
       ]
     },
-    "match_reason": "Mass deportation and long exile demand a reflective space; this episode’s focus on slow healing and looking back gives emotional room to contemplate such forced, life-altering journeys."
+    "match_reason": "A covert trail through forests and mountains meets an episode about desert routes, exile, and resistance—both stories of how geography and movement shape long, drawn-out conflicts."
   },
   "queue": [
-    {
-      "hour": 9,
-      "fact_text": "In 1971, the Army of the Republic of Vietnam abandoned Operation Lam Son 719, their attempt to sever the Ho Chi Minh Trail through Laos. The withdrawal underscored how vital that hidden network of jungle roads and footpaths was—and how difficult it was to cut a supply line that was as much landscape as infrastructure.",
-      "fact_year": 1971,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Lam_Son_719",
-      "episode": {
-        "id": 22,
-        "title": "Morning Drops #16 - The Sound of Tuareg",
-        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
-        "songs": [
-          "Les Filles de Illighadad - Imigradan",
-          "Tinariwen - Amassakoul ’N’ Ténéré",
-          "Liya Ag Ablil - Awa Adounia",
-          "Tinariwen - Sastanàqqàm"
-        ],
-        "music-genres": [
-          "Desert Blues",
-          "Tuareg",
-          "World Music"
-        ]
-      },
-      "match_reason": "A covert trail through forests and mountains meets an episode about desert routes, exile, and resistance—both stories of how geography and movement shape long, drawn-out conflicts."
-    },
     {
       "hour": 10,
       "fact_text": "On March 25, 2018, after Turkey’s Afrin offensive in northern Syria, the Syrian Democratic Forces shifted from conventional defense to an insurgency against the new occupation. The battle didn’t end so much as change shape, dissolving into ambushes, sabotage, and a long, low hum of resistance.",
@@ -635,9 +608,33 @@
         ]
       },
       "match_reason": "Mass deportation and long exile demand a reflective space; this episode’s focus on slow healing and looking back gives emotional room to contemplate such forced, life-altering journeys."
+    },
+    {
+      "hour": 9,
+      "fact_text": "In 1971, the Army of the Republic of Vietnam abandoned Operation Lam Son 719, their attempt to sever the Ho Chi Minh Trail through Laos. The withdrawal underscored how vital that hidden network of jungle roads and footpaths was—and how difficult it was to cut a supply line that was as much landscape as infrastructure.",
+      "fact_year": 1971,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Lam_Son_719",
+      "episode": {
+        "id": 22,
+        "title": "Morning Drops #16 - The Sound of Tuareg",
+        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+        "songs": [
+          "Les Filles de Illighadad - Imigradan",
+          "Tinariwen - Amassakoul ’N’ Ténéré",
+          "Liya Ag Ablil - Awa Adounia",
+          "Tinariwen - Sastanàqqàm"
+        ],
+        "music-genres": [
+          "Desert Blues",
+          "Tuareg",
+          "World Music"
+        ]
+      },
+      "match_reason": "A covert trail through forests and mountains meets an episode about desert routes, exile, and resistance—both stories of how geography and movement shape long, drawn-out conflicts."
     }
   ],
   "generated_at": "2026-03-25T00:00:00.011791+00:00",
   "date": "2026-03-25",
-  "updated_at": "2026-03-25T08:00:01.527713+00:00"
+  "updated_at": "2026-03-25T09:00:01.958604+00:00"
 }
