@@ -1,56 +1,31 @@
 {
-  "current_hour": 2,
+  "current_hour": 3,
   "current_fact": {
-    "hour": 2,
-    "fact_text": "In 1948, meteorologists at Tinker Air Force Base in Oklahoma issued the first successful tornado forecast, predicting a tornado that did in fact strike the base later that day. It was a controversial act at the time—tornado prediction was considered too uncertain and even panic-inducing—yet it opened the door to the modern tornado warning systems that save lives today.",
-    "fact_year": 1948,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1948_Tinker_Air_Force_Base_tornadoes",
+    "hour": 3,
+    "fact_text": "On March 25, 1821, Greeks mark the traditional beginning of their War of Independence against the Ottoman Empire, even though fighting had already started a month earlier. The chosen date intertwined rebellion with religious symbolism, aligning the uprising with the Feast of the Annunciation and turning a political struggle into a sacred national narrative.",
+    "fact_year": 1821,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Greek_War_of_Independence",
     "episode": {
-      "id": 52,
-      "title": "Morning Drops #45 - It Can't Rain Forever",
-      "description": "In this first broadcast of 2026, Gaia returns from the vivid landscapes of Morocco to open a space for reflection. This episode navigates the delicate transition between closing a significant chapter and stepping into the new year. It explores the concept of constancy amidst change, celebrating the grounding force of friendship and the creative sanctuary that is Sedna FM.\n\nThe musical selection mirrors this journey, moving from the orchestral depth of changing seasons into the golden warmth of psychedelic soul. It recalls memories of Swiss mountains and unexpected downpours, reminding us that shared optimism can weather any storm.\n\nTake a moment to breathe in the new morning and listen deeply.\n\nMood: Reflective, Warm, Transitional, Hopeful\nMusic genre: Classic Rock, Psychedelic Soul, Pop Rock, Soft Rock",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-it-cant-rain-forever",
+      "id": 17,
+      "title": "Morning Drops #11 - Mediterranean Boat",
+      "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
       "songs": [
-        "Led Zeppelin - The Rain Song",
-        "Khruangbin & Leon Bridges - Texas Sun",
-        "Dragon - Rain",
-        "Fleetwood Mac - Don't Stop"
+        "Arleta - Bar To Navagio",
+        "Baba Zula - Tavla",
+        "Mylène Farmer - Désenchantée",
+        "Fabrizio De André - Crêuza de mä"
       ],
       "music-genres": [
-        "Classic Rock",
-        "Psychedelic Soul",
-        "Pop Rock",
-        "Soft Rock"
+        "Greek Folk",
+        "Turkish Psychedelic",
+        "French Pop",
+        "Italian Singer-Songwriter"
       ]
     },
-    "match_reason": "A story about confronting violent weather connects naturally with an episode built around rain, storms, and the hope that they eventually pass."
+    "match_reason": "A pivotal Greek Mediterranean uprising pairs with a sea-themed episode that sails through Greek and neighboring coastal sounds."
   },
   "queue": [
-    {
-      "hour": 3,
-      "fact_text": "On March 25, 1821, Greeks mark the traditional beginning of their War of Independence against the Ottoman Empire, even though fighting had already started a month earlier. The chosen date intertwined rebellion with religious symbolism, aligning the uprising with the Feast of the Annunciation and turning a political struggle into a sacred national narrative.",
-      "fact_year": 1821,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Greek_War_of_Independence",
-      "episode": {
-        "id": 17,
-        "title": "Morning Drops #11 - Mediterranean Boat",
-        "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
-        "songs": [
-          "Arleta - Bar To Navagio",
-          "Baba Zula - Tavla",
-          "Mylène Farmer - Désenchantée",
-          "Fabrizio De André - Crêuza de mä"
-        ],
-        "music-genres": [
-          "Greek Folk",
-          "Turkish Psychedelic",
-          "French Pop",
-          "Italian Singer-Songwriter"
-        ]
-      },
-      "match_reason": "A pivotal Greek Mediterranean uprising pairs with a sea-themed episode that sails through Greek and neighboring coastal sounds."
-    },
     {
       "hour": 4,
       "fact_text": "In 1725, Johann Sebastian Bach’s chorale cantata \"Wie schön leuchtet der Morgenstern\" (BWV 1) was first performed on the Feast of the Annunciation, which that year coincided with Palm Sunday. The piece weaves a Lutheran hymn into a luminous tapestry for choir and orchestra, turning a single congregational song into an intricate universe of sound.",
@@ -632,9 +607,34 @@
         ]
       },
       "match_reason": "A story about confronting violent weather connects naturally with an episode built around rain, storms, and the hope that they eventually pass."
+    },
+    {
+      "hour": 3,
+      "fact_text": "On March 25, 1821, Greeks mark the traditional beginning of their War of Independence against the Ottoman Empire, even though fighting had already started a month earlier. The chosen date intertwined rebellion with religious symbolism, aligning the uprising with the Feast of the Annunciation and turning a political struggle into a sacred national narrative.",
+      "fact_year": 1821,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Greek_War_of_Independence",
+      "episode": {
+        "id": 17,
+        "title": "Morning Drops #11 - Mediterranean Boat",
+        "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
+        "songs": [
+          "Arleta - Bar To Navagio",
+          "Baba Zula - Tavla",
+          "Mylène Farmer - Désenchantée",
+          "Fabrizio De André - Crêuza de mä"
+        ],
+        "music-genres": [
+          "Greek Folk",
+          "Turkish Psychedelic",
+          "French Pop",
+          "Italian Singer-Songwriter"
+        ]
+      },
+      "match_reason": "A pivotal Greek Mediterranean uprising pairs with a sea-themed episode that sails through Greek and neighboring coastal sounds."
     }
   ],
   "generated_at": "2026-03-25T00:00:00.012059+00:00",
   "date": "2026-03-25",
-  "updated_at": "2026-03-25T02:00:01.702522+00:00"
+  "updated_at": "2026-03-25T03:00:01.562597+00:00"
 }
