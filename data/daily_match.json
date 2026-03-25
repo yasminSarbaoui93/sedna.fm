@@ -1,54 +1,30 @@
 {
-  "current_hour": 20,
+  "current_hour": 21,
   "current_fact": {
-    "hour": 20,
-    "fact_text": "On March 25, 2018, after Turkish-led forces took Afrin in northern Syria, the Syrian Democratic Forces launched an insurgency rather than accepting defeat. The conflict slipped from front lines into backstreets and olive groves, becoming a long game of endurance and adaptation.",
-    "fact_year": 2018,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Syrian_Democratic_Forces",
+    "hour": 21,
+    "fact_text": "On March 25, 1655, when Huygens found Titan, he also helped confirm that Saturn’s mysterious “appendages” were actually a ring system—an idea he had already proposed. The combination of a ringed planet and a large moon turned Saturn from a fuzzy dot into a miniature solar system of its own.",
+    "fact_year": 1655,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Saturn",
     "episode": {
-      "id": 22,
-      "title": "Morning Drops #16 - The Sound of Tuareg",
-      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+      "id": 55,
+      "title": "Morning Drops #48 - Cosmic Monday",
+      "description": "Cosmic Monday is a Morning Drops episode built around four Italian dance records, tracing how disco rhythms slowly became electronic language.\nGaia moves through four tracks like chapters: groove first, then machines, then that bright, futuristic feeling you only get when the bassline is doing the talking. It's not nostalgia, exactly. It's more like returning to a sound that still works — especially on mornings when you need a little extra energy, but you don't want anything aggressive.\nTake it as a slow transmission. Let it carry you into the day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-cosmic-monday",
       "songs": [
-        "Les Filles de Illighadad - Imigradan",
-        "Tinariwen - Amassakoul ’N’ Ténéré",
-        "Liya Ag Ablil - Awa Adounia",
-        "Tinariwen - Sastanàqqàm"
+        "Giovanotti Mondani Meccanici - Don't Ask Me Why",
+        "Azoto - Sal Salvador",
+        "Capricorn - I Need Love",
+        "Cosmic Disco - Cosmic Sprint"
       ],
       "music-genres": [
-        "Desert Blues",
-        "Tuareg",
-        "World Music"
+        "Italo Disco",
+        "Disco",
+        "Electronic"
       ]
     },
-    "match_reason": "Both the Afrin insurgency and Tuareg desert blues are stories of people who refuse to disappear, adapting to rough terrain and continued occupation with slow, resilient forms of resistance."
+    "match_reason": "Saturn’s rings and moons feel like a natural visual for a ‘Cosmic Monday’, where orbits become dancefloors and the planet’s architecture mirrors looping, electronic grooves."
   },
   "queue": [
-    {
-      "hour": 21,
-      "fact_text": "On March 25, 1655, when Huygens found Titan, he also helped confirm that Saturn’s mysterious “appendages” were actually a ring system—an idea he had already proposed. The combination of a ringed planet and a large moon turned Saturn from a fuzzy dot into a miniature solar system of its own.",
-      "fact_year": 1655,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Saturn",
-      "episode": {
-        "id": 55,
-        "title": "Morning Drops #48 - Cosmic Monday",
-        "description": "Cosmic Monday is a Morning Drops episode built around four Italian dance records, tracing how disco rhythms slowly became electronic language.\nGaia moves through four tracks like chapters: groove first, then machines, then that bright, futuristic feeling you only get when the bassline is doing the talking. It's not nostalgia, exactly. It's more like returning to a sound that still works — especially on mornings when you need a little extra energy, but you don't want anything aggressive.\nTake it as a slow transmission. Let it carry you into the day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-cosmic-monday",
-        "songs": [
-          "Giovanotti Mondani Meccanici - Don't Ask Me Why",
-          "Azoto - Sal Salvador",
-          "Capricorn - I Need Love",
-          "Cosmic Disco - Cosmic Sprint"
-        ],
-        "music-genres": [
-          "Italo Disco",
-          "Disco",
-          "Electronic"
-        ]
-      },
-      "match_reason": "Saturn’s rings and moons feel like a natural visual for a ‘Cosmic Monday’, where orbits become dancefloors and the planet’s architecture mirrors looping, electronic grooves."
-    },
     {
       "hour": 22,
       "fact_text": "On this day in 1708, that same French invasion fleet off Fife Ness carried not only soldiers but also the hopes of Jacobite exiles who had built a whole identity around returning home. When the attempt failed, many of those hopes had to be rewritten, reshaping personal stories as much as political ones.",
@@ -632,9 +608,33 @@
         ]
       },
       "match_reason": "Both the Afrin insurgency and Tuareg desert blues are stories of people who refuse to disappear, adapting to rough terrain and continued occupation with slow, resilient forms of resistance."
+    },
+    {
+      "hour": 21,
+      "fact_text": "On March 25, 1655, when Huygens found Titan, he also helped confirm that Saturn’s mysterious “appendages” were actually a ring system—an idea he had already proposed. The combination of a ringed planet and a large moon turned Saturn from a fuzzy dot into a miniature solar system of its own.",
+      "fact_year": 1655,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Saturn",
+      "episode": {
+        "id": 55,
+        "title": "Morning Drops #48 - Cosmic Monday",
+        "description": "Cosmic Monday is a Morning Drops episode built around four Italian dance records, tracing how disco rhythms slowly became electronic language.\nGaia moves through four tracks like chapters: groove first, then machines, then that bright, futuristic feeling you only get when the bassline is doing the talking. It's not nostalgia, exactly. It's more like returning to a sound that still works — especially on mornings when you need a little extra energy, but you don't want anything aggressive.\nTake it as a slow transmission. Let it carry you into the day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-cosmic-monday",
+        "songs": [
+          "Giovanotti Mondani Meccanici - Don't Ask Me Why",
+          "Azoto - Sal Salvador",
+          "Capricorn - I Need Love",
+          "Cosmic Disco - Cosmic Sprint"
+        ],
+        "music-genres": [
+          "Italo Disco",
+          "Disco",
+          "Electronic"
+        ]
+      },
+      "match_reason": "Saturn’s rings and moons feel like a natural visual for a ‘Cosmic Monday’, where orbits become dancefloors and the planet’s architecture mirrors looping, electronic grooves."
     }
   ],
   "generated_at": "2026-03-25T00:00:00.011791+00:00",
   "date": "2026-03-25",
-  "updated_at": "2026-03-25T20:00:01.687220+00:00"
+  "updated_at": "2026-03-25T21:00:01.457579+00:00"
 }
