@@ -1,59 +1,31 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On March 26, 1700, English navigator and naturalist William Dampier completed his circumnavigation of New Britain, proving it was an island separate from New Guinea. His logbooks combined pirate adventures with careful observations of plants, animals, and currents, making him one of the earliest scientist-explorers of the Pacific.",
-    "fact_year": 1700,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/William_Dampier",
+    "hour": 2,
+    "fact_text": "On March 26, 1812, a magnitude 7.7 earthquake struck near Caracas, Venezuela, devastating the city and surrounding valleys. Entire churches collapsed during Holy Thursday services, and the disaster reshaped both the landscape and the politics of a region already on the brink of independence.",
+    "fact_year": 1812,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1812_Caracas_earthquake",
     "episode": {
-      "id": 37,
-      "title": "Morning Drops #31 - Sailing With Germans",
-      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+      "id": 11,
+      "title": "Morning Drops #05 - Electric Shock",
+      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
       "songs": [
-        "Billy Talent - Dead Silence",
-        "Ben Howard - Keep Your Head Up",
-        "Ziggy Alberts - Simple Things",
-        "Vitor Kley - O Sol",
-        "Enya - Orinoco Flow",
-        "Paveier - Leev Marie"
+        "Johnny Winter - Highway 61 Revisited",
+        "Joan Armatrading - Sleight of Hand",
+        "Joan Armatrading - Russian Roulette",
+        "Jimi Hendrix - Freedom",
+        "Jeff Beck - Scatterbrain"
       ],
       "music-genres": [
-        "Punk Rock",
-        "Indie Folk",
-        "Surf Pop",
-        "New Age",
-        "German Folk"
+        "Blues Rock",
+        "Rock",
+        "Electric Blues"
       ]
     },
-    "match_reason": "A maritime voyage of discovery fits with an episode literally recorded at sea and steeped in sailing imagery."
+    "match_reason": "A sudden, disruptive ‘shock’ from the Earth is mirrored by high-voltage rock meant to jolt listeners awake."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "On March 26, 1812, a magnitude 7.7 earthquake struck near Caracas, Venezuela, devastating the city and surrounding valleys. Entire churches collapsed during Holy Thursday services, and the disaster reshaped both the landscape and the politics of a region already on the brink of independence.",
-      "fact_year": 1812,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1812_Caracas_earthquake",
-      "episode": {
-        "id": 11,
-        "title": "Morning Drops #05 - Electric Shock",
-        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
-        "songs": [
-          "Johnny Winter - Highway 61 Revisited",
-          "Joan Armatrading - Sleight of Hand",
-          "Joan Armatrading - Russian Roulette",
-          "Jimi Hendrix - Freedom",
-          "Jeff Beck - Scatterbrain"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Rock",
-          "Electric Blues"
-        ]
-      },
-      "match_reason": "A sudden, disruptive ‘shock’ from the Earth is mirrored by high-voltage rock meant to jolt listeners awake."
-    },
     {
       "hour": 3,
       "fact_text": "On March 26, 1640, the Royal Academy of Turku was founded, becoming the first university in what is now Finland. For nearly two centuries it served as a northern outpost of scholarship, where Latin lectures echoed through wooden halls amid snow and Baltic winds.",
@@ -653,9 +625,34 @@
         ]
       },
       "match_reason": "A maritime voyage of discovery fits with an episode literally recorded at sea and steeped in sailing imagery."
+    },
+    {
+      "hour": 2,
+      "fact_text": "On March 26, 1812, a magnitude 7.7 earthquake struck near Caracas, Venezuela, devastating the city and surrounding valleys. Entire churches collapsed during Holy Thursday services, and the disaster reshaped both the landscape and the politics of a region already on the brink of independence.",
+      "fact_year": 1812,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1812_Caracas_earthquake",
+      "episode": {
+        "id": 11,
+        "title": "Morning Drops #05 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "songs": [
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
+        ]
+      },
+      "match_reason": "A sudden, disruptive ‘shock’ from the Earth is mirrored by high-voltage rock meant to jolt listeners awake."
     }
   ],
   "generated_at": "2026-03-26T00:00:00.019289+00:00",
   "date": "2026-03-26",
-  "updated_at": "2026-03-26T01:00:01.752420+00:00"
+  "updated_at": "2026-03-26T02:00:01.439438+00:00"
 }
