@@ -1,55 +1,30 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "On March 26, 1812, a devastating magnitude 7.7 earthquake struck Caracas, Venezuela, collapsing churches mid‑mass and triggering landslides that reshaped the surrounding valleys. The disaster became entangled with politics and faith, as some leaders framed it as divine judgment while others saw it as a harsh lesson in geology, not theology.",
-    "fact_year": 1812,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1812_Caracas_earthquake",
+    "hour": 4,
+    "fact_text": "On March 26, 1885, the Métis of the District of Saskatchewan, led by Louis Riel, began the North-West Rebellion against the Canadian government. It was a short, intense uprising fueled by land rights, broken promises, and the refusal of a mixed Indigenous people to let their culture be quietly erased.",
+    "fact_year": 1885,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Louis_Riel",
     "episode": {
-      "id": 52,
-      "title": "Morning Drops #45 - It Can't Rain Forever",
-      "description": "In this first broadcast of 2026, Gaia returns from the vivid landscapes of Morocco to open a space for reflection. This episode navigates the delicate transition between closing a significant chapter and stepping into the new year. It explores the concept of constancy amidst change, celebrating the grounding force of friendship and the creative sanctuary that is Sedna FM.\n\nThe musical selection mirrors this journey, moving from the orchestral depth of changing seasons into the golden warmth of psychedelic soul. It recalls memories of Swiss mountains and unexpected downpours, reminding us that shared optimism can weather any storm.\n\nTake a moment to breathe in the new morning and listen deeply.\n\nMood: Reflective, Warm, Transitional, Hopeful\nMusic genre: Classic Rock, Psychedelic Soul, Pop Rock, Soft Rock",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-it-cant-rain-forever",
+      "id": 22,
+      "title": "Morning Drops #16 - The Sound of Tuareg",
+      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
       "songs": [
-        "Led Zeppelin - The Rain Song",
-        "Khruangbin & Leon Bridges - Texas Sun",
-        "Dragon - Rain",
-        "Fleetwood Mac - Don't Stop"
+        "Les Filles de Illighadad - Imigradan",
+        "Tinariwen - Amassakoul ’N’ Ténéré",
+        "Liya Ag Ablil - Awa Adounia",
+        "Tinariwen - Sastanàqqàm"
       ],
       "music-genres": [
-        "Classic Rock",
-        "Psychedelic Soul",
-        "Pop Rock",
-        "Soft Rock"
+        "Desert Blues",
+        "Tuareg",
+        "World Music"
       ]
     },
-    "match_reason": "A catastrophic earthquake and an episode about weathering storms both deal with ruptures in the ground beneath us and the fragile, hopeful work of rebuilding afterward."
+    "match_reason": "A struggle by the Métis to defend land and identity resonates with Tuareg music born from exile and resistance, both telling stories of borderlands and survival in their own rhythms."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "On March 26, 1885, the Métis of the District of Saskatchewan, led by Louis Riel, began the North-West Rebellion against the Canadian government. It was a short, intense uprising fueled by land rights, broken promises, and the refusal of a mixed Indigenous people to let their culture be quietly erased.",
-      "fact_year": 1885,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Louis_Riel",
-      "episode": {
-        "id": 22,
-        "title": "Morning Drops #16 - The Sound of Tuareg",
-        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
-        "songs": [
-          "Les Filles de Illighadad - Imigradan",
-          "Tinariwen - Amassakoul ’N’ Ténéré",
-          "Liya Ag Ablil - Awa Adounia",
-          "Tinariwen - Sastanàqqàm"
-        ],
-        "music-genres": [
-          "Desert Blues",
-          "Tuareg",
-          "World Music"
-        ]
-      },
-      "match_reason": "A struggle by the Métis to defend land and identity resonates with Tuareg music born from exile and resistance, both telling stories of borderlands and survival in their own rhythms."
-    },
     {
       "hour": 5,
       "fact_text": "On March 26, 1939, Spanish Nationalist forces launched their final offensive of the Spanish Civil War, a swift campaign that shattered the last Republican resistance. Within days Madrid fell, and with it, Spain slipped into a decades‑long dictatorship under Francisco Franco.",
@@ -637,9 +612,33 @@
         ]
       },
       "match_reason": "A catastrophic earthquake and an episode about weathering storms both deal with ruptures in the ground beneath us and the fragile, hopeful work of rebuilding afterward."
+    },
+    {
+      "hour": 4,
+      "fact_text": "On March 26, 1885, the Métis of the District of Saskatchewan, led by Louis Riel, began the North-West Rebellion against the Canadian government. It was a short, intense uprising fueled by land rights, broken promises, and the refusal of a mixed Indigenous people to let their culture be quietly erased.",
+      "fact_year": 1885,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Louis_Riel",
+      "episode": {
+        "id": 22,
+        "title": "Morning Drops #16 - The Sound of Tuareg",
+        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+        "songs": [
+          "Les Filles de Illighadad - Imigradan",
+          "Tinariwen - Amassakoul ’N’ Ténéré",
+          "Liya Ag Ablil - Awa Adounia",
+          "Tinariwen - Sastanàqqàm"
+        ],
+        "music-genres": [
+          "Desert Blues",
+          "Tuareg",
+          "World Music"
+        ]
+      },
+      "match_reason": "A struggle by the Métis to defend land and identity resonates with Tuareg music born from exile and resistance, both telling stories of borderlands and survival in their own rhythms."
     }
   ],
   "generated_at": "2026-03-26T00:00:00.011573+00:00",
   "date": "2026-03-26",
-  "updated_at": "2026-03-26T03:00:01.771048+00:00"
+  "updated_at": "2026-03-26T04:00:02.771783+00:00"
 }
