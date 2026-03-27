@@ -1,55 +1,31 @@
 {
-  "current_hour": 21,
+  "current_hour": 22,
   "current_fact": {
-    "hour": 21,
-    "fact_text": "On March 27, 2004, Cuba awoke to a new television signal: TV Martí, part of Radio y Televisión Martí, beaming in U.S.-produced programming from offshore. Although heavily jammed, the station became a symbol of how deeply both governments understood that in the modern era, control of the story can matter as much as control of territory.",
-    "fact_year": 1990,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cuban_dissident_movement",
+    "hour": 22,
+    "fact_text": "In 1807–1814, the Peninsular War turned Iberia into a laboratory of alliances, with local Spanish forces, British troops, and exiled Portuguese and Polish soldiers all fighting Napoleon’s armies. The March 27, 1809 victory at Ciudad Real was a rare moment when Franco-Polish forces had the upper hand in a conflict otherwise marked by guerrilla warfare and stubborn resistance.",
+    "fact_year": 1809,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/First_French_Empire",
     "episode": {
-      "id": 19,
-      "title": "Morning Drops #13 - Demystifying Reggaeton",
-      "description": "Yasmin takes us on a journey through the real story of reggaeton — from its roots in Panama and Puerto Rico to its global evolution. Exploring the genre's history, influences, and cultural impact.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-demystifying-reggaeton",
+      "id": 44,
+      "title": "Morning Drops #38 - History of Flamenco",
+      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
       "songs": [
-        "Renato - Chica de los Ojos Café",
-        "B. F. Yaviah - Si Tu Quieres Fumar",
-        "Calle 13 - Atrévete",
-        "Bad Bunny - DtMF"
+        "La Niña de los Peines - Al Gurugú",
+        "Lola Flores - Pena, penita, pena",
+        "Paco de Lucía - Entre dos aguas",
+        "Camarón de la Isla - La leyenda del tiempo",
+        "Rosalía - Pienso en tu mirá"
       ],
       "music-genres": [
-        "Reggaeton",
-        "Latin Urban",
-        "Hip-Hop"
+        "Flamenco",
+        "Spanish Folk",
+        "Nuevo Flamenco"
       ]
     },
-    "match_reason": "U.S. broadcasts to Cuba sit alongside an episode about a pan–Latin American genre, both exploring how media flows, language, and rhythm cross borders despite efforts to block them."
+    "match_reason": "A Napoleonic battle on Spanish soil pairs with a deep dive into Spain’s own musical history, linking military campaigns to the cultural landscape they marched across."
   },
   "queue": [
-    {
-      "hour": 22,
-      "fact_text": "In 1807–1814, the Peninsular War turned Iberia into a laboratory of alliances, with local Spanish forces, British troops, and exiled Portuguese and Polish soldiers all fighting Napoleon’s armies. The March 27, 1809 victory at Ciudad Real was a rare moment when Franco-Polish forces had the upper hand in a conflict otherwise marked by guerrilla warfare and stubborn resistance.",
-      "fact_year": 1809,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/First_French_Empire",
-      "episode": {
-        "id": 44,
-        "title": "Morning Drops #38 - History of Flamenco",
-        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
-        "songs": [
-          "La Niña de los Peines - Al Gurugú",
-          "Lola Flores - Pena, penita, pena",
-          "Paco de Lucía - Entre dos aguas",
-          "Camarón de la Isla - La leyenda del tiempo",
-          "Rosalía - Pienso en tu mirá"
-        ],
-        "music-genres": [
-          "Flamenco",
-          "Spanish Folk",
-          "Nuevo Flamenco"
-        ]
-      },
-      "match_reason": "A Napoleonic battle on Spanish soil pairs with a deep dive into Spain’s own musical history, linking military campaigns to the cultural landscape they marched across."
-    },
     {
       "hour": 23,
       "fact_text": "In the early 1940s, the Aleutian Islands became one of World War II’s most remote fronts, where icy storms and fog were sometimes deadlier than enemy fire. The 1943 Battle of the Komandorski Islands, fought off that chain, showed how geography itself—currents, cold, visibility—can shape the fate of ships as much as steel and shells.",
@@ -632,9 +608,34 @@
         ]
       },
       "match_reason": "U.S. broadcasts to Cuba sit alongside an episode about a pan–Latin American genre, both exploring how media flows, language, and rhythm cross borders despite efforts to block them."
+    },
+    {
+      "hour": 22,
+      "fact_text": "In 1807–1814, the Peninsular War turned Iberia into a laboratory of alliances, with local Spanish forces, British troops, and exiled Portuguese and Polish soldiers all fighting Napoleon’s armies. The March 27, 1809 victory at Ciudad Real was a rare moment when Franco-Polish forces had the upper hand in a conflict otherwise marked by guerrilla warfare and stubborn resistance.",
+      "fact_year": 1809,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/First_French_Empire",
+      "episode": {
+        "id": 44,
+        "title": "Morning Drops #38 - History of Flamenco",
+        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+        "songs": [
+          "La Niña de los Peines - Al Gurugú",
+          "Lola Flores - Pena, penita, pena",
+          "Paco de Lucía - Entre dos aguas",
+          "Camarón de la Isla - La leyenda del tiempo",
+          "Rosalía - Pienso en tu mirá"
+        ],
+        "music-genres": [
+          "Flamenco",
+          "Spanish Folk",
+          "Nuevo Flamenco"
+        ]
+      },
+      "match_reason": "A Napoleonic battle on Spanish soil pairs with a deep dive into Spain’s own musical history, linking military campaigns to the cultural landscape they marched across."
     }
   ],
   "generated_at": "2026-03-27T00:00:00.016214+00:00",
   "date": "2026-03-27",
-  "updated_at": "2026-03-27T21:00:01.417231+00:00"
+  "updated_at": "2026-03-27T22:00:01.518056+00:00"
 }
