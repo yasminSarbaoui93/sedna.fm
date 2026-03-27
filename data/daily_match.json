@@ -1,55 +1,30 @@
 {
-  "current_hour": 13,
+  "current_hour": 14,
   "current_fact": {
-    "hour": 13,
-    "fact_text": "In 1980, the Norwegian semi-submersible drilling platform Alexander L. Kielland capsized in the North Sea after a single bracing leg failed, killing 123 of the 212 people on board. The disaster revealed how a tiny crack in a critical joint—barely visible—could bring down a metal giant in rough offshore waters.",
-    "fact_year": 1980,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_L._Kielland_(platform)",
+    "hour": 14,
+    "fact_text": "On March 27, 1886, Apache leader Geronimo surrendered to U.S. forces, effectively ending the major campaigns of the Apache Wars. After years of eluding capture across harsh desert and mountain terrain, his final surrender symbolized not just military defeat but the closing of one of the last large-scale armed resistances by Indigenous people in the American Southwest.",
+    "fact_year": 1886,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Geronimo",
     "episode": {
-      "id": 46,
-      "title": "Morning Drops #40 - Diving With Orcas",
-      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+      "id": 22,
+      "title": "Morning Drops #16 - The Sound of Tuareg",
+      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
       "songs": [
-        "Ludovico Einaudi - Experience",
-        "The Temper Trap - Sweet Disposition",
-        "Alex Warren - Ordinary",
-        "Piero Umiliani - Il tuo volto"
+        "Les Filles de Illighadad - Imigradan",
+        "Tinariwen - Amassakoul ’N’ Ténéré",
+        "Liya Ag Ablil - Awa Adounia",
+        "Tinariwen - Sastanàqqàm"
       ],
       "music-genres": [
-        "Neo-Classical",
-        "Indie Rock",
-        "Pop",
-        "Italian Film Score"
+        "Desert Blues",
+        "Tuareg",
+        "World Music"
       ]
     },
-    "match_reason": "A North Sea platform disaster off Norway resonates with an episode set in Norwegian Arctic waters, both exploring the tension between human structures and the raw power of the ocean."
+    "match_reason": "Geronimo’s desert resistance and displacement mirror the themes in Tuareg music—sand, survival, exile, and Indigenous defiance under an unforgiving sun."
   },
   "queue": [
-    {
-      "hour": 14,
-      "fact_text": "On March 27, 1886, Apache leader Geronimo surrendered to U.S. forces, effectively ending the major campaigns of the Apache Wars. After years of eluding capture across harsh desert and mountain terrain, his final surrender symbolized not just military defeat but the closing of one of the last large-scale armed resistances by Indigenous people in the American Southwest.",
-      "fact_year": 1886,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Geronimo",
-      "episode": {
-        "id": 22,
-        "title": "Morning Drops #16 - The Sound of Tuareg",
-        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
-        "songs": [
-          "Les Filles de Illighadad - Imigradan",
-          "Tinariwen - Amassakoul ’N’ Ténéré",
-          "Liya Ag Ablil - Awa Adounia",
-          "Tinariwen - Sastanàqqàm"
-        ],
-        "music-genres": [
-          "Desert Blues",
-          "Tuareg",
-          "World Music"
-        ]
-      },
-      "match_reason": "Geronimo’s desert resistance and displacement mirror the themes in Tuareg music—sand, survival, exile, and Indigenous defiance under an unforgiving sun."
-    },
     {
       "hour": 15,
       "fact_text": "In 2016, a suicide bomber targeted children and families celebrating Easter in Lahore's Gulshan-e-Iqbal Park, killing over 70 people and injuring hundreds more. The attack, claimed by a Taliban faction, was chilling partly because it struck an ordinary place of joy—swings, picnic blankets, and evening walks turned into a scene of devastation.",
@@ -633,9 +608,33 @@
         ]
       },
       "match_reason": "A North Sea platform disaster off Norway resonates with an episode set in Norwegian Arctic waters, both exploring the tension between human structures and the raw power of the ocean."
+    },
+    {
+      "hour": 14,
+      "fact_text": "On March 27, 1886, Apache leader Geronimo surrendered to U.S. forces, effectively ending the major campaigns of the Apache Wars. After years of eluding capture across harsh desert and mountain terrain, his final surrender symbolized not just military defeat but the closing of one of the last large-scale armed resistances by Indigenous people in the American Southwest.",
+      "fact_year": 1886,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Geronimo",
+      "episode": {
+        "id": 22,
+        "title": "Morning Drops #16 - The Sound of Tuareg",
+        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+        "songs": [
+          "Les Filles de Illighadad - Imigradan",
+          "Tinariwen - Amassakoul ’N’ Ténéré",
+          "Liya Ag Ablil - Awa Adounia",
+          "Tinariwen - Sastanàqqàm"
+        ],
+        "music-genres": [
+          "Desert Blues",
+          "Tuareg",
+          "World Music"
+        ]
+      },
+      "match_reason": "Geronimo’s desert resistance and displacement mirror the themes in Tuareg music—sand, survival, exile, and Indigenous defiance under an unforgiving sun."
     }
   ],
   "generated_at": "2026-03-27T00:00:00.016214+00:00",
   "date": "2026-03-27",
-  "updated_at": "2026-03-27T13:00:01.873039+00:00"
+  "updated_at": "2026-03-27T14:00:01.612510+00:00"
 }
