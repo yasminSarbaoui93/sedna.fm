@@ -1,61 +1,36 @@
 {
-  "current_hour": 6,
+  "current_hour": 7,
   "current_fact": {
-    "hour": 6,
-    "fact_text": "In 1941, the Battle of Cape Matapan began off the coast of Greece, as British and Australian ships clashed with the Italian navy in a night action shaped by radar, codebreaking, and risky maneuvers. It was one of the first major Mediterranean battles where information — not just firepower — turned the tide at sea.",
-    "fact_year": 1941,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Cape_Matapan",
+    "hour": 7,
+    "fact_text": "In 1942, British commandos and naval forces launched the audacious St Nazaire Raid, ramming an explosive-packed destroyer into the massive Louis Joubert Lock dry dock. By destroying the only Atlantic facility large enough for the battleship Tirpitz, they reshaped the naval balance of the North Atlantic with one carefully aimed strike.",
+    "fact_year": 1942,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/St_Nazaire_Raid",
     "episode": {
-      "id": 17,
-      "title": "Morning Drops #11 - Mediterranean Boat",
-      "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
+      "id": 48,
+      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
       "songs": [
-        "Arleta - Bar To Navagio",
-        "Baba Zula - Tavla",
-        "Mylène Farmer - Désenchantée",
-        "Fabrizio De André - Crêuza de mä"
+        "Stive Morgan - Solar Wind, Pt. 3",
+        "David Visan & Carlos Campos - Crystal Heart",
+        "Evan Mars - Ya Zareef Al Tool",
+        "Gerardo Frisina - Cuiabá",
+        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+        "The Busy Twist - Friday Night"
       ],
       "music-genres": [
-        "Greek Folk",
-        "Turkish Psychedelic",
-        "French Pop",
-        "Italian Singer-Songwriter"
+        "Ambient",
+        "Deep House",
+        "World Music",
+        "Nu Jazz",
+        "Afrobeat",
+        "Funk",
+        "Electronic"
       ]
     },
-    "match_reason": "A dramatic WWII naval clash in Greek waters finds an echo in an episode that sails musically around the same Mediterranean, now in peace rather than war."
+    "match_reason": "A covert operation that slowly builds to a devastating crescendo mirrors the episode’s arc from mysterious ambience to explosive, liberating dance."
   },
   "queue": [
-    {
-      "hour": 7,
-      "fact_text": "In 1942, British commandos and naval forces launched the audacious St Nazaire Raid, ramming an explosive-packed destroyer into the massive Louis Joubert Lock dry dock. By destroying the only Atlantic facility large enough for the battleship Tirpitz, they reshaped the naval balance of the North Atlantic with one carefully aimed strike.",
-      "fact_year": 1942,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/St_Nazaire_Raid",
-      "episode": {
-        "id": 48,
-        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
-        "songs": [
-          "Stive Morgan - Solar Wind, Pt. 3",
-          "David Visan & Carlos Campos - Crystal Heart",
-          "Evan Mars - Ya Zareef Al Tool",
-          "Gerardo Frisina - Cuiabá",
-          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-          "The Busy Twist - Friday Night"
-        ],
-        "music-genres": [
-          "Ambient",
-          "Deep House",
-          "World Music",
-          "Nu Jazz",
-          "Afrobeat",
-          "Funk",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A covert operation that slowly builds to a devastating crescendo mirrors the episode’s arc from mysterious ambience to explosive, liberating dance."
-    },
     {
       "hour": 8,
       "fact_text": "On March 28, 1946, the U.S. State Department released the Acheson–Lilienthal Report, an ambitious plan to place atomic energy under international control. Just months after Hiroshima and Nagasaki, it proposed sharing nuclear secrets to prevent an arms race — a bold idea that showed how quickly humanity realized the peril of its new power.",
@@ -634,9 +609,39 @@
         ]
       },
       "match_reason": "A dramatic WWII naval clash in Greek waters finds an echo in an episode that sails musically around the same Mediterranean, now in peace rather than war."
+    },
+    {
+      "hour": 7,
+      "fact_text": "In 1942, British commandos and naval forces launched the audacious St Nazaire Raid, ramming an explosive-packed destroyer into the massive Louis Joubert Lock dry dock. By destroying the only Atlantic facility large enough for the battleship Tirpitz, they reshaped the naval balance of the North Atlantic with one carefully aimed strike.",
+      "fact_year": 1942,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/St_Nazaire_Raid",
+      "episode": {
+        "id": 48,
+        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+        "songs": [
+          "Stive Morgan - Solar Wind, Pt. 3",
+          "David Visan & Carlos Campos - Crystal Heart",
+          "Evan Mars - Ya Zareef Al Tool",
+          "Gerardo Frisina - Cuiabá",
+          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+          "The Busy Twist - Friday Night"
+        ],
+        "music-genres": [
+          "Ambient",
+          "Deep House",
+          "World Music",
+          "Nu Jazz",
+          "Afrobeat",
+          "Funk",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A covert operation that slowly builds to a devastating crescendo mirrors the episode’s arc from mysterious ambience to explosive, liberating dance."
     }
   ],
   "generated_at": "2026-03-28T00:00:00.010969+00:00",
   "date": "2026-03-28",
-  "updated_at": "2026-03-28T06:00:01.721635+00:00"
+  "updated_at": "2026-03-28T07:00:01.484698+00:00"
 }
