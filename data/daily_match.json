@@ -1,56 +1,31 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "On Palm Sunday in 1920, a powerful tornado outbreak tore across the Great Lakes region and the Deep South, spawning dozens of twisters in a single day. Long before Doppler radar and real-time alerts, people faced these sudden sky-borne spirals with almost no warning, leaving behind a trail of shattered towns and meteorological lessons.",
-    "fact_year": 1920,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1920_Palm_Sunday_tornado_outbreak",
+    "hour": 4,
+    "fact_text": "In 1918, during World War I, General John J. Pershing redirected the U.S. 42nd “Rainbow” Division to the Baccarat sector, making it the first American division to hold an entire front-line sector on its own for months. This move transformed a patchwork of Allied lines into a rainbow-colored symbol of U.S. commitment on the Western Front.",
+    "fact_year": 1918,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/John_J._Pershing",
     "episode": {
-      "id": 52,
-      "title": "Morning Drops #45 - It Can't Rain Forever",
-      "description": "In this first broadcast of 2026, Gaia returns from the vivid landscapes of Morocco to open a space for reflection. This episode navigates the delicate transition between closing a significant chapter and stepping into the new year. It explores the concept of constancy amidst change, celebrating the grounding force of friendship and the creative sanctuary that is Sedna FM.\n\nThe musical selection mirrors this journey, moving from the orchestral depth of changing seasons into the golden warmth of psychedelic soul. It recalls memories of Swiss mountains and unexpected downpours, reminding us that shared optimism can weather any storm.\n\nTake a moment to breathe in the new morning and listen deeply.\n\nMood: Reflective, Warm, Transitional, Hopeful\nMusic genre: Classic Rock, Psychedelic Soul, Pop Rock, Soft Rock",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-it-cant-rain-forever",
+      "id": 31,
+      "title": "Morning Drops #31 - A Trip-Hop Journey",
+      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
       "songs": [
-        "Led Zeppelin - The Rain Song",
-        "Khruangbin & Leon Bridges - Texas Sun",
-        "Dragon - Rain",
-        "Fleetwood Mac - Don't Stop"
+        "Massive Attack - Unfinished Sympathy",
+        "Tricky - Hell Is Round the Corner",
+        "DJ Shadow - Midnight in a Perfect World",
+        "Thievery Corporation - Lebanese Blonde",
+        "Smoke City - Underwater Love"
       ],
       "music-genres": [
-        "Classic Rock",
-        "Psychedelic Soul",
-        "Pop Rock",
-        "Soft Rock"
+        "Trip-Hop",
+        "Downtempo",
+        "Electronic"
       ]
     },
-    "match_reason": "A devastating storm system and its aftermath resonate with an episode built around weather, rain, and hopeful resilience after turbulent times."
+    "match_reason": "The boundary-blurring ‘Rainbow’ Division guarding a sector parallels trip-hop’s blending of fronts between genres and nations in a moody, cinematic way."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "In 1918, during World War I, General John J. Pershing redirected the U.S. 42nd “Rainbow” Division to the Baccarat sector, making it the first American division to hold an entire front-line sector on its own for months. This move transformed a patchwork of Allied lines into a rainbow-colored symbol of U.S. commitment on the Western Front.",
-      "fact_year": 1918,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/John_J._Pershing",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #31 - A Trip-Hop Journey",
-        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
-        "songs": [
-          "Massive Attack - Unfinished Sympathy",
-          "Tricky - Hell Is Round the Corner",
-          "DJ Shadow - Midnight in a Perfect World",
-          "Thievery Corporation - Lebanese Blonde",
-          "Smoke City - Underwater Love"
-        ],
-        "music-genres": [
-          "Trip-Hop",
-          "Downtempo",
-          "Electronic"
-        ]
-      },
-      "match_reason": "The boundary-blurring ‘Rainbow’ Division guarding a sector parallels trip-hop’s blending of fronts between genres and nations in a moody, cinematic way."
-    },
     {
       "hour": 5,
       "fact_text": "On March 28, 1939, after a brutal three-year siege, Generalísimo Francisco Franco’s forces entered Madrid and effectively ended the Spanish Civil War. The city’s fall marked not just a military victory but the beginning of a decades-long dictatorship that would reshape Spain’s culture, music, and memory.",
@@ -634,9 +609,34 @@
         ]
       },
       "match_reason": "A devastating storm system and its aftermath resonate with an episode built around weather, rain, and hopeful resilience after turbulent times."
+    },
+    {
+      "hour": 4,
+      "fact_text": "In 1918, during World War I, General John J. Pershing redirected the U.S. 42nd “Rainbow” Division to the Baccarat sector, making it the first American division to hold an entire front-line sector on its own for months. This move transformed a patchwork of Allied lines into a rainbow-colored symbol of U.S. commitment on the Western Front.",
+      "fact_year": 1918,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/John_J._Pershing",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #31 - A Trip-Hop Journey",
+        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+        "songs": [
+          "Massive Attack - Unfinished Sympathy",
+          "Tricky - Hell Is Round the Corner",
+          "DJ Shadow - Midnight in a Perfect World",
+          "Thievery Corporation - Lebanese Blonde",
+          "Smoke City - Underwater Love"
+        ],
+        "music-genres": [
+          "Trip-Hop",
+          "Downtempo",
+          "Electronic"
+        ]
+      },
+      "match_reason": "The boundary-blurring ‘Rainbow’ Division guarding a sector parallels trip-hop’s blending of fronts between genres and nations in a moody, cinematic way."
     }
   ],
   "generated_at": "2026-03-28T00:00:00.010969+00:00",
   "date": "2026-03-28",
-  "updated_at": "2026-03-28T03:00:01.400071+00:00"
+  "updated_at": "2026-03-28T04:00:01.752235+00:00"
 }
