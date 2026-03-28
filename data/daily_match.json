@@ -1,56 +1,31 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "On March 28, 1939, after a brutal three-year siege, Generalísimo Francisco Franco’s forces entered Madrid and effectively ended the Spanish Civil War. The city’s fall marked not just a military victory but the beginning of a decades-long dictatorship that would reshape Spain’s culture, music, and memory.",
-    "fact_year": 1939,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Spanish_Civil_War",
+    "hour": 6,
+    "fact_text": "In 1941, the Battle of Cape Matapan began off the coast of Greece, as British and Australian ships clashed with the Italian navy in a night action shaped by radar, codebreaking, and risky maneuvers. It was one of the first major Mediterranean battles where information — not just firepower — turned the tide at sea.",
+    "fact_year": 1941,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Cape_Matapan",
     "episode": {
-      "id": 44,
-      "title": "Morning Drops #38 - History of Flamenco",
-      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+      "id": 17,
+      "title": "Morning Drops #11 - Mediterranean Boat",
+      "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
       "songs": [
-        "La Niña de los Peines - Al Gurugú",
-        "Lola Flores - Pena, penita, pena",
-        "Paco de Lucía - Entre dos aguas",
-        "Camarón de la Isla - La leyenda del tiempo",
-        "Rosalía - Pienso en tu mirá"
+        "Arleta - Bar To Navagio",
+        "Baba Zula - Tavla",
+        "Mylène Farmer - Désenchantée",
+        "Fabrizio De André - Crêuza de mä"
       ],
       "music-genres": [
-        "Flamenco",
-        "Spanish Folk",
-        "Nuevo Flamenco"
+        "Greek Folk",
+        "Turkish Psychedelic",
+        "French Pop",
+        "Italian Singer-Songwriter"
       ]
     },
-    "match_reason": "The fall of Madrid and the long Franco era directly shaped Spain’s cultural landscape; an episode on flamenco’s history offers a musical counter-memory to that political rupture."
+    "match_reason": "A dramatic WWII naval clash in Greek waters finds an echo in an episode that sails musically around the same Mediterranean, now in peace rather than war."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "In 1941, the Battle of Cape Matapan began off the coast of Greece, as British and Australian ships clashed with the Italian navy in a night action shaped by radar, codebreaking, and risky maneuvers. It was one of the first major Mediterranean battles where information — not just firepower — turned the tide at sea.",
-      "fact_year": 1941,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Cape_Matapan",
-      "episode": {
-        "id": 17,
-        "title": "Morning Drops #11 - Mediterranean Boat",
-        "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
-        "songs": [
-          "Arleta - Bar To Navagio",
-          "Baba Zula - Tavla",
-          "Mylène Farmer - Désenchantée",
-          "Fabrizio De André - Crêuza de mä"
-        ],
-        "music-genres": [
-          "Greek Folk",
-          "Turkish Psychedelic",
-          "French Pop",
-          "Italian Singer-Songwriter"
-        ]
-      },
-      "match_reason": "A dramatic WWII naval clash in Greek waters finds an echo in an episode that sails musically around the same Mediterranean, now in peace rather than war."
-    },
     {
       "hour": 7,
       "fact_text": "In 1942, British commandos and naval forces launched the audacious St Nazaire Raid, ramming an explosive-packed destroyer into the massive Louis Joubert Lock dry dock. By destroying the only Atlantic facility large enough for the battleship Tirpitz, they reshaped the naval balance of the North Atlantic with one carefully aimed strike.",
@@ -634,9 +609,34 @@
         ]
       },
       "match_reason": "The fall of Madrid and the long Franco era directly shaped Spain’s cultural landscape; an episode on flamenco’s history offers a musical counter-memory to that political rupture."
+    },
+    {
+      "hour": 6,
+      "fact_text": "In 1941, the Battle of Cape Matapan began off the coast of Greece, as British and Australian ships clashed with the Italian navy in a night action shaped by radar, codebreaking, and risky maneuvers. It was one of the first major Mediterranean battles where information — not just firepower — turned the tide at sea.",
+      "fact_year": 1941,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Cape_Matapan",
+      "episode": {
+        "id": 17,
+        "title": "Morning Drops #11 - Mediterranean Boat",
+        "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
+        "songs": [
+          "Arleta - Bar To Navagio",
+          "Baba Zula - Tavla",
+          "Mylène Farmer - Désenchantée",
+          "Fabrizio De André - Crêuza de mä"
+        ],
+        "music-genres": [
+          "Greek Folk",
+          "Turkish Psychedelic",
+          "French Pop",
+          "Italian Singer-Songwriter"
+        ]
+      },
+      "match_reason": "A dramatic WWII naval clash in Greek waters finds an echo in an episode that sails musically around the same Mediterranean, now in peace rather than war."
     }
   ],
   "generated_at": "2026-03-28T00:00:00.010969+00:00",
   "date": "2026-03-28",
-  "updated_at": "2026-03-28T05:00:01.450428+00:00"
+  "updated_at": "2026-03-28T06:00:01.721635+00:00"
 }
