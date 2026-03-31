@@ -1,59 +1,34 @@
 {
-  "current_hour": 6,
+  "current_hour": 7,
   "current_fact": {
-    "hour": 6,
-    "fact_text": "On March 31, 2023, a historic tornado outbreak tore across the American Midwest and South, spawning dozens of powerful twisters in less than 24 hours. The atmosphere over the region became a vast, churning engine, with supercell storms dropping tornadoes in rapid succession across multiple states.",
-    "fact_year": 2023,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tornado_outbreak_of_March_31_%E2%80%93_April_1,_2023",
+    "hour": 7,
+    "fact_text": "On March 31, 1931, a Transcontinental & Western Air Fokker F-10 airliner crashed near Bazaar, Kansas, killing all eight people onboard, including legendary Notre Dame football coach Knute Rockne. The tragedy shocked the public and pushed U.S. aviation authorities to tighten safety standards for commercial aircraft.",
+    "fact_year": 1931,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1931_Transcontinental_%26_Western_Air_Fokker_F-10_crash",
     "episode": {
-      "id": 11,
-      "title": "Morning Drops #05 - Electric Shock",
-      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "Johnny Winter - Highway 61 Revisited",
-        "Joan Armatrading - Sleight of Hand",
-        "Joan Armatrading - Russian Roulette",
-        "Jimi Hendrix - Freedom",
-        "Jeff Beck - Scatterbrain"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Rock",
-        "Electric Blues"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "The explosive energy and violent unpredictability of a tornado outbreak parallels the high-voltage, 'electric shock' feel of this guitar-driven, stormy rock selection."
+    "match_reason": "A tragic early aviation accident contrasts with an episode about a gentle, communal journey at sea, hinting at how far travel safety and the culture of shared journeys have evolved."
   },
   "queue": [
-    {
-      "hour": 7,
-      "fact_text": "On March 31, 1931, a Transcontinental & Western Air Fokker F-10 airliner crashed near Bazaar, Kansas, killing all eight people onboard, including legendary Notre Dame football coach Knute Rockne. The tragedy shocked the public and pushed U.S. aviation authorities to tighten safety standards for commercial aircraft.",
-      "fact_year": 1931,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1931_Transcontinental_%26_Western_Air_Fokker_F-10_crash",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "A tragic early aviation accident contrasts with an episode about a gentle, communal journey at sea, hinting at how far travel safety and the culture of shared journeys have evolved."
-    },
     {
       "hour": 8,
       "fact_text": "On March 31, 1854, U.S. Commodore Matthew Perry signed the Convention of Kanagawa with the Tokugawa Shogunate, forcing the opening of the ports of Shimoda and Hakodate to American trade. This single treaty cracked open Japan’s long policy of isolation and set off a cascade of cultural and technological exchange.",
@@ -633,9 +608,37 @@
         ]
       },
       "match_reason": "The explosive energy and violent unpredictability of a tornado outbreak parallels the high-voltage, 'electric shock' feel of this guitar-driven, stormy rock selection."
+    },
+    {
+      "hour": 7,
+      "fact_text": "On March 31, 1931, a Transcontinental & Western Air Fokker F-10 airliner crashed near Bazaar, Kansas, killing all eight people onboard, including legendary Notre Dame football coach Knute Rockne. The tragedy shocked the public and pushed U.S. aviation authorities to tighten safety standards for commercial aircraft.",
+      "fact_year": 1931,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1931_Transcontinental_%26_Western_Air_Fokker_F-10_crash",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "A tragic early aviation accident contrasts with an episode about a gentle, communal journey at sea, hinting at how far travel safety and the culture of shared journeys have evolved."
     }
   ],
   "generated_at": "2026-03-31T00:00:00.011045+00:00",
   "date": "2026-03-31",
-  "updated_at": "2026-03-31T06:00:01.611575+00:00"
+  "updated_at": "2026-03-31T07:00:01.916131+00:00"
 }
