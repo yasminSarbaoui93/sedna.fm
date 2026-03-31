@@ -1,46 +1,31 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On March 31, 1966, the Soviet Union launched Luna 10, which soon became the first spacecraft to orbit the Moon. The probe even carried a radio transmitter that relayed a specially arranged version of the Soviet anthem during its orbit, turning a piece of Cold War engineering into a kind of orbital performance.",
-    "fact_year": 1966,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Luna_10",
+    "hour": 2,
+    "fact_text": "In 2005, astronomers using the Palomar Observatory discovered Makemake, a distant dwarf planet in the Kuiper Belt. Smaller than Pluto yet bright enough to be seen with mid‑sized telescopes, Makemake hinted that our Solar System’s outskirts are more crowded, icy, and myth‑rich than once imagined.",
+    "fact_year": 2005,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Makemake",
     "episode": {
-      "id": 58,
-      "title": "Evening Flows #00 - Introduction to evening flows",
-      "description": "Sedna FM introduces a new format: Evening Flow, where you can enjoy curated music sets from selectors, DJs, and artists.\n\nEach mix is an invitation to drift beyond the expected. A space where hidden gems from personal archives come to light, where sound speaks its own language. There are no rules here, no patterns to follow. Just the steady unfolding of a mood, a texture, a journey shaped by feeling.\n\nLet the music lead the way - enjoy the trip!",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-introduction-to-evening-flows",
-      "songs": [],
-      "music-genres": []
+      "id": 20,
+      "title": "Morning Drops #14 - Slow Planet",
+      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+      "songs": [
+        "Air - Cherry Blossom Girl",
+        "Kruder & Dorfmeister - Keep On Believing",
+        "Tosca - Orozco",
+        "Bonobo - Terrapin"
+      ],
+      "music-genres": [
+        "Downtempo",
+        "Trip-Hop",
+        "Electronic",
+        "Chillout"
+      ]
     },
-    "match_reason": "The first evening-flow voyage mirrors Luna 10’s pioneering orbital journey: both are quiet, rule‑free explorations into uncharted space."
+    "match_reason": "A newly found icy world drifting slowly in the Kuiper Belt resonates with the unhurried, contemplative orbit of “Slow Planet.”"
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "In 2005, astronomers using the Palomar Observatory discovered Makemake, a distant dwarf planet in the Kuiper Belt. Smaller than Pluto yet bright enough to be seen with mid‑sized telescopes, Makemake hinted that our Solar System’s outskirts are more crowded, icy, and myth‑rich than once imagined.",
-      "fact_year": 2005,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Makemake",
-      "episode": {
-        "id": 20,
-        "title": "Morning Drops #14 - Slow Planet",
-        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
-        "songs": [
-          "Air - Cherry Blossom Girl",
-          "Kruder & Dorfmeister - Keep On Believing",
-          "Tosca - Orozco",
-          "Bonobo - Terrapin"
-        ],
-        "music-genres": [
-          "Downtempo",
-          "Trip-Hop",
-          "Electronic",
-          "Chillout"
-        ]
-      },
-      "match_reason": "A newly found icy world drifting slowly in the Kuiper Belt resonates with the unhurried, contemplative orbit of “Slow Planet.”"
-    },
     {
       "hour": 3,
       "fact_text": "Explorer 1, the first satellite of the United States, silently re‑entered Earth's atmosphere on March 31, 1970, after more than 12 years in orbit. Launched during the early space race, it had helped reveal Earth's Van Allen radiation belts before burning up like a shooting star returning home.",
@@ -630,9 +615,34 @@
         "music-genres": []
       },
       "match_reason": "The first evening-flow voyage mirrors Luna 10’s pioneering orbital journey: both are quiet, rule‑free explorations into uncharted space."
+    },
+    {
+      "hour": 2,
+      "fact_text": "In 2005, astronomers using the Palomar Observatory discovered Makemake, a distant dwarf planet in the Kuiper Belt. Smaller than Pluto yet bright enough to be seen with mid‑sized telescopes, Makemake hinted that our Solar System’s outskirts are more crowded, icy, and myth‑rich than once imagined.",
+      "fact_year": 2005,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Makemake",
+      "episode": {
+        "id": 20,
+        "title": "Morning Drops #14 - Slow Planet",
+        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+        "songs": [
+          "Air - Cherry Blossom Girl",
+          "Kruder & Dorfmeister - Keep On Believing",
+          "Tosca - Orozco",
+          "Bonobo - Terrapin"
+        ],
+        "music-genres": [
+          "Downtempo",
+          "Trip-Hop",
+          "Electronic",
+          "Chillout"
+        ]
+      },
+      "match_reason": "A newly found icy world drifting slowly in the Kuiper Belt resonates with the unhurried, contemplative orbit of “Slow Planet.”"
     }
   ],
   "generated_at": "2026-03-31T00:00:00.014114+00:00",
   "date": "2026-03-31",
-  "updated_at": "2026-03-31T01:00:01.579533+00:00"
+  "updated_at": "2026-03-31T02:00:02.056371+00:00"
 }
