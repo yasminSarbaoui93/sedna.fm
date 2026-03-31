@@ -1,45 +1,30 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "In 1966, the Soviet Union launched Luna 10, which soon became the first artificial satellite to orbit the Moon. Hidden inside was a tiny transmitter that played the Internationale during the 23rd Congress of the Communist Party, turning a scientific milestone into a piece of cosmic theatre.",
-    "fact_year": 1966,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Luna_10",
+    "hour": 2,
+    "fact_text": "On March 31, 2005, astronomers at Palomar Observatory discovered Makemake, a distant dwarf planet in the Kuiper belt. Its bright, icy surface and lonely orbit beyond Neptune helped reshape our definition of what counts as a planet in our solar system.",
+    "fact_year": 2005,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Makemake",
     "episode": {
-      "id": 58,
-      "title": "Evening Flows #00 - Introduction to evening flows",
-      "description": "Sedna FM introduces a new format: Evening Flow, where you can enjoy curated music sets from selectors, DJs, and artists.\n\nEach mix is an invitation to drift beyond the expected. A space where hidden gems from personal archives come to light, where sound speaks its own language. There are no rules here, no patterns to follow. Just the steady unfolding of a mood, a texture, a journey shaped by feeling.\n\nLet the music lead the way - enjoy the trip!",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-introduction-to-evening-flows",
-      "songs": [],
-      "music-genres": []
+      "id": 55,
+      "title": "Morning Drops #48 - Cosmic Monday",
+      "description": "Cosmic Monday is a Morning Drops episode built around four Italian dance records, tracing how disco rhythms slowly became electronic language.\nGaia moves through four tracks like chapters: groove first, then machines, then that bright, futuristic feeling you only get when the bassline is doing the talking. It's not nostalgia, exactly. It's more like returning to a sound that still works — especially on mornings when you need a little extra energy, but you don't want anything aggressive.\nTake it as a slow transmission. Let it carry you into the day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-cosmic-monday",
+      "songs": [
+        "Giovanotti Mondani Meccanici - Don't Ask Me Why",
+        "Azoto - Sal Salvador",
+        "Capricorn - I Need Love",
+        "Cosmic Disco - Cosmic Sprint"
+      ],
+      "music-genres": [
+        "Italo Disco",
+        "Disco",
+        "Electronic"
+      ]
     },
-    "match_reason": "Luna 10 turned orbital mechanics into a political performance, much like an Evening Flow turns a sequence of sounds into a drifting, narrative journey through space and mood."
+    "match_reason": "A newly found dwarf planet in the outer solar system pairs with a 'Cosmic Monday' built on futuristic, spacey disco, turning orbital discovery into a danceable transmission."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "On March 31, 2005, astronomers at Palomar Observatory discovered Makemake, a distant dwarf planet in the Kuiper belt. Its bright, icy surface and lonely orbit beyond Neptune helped reshape our definition of what counts as a planet in our solar system.",
-      "fact_year": 2005,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Makemake",
-      "episode": {
-        "id": 55,
-        "title": "Morning Drops #48 - Cosmic Monday",
-        "description": "Cosmic Monday is a Morning Drops episode built around four Italian dance records, tracing how disco rhythms slowly became electronic language.\nGaia moves through four tracks like chapters: groove first, then machines, then that bright, futuristic feeling you only get when the bassline is doing the talking. It's not nostalgia, exactly. It's more like returning to a sound that still works — especially on mornings when you need a little extra energy, but you don't want anything aggressive.\nTake it as a slow transmission. Let it carry you into the day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-cosmic-monday",
-        "songs": [
-          "Giovanotti Mondani Meccanici - Don't Ask Me Why",
-          "Azoto - Sal Salvador",
-          "Capricorn - I Need Love",
-          "Cosmic Disco - Cosmic Sprint"
-        ],
-        "music-genres": [
-          "Italo Disco",
-          "Disco",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A newly found dwarf planet in the outer solar system pairs with a 'Cosmic Monday' built on futuristic, spacey disco, turning orbital discovery into a danceable transmission."
-    },
     {
       "hour": 3,
       "fact_text": "Explorer 1, the very first satellite launched by the United States, re-entered Earth’s atmosphere on March 31, 1970 after more than 58,000 trips around the planet. During its early life it helped reveal the Van Allen radiation belts, showing that Earth is wrapped in invisible, charged rings of space weather.",
@@ -623,9 +608,33 @@
         "music-genres": []
       },
       "match_reason": "Luna 10 turned orbital mechanics into a political performance, much like an Evening Flow turns a sequence of sounds into a drifting, narrative journey through space and mood."
+    },
+    {
+      "hour": 2,
+      "fact_text": "On March 31, 2005, astronomers at Palomar Observatory discovered Makemake, a distant dwarf planet in the Kuiper belt. Its bright, icy surface and lonely orbit beyond Neptune helped reshape our definition of what counts as a planet in our solar system.",
+      "fact_year": 2005,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Makemake",
+      "episode": {
+        "id": 55,
+        "title": "Morning Drops #48 - Cosmic Monday",
+        "description": "Cosmic Monday is a Morning Drops episode built around four Italian dance records, tracing how disco rhythms slowly became electronic language.\nGaia moves through four tracks like chapters: groove first, then machines, then that bright, futuristic feeling you only get when the bassline is doing the talking. It's not nostalgia, exactly. It's more like returning to a sound that still works — especially on mornings when you need a little extra energy, but you don't want anything aggressive.\nTake it as a slow transmission. Let it carry you into the day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-cosmic-monday",
+        "songs": [
+          "Giovanotti Mondani Meccanici - Don't Ask Me Why",
+          "Azoto - Sal Salvador",
+          "Capricorn - I Need Love",
+          "Cosmic Disco - Cosmic Sprint"
+        ],
+        "music-genres": [
+          "Italo Disco",
+          "Disco",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A newly found dwarf planet in the outer solar system pairs with a 'Cosmic Monday' built on futuristic, spacey disco, turning orbital discovery into a danceable transmission."
     }
   ],
   "generated_at": "2026-03-31T00:00:00.011045+00:00",
   "date": "2026-03-31",
-  "updated_at": "2026-03-31T01:00:01.820249+00:00"
+  "updated_at": "2026-03-31T02:00:02.243087+00:00"
 }
