@@ -1,46 +1,31 @@
 {
-  "current_hour": 11,
+  "current_hour": 12,
   "current_fact": {
-    "hour": 11,
-    "fact_text": "On April 1, 2001, a U.S. Navy EP-3E surveillance plane collided mid-air with a Chinese J-8 fighter over the South China Sea. The American crew executed an emergency landing on Hainan Island and were detained for 11 days, turning a split-second navigational incident into a major diplomatic standoff.",
-    "fact_year": 2001,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Lockheed_EP-3",
+    "hour": 12,
+    "fact_text": "In 1948, the Faroe Islands gained home rule within the Kingdom of Denmark, becoming an autonomous territory with their own parliament. This remote North Atlantic archipelago, known for dramatic cliffs and seabird colonies, used political compromise to preserve its language, culture, and control over local affairs.",
+    "fact_year": 1948,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Faroe_Islands",
     "episode": {
-      "id": 58,
-      "title": "Evening Flows #00 - Introduction to evening flows",
-      "description": "Sedna FM introduces a new format: Evening Flow, where you can enjoy curated music sets from selectors, DJs, and artists.\n\nEach mix is an invitation to drift beyond the expected. A space where hidden gems from personal archives come to light, where sound speaks its own language. There are no rules here, no patterns to follow. Just the steady unfolding of a mood, a texture, a journey shaped by feeling.\n\nLet the music lead the way - enjoy the trip!",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-introduction-to-evening-flows",
-      "songs": [],
-      "music-genres": []
+      "id": 17,
+      "title": "Morning Drops #11 - Mediterranean Boat",
+      "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
+      "songs": [
+        "Arleta - Bar To Navagio",
+        "Baba Zula - Tavla",
+        "Mylène Farmer - Désenchantée",
+        "Fabrizio De André - Crêuza de mä"
+      ],
+      "music-genres": [
+        "Greek Folk",
+        "Turkish Psychedelic",
+        "French Pop",
+        "Italian Singer-Songwriter"
+      ]
     },
-    "match_reason": "A tense reconnaissance mission turning into an unexpected forced landing echoes the idea of ‘drifting beyond the expected’ and suddenly changing course, like the freeform Evening Flow mixes."
+    "match_reason": "Island autonomy in the North Atlantic parallels an episode voyaging between Mediterranean shores; both celebrate coastal cultures shaping their own identity."
   },
   "queue": [
-    {
-      "hour": 12,
-      "fact_text": "In 1948, the Faroe Islands gained home rule within the Kingdom of Denmark, becoming an autonomous territory with their own parliament. This remote North Atlantic archipelago, known for dramatic cliffs and seabird colonies, used political compromise to preserve its language, culture, and control over local affairs.",
-      "fact_year": 1948,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Faroe_Islands",
-      "episode": {
-        "id": 17,
-        "title": "Morning Drops #11 - Mediterranean Boat",
-        "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
-        "songs": [
-          "Arleta - Bar To Navagio",
-          "Baba Zula - Tavla",
-          "Mylène Farmer - Désenchantée",
-          "Fabrizio De André - Crêuza de mä"
-        ],
-        "music-genres": [
-          "Greek Folk",
-          "Turkish Psychedelic",
-          "French Pop",
-          "Italian Singer-Songwriter"
-        ]
-      },
-      "match_reason": "Island autonomy in the North Atlantic parallels an episode voyaging between Mediterranean shores; both celebrate coastal cultures shaping their own identity."
-    },
     {
       "hour": 13,
       "fact_text": "On April 1, 1944, American bombers accidentally struck the neutral Swiss city of Schaffhausen after navigation errors led them off-course from Germany. The raid killed dozens of civilians and forced the United States to issue apologies and pay reparations, highlighting how fragile neutrality can be from the air.",
@@ -618,9 +603,34 @@
         "music-genres": []
       },
       "match_reason": "A tense reconnaissance mission turning into an unexpected forced landing echoes the idea of ‘drifting beyond the expected’ and suddenly changing course, like the freeform Evening Flow mixes."
+    },
+    {
+      "hour": 12,
+      "fact_text": "In 1948, the Faroe Islands gained home rule within the Kingdom of Denmark, becoming an autonomous territory with their own parliament. This remote North Atlantic archipelago, known for dramatic cliffs and seabird colonies, used political compromise to preserve its language, culture, and control over local affairs.",
+      "fact_year": 1948,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Faroe_Islands",
+      "episode": {
+        "id": 17,
+        "title": "Morning Drops #11 - Mediterranean Boat",
+        "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
+        "songs": [
+          "Arleta - Bar To Navagio",
+          "Baba Zula - Tavla",
+          "Mylène Farmer - Désenchantée",
+          "Fabrizio De André - Crêuza de mä"
+        ],
+        "music-genres": [
+          "Greek Folk",
+          "Turkish Psychedelic",
+          "French Pop",
+          "Italian Singer-Songwriter"
+        ]
+      },
+      "match_reason": "Island autonomy in the North Atlantic parallels an episode voyaging between Mediterranean shores; both celebrate coastal cultures shaping their own identity."
     }
   ],
   "generated_at": "2026-04-01T00:00:00.011247+00:00",
   "date": "2026-04-01",
-  "updated_at": "2026-04-01T11:00:01.625604+00:00"
+  "updated_at": "2026-04-01T12:00:01.731452+00:00"
 }
