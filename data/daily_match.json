@@ -1,55 +1,30 @@
 {
-  "current_hour": 2,
+  "current_hour": 3,
   "current_fact": {
-    "hour": 2,
-    "fact_text": "On April 1, 1997, Comet Hale–Bopp swept through perihelion, becoming one of the brightest and longest-observed comets of the 20th century. Visible to the naked eye for an astonishing 18 months, it captivated skywatchers worldwide and even inspired cults, art, and scientific studies of primordial Solar System material.",
-    "fact_year": 1997,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp",
+    "hour": 3,
+    "fact_text": "In 1973, India launched Project Tiger at Jim Corbett National Park, creating a network of reserves to save tigers from the brink of extinction. At a time when the country’s tiger population had plunged below 2,000, this ambitious experiment in large-scale conservation became a global model for protecting apex predators and their ecosystems.",
+    "fact_year": 1973,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Project_Tiger",
     "episode": {
-      "id": 46,
-      "title": "Morning Drops #40 - Diving With Orcas",
-      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+      "id": 22,
+      "title": "Morning Drops #16 - The Sound of Tuareg",
+      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
       "songs": [
-        "Ludovico Einaudi - Experience",
-        "The Temper Trap - Sweet Disposition",
-        "Alex Warren - Ordinary",
-        "Piero Umiliani - Il tuo volto"
+        "Les Filles de Illighadad - Imigradan",
+        "Tinariwen - Amassakoul ’N’ Ténéré",
+        "Liya Ag Ablil - Awa Adounia",
+        "Tinariwen - Sastanàqqàm"
       ],
       "music-genres": [
-        "Neo-Classical",
-        "Indie Rock",
-        "Pop",
-        "Italian Film Score"
+        "Desert Blues",
+        "Tuareg",
+        "World Music"
       ]
     },
-    "match_reason": "A great comet glowing in the cold night sky pairs with an Arctic, cinematic episode; both evoke awe in vast, blue-black spaces filled with rare visitors."
+    "match_reason": "Both the fact and the episode center on survival in wild landscapes and the fight to preserve ways of life—tigers in Indian forests, Tuareg culture in the desert."
   },
   "queue": [
-    {
-      "hour": 3,
-      "fact_text": "In 1973, India launched Project Tiger at Jim Corbett National Park, creating a network of reserves to save tigers from the brink of extinction. At a time when the country’s tiger population had plunged below 2,000, this ambitious experiment in large-scale conservation became a global model for protecting apex predators and their ecosystems.",
-      "fact_year": 1973,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Project_Tiger",
-      "episode": {
-        "id": 22,
-        "title": "Morning Drops #16 - The Sound of Tuareg",
-        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
-        "songs": [
-          "Les Filles de Illighadad - Imigradan",
-          "Tinariwen - Amassakoul ’N’ Ténéré",
-          "Liya Ag Ablil - Awa Adounia",
-          "Tinariwen - Sastanàqqàm"
-        ],
-        "music-genres": [
-          "Desert Blues",
-          "Tuareg",
-          "World Music"
-        ]
-      },
-      "match_reason": "Both the fact and the episode center on survival in wild landscapes and the fight to preserve ways of life—tigers in Indian forests, Tuareg culture in the desert."
-    },
     {
       "hour": 4,
       "fact_text": "The 1946 Aleutian Islands earthquake, with a magnitude of 8.6, triggered a devastating tsunami that crossed the Pacific and struck Hawaii. In Hilo, waves up to 13–18 meters high destroyed entire neighborhoods, revealing how seafloor quakes in remote arcs can reshape distant coastlines overnight.",
@@ -628,9 +603,33 @@
         ]
       },
       "match_reason": "A great comet glowing in the cold night sky pairs with an Arctic, cinematic episode; both evoke awe in vast, blue-black spaces filled with rare visitors."
+    },
+    {
+      "hour": 3,
+      "fact_text": "In 1973, India launched Project Tiger at Jim Corbett National Park, creating a network of reserves to save tigers from the brink of extinction. At a time when the country’s tiger population had plunged below 2,000, this ambitious experiment in large-scale conservation became a global model for protecting apex predators and their ecosystems.",
+      "fact_year": 1973,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Project_Tiger",
+      "episode": {
+        "id": 22,
+        "title": "Morning Drops #16 - The Sound of Tuareg",
+        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+        "songs": [
+          "Les Filles de Illighadad - Imigradan",
+          "Tinariwen - Amassakoul ’N’ Ténéré",
+          "Liya Ag Ablil - Awa Adounia",
+          "Tinariwen - Sastanàqqàm"
+        ],
+        "music-genres": [
+          "Desert Blues",
+          "Tuareg",
+          "World Music"
+        ]
+      },
+      "match_reason": "Both the fact and the episode center on survival in wild landscapes and the fight to preserve ways of life—tigers in Indian forests, Tuareg culture in the desert."
     }
   ],
   "generated_at": "2026-04-01T00:00:00.011247+00:00",
   "date": "2026-04-01",
-  "updated_at": "2026-04-01T02:00:01.485199+00:00"
+  "updated_at": "2026-04-01T03:00:01.428362+00:00"
 }
