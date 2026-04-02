@@ -1,46 +1,31 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "In 1902, the Electric Theatre opened in Los Angeles as the first full‑time movie theater in the United States, charging ten cents for continuous screenings. It turned moving pictures from a passing novelty into a dedicated ritual: a dark room, a beam of light, and strangers gathered to dream together.",
-    "fact_year": 1902,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Movie_theater",
+    "hour": 6,
+    "fact_text": "On April 2, 1912, the RMS Titanic left Belfast Lough for her sea trials, testing engines, steering, and speed in open water. For a brief moment, the “unsinkable” giant performed flawlessly, a gleaming promise of technological mastery just days before her tragic encounter with an iceberg.",
+    "fact_year": 1912,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Titanic",
     "episode": {
-      "id": 58,
-      "title": "Evening Flows #00 - Introduction to evening flows",
-      "description": "Sedna FM introduces a new format: Evening Flow, where you can enjoy curated music sets from selectors, DJs, and artists.\n\nEach mix is an invitation to drift beyond the expected. A space where hidden gems from personal archives come to light, where sound speaks its own language. There are no rules here, no patterns to follow. Just the steady unfolding of a mood, a texture, a journey shaped by feeling.\n\nLet the music lead the way - enjoy the trip!",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-introduction-to-evening-flows",
-      "songs": [],
-      "music-genres": []
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+      "songs": [
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
+      ],
+      "music-genres": [
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
+      ]
     },
-    "match_reason": "The birth of the dedicated movie theater parallels the launch of a new listening format—both invite people into a darkened, immersive space where sequences of moments become a narrative."
+    "match_reason": "A colossal ship on icy seas connects with an Arctic‑water episode; both blend awe at engineering or nature with the cold, cinematic vastness of the ocean."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "On April 2, 1912, the RMS Titanic left Belfast Lough for her sea trials, testing engines, steering, and speed in open water. For a brief moment, the “unsinkable” giant performed flawlessly, a gleaming promise of technological mastery just days before her tragic encounter with an iceberg.",
-      "fact_year": 1912,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Titanic",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "A colossal ship on icy seas connects with an Arctic‑water episode; both blend awe at engineering or nature with the cold, cinematic vastness of the ocean."
-    },
     {
       "hour": 7,
       "fact_text": "On April 2, 1917, U.S. President Woodrow Wilson addressed Congress to ask for a declaration of war against Germany, shifting America from neutrality into the brutal theater of World War I. He framed the conflict as a struggle to make the world “safe for democracy,” while millions braced for trench mud, gas, and loss.",
@@ -620,9 +605,34 @@
         "music-genres": []
       },
       "match_reason": "The birth of the dedicated movie theater parallels the launch of a new listening format—both invite people into a darkened, immersive space where sequences of moments become a narrative."
+    },
+    {
+      "hour": 6,
+      "fact_text": "On April 2, 1912, the RMS Titanic left Belfast Lough for her sea trials, testing engines, steering, and speed in open water. For a brief moment, the “unsinkable” giant performed flawlessly, a gleaming promise of technological mastery just days before her tragic encounter with an iceberg.",
+      "fact_year": 1912,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Titanic",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "A colossal ship on icy seas connects with an Arctic‑water episode; both blend awe at engineering or nature with the cold, cinematic vastness of the ocean."
     }
   ],
   "generated_at": "2026-04-02T00:00:00.007752+00:00",
   "date": "2026-04-02",
-  "updated_at": "2026-04-02T05:00:01.584086+00:00"
+  "updated_at": "2026-04-02T06:00:01.577590+00:00"
 }
