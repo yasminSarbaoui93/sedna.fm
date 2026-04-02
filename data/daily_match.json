@@ -1,64 +1,31 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "On April 2, 1902, the “Electric Theatre” opened in Los Angeles as the first permanent, full-time movie theater in the United States. For the first time, people could buy a ticket and step into a dedicated space built purely for flickering light, moving images, and the shared dream of cinema.",
-    "fact_year": 1902,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Movie_theater",
+    "hour": 6,
+    "fact_text": "In 1912, the RMS Titanic began her sea trials, pushing her engines and maneuverability to the limit off the coast of Northern Ireland. The tests went smoothly, seemingly confirming her reputation as an engineering marvel, just days before her legendary and tragic maiden voyage.",
+    "fact_year": 1912,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Titanic",
     "episode": {
-      "id": 1,
-      "title": "Sedna FM #01 - November Bomb",
-      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "berlioz - Open this wall",
-        "Nas - One Mic",
-        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-        "Frankie Knuckles - Your Love",
-        "Notorious B.I.G. - 17 Ten Crack Commandments",
-        "Liloca - Utani Xuva",
-        "Fela Kuti - Zombie",
-        "Neffa - Aspettando il sole",
-        "Childish Gambino - No Excuses",
-        "Modjo - Music takes you back"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Afrobeat",
-        "House",
-        "Italian Pop",
-        "R&B",
-        "Latin Rap"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "The birth of the dedicated cinema parallels the first Sedna FM episode — both are inaugural spaces where people gather to immerse themselves in curated stories, sound, and emotion."
+    "match_reason": "Titanic’s icy sea trials and the episode’s Arctic dives both inhabit cold northern waters and cinematic awe, but the show reframes the ocean as a realm of respect and wonder instead of disaster."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "In 1912, the RMS Titanic began her sea trials, pushing her engines and maneuverability to the limit off the coast of Northern Ireland. The tests went smoothly, seemingly confirming her reputation as an engineering marvel, just days before her legendary and tragic maiden voyage.",
-      "fact_year": 1912,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Titanic",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "Titanic’s icy sea trials and the episode’s Arctic dives both inhabit cold northern waters and cinematic awe, but the show reframes the ocean as a realm of respect and wonder instead of disaster."
-    },
     {
       "hour": 7,
       "fact_text": "On April 2, 1917, U.S. President Woodrow Wilson asked Congress for a declaration of war against Germany, ending years of official neutrality. He framed the decision as a fight to make the world “safe for democracy,” a phrase that would echo through later conflicts and debates about foreign intervention.",
@@ -650,9 +617,34 @@
         ]
       },
       "match_reason": "The birth of the dedicated cinema parallels the first Sedna FM episode — both are inaugural spaces where people gather to immerse themselves in curated stories, sound, and emotion."
+    },
+    {
+      "hour": 6,
+      "fact_text": "In 1912, the RMS Titanic began her sea trials, pushing her engines and maneuverability to the limit off the coast of Northern Ireland. The tests went smoothly, seemingly confirming her reputation as an engineering marvel, just days before her legendary and tragic maiden voyage.",
+      "fact_year": 1912,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Titanic",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "Titanic’s icy sea trials and the episode’s Arctic dives both inhabit cold northern waters and cinematic awe, but the show reframes the ocean as a realm of respect and wonder instead of disaster."
     }
   ],
   "generated_at": "2026-04-02T00:00:00.008825+00:00",
   "date": "2026-04-02",
-  "updated_at": "2026-04-02T05:00:01.448173+00:00"
+  "updated_at": "2026-04-02T06:00:01.427006+00:00"
 }
