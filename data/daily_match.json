@@ -1,61 +1,29 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "In 1956, CBS premiered two daytime dramas, “As the World Turns” and “The Edge of Night,” as the first soap operas to debut in a 30‑minute format. The longer runtime allowed for slower, more nuanced storytelling, changing how serialized television built characters, suspense, and emotional investment.",
-    "fact_year": 1956,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/As_the_World_Turns",
+    "hour": 11,
+    "fact_text": "On April 2, 1964, the Soviet Union launched Zond 1, a spacecraft sent on a flyby mission to study Venus. Although communications failed before it reached its target, Zond 1 was part of a bold era when engineers routinely aimed fragile machines at other worlds with technology that now seems almost impossibly primitive.",
+    "fact_year": 1964,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Zond_1",
     "episode": {
-      "id": 3,
-      "title": "Sedna FM #03 - Beautiful as You Feel",
-      "description": "An episode about self-acceptance and inner beauty. Music that reminds us we are beautiful as we feel, embracing our authentic selves. Warm, uplifting sounds that celebrate individuality.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/beautiful-as-you-feel",
+      "id": 9,
+      "title": "Morning Drops #03 - Space Shift",
+      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
       "songs": [
-        "Radiohead - Lotus Flower",
-        "Andrea Lazslo de Simone - Vivo",
-        "The The - this is the day",
-        "Steve Monite - Only You",
-        "DCTL - Deep Tannin f(eat Rafael Leafar)",
-        "Soufiane Sa3idi - El Njoum",
-        "Area - La mela di odessa",
-        "Carol King - Beautiful",
-        "Mannarino - Vivere la vita"
+        "Willy J Healey - Woke Up Smiling",
+        "The Chemical Brothers - Go",
+        "The Strokes - You Only Live Once"
       ],
       "music-genres": [
-        "Alternative Rock",
-        "Italian Singer-Songwriter",
-        "New Wave",
-        "Afro-Funk",
-        "Maghreb",
-        "Progressive Rock"
+        "Indie Rock",
+        "Electronic",
+        "Garage Rock"
       ]
     },
-    "match_reason": "Daytime soaps turned everyday emotions into long-form narratives, which pairs with an episode celebrating inner life and character arcs of the self, both inviting us to care about small, human stories over time."
+    "match_reason": "A pioneering, imperfect shot toward Venus fits an episode about turning empty space into creative potential; both see the void between worlds as something to explore, not fear."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "On April 2, 1964, the Soviet Union launched Zond 1, a spacecraft sent on a flyby mission to study Venus. Although communications failed before it reached its target, Zond 1 was part of a bold era when engineers routinely aimed fragile machines at other worlds with technology that now seems almost impossibly primitive.",
-      "fact_year": 1964,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Zond_1",
-      "episode": {
-        "id": 9,
-        "title": "Morning Drops #03 - Space Shift",
-        "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
-        "songs": [
-          "Willy J Healey - Woke Up Smiling",
-          "The Chemical Brothers - Go",
-          "The Strokes - You Only Live Once"
-        ],
-        "music-genres": [
-          "Indie Rock",
-          "Electronic",
-          "Garage Rock"
-        ]
-      },
-      "match_reason": "A pioneering, imperfect shot toward Venus fits an episode about turning empty space into creative potential; both see the void between worlds as something to explore, not fear."
-    },
     {
       "hour": 12,
       "fact_text": "In 1972, after two decades of exile and accusations of communist sympathies during the Red Scare, Charlie Chaplin returned to the United States for the first time. The silent film icon, once vilified, was welcomed back to receive an honorary Academy Award, turning a long political wound into a bittersweet moment of recognition.",
@@ -649,9 +617,32 @@
         ]
       },
       "match_reason": "Daytime soaps turned everyday emotions into long-form narratives, which pairs with an episode celebrating inner life and character arcs of the self, both inviting us to care about small, human stories over time."
+    },
+    {
+      "hour": 11,
+      "fact_text": "On April 2, 1964, the Soviet Union launched Zond 1, a spacecraft sent on a flyby mission to study Venus. Although communications failed before it reached its target, Zond 1 was part of a bold era when engineers routinely aimed fragile machines at other worlds with technology that now seems almost impossibly primitive.",
+      "fact_year": 1964,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Zond_1",
+      "episode": {
+        "id": 9,
+        "title": "Morning Drops #03 - Space Shift",
+        "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+        "songs": [
+          "Willy J Healey - Woke Up Smiling",
+          "The Chemical Brothers - Go",
+          "The Strokes - You Only Live Once"
+        ],
+        "music-genres": [
+          "Indie Rock",
+          "Electronic",
+          "Garage Rock"
+        ]
+      },
+      "match_reason": "A pioneering, imperfect shot toward Venus fits an episode about turning empty space into creative potential; both see the void between worlds as something to explore, not fear."
     }
   ],
   "generated_at": "2026-04-02T00:00:00.008825+00:00",
   "date": "2026-04-02",
-  "updated_at": "2026-04-02T10:00:02.382382+00:00"
+  "updated_at": "2026-04-02T11:00:01.786793+00:00"
 }
