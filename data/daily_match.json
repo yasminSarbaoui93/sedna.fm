@@ -1,56 +1,31 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 1800, a 29-year-old Ludwig van Beethoven stood before a Viennese audience to premiere his First Symphony, a work that still bowed to Haydn and Mozart while quietly bending the rules that would soon redefine classical music. Listeners heard hints of the bold harmonic shocks and rhythmic drive that would later become Beethoven’s trademark, wrapped in the elegance of late Classicism.",
-    "fact_year": 1800,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Symphony_No._1_(Beethoven)",
+    "hour": 1,
+    "fact_text": "On April 2, 1725, J. S. Bach’s cantata “Bleib bei uns, denn es will Abend werden” (BWV 6) was first performed in Leipzig on Easter Monday. The piece weaves shadows and light together, using the metaphor of approaching evening to express a deep human plea for presence in times of doubt.",
+    "fact_year": 1725,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bleib_bei_uns,_denn_es_will_Abend_werden,_BWV_6",
     "episode": {
-      "id": 27,
-      "title": "Morning Drops #27 - Endless Summer",
-      "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
+      "id": 20,
+      "title": "Morning Drops #14 - Slow Planet",
+      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
       "songs": [
-        "Nik Bärtsch - Modul 14",
-        "Mama Terra - Chameleon (Single Edit)",
-        "Spyro Gyra - Morning Dance",
-        "Yussef Kamaal - Black Focus"
+        "Air - Cherry Blossom Girl",
+        "Kruder & Dorfmeister - Keep On Believing",
+        "Tosca - Orozco",
+        "Bonobo - Terrapin"
       ],
       "music-genres": [
-        "Minimal Jazz",
-        "Nu Jazz",
-        "Jazz Fusion",
-        "UK Jazz"
+        "Downtempo",
+        "Trip-Hop",
+        "Electronic",
+        "Chillout"
       ]
     },
-    "match_reason": "A carefully crafted first symphony and a mellow jazz voyage both explore structure, nuance, and slow-burning energy rather than spectacle, inviting attentive, reflective listening."
+    "match_reason": "Bach’s evening-themed cantata and the episode’s slow, contemplative downtempo both create a gentle twilight mood, inviting listeners into a calm, reflective spiritual space."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On April 2, 1725, J. S. Bach’s cantata “Bleib bei uns, denn es will Abend werden” (BWV 6) was first performed in Leipzig on Easter Monday. The piece weaves shadows and light together, using the metaphor of approaching evening to express a deep human plea for presence in times of doubt.",
-      "fact_year": 1725,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bleib_bei_uns,_denn_es_will_Abend_werden,_BWV_6",
-      "episode": {
-        "id": 20,
-        "title": "Morning Drops #14 - Slow Planet",
-        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
-        "songs": [
-          "Air - Cherry Blossom Girl",
-          "Kruder & Dorfmeister - Keep On Believing",
-          "Tosca - Orozco",
-          "Bonobo - Terrapin"
-        ],
-        "music-genres": [
-          "Downtempo",
-          "Trip-Hop",
-          "Electronic",
-          "Chillout"
-        ]
-      },
-      "match_reason": "Bach’s evening-themed cantata and the episode’s slow, contemplative downtempo both create a gentle twilight mood, inviting listeners into a calm, reflective spiritual space."
-    },
     {
       "hour": 2,
       "fact_text": "In 1513, Spanish explorer Juan Ponce de León came ashore on the land he named Florida, likely somewhere between present-day St. Augustine and the mouth of the St. Johns River. He believed he might have reached an island and was also chasing legends of a ‘Fountain of Youth’, blending geography, myth, and ambition in a single landfall.",
@@ -642,9 +617,34 @@
         ]
       },
       "match_reason": "A carefully crafted first symphony and a mellow jazz voyage both explore structure, nuance, and slow-burning energy rather than spectacle, inviting attentive, reflective listening."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On April 2, 1725, J. S. Bach’s cantata “Bleib bei uns, denn es will Abend werden” (BWV 6) was first performed in Leipzig on Easter Monday. The piece weaves shadows and light together, using the metaphor of approaching evening to express a deep human plea for presence in times of doubt.",
+      "fact_year": 1725,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bleib_bei_uns,_denn_es_will_Abend_werden,_BWV_6",
+      "episode": {
+        "id": 20,
+        "title": "Morning Drops #14 - Slow Planet",
+        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+        "songs": [
+          "Air - Cherry Blossom Girl",
+          "Kruder & Dorfmeister - Keep On Believing",
+          "Tosca - Orozco",
+          "Bonobo - Terrapin"
+        ],
+        "music-genres": [
+          "Downtempo",
+          "Trip-Hop",
+          "Electronic",
+          "Chillout"
+        ]
+      },
+      "match_reason": "Bach’s evening-themed cantata and the episode’s slow, contemplative downtempo both create a gentle twilight mood, inviting listeners into a calm, reflective spiritual space."
     }
   ],
   "generated_at": "2026-04-02T00:00:00.008825+00:00",
   "date": "2026-04-02",
-  "updated_at": "2026-04-02T00:00:52.562147+00:00"
+  "updated_at": "2026-04-02T01:00:01.505118+00:00"
 }
