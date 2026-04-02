@@ -1,56 +1,31 @@
 {
-  "current_hour": 14,
+  "current_hour": 15,
   "current_fact": {
-    "hour": 14,
-    "fact_text": "Also on April 2, 1992, Serb paramilitary groups massacred at least 42 civilians in the Bosnian town of Bijeljina, an early and chilling signal of the ethnic violence that would tear through Bosnia and Herzegovina. Photographs from the streets captured ordinary houses turned into scenes of terror.",
-    "fact_year": 1992,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bijeljina_massacre",
+    "hour": 15,
+    "fact_text": "On April 2, 2002, during an intense phase of the Israeli–Palestinian conflict, Israeli forces surrounded the Church of the Nativity in Bethlehem after armed Palestinians took refuge inside. The siege turned one of Christianity’s holiest sites into a surreal mix of sanctuary, standoff, and global media stage.",
+    "fact_year": 2002,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Siege_of_the_Church_of_the_Nativity",
     "episode": {
-      "id": 31,
-      "title": "Morning Drops #31 - A Trip-Hop Journey",
-      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+      "id": 44,
+      "title": "Morning Drops #38 - History of Flamenco",
+      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
       "songs": [
-        "Massive Attack - Unfinished Sympathy",
-        "Tricky - Hell Is Round the Corner",
-        "DJ Shadow - Midnight in a Perfect World",
-        "Thievery Corporation - Lebanese Blonde",
-        "Smoke City - Underwater Love"
+        "La Niña de los Peines - Al Gurugú",
+        "Lola Flores - Pena, penita, pena",
+        "Paco de Lucía - Entre dos aguas",
+        "Camarón de la Isla - La leyenda del tiempo",
+        "Rosalía - Pienso en tu mirá"
       ],
       "music-genres": [
-        "Trip-Hop",
-        "Downtempo",
-        "Electronic"
+        "Flamenco",
+        "Spanish Folk",
+        "Nuevo Flamenco"
       ]
     },
-    "match_reason": "The dark, uneasy mood of early 1990s conflict sits uncomfortably close to the brooding, cinematic atmosphere of trip‑hop, a genre that often soundtracked newsreels and late‑night reflections from that era."
+    "match_reason": "A tense clash around a sacred site in the Eastern Mediterranean pairs with flamenco’s tradition of spiritual lament, resistance, and raw emotional storytelling rooted in another crossroads of faith and struggle."
   },
   "queue": [
-    {
-      "hour": 15,
-      "fact_text": "On April 2, 2002, during an intense phase of the Israeli–Palestinian conflict, Israeli forces surrounded the Church of the Nativity in Bethlehem after armed Palestinians took refuge inside. The siege turned one of Christianity’s holiest sites into a surreal mix of sanctuary, standoff, and global media stage.",
-      "fact_year": 2002,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Siege_of_the_Church_of_the_Nativity",
-      "episode": {
-        "id": 44,
-        "title": "Morning Drops #38 - History of Flamenco",
-        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
-        "songs": [
-          "La Niña de los Peines - Al Gurugú",
-          "Lola Flores - Pena, penita, pena",
-          "Paco de Lucía - Entre dos aguas",
-          "Camarón de la Isla - La leyenda del tiempo",
-          "Rosalía - Pienso en tu mirá"
-        ],
-        "music-genres": [
-          "Flamenco",
-          "Spanish Folk",
-          "Nuevo Flamenco"
-        ]
-      },
-      "match_reason": "A tense clash around a sacred site in the Eastern Mediterranean pairs with flamenco’s tradition of spiritual lament, resistance, and raw emotional storytelling rooted in another crossroads of faith and struggle."
-    },
     {
       "hour": 16,
       "fact_text": "On April 2, 2004, terrorists linked to the Madrid train bombings attempted another attack, this time targeting Spain’s AVE high‑speed rail line near Madrid. The bomb was discovered and defused, turning what could have been another catastrophe into a hidden near‑miss in the history of European transport.",
@@ -630,9 +605,34 @@
         ]
       },
       "match_reason": "The dark, uneasy mood of early 1990s conflict sits uncomfortably close to the brooding, cinematic atmosphere of trip‑hop, a genre that often soundtracked newsreels and late‑night reflections from that era."
+    },
+    {
+      "hour": 15,
+      "fact_text": "On April 2, 2002, during an intense phase of the Israeli–Palestinian conflict, Israeli forces surrounded the Church of the Nativity in Bethlehem after armed Palestinians took refuge inside. The siege turned one of Christianity’s holiest sites into a surreal mix of sanctuary, standoff, and global media stage.",
+      "fact_year": 2002,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Siege_of_the_Church_of_the_Nativity",
+      "episode": {
+        "id": 44,
+        "title": "Morning Drops #38 - History of Flamenco",
+        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+        "songs": [
+          "La Niña de los Peines - Al Gurugú",
+          "Lola Flores - Pena, penita, pena",
+          "Paco de Lucía - Entre dos aguas",
+          "Camarón de la Isla - La leyenda del tiempo",
+          "Rosalía - Pienso en tu mirá"
+        ],
+        "music-genres": [
+          "Flamenco",
+          "Spanish Folk",
+          "Nuevo Flamenco"
+        ]
+      },
+      "match_reason": "A tense clash around a sacred site in the Eastern Mediterranean pairs with flamenco’s tradition of spiritual lament, resistance, and raw emotional storytelling rooted in another crossroads of faith and struggle."
     }
   ],
   "generated_at": "2026-04-02T00:00:00.007752+00:00",
   "date": "2026-04-02",
-  "updated_at": "2026-04-02T14:00:02.295067+00:00"
+  "updated_at": "2026-04-02T15:00:01.675011+00:00"
 }
