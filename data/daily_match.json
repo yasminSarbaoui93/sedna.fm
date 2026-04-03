@@ -1,56 +1,31 @@
 {
-  "current_hour": 15,
+  "current_hour": 16,
   "current_fact": {
-    "hour": 15,
-    "fact_text": "On April 3, 2010, Apple released the first-generation iPad, a tablet computer that many critics initially dismissed as a \"big iPhone\" without a keyboard. Yet it helped define a new device category between phones and laptops, shifting how people read, watch, and make media on the move.",
-    "fact_year": 2010,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/IPad_(1st_generation)",
+    "hour": 16,
+    "fact_text": "In 2008, Texas authorities raided the FLDS’s remote YFZ Ranch after reports of underage marriage and abuse, ultimately removing 533 women and children into state custody. The event spotlighted how closed religious communities can collide with modern legal systems over questions of consent, power, and protection.",
+    "fact_year": 2008,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/YFZ_Ranch",
     "episode": {
-      "id": 13,
-      "title": "Morning Drops #07 - secret_mp3_player_1",
-      "description": "Inspired by a throwback MP3 player on Instagram, Yasmin and Gaia take you on a nostalgic journey to the early 2000s. LimeWire, eMule, guilty-pleasure playlists — remember those? Hit play and relive the songs that shaped a generation.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-secret-mp3-player-1",
+      "id": 44,
+      "title": "Morning Drops #38 - History of Flamenco",
+      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
       "songs": [
-        "Sean Paul - Get Busy",
-        "Blink-182 - I Miss You",
-        "Black Eyed Peas - My Humps",
-        "Britney Spears - Toxic"
+        "La Niña de los Peines - Al Gurugú",
+        "Lola Flores - Pena, penita, pena",
+        "Paco de Lucía - Entre dos aguas",
+        "Camarón de la Isla - La leyenda del tiempo",
+        "Rosalía - Pienso en tu mirá"
       ],
       "music-genres": [
-        "Dancehall",
-        "Pop Punk",
-        "Pop",
-        "Dance-Pop"
+        "Flamenco",
+        "Spanish Folk",
+        "Nuevo Flamenco"
       ]
     },
-    "match_reason": "The first iPad transformed how we carry music and media, echoing this episode’s nostalgia for earlier portable devices and the evolution from MP3 players to tablets."
+    "match_reason": "This clash between a secretive religious sect and outside law enforcement mirrors flamenco’s themes of repression, sorrow, and defiance, carried in raw, emotionally charged vocals."
   },
   "queue": [
-    {
-      "hour": 16,
-      "fact_text": "In 2008, Texas authorities raided the FLDS’s remote YFZ Ranch after reports of underage marriage and abuse, ultimately removing 533 women and children into state custody. The event spotlighted how closed religious communities can collide with modern legal systems over questions of consent, power, and protection.",
-      "fact_year": 2008,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/YFZ_Ranch",
-      "episode": {
-        "id": 44,
-        "title": "Morning Drops #38 - History of Flamenco",
-        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
-        "songs": [
-          "La Niña de los Peines - Al Gurugú",
-          "Lola Flores - Pena, penita, pena",
-          "Paco de Lucía - Entre dos aguas",
-          "Camarón de la Isla - La leyenda del tiempo",
-          "Rosalía - Pienso en tu mirá"
-        ],
-        "music-genres": [
-          "Flamenco",
-          "Spanish Folk",
-          "Nuevo Flamenco"
-        ]
-      },
-      "match_reason": "This clash between a secretive religious sect and outside law enforcement mirrors flamenco’s themes of repression, sorrow, and defiance, carried in raw, emotionally charged vocals."
-    },
     {
       "hour": 17,
       "fact_text": "Also on April 3, 1996, after a nearly two-decade manhunt, authorities arrested Theodore \"Ted\" Kaczynski—the Unabomber—at his tiny off-grid cabin in Montana. Inside, they found a typewriter, homemade bombs, and thousands of handwritten pages outlining his anti-technology manifesto.",
@@ -646,9 +621,34 @@
         ]
       },
       "match_reason": "The first iPad transformed how we carry music and media, echoing this episode’s nostalgia for earlier portable devices and the evolution from MP3 players to tablets."
+    },
+    {
+      "hour": 16,
+      "fact_text": "In 2008, Texas authorities raided the FLDS’s remote YFZ Ranch after reports of underage marriage and abuse, ultimately removing 533 women and children into state custody. The event spotlighted how closed religious communities can collide with modern legal systems over questions of consent, power, and protection.",
+      "fact_year": 2008,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/YFZ_Ranch",
+      "episode": {
+        "id": 44,
+        "title": "Morning Drops #38 - History of Flamenco",
+        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+        "songs": [
+          "La Niña de los Peines - Al Gurugú",
+          "Lola Flores - Pena, penita, pena",
+          "Paco de Lucía - Entre dos aguas",
+          "Camarón de la Isla - La leyenda del tiempo",
+          "Rosalía - Pienso en tu mirá"
+        ],
+        "music-genres": [
+          "Flamenco",
+          "Spanish Folk",
+          "Nuevo Flamenco"
+        ]
+      },
+      "match_reason": "This clash between a secretive religious sect and outside law enforcement mirrors flamenco’s themes of repression, sorrow, and defiance, carried in raw, emotionally charged vocals."
     }
   ],
   "generated_at": "2026-04-03T00:00:00.008710+00:00",
   "date": "2026-04-03",
-  "updated_at": "2026-04-03T15:00:01.341488+00:00"
+  "updated_at": "2026-04-03T16:00:01.526867+00:00"
 }
