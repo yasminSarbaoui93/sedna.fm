@@ -1,56 +1,31 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 1933, two biplanes from the British Houston–Mount Everest Flight Expedition became the first aircraft to fly over Mount Everest, climbing into the thin, unpressurized air with open cockpits and oxygen masks that sometimes froze. Funded by eccentric millionaire Lady Houston, the mission was as much a feat of engineering as of human stubbornness, bringing back the first close-up aerial photographs of the world’s highest peak.",
-    "fact_year": 1933,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Houston%E2%80%93Mount_Everest_flight_expedition",
+    "hour": 1,
+    "fact_text": "On April 3, 1974, the Super Outbreak unleashed 148 tornadoes across 13 U.S. states and parts of Canada in less than 24 hours, one of the most violent storm barrages ever recorded. Entire towns were scarred, with simultaneous F4 and F5 tornadoes carving paths so wide that meteorologists had to invent new ways to describe the chaos.",
+    "fact_year": 1974,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1974_Super_Outbreak",
     "episode": {
-      "id": 46,
-      "title": "Morning Drops #40 - Diving With Orcas",
-      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+      "id": 11,
+      "title": "Morning Drops #05 - Electric Shock",
+      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
       "songs": [
-        "Ludovico Einaudi - Experience",
-        "The Temper Trap - Sweet Disposition",
-        "Alex Warren - Ordinary",
-        "Piero Umiliani - Il tuo volto"
+        "Johnny Winter - Highway 61 Revisited",
+        "Joan Armatrading - Sleight of Hand",
+        "Joan Armatrading - Russian Roulette",
+        "Jimi Hendrix - Freedom",
+        "Jeff Beck - Scatterbrain"
       ],
       "music-genres": [
-        "Neo-Classical",
-        "Indie Rock",
-        "Pop",
-        "Italian Film Score"
+        "Blues Rock",
+        "Rock",
+        "Electric Blues"
       ]
     },
-    "match_reason": "Both the Everest overflight and Arctic whale dives are extreme, cold, high-risk expeditions into Earth’s most forbidding places, mirrored by the episode’s cinematic, awe-filled tone."
+    "match_reason": "The intense, violent energy of a massive tornado outbreak pairs with an \"Electric Shock\" set full of roaring guitars and storm-like, high-voltage riffs."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On April 3, 1974, the Super Outbreak unleashed 148 tornadoes across 13 U.S. states and parts of Canada in less than 24 hours, one of the most violent storm barrages ever recorded. Entire towns were scarred, with simultaneous F4 and F5 tornadoes carving paths so wide that meteorologists had to invent new ways to describe the chaos.",
-      "fact_year": 1974,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1974_Super_Outbreak",
-      "episode": {
-        "id": 11,
-        "title": "Morning Drops #05 - Electric Shock",
-        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
-        "songs": [
-          "Johnny Winter - Highway 61 Revisited",
-          "Joan Armatrading - Sleight of Hand",
-          "Joan Armatrading - Russian Roulette",
-          "Jimi Hendrix - Freedom",
-          "Jeff Beck - Scatterbrain"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Rock",
-          "Electric Blues"
-        ]
-      },
-      "match_reason": "The intense, violent energy of a massive tornado outbreak pairs with an \"Electric Shock\" set full of roaring guitars and storm-like, high-voltage riffs."
-    },
     {
       "hour": 2,
       "fact_text": "In 1948, U.S. President Harry S. Truman signed the Marshall Plan into law, sending about $5 billion in its first year to help rebuild 16 war-torn European countries. Beyond money, it exported an idea: that economic cooperation and rebuilding infrastructure could be a more powerful defense than any weapon.",
@@ -646,9 +621,34 @@
         ]
       },
       "match_reason": "Both the Everest overflight and Arctic whale dives are extreme, cold, high-risk expeditions into Earth’s most forbidding places, mirrored by the episode’s cinematic, awe-filled tone."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On April 3, 1974, the Super Outbreak unleashed 148 tornadoes across 13 U.S. states and parts of Canada in less than 24 hours, one of the most violent storm barrages ever recorded. Entire towns were scarred, with simultaneous F4 and F5 tornadoes carving paths so wide that meteorologists had to invent new ways to describe the chaos.",
+      "fact_year": 1974,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1974_Super_Outbreak",
+      "episode": {
+        "id": 11,
+        "title": "Morning Drops #05 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "songs": [
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
+        ]
+      },
+      "match_reason": "The intense, violent energy of a massive tornado outbreak pairs with an \"Electric Shock\" set full of roaring guitars and storm-like, high-voltage riffs."
     }
   ],
   "generated_at": "2026-04-03T00:00:00.008710+00:00",
   "date": "2026-04-03",
-  "updated_at": "2026-04-03T00:00:58.317263+00:00"
+  "updated_at": "2026-04-03T01:00:01.916398+00:00"
 }
