@@ -1,59 +1,31 @@
 {
-  "current_hour": 15,
+  "current_hour": 16,
   "current_fact": {
-    "hour": 15,
-    "fact_text": "On 3 April 2010, Apple released the first‑generation iPad, a tablet that many critics initially dismissed as a \"big iPhone.\" Within years it had reshaped publishing, design, music-making, and the way people consumed media from couches, classrooms, and airplane seats worldwide.",
-    "fact_year": 2010,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/IPad_(1st_generation)",
+    "hour": 16,
+    "fact_text": "On 3 April 2008, Texas authorities raided the YFZ Ranch, a remote community of the Fundamentalist Church of Jesus Christ of Latter-Day Saints (FLDS), ultimately taking 533 women and children into state custody. The operation raised complex questions about religious freedom, abuse, and the power of the state to intervene in closed communities.",
+    "fact_year": 2008,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/YFZ_Ranch",
     "episode": {
-      "id": 54,
-      "title": "Morning Drops #47 - The Rise Of Autotune",
-      "description": "In this Morning Drop, Yasmin explores the explosive rise of Auto-Tune, a tool that quietly changed the sound of music without asking for attention. From fragile, imperfect recordings to voices shaped with precision, this episode follows the moment when correction became standard and sound became controlled.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-autotune",
+      "id": 44,
+      "title": "Morning Drops #38 - History of Flamenco",
+      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
       "songs": [
-        "Chet Baker – I Fall in Love Too Easily",
-        "Destiny’s Child – Survivor",
-        "T-Pain – I’m Sprung",
-        "Jay-Z – D.O.A. (Death of Auto-Tune)",
-        "Travis Scott feat. Kacy Hill – 90210"
+        "La Niña de los Peines - Al Gurugú",
+        "Lola Flores - Pena, penita, pena",
+        "Paco de Lucía - Entre dos aguas",
+        "Camarón de la Isla - La leyenda del tiempo",
+        "Rosalía - Pienso en tu mirá"
       ],
       "music-genres": [
-        "Jazz",
-        "R&B",
-        "Hip-Hop",
-        "Pop",
-        "Trap",
-        "Electronic"
+        "Flamenco",
+        "Spanish Folk",
+        "Nuevo Flamenco"
       ]
     },
-    "match_reason": "The iPad and Auto‑Tune are both sleek technologies that quietly rewired creative workflows and stirred debates about authenticity and control in modern culture."
+    "match_reason": "A story about a secretive, tightly controlled religious world is paired with flamenco, an art form historically born from marginalized, tightly bound communities negotiating freedom, faith, and social control through song."
   },
   "queue": [
-    {
-      "hour": 16,
-      "fact_text": "On 3 April 2008, Texas authorities raided the YFZ Ranch, a remote community of the Fundamentalist Church of Jesus Christ of Latter-Day Saints (FLDS), ultimately taking 533 women and children into state custody. The operation raised complex questions about religious freedom, abuse, and the power of the state to intervene in closed communities.",
-      "fact_year": 2008,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/YFZ_Ranch",
-      "episode": {
-        "id": 44,
-        "title": "Morning Drops #38 - History of Flamenco",
-        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
-        "songs": [
-          "La Niña de los Peines - Al Gurugú",
-          "Lola Flores - Pena, penita, pena",
-          "Paco de Lucía - Entre dos aguas",
-          "Camarón de la Isla - La leyenda del tiempo",
-          "Rosalía - Pienso en tu mirá"
-        ],
-        "music-genres": [
-          "Flamenco",
-          "Spanish Folk",
-          "Nuevo Flamenco"
-        ]
-      },
-      "match_reason": "A story about a secretive, tightly controlled religious world is paired with flamenco, an art form historically born from marginalized, tightly bound communities negotiating freedom, faith, and social control through song."
-    },
     {
       "hour": 17,
       "fact_text": "On 3 April 1996, FBI agents arrested Theodore Kaczynski—the \"Unabomber\"—in his tiny off‑grid cabin in Montana, ending a 17‑year bombing campaign against universities and airlines. His notebooks and typewriter revealed a solitary life spent crafting a violent manifesto against industrial society.",
@@ -654,9 +626,34 @@
         ]
       },
       "match_reason": "The iPad and Auto‑Tune are both sleek technologies that quietly rewired creative workflows and stirred debates about authenticity and control in modern culture."
+    },
+    {
+      "hour": 16,
+      "fact_text": "On 3 April 2008, Texas authorities raided the YFZ Ranch, a remote community of the Fundamentalist Church of Jesus Christ of Latter-Day Saints (FLDS), ultimately taking 533 women and children into state custody. The operation raised complex questions about religious freedom, abuse, and the power of the state to intervene in closed communities.",
+      "fact_year": 2008,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/YFZ_Ranch",
+      "episode": {
+        "id": 44,
+        "title": "Morning Drops #38 - History of Flamenco",
+        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+        "songs": [
+          "La Niña de los Peines - Al Gurugú",
+          "Lola Flores - Pena, penita, pena",
+          "Paco de Lucía - Entre dos aguas",
+          "Camarón de la Isla - La leyenda del tiempo",
+          "Rosalía - Pienso en tu mirá"
+        ],
+        "music-genres": [
+          "Flamenco",
+          "Spanish Folk",
+          "Nuevo Flamenco"
+        ]
+      },
+      "match_reason": "A story about a secretive, tightly controlled religious world is paired with flamenco, an art form historically born from marginalized, tightly bound communities negotiating freedom, faith, and social control through song."
     }
   ],
   "generated_at": "2026-04-03T00:00:00.012288+00:00",
   "date": "2026-04-03",
-  "updated_at": "2026-04-03T15:00:01.494587+00:00"
+  "updated_at": "2026-04-03T16:00:01.795629+00:00"
 }
