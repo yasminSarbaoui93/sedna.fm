@@ -1,58 +1,31 @@
 {
-  "current_hour": 9,
+  "current_hour": 10,
   "current_fact": {
-    "hour": 9,
-    "fact_text": "In 1996, a U.S. Air Force Boeing T-43 carrying U.S. Commerce Secretary Ron Brown and 34 others crashed into a mountainside near Dubrovnik, Croatia, while attempting a non-precision approach in poor weather. The tragedy exposed how navigation procedures, terrain awareness, and politics intersect in the invisible pathways aircraft follow.",
-    "fact_year": 1996,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1996_Croatia_USAF_Boeing_CT-43_crash",
+    "hour": 10,
+    "fact_text": "On April 3, 1989, the U.S. Supreme Court ruled in Mississippi Band of Choctaw Indians v. Holyfield that tribal courts, not state courts, had jurisdiction over an adoption involving Choctaw children under the Indian Child Welfare Act. The decision affirmed that tribal sovereignty extends even beyond reservation borders when it comes to protecting Native families.",
+    "fact_year": 1989,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Indian_Child_Welfare_Act",
     "episode": {
-      "id": 50,
-      "title": "Morning Drops #43 - Looking Back",
-      "description": "In this first Morning Drop of 2026, Yasmin opens a space for quiet reflection on the nature of transitions. The episode traces a personal journey that began three years ago, when a sudden injury on New Year’s Day turned a desire for movement into a mandatory season of stillness.\n\nThrough the story of a broken knee and the slow process of relearning to walk, the narrative explores the difference between being strong and being aware. It touches on the vulnerability of the body, the unexpected joy found in daily progress, and the warmth that comes from finally allowing oneself to accept help. The musical selection mirrors this path of recovery, moving from the uncertainty of change to the steady rhythm of healing.\n\nMood: Reflective, Resilient, Grounded\nMusic genre: Indie Pop, Cinematic, World, Soul\n\nWe invite you to listen deeply and find comfort in your own pace.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-looking-back",
+      "id": 40,
+      "title": "Morning Drops #34 - Soul Sisters",
+      "description": "A tribute to four iconic voices — women who have shaped the way we listen, feel, and move. Each track carries a different kind of presence: one that holds you, one that questions, one that grounds, and one that lets go. An energy that is soulful, raw, and unapologetically feminine.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-soul-sisters",
       "songs": [
-        "Alt-J - 3WW",
-        "Kelly Finnigan - I Don't Wanna Wait",
-        "Goran Bregović & Iggy Pop - This Is a Film",
-        "Ishihonana - Lucia (Original Mix)",
-        "The Weeknd - Save Your Tears"
+        "Grace Jones - Walking in the Rain",
+        "Lauryn Hill - Lost Ones",
+        "Aretha Franklin - A Rose Is Still a Rose",
+        "Loredana Bertè - In Alto Mare"
       ],
       "music-genres": [
-        "Indie Pop",
-        "Soul",
-        "World",
-        "Cinematic",
-        "Synth-Pop"
+        "New Wave",
+        "Neo-Soul",
+        "R&B",
+        "Italian Pop"
       ]
     },
-    "match_reason": "A fatal crash in the hills above Dubrovnik invites sober reflection on fragility and recovery, themes mirrored by an episode about healing from injury and looking back at difficult turning points."
+    "match_reason": "A legal battle over who gets to protect Native children resonates with an episode honoring powerful voices who challenge injustice and affirm identity, especially within families and communities."
   },
   "queue": [
-    {
-      "hour": 10,
-      "fact_text": "On April 3, 1989, the U.S. Supreme Court ruled in Mississippi Band of Choctaw Indians v. Holyfield that tribal courts, not state courts, had jurisdiction over an adoption involving Choctaw children under the Indian Child Welfare Act. The decision affirmed that tribal sovereignty extends even beyond reservation borders when it comes to protecting Native families.",
-      "fact_year": 1989,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Indian_Child_Welfare_Act",
-      "episode": {
-        "id": 40,
-        "title": "Morning Drops #34 - Soul Sisters",
-        "description": "A tribute to four iconic voices — women who have shaped the way we listen, feel, and move. Each track carries a different kind of presence: one that holds you, one that questions, one that grounds, and one that lets go. An energy that is soulful, raw, and unapologetically feminine.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-soul-sisters",
-        "songs": [
-          "Grace Jones - Walking in the Rain",
-          "Lauryn Hill - Lost Ones",
-          "Aretha Franklin - A Rose Is Still a Rose",
-          "Loredana Bertè - In Alto Mare"
-        ],
-        "music-genres": [
-          "New Wave",
-          "Neo-Soul",
-          "R&B",
-          "Italian Pop"
-        ]
-      },
-      "match_reason": "A legal battle over who gets to protect Native children resonates with an episode honoring powerful voices who challenge injustice and affirm identity, especially within families and communities."
-    },
     {
       "hour": 11,
       "fact_text": "In 1721, Robert Walpole quietly became Britain’s first de facto Prime Minister, though the title didn’t officially exist and he publicly rejected it. By controlling cabinet appointments and managing Parliament from behind the scenes, he effectively invented a role that would shape modern parliamentary democracy.",
@@ -648,9 +621,34 @@
         ]
       },
       "match_reason": "A fatal crash in the hills above Dubrovnik invites sober reflection on fragility and recovery, themes mirrored by an episode about healing from injury and looking back at difficult turning points."
+    },
+    {
+      "hour": 10,
+      "fact_text": "On April 3, 1989, the U.S. Supreme Court ruled in Mississippi Band of Choctaw Indians v. Holyfield that tribal courts, not state courts, had jurisdiction over an adoption involving Choctaw children under the Indian Child Welfare Act. The decision affirmed that tribal sovereignty extends even beyond reservation borders when it comes to protecting Native families.",
+      "fact_year": 1989,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Indian_Child_Welfare_Act",
+      "episode": {
+        "id": 40,
+        "title": "Morning Drops #34 - Soul Sisters",
+        "description": "A tribute to four iconic voices — women who have shaped the way we listen, feel, and move. Each track carries a different kind of presence: one that holds you, one that questions, one that grounds, and one that lets go. An energy that is soulful, raw, and unapologetically feminine.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-soul-sisters",
+        "songs": [
+          "Grace Jones - Walking in the Rain",
+          "Lauryn Hill - Lost Ones",
+          "Aretha Franklin - A Rose Is Still a Rose",
+          "Loredana Bertè - In Alto Mare"
+        ],
+        "music-genres": [
+          "New Wave",
+          "Neo-Soul",
+          "R&B",
+          "Italian Pop"
+        ]
+      },
+      "match_reason": "A legal battle over who gets to protect Native children resonates with an episode honoring powerful voices who challenge injustice and affirm identity, especially within families and communities."
     }
   ],
   "generated_at": "2026-04-03T00:00:00.008710+00:00",
   "date": "2026-04-03",
-  "updated_at": "2026-04-03T09:00:01.536175+00:00"
+  "updated_at": "2026-04-03T10:00:01.607935+00:00"
 }
