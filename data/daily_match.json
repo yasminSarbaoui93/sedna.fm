@@ -1,59 +1,31 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "On April 4, 1969, surgeon Denton Cooley implanted the first temporary artificial heart in a human patient. The device kept the patient alive for three days until a donor heart became available, proving that machines could, at least briefly, stand in for our most vital organ.",
-    "fact_year": 1969,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Artificial_heart",
+    "hour": 5,
+    "fact_text": "On April 4, 1796, Georges Cuvier delivered what is considered the first true paleontological lecture, arguing that fossils were the remains of extinct species. At a time when many believed nature made no mistakes and nothing truly vanished, he introduced the radical idea of extinction as a force shaping Earth’s history.",
+    "fact_year": 1796,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Georges_Cuvier",
     "episode": {
-      "id": 54,
-      "title": "Morning Drops #47 - The Rise Of Autotune",
-      "description": "In this Morning Drop, Yasmin explores the explosive rise of Auto-Tune, a tool that quietly changed the sound of music without asking for attention. From fragile, imperfect recordings to voices shaped with precision, this episode follows the moment when correction became standard and sound became controlled.\n\nAlong the way, we discover the curious story of how it was invented, how it moved from the background of studios to the center of debate, and how a few artists turned it into something expressive rather than hidden.\n\nListen slowly, and let us know what you think about Autotune.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-autotune",
+      "id": 31,
+      "title": "Morning Drops #31 - A Trip-Hop Journey",
+      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
       "songs": [
-        "Chet Baker – I Fall in Love Too Easily",
-        "Destiny’s Child – Survivor",
-        "T-Pain – I’m Sprung",
-        "Jay-Z – D.O.A. (Death of Auto-Tune)",
-        "Travis Scott feat. Kacy Hill – 90210"
+        "Massive Attack - Unfinished Sympathy",
+        "Tricky - Hell Is Round the Corner",
+        "DJ Shadow - Midnight in a Perfect World",
+        "Thievery Corporation - Lebanese Blonde",
+        "Smoke City - Underwater Love"
       ],
       "music-genres": [
-        "Jazz",
-        "R&B",
-        "Hip-Hop",
-        "Pop",
-        "Trap",
+        "Trip-Hop",
+        "Downtempo",
         "Electronic"
       ]
     },
-    "match_reason": "An artificial heart and Auto-Tune both raise deep questions about where the organic ends and technology begins, each quietly reshaping what we consider \"natural\" life or sound."
+    "match_reason": "Just as Cuvier pieced together ancient worlds from fragments, trip‑hop builds new soundscapes from sampled shards of the past—both slow, atmospheric acts of reconstruction."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "On April 4, 1796, Georges Cuvier delivered what is considered the first true paleontological lecture, arguing that fossils were the remains of extinct species. At a time when many believed nature made no mistakes and nothing truly vanished, he introduced the radical idea of extinction as a force shaping Earth’s history.",
-      "fact_year": 1796,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Georges_Cuvier",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #31 - A Trip-Hop Journey",
-        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
-        "songs": [
-          "Massive Attack - Unfinished Sympathy",
-          "Tricky - Hell Is Round the Corner",
-          "DJ Shadow - Midnight in a Perfect World",
-          "Thievery Corporation - Lebanese Blonde",
-          "Smoke City - Underwater Love"
-        ],
-        "music-genres": [
-          "Trip-Hop",
-          "Downtempo",
-          "Electronic"
-        ]
-      },
-      "match_reason": "Just as Cuvier pieced together ancient worlds from fragments, trip‑hop builds new soundscapes from sampled shards of the past—both slow, atmospheric acts of reconstruction."
-    },
     {
       "hour": 6,
       "fact_text": "On April 4, 1904, a pair of powerful earthquakes struck Bulgaria’s Kresna region, reaching magnitudes of about 7.1. These twin shocks are among the strongest recorded in Europe, reshaping local geology and leaving a long seismic memory in the Balkans.",
@@ -642,9 +614,34 @@
         ]
       },
       "match_reason": "An artificial heart and Auto-Tune both raise deep questions about where the organic ends and technology begins, each quietly reshaping what we consider \"natural\" life or sound."
+    },
+    {
+      "hour": 5,
+      "fact_text": "On April 4, 1796, Georges Cuvier delivered what is considered the first true paleontological lecture, arguing that fossils were the remains of extinct species. At a time when many believed nature made no mistakes and nothing truly vanished, he introduced the radical idea of extinction as a force shaping Earth’s history.",
+      "fact_year": 1796,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Georges_Cuvier",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #31 - A Trip-Hop Journey",
+        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+        "songs": [
+          "Massive Attack - Unfinished Sympathy",
+          "Tricky - Hell Is Round the Corner",
+          "DJ Shadow - Midnight in a Perfect World",
+          "Thievery Corporation - Lebanese Blonde",
+          "Smoke City - Underwater Love"
+        ],
+        "music-genres": [
+          "Trip-Hop",
+          "Downtempo",
+          "Electronic"
+        ]
+      },
+      "match_reason": "Just as Cuvier pieced together ancient worlds from fragments, trip‑hop builds new soundscapes from sampled shards of the past—both slow, atmospheric acts of reconstruction."
     }
   ],
   "generated_at": "2026-04-04T00:00:00.015587+00:00",
   "date": "2026-04-04",
-  "updated_at": "2026-04-04T04:00:01.318272+00:00"
+  "updated_at": "2026-04-04T05:00:01.342516+00:00"
 }
