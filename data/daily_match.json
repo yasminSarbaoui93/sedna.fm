@@ -1,63 +1,40 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "On April 4, 1968, NASA launched Apollo 6, the second and last uncrewed test flight of the mighty Saturn V rocket. The mission was riddled with dramatic engine oscillations and failures, yet the data it returned helped engineers refine the system that would soon carry humans to the Moon.",
-    "fact_year": 1968,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Apollo_6",
+    "hour": 1,
+    "fact_text": "On April 4, 1983, Space Shuttle Challenger lifted off on mission STS-6, its maiden voyage into orbit. Among other tasks, it carried and deployed the first Tracking and Data Relay Satellite, helping weave an invisible communications web around Earth.",
+    "fact_year": 1983,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-6",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 2,
+      "title": "Sedna FM #02 - Destination Sedna",
+      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Pink Floyd - Breathe",
+        "The fountain DC - Starburster",
+        "Laura Cahen - La Poussiere",
+        "Taxi Kebab - Lmchi w rjou3",
+        "Odion Iruoje - Identify With Your Roots",
+        "Depeche mode - world in my eyes (Oil Tank Mix)",
+        "Massive attack - Dissolved girl",
+        "Kokoroko - Three piece suite",
+        "Salin - Egungun",
+        "E.S.P. - It's You"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Progressive Rock",
+        "Post-Punk",
+        "French Pop",
+        "Maghreb",
+        "Afrobeat",
+        "Synthpop",
+        "Trip-Hop"
       ]
     },
-    "match_reason": "A spaceflight stress-test pairs perfectly with an episode about reimagining \"empty\" space as possibility, mirrored by the propulsive, forward-moving tracks."
+    "match_reason": "A shuttle’s first journey and a communications satellite echo the theme of setting off to new destinations and connecting distant listeners, much like this cosmic, exploratory mix."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On April 4, 1983, Space Shuttle Challenger lifted off on mission STS-6, its maiden voyage into orbit. Among other tasks, it carried and deployed the first Tracking and Data Relay Satellite, helping weave an invisible communications web around Earth.",
-      "fact_year": 1983,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-6",
-      "episode": {
-        "id": 2,
-        "title": "Sedna FM #02 - Destination Sedna",
-        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
-        "songs": [
-          "Pink Floyd - Breathe",
-          "The fountain DC - Starburster",
-          "Laura Cahen - La Poussiere",
-          "Taxi Kebab - Lmchi w rjou3",
-          "Odion Iruoje - Identify With Your Roots",
-          "Depeche mode - world in my eyes (Oil Tank Mix)",
-          "Massive attack - Dissolved girl",
-          "Kokoroko - Three piece suite",
-          "Salin - Egungun",
-          "E.S.P. - It's You"
-        ],
-        "music-genres": [
-          "Progressive Rock",
-          "Post-Punk",
-          "French Pop",
-          "Maghreb",
-          "Afrobeat",
-          "Synthpop",
-          "Trip-Hop"
-        ]
-      },
-      "match_reason": "A shuttle’s first journey and a communications satellite echo the theme of setting off to new destinations and connecting distant listeners, much like this cosmic, exploratory mix."
-    },
     {
       "hour": 2,
       "fact_text": "On April 4, 1997, Space Shuttle Columbia launched on STS-83, a mission dedicated to microgravity science. A faulty fuel cell forced an early return after just a few days, turning a carefully planned research voyage into a lesson in resilience and rapid problem-solving.",
@@ -637,9 +614,43 @@
         ]
       },
       "match_reason": "A spaceflight stress-test pairs perfectly with an episode about reimagining \"empty\" space as possibility, mirrored by the propulsive, forward-moving tracks."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On April 4, 1983, Space Shuttle Challenger lifted off on mission STS-6, its maiden voyage into orbit. Among other tasks, it carried and deployed the first Tracking and Data Relay Satellite, helping weave an invisible communications web around Earth.",
+      "fact_year": 1983,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-6",
+      "episode": {
+        "id": 2,
+        "title": "Sedna FM #02 - Destination Sedna",
+        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+        "songs": [
+          "Pink Floyd - Breathe",
+          "The fountain DC - Starburster",
+          "Laura Cahen - La Poussiere",
+          "Taxi Kebab - Lmchi w rjou3",
+          "Odion Iruoje - Identify With Your Roots",
+          "Depeche mode - world in my eyes (Oil Tank Mix)",
+          "Massive attack - Dissolved girl",
+          "Kokoroko - Three piece suite",
+          "Salin - Egungun",
+          "E.S.P. - It's You"
+        ],
+        "music-genres": [
+          "Progressive Rock",
+          "Post-Punk",
+          "French Pop",
+          "Maghreb",
+          "Afrobeat",
+          "Synthpop",
+          "Trip-Hop"
+        ]
+      },
+      "match_reason": "A shuttle’s first journey and a communications satellite echo the theme of setting off to new destinations and connecting distant listeners, much like this cosmic, exploratory mix."
     }
   ],
   "generated_at": "2026-04-04T00:00:00.015587+00:00",
   "date": "2026-04-04",
-  "updated_at": "2026-04-04T00:00:56.009773+00:00"
+  "updated_at": "2026-04-04T01:00:01.807561+00:00"
 }
