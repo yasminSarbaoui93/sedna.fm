@@ -1,61 +1,31 @@
 {
-  "current_hour": 12,
+  "current_hour": 13,
   "current_fact": {
-    "hour": 12,
-    "fact_text": "On April 4, 1933, the U.S. Navy airship USS Akron broke apart in a storm off the New Jersey coast, killing 73 people and ending hopes that giant rigid airships would be safe flagships of the sky. It remains one of the deadliest airship disasters in history, overshadowed only by the later Hindenburg fire.",
-    "fact_year": 1933,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/USS_Akron",
+    "hour": 13,
+    "fact_text": "On April 4, 1944, Allied bombers targeted oil refineries around Bucharest, Romania, in a raid that killed around 3,000 civilians. The attack underscored how modern war depended on fuel—and how entire cities could be burned in the effort to deny it.",
+    "fact_year": 1944,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bombing_of_Bucharest_in_World_War_II",
     "episode": {
-      "id": 48,
-      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+      "id": 56,
+      "title": "Morning Drops #49 - Rage Against The Machine",
+      "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
       "songs": [
-        "Stive Morgan - Solar Wind, Pt. 3",
-        "David Visan & Carlos Campos - Crystal Heart",
-        "Evan Mars - Ya Zareef Al Tool",
-        "Gerardo Frisina - Cuiabá",
-        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-        "The Busy Twist - Friday Night"
+        "Rage Against the Machine - Bombtrack",
+        "Rage Against the Machine - Killing in the Name",
+        "Rage Against the Machine - Without a Face",
+        "Rage Against the Machine - Guerrilla Radio",
+        "Rage Against the Machine - Sleep Now in the Fire"
       ],
       "music-genres": [
-        "Ambient",
-        "Deep House",
-        "World Music",
-        "Nu Jazz",
-        "Afrobeat",
-        "Funk",
-        "Electronic"
+        "Rap Metal",
+        "Political Rock",
+        "Alternative Metal"
       ]
     },
-    "match_reason": "The Akron’s doomed voyage evokes the fragile romance of early flight; the episode’s slowly rising, airy textures and 'solar wind' ambience echo that sense of drifting high above the Earth."
+    "match_reason": "A brutal wartime air campaign and the politics of power and resources resonate with Rage Against the Machine’s fierce critique of militarism and imperial violence."
   },
   "queue": [
-    {
-      "hour": 13,
-      "fact_text": "On April 4, 1944, Allied bombers targeted oil refineries around Bucharest, Romania, in a raid that killed around 3,000 civilians. The attack underscored how modern war depended on fuel—and how entire cities could be burned in the effort to deny it.",
-      "fact_year": 1944,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bombing_of_Bucharest_in_World_War_II",
-      "episode": {
-        "id": 56,
-        "title": "Morning Drops #49 - Rage Against The Machine",
-        "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
-        "songs": [
-          "Rage Against the Machine - Bombtrack",
-          "Rage Against the Machine - Killing in the Name",
-          "Rage Against the Machine - Without a Face",
-          "Rage Against the Machine - Guerrilla Radio",
-          "Rage Against the Machine - Sleep Now in the Fire"
-        ],
-        "music-genres": [
-          "Rap Metal",
-          "Political Rock",
-          "Alternative Metal"
-        ]
-      },
-      "match_reason": "A brutal wartime air campaign and the politics of power and resources resonate with Rage Against the Machine’s fierce critique of militarism and imperial violence."
-    },
     {
       "hour": 14,
       "fact_text": "On this day in 1958, the now-iconic CND peace symbol—a circle with a semaphore 'N' and 'D' for nuclear disarmament—was displayed in public for the first time at a march in London. Designed by Gerald Holtom, it was meant as a symbol of despair, but quickly became a worldwide emblem of hope and protest.",
@@ -643,9 +613,34 @@
         ]
       },
       "match_reason": "The Akron’s doomed voyage evokes the fragile romance of early flight; the episode’s slowly rising, airy textures and 'solar wind' ambience echo that sense of drifting high above the Earth."
+    },
+    {
+      "hour": 13,
+      "fact_text": "On April 4, 1944, Allied bombers targeted oil refineries around Bucharest, Romania, in a raid that killed around 3,000 civilians. The attack underscored how modern war depended on fuel—and how entire cities could be burned in the effort to deny it.",
+      "fact_year": 1944,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bombing_of_Bucharest_in_World_War_II",
+      "episode": {
+        "id": 56,
+        "title": "Morning Drops #49 - Rage Against The Machine",
+        "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
+        "songs": [
+          "Rage Against the Machine - Bombtrack",
+          "Rage Against the Machine - Killing in the Name",
+          "Rage Against the Machine - Without a Face",
+          "Rage Against the Machine - Guerrilla Radio",
+          "Rage Against the Machine - Sleep Now in the Fire"
+        ],
+        "music-genres": [
+          "Rap Metal",
+          "Political Rock",
+          "Alternative Metal"
+        ]
+      },
+      "match_reason": "A brutal wartime air campaign and the politics of power and resources resonate with Rage Against the Machine’s fierce critique of militarism and imperial violence."
     }
   ],
   "generated_at": "2026-04-04T00:00:00.008121+00:00",
   "date": "2026-04-04",
-  "updated_at": "2026-04-04T12:00:01.525461+00:00"
+  "updated_at": "2026-04-04T13:00:01.789780+00:00"
 }
