@@ -1,59 +1,34 @@
 {
-  "current_hour": 6,
+  "current_hour": 7,
   "current_fact": {
-    "hour": 6,
-    "fact_text": "In 1796, French naturalist Georges Cuvier delivered what is considered the first formal paleontology lecture. By comparing fossils with living animals, he argued that entire species had vanished, quietly introducing the idea of extinction to a world that thought nature never erased her own work.",
-    "fact_year": 1796,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Georges_Cuvier",
+    "hour": 7,
+    "fact_text": "On April 4, 1581, after circling the globe, Francis Drake knelt aboard his ship Golden Hind as Queen Elizabeth I personally knighted him. His circumnavigation blurred the line between explorer, privateer, and state-sponsored pirate in an age when maps still had blank edges.",
+    "fact_year": 1581,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Francis_Drake%27s_circumnavigation",
     "episode": {
-      "id": 31,
-      "title": "Morning Drops #31 - A Trip-Hop Journey",
-      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "Massive Attack - Unfinished Sympathy",
-        "Tricky - Hell Is Round the Corner",
-        "DJ Shadow - Midnight in a Perfect World",
-        "Thievery Corporation - Lebanese Blonde",
-        "Smoke City - Underwater Love"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Trip-Hop",
-        "Downtempo",
-        "Electronic"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "Cuvier stitched Earth’s deep past together from fragments, much like trip-hop stitches samples into new soundscapes—both are acts of reconstructing hidden histories from scattered traces."
+    "match_reason": "Drake’s world-encircling voyage and knighting on a wooden deck echo through an episode literally recorded at sea—modern sailors trading stories where his kind once traced unknown coasts."
   },
   "queue": [
-    {
-      "hour": 7,
-      "fact_text": "On April 4, 1581, after circling the globe, Francis Drake knelt aboard his ship Golden Hind as Queen Elizabeth I personally knighted him. His circumnavigation blurred the line between explorer, privateer, and state-sponsored pirate in an age when maps still had blank edges.",
-      "fact_year": 1581,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Francis_Drake%27s_circumnavigation",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "Drake’s world-encircling voyage and knighting on a wooden deck echo through an episode literally recorded at sea—modern sailors trading stories where his kind once traced unknown coasts."
-    },
     {
       "hour": 8,
       "fact_text": "In 1818, the U.S. Congress formally adopted the now-familiar pattern of 13 red and white stripes and one star for each state on the American flag. The design deliberately froze the stripes as a memory of the original colonies while allowing the stars to multiply as the country expanded.",
@@ -638,9 +613,37 @@
         ]
       },
       "match_reason": "Cuvier stitched Earth’s deep past together from fragments, much like trip-hop stitches samples into new soundscapes—both are acts of reconstructing hidden histories from scattered traces."
+    },
+    {
+      "hour": 7,
+      "fact_text": "On April 4, 1581, after circling the globe, Francis Drake knelt aboard his ship Golden Hind as Queen Elizabeth I personally knighted him. His circumnavigation blurred the line between explorer, privateer, and state-sponsored pirate in an age when maps still had blank edges.",
+      "fact_year": 1581,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Francis_Drake%27s_circumnavigation",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "Drake’s world-encircling voyage and knighting on a wooden deck echo through an episode literally recorded at sea—modern sailors trading stories where his kind once traced unknown coasts."
     }
   ],
   "generated_at": "2026-04-04T00:00:00.008121+00:00",
   "date": "2026-04-04",
-  "updated_at": "2026-04-04T06:00:01.831150+00:00"
+  "updated_at": "2026-04-04T07:00:01.768099+00:00"
 }
