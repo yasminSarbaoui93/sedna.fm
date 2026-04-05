@@ -1,46 +1,31 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "In 1942, Adolf Hitler issued Führer Directive No. 41, planning Case Blue, a massive German offensive toward the Caucasus oil fields and the city of Stalingrad. On paper it looked like a clean arrow slicing across Soviet maps; in reality it led to one of history’s bloodiest urban battles and the beginning of the Reich’s collapse.",
-    "fact_year": 1942,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Case_Blue",
+    "hour": 11,
+    "fact_text": "In 1936, an F5 tornado tore through Tupelo, Mississippi as part of the Tupelo–Gainesville tornado outbreak, killing 233 people in the city alone. The storm’s violence was so extreme that entire neighborhoods were erased, yet a young boy named Elvis Presley survived in one of the hardest-hit areas, growing up to reshape music history.",
+    "fact_year": 1936,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1936_Tupelo%E2%80%93Gainesville_tornado_outbreak",
     "episode": {
-      "id": 61,
-      "title": "Morning Drops #52- Think Again",
-      "description": "In this Morning Drop, Yasmin explores the quiet art of changing your mind, guided by Adam Grant's book Think Again. From the beliefs we carry without questioning to the identities we build around what we think we know, this episode follows the slow, sometimes uncomfortable process of unlearning.\n\nAlong the way, we meet a Serbian trumpet player who had to let go of one dream to find another, a Tunisian oud master who challenged centuries of tradition from the inside, and a Japanese band who found freedom in playing for no one. The music moves from Balkan brass to Mediterranean stillness to psychedelic drift, tracing the shape of a mind opening up.\n\nListen slowly, and ask yourself: is there something you believe today that deserves a second look?",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-think-again",
-      "songs": [],
-      "music-genres": []
+      "id": 11,
+      "title": "Morning Drops #05 - Electric Shock",
+      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+      "songs": [
+        "Johnny Winter - Highway 61 Revisited",
+        "Joan Armatrading - Sleight of Hand",
+        "Joan Armatrading - Russian Roulette",
+        "Jimi Hendrix - Freedom",
+        "Jeff Beck - Scatterbrain"
+      ],
+      "music-genres": [
+        "Blues Rock",
+        "Rock",
+        "Electric Blues"
+      ]
     },
-    "match_reason": "A rigid, overconfident military plan that unraveled pairs with an episode about questioning certainty and the cost of not rethinking assumptions."
+    "match_reason": "A raw, destructive burst of natural energy is matched with a high-voltage rock episode, translating atmospheric fury into guitar-driven electricity."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "In 1936, an F5 tornado tore through Tupelo, Mississippi as part of the Tupelo–Gainesville tornado outbreak, killing 233 people in the city alone. The storm’s violence was so extreme that entire neighborhoods were erased, yet a young boy named Elvis Presley survived in one of the hardest-hit areas, growing up to reshape music history.",
-      "fact_year": 1936,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1936_Tupelo%E2%80%93Gainesville_tornado_outbreak",
-      "episode": {
-        "id": 11,
-        "title": "Morning Drops #05 - Electric Shock",
-        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
-        "songs": [
-          "Johnny Winter - Highway 61 Revisited",
-          "Joan Armatrading - Sleight of Hand",
-          "Joan Armatrading - Russian Roulette",
-          "Jimi Hendrix - Freedom",
-          "Jeff Beck - Scatterbrain"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Rock",
-          "Electric Blues"
-        ]
-      },
-      "match_reason": "A raw, destructive burst of natural energy is matched with a high-voltage rock episode, translating atmospheric fury into guitar-driven electricity."
-    },
     {
       "hour": 12,
       "fact_text": "In 1945, as World War II waned, Yugoslav leader Josip Broz Tito signed an agreement allowing the \"temporary\" entry of Soviet troops into Yugoslav territory. Within a few years, he would defy Stalin and chart a fiercely independent socialist path, turning that temporary welcome into a cautionary tale about big neighbors and small countries.",
@@ -637,9 +622,34 @@
         "music-genres": []
       },
       "match_reason": "A rigid, overconfident military plan that unraveled pairs with an episode about questioning certainty and the cost of not rethinking assumptions."
+    },
+    {
+      "hour": 11,
+      "fact_text": "In 1936, an F5 tornado tore through Tupelo, Mississippi as part of the Tupelo–Gainesville tornado outbreak, killing 233 people in the city alone. The storm’s violence was so extreme that entire neighborhoods were erased, yet a young boy named Elvis Presley survived in one of the hardest-hit areas, growing up to reshape music history.",
+      "fact_year": 1936,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1936_Tupelo%E2%80%93Gainesville_tornado_outbreak",
+      "episode": {
+        "id": 11,
+        "title": "Morning Drops #05 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "songs": [
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
+        ]
+      },
+      "match_reason": "A raw, destructive burst of natural energy is matched with a high-voltage rock episode, translating atmospheric fury into guitar-driven electricity."
     }
   ],
   "generated_at": "2026-04-05T00:00:00.010579+00:00",
   "date": "2026-04-05",
-  "updated_at": "2026-04-05T10:00:01.538956+00:00"
+  "updated_at": "2026-04-05T11:00:01.298608+00:00"
 }
