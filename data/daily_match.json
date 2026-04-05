@@ -1,62 +1,34 @@
 {
-  "current_hour": 16,
+  "current_hour": 17,
   "current_fact": {
-    "hour": 16,
-    "fact_text": "On 5 April 1951, Ethel and Julius Rosenberg were sentenced to death in the United States for passing atomic secrets to the Soviet Union. Their trial became one of the most controversial episodes of the Cold War, blending espionage, fear, and questions about justice into a single case.",
-    "fact_year": 1951,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Julius_and_Ethel_Rosenberg",
+    "hour": 17,
+    "fact_text": "On 5 April 1621, the Mayflower, having delivered its passengers to the New World months earlier, set sail from Plymouth, Massachusetts on its return voyage to England. The ship that had carried a small group of settlers into the unknown now sailed back across the Atlantic almost empty, its passengers’ experiment only just beginning.",
+    "fact_year": 1621,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mayflower",
     "episode": {
-      "id": 54,
-      "title": "Morning Drops #47 - The Rise Of Autotune",
-      "description": "In this Morning Drop, Yasmin explores the explosive rise of Auto-Tune, a tool that quietly changed the sound of music without asking for attention. From fragile, imperfect recordings to voices shaped with precision, this episode follows the moment when correction became standard and sound became controlled.\n\nAlong the way, we discover the curious story of how it was invented, how it moved from the background of studios to the center of debate, and how a few artists turned it into something expressive rather than hidden.\n\nListen slowly, and let us know what you think about Autotune.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-autotune",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "Chet Baker – I Fall in Love Too Easily",
-        "Destiny’s Child – Survivor",
-        "T-Pain – I’m Sprung",
-        "Jay-Z – D.O.A. (Death of Auto-Tune)",
-        "Travis Scott feat. Kacy Hill – 90210"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Jazz",
-        "R&B",
-        "Hip-Hop",
-        "Pop",
-        "Trap",
-        "Electronic"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "A case about hidden atomic secrets and state control mirrors an episode about a hidden studio tool that quietly reshaped sound, raising questions about authenticity, concealment, and manipulation."
+    "match_reason": "An iconic Atlantic crossing in a wooden ship fits seamlessly with an episode recorded aboard a modern sailboat, both telling stories of life at sea and shared journeys over long water."
   },
   "queue": [
-    {
-      "hour": 17,
-      "fact_text": "On 5 April 1621, the Mayflower, having delivered its passengers to the New World months earlier, set sail from Plymouth, Massachusetts on its return voyage to England. The ship that had carried a small group of settlers into the unknown now sailed back across the Atlantic almost empty, its passengers’ experiment only just beginning.",
-      "fact_year": 1621,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mayflower",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "An iconic Atlantic crossing in a wooden ship fits seamlessly with an episode recorded aboard a modern sailboat, both telling stories of life at sea and shared journeys over long water."
-    },
     {
       "hour": 18,
       "fact_text": "On 5 April 919, the Fatimid heir al‑Qa'im bi‑Amr Allah departed from Raqqada to begin the second Fatimid invasion of Egypt, a bold attempt to wrest the Nile valley from Abbasid control. The campaign showed how shifting religious and political currents in North Africa could spill across deserts and reshape the map of the Islamic world.",
@@ -650,9 +622,37 @@
         ]
       },
       "match_reason": "A case about hidden atomic secrets and state control mirrors an episode about a hidden studio tool that quietly reshaped sound, raising questions about authenticity, concealment, and manipulation."
+    },
+    {
+      "hour": 17,
+      "fact_text": "On 5 April 1621, the Mayflower, having delivered its passengers to the New World months earlier, set sail from Plymouth, Massachusetts on its return voyage to England. The ship that had carried a small group of settlers into the unknown now sailed back across the Atlantic almost empty, its passengers’ experiment only just beginning.",
+      "fact_year": 1621,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mayflower",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "An iconic Atlantic crossing in a wooden ship fits seamlessly with an episode recorded aboard a modern sailboat, both telling stories of life at sea and shared journeys over long water."
     }
   ],
   "generated_at": "2026-04-05T00:00:00.009375+00:00",
   "date": "2026-04-05",
-  "updated_at": "2026-04-05T16:00:01.374351+00:00"
+  "updated_at": "2026-04-05T17:00:01.379197+00:00"
 }
