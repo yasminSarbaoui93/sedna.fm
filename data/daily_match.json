@@ -1,59 +1,36 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 2010, Space Shuttle Discovery embarked on mission STS-131, a pre-dawn launch that carried racks of science experiments, a new sleeping compartment, and thousands of kilograms of supplies to the International Space Station. Among its crew was Naoko Yamazaki, one of Japan's first female astronauts, turning the dark Florida sky into a brief artificial sunrise for orbit-bound explorers.",
-    "fact_year": 2010,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-131",
+    "hour": 1,
+    "fact_text": "On this day in 1991, Space Shuttle Atlantis launched on STS-37 to deploy the Compton Gamma Ray Observatory, a telescope designed to catch some of the universe’s most energetic and invisible light. For nearly a decade, Compton revealed mysterious gamma-ray bursts and high-energy phenomena, turning the whole sky into a dynamic, flickering canvas.",
+    "fact_year": 1991,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Compton_Gamma_Ray_Observatory",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 48,
+      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Stive Morgan - Solar Wind, Pt. 3",
+        "David Visan & Carlos Campos - Crystal Heart",
+        "Evan Mars - Ya Zareef Al Tool",
+        "Gerardo Frisina - Cuiabá",
+        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+        "The Busy Twist - Friday Night"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Ambient",
+        "Deep House",
+        "World Music",
+        "Nu Jazz",
+        "Afrobeat",
+        "Funk",
+        "Electronic"
       ]
     },
-    "match_reason": "A literal space mission pairs with an episode about reimagining 'space' as creative possibility, echoing the ISS as a lab for new beginnings."
+    "match_reason": "The cosmic, slow-building mystery of gamma rays matches an evening mix that begins in deep, atmospheric textures and expands across sonic landscapes."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On this day in 1991, Space Shuttle Atlantis launched on STS-37 to deploy the Compton Gamma Ray Observatory, a telescope designed to catch some of the universe’s most energetic and invisible light. For nearly a decade, Compton revealed mysterious gamma-ray bursts and high-energy phenomena, turning the whole sky into a dynamic, flickering canvas.",
-      "fact_year": 1991,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Compton_Gamma_Ray_Observatory",
-      "episode": {
-        "id": 48,
-        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
-        "songs": [
-          "Stive Morgan - Solar Wind, Pt. 3",
-          "David Visan & Carlos Campos - Crystal Heart",
-          "Evan Mars - Ya Zareef Al Tool",
-          "Gerardo Frisina - Cuiabá",
-          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-          "The Busy Twist - Friday Night"
-        ],
-        "music-genres": [
-          "Ambient",
-          "Deep House",
-          "World Music",
-          "Nu Jazz",
-          "Afrobeat",
-          "Funk",
-          "Electronic"
-        ]
-      },
-      "match_reason": "The cosmic, slow-building mystery of gamma rays matches an evening mix that begins in deep, atmospheric textures and expands across sonic landscapes."
-    },
     {
       "hour": 2,
       "fact_text": "In 2009, North Korea launched the Kwangmyŏngsŏng-2 rocket over Japan, a single streak across the sky that triggered diplomatic shockwaves on Earth. The flight blurred the line between space exploration and geopolitical theater, showing how a lone satellite test can unsettle an entire planet’s sense of security.",
@@ -645,9 +622,39 @@
         ]
       },
       "match_reason": "A literal space mission pairs with an episode about reimagining 'space' as creative possibility, echoing the ISS as a lab for new beginnings."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On this day in 1991, Space Shuttle Atlantis launched on STS-37 to deploy the Compton Gamma Ray Observatory, a telescope designed to catch some of the universe’s most energetic and invisible light. For nearly a decade, Compton revealed mysterious gamma-ray bursts and high-energy phenomena, turning the whole sky into a dynamic, flickering canvas.",
+      "fact_year": 1991,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Compton_Gamma_Ray_Observatory",
+      "episode": {
+        "id": 48,
+        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+        "songs": [
+          "Stive Morgan - Solar Wind, Pt. 3",
+          "David Visan & Carlos Campos - Crystal Heart",
+          "Evan Mars - Ya Zareef Al Tool",
+          "Gerardo Frisina - Cuiabá",
+          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+          "The Busy Twist - Friday Night"
+        ],
+        "music-genres": [
+          "Ambient",
+          "Deep House",
+          "World Music",
+          "Nu Jazz",
+          "Afrobeat",
+          "Funk",
+          "Electronic"
+        ]
+      },
+      "match_reason": "The cosmic, slow-building mystery of gamma rays matches an evening mix that begins in deep, atmospheric textures and expands across sonic landscapes."
     }
   ],
   "generated_at": "2026-04-05T00:00:00.010579+00:00",
   "date": "2026-04-05",
-  "updated_at": "2026-04-05T00:00:56.663508+00:00"
+  "updated_at": "2026-04-05T01:00:01.344631+00:00"
 }
