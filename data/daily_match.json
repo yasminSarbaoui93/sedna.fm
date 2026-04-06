@@ -1,56 +1,31 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "In 1965, the satellite nicknamed Early Bird (Intelsat I) became the first commercial communications satellite placed in geosynchronous orbit. For the first time, live television, phone calls, and data could quietly bounce over the Atlantic almost continuously, shrinking oceans into milliseconds.",
-    "fact_year": 1965,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Intelsat_I",
+    "hour": 2,
+    "fact_text": "On April 6, 1974, an unknown Swedish group called ABBA won the Eurovision Song Contest in Brighton with “Waterloo.” That three-minute performance turned a local pop act into a global phenomenon and marked the beginning of Sweden’s long-running dominance in pop songwriting.",
+    "fact_year": 1974,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Eurovision_Song_Contest_1974",
     "episode": {
-      "id": 33,
-      "title": "Morning Drops #33 - Nomophobia",
-      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+      "id": 18,
+      "title": "Morning Drops #12 - 80's Club",
+      "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
       "songs": [
-        "All Them Witches - Internet",
-        "James Blake - The Wilhelm Scream",
-        "Nick Mulvey - Juramidam",
-        "Kraftwerk - Computer Love"
+        "Donna Summer - I Feel Love",
+        "Depeche Mode - Just Can't Get Enough",
+        "Ken Laszlo - Hey Hey Guy",
+        "Mylène Farmer - Sans Contrefaçon"
       ],
       "music-genres": [
-        "Psychedelic Rock",
-        "Electronic",
-        "Folk",
-        "Synth-Pop"
+        "Disco",
+        "Synthpop",
+        "Italo Disco",
+        "French Pop"
       ]
     },
-    "match_reason": "Early Bird quietly launched our era of constant connectivity, which this episode examines from the inside through our dependence on networks and devices."
+    "match_reason": "ABBA’s Eurovision breakthrough helped set the stage for Europe’s synth-driven pop and club culture, which this episode celebrates through 80s dance-floor legends."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "On April 6, 1974, an unknown Swedish group called ABBA won the Eurovision Song Contest in Brighton with “Waterloo.” That three-minute performance turned a local pop act into a global phenomenon and marked the beginning of Sweden’s long-running dominance in pop songwriting.",
-      "fact_year": 1974,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Eurovision_Song_Contest_1974",
-      "episode": {
-        "id": 18,
-        "title": "Morning Drops #12 - 80's Club",
-        "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
-        "songs": [
-          "Donna Summer - I Feel Love",
-          "Depeche Mode - Just Can't Get Enough",
-          "Ken Laszlo - Hey Hey Guy",
-          "Mylène Farmer - Sans Contrefaçon"
-        ],
-        "music-genres": [
-          "Disco",
-          "Synthpop",
-          "Italo Disco",
-          "French Pop"
-        ]
-      },
-      "match_reason": "ABBA’s Eurovision breakthrough helped set the stage for Europe’s synth-driven pop and club culture, which this episode celebrates through 80s dance-floor legends."
-    },
     {
       "hour": 3,
       "fact_text": "Also in 1974, over 200,000 people gathered at Ontario Motor Speedway in California for the first California Jam festival. The one‑day rock marathon, featuring bands like Deep Purple and Emerson, Lake & Palmer, set records for sound volume, attendance, and revenue, capturing rock at its most excessive and electrifying.",
@@ -638,9 +613,34 @@
         ]
       },
       "match_reason": "Early Bird quietly launched our era of constant connectivity, which this episode examines from the inside through our dependence on networks and devices."
+    },
+    {
+      "hour": 2,
+      "fact_text": "On April 6, 1974, an unknown Swedish group called ABBA won the Eurovision Song Contest in Brighton with “Waterloo.” That three-minute performance turned a local pop act into a global phenomenon and marked the beginning of Sweden’s long-running dominance in pop songwriting.",
+      "fact_year": 1974,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Eurovision_Song_Contest_1974",
+      "episode": {
+        "id": 18,
+        "title": "Morning Drops #12 - 80's Club",
+        "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
+        "songs": [
+          "Donna Summer - I Feel Love",
+          "Depeche Mode - Just Can't Get Enough",
+          "Ken Laszlo - Hey Hey Guy",
+          "Mylène Farmer - Sans Contrefaçon"
+        ],
+        "music-genres": [
+          "Disco",
+          "Synthpop",
+          "Italo Disco",
+          "French Pop"
+        ]
+      },
+      "match_reason": "ABBA’s Eurovision breakthrough helped set the stage for Europe’s synth-driven pop and club culture, which this episode celebrates through 80s dance-floor legends."
     }
   ],
   "generated_at": "2026-04-06T00:00:00.010133+00:00",
   "date": "2026-04-06",
-  "updated_at": "2026-04-06T01:00:01.532041+00:00"
+  "updated_at": "2026-04-06T02:00:01.431130+00:00"
 }
