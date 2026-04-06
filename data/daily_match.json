@@ -1,65 +1,31 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "On April 6, 1973, NASA launched Pioneer 11, a spacecraft that became the first to fly past Saturn and to venture into the outer regions of our Solar System beyond Jupiter’s orbit. It carried a golden plaque engraved with a map to our Sun and human figures—an intentional message to any intelligent life that might one day find it.",
-    "fact_year": 1973,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pioneer_11",
+    "hour": 1,
+    "fact_text": "In 1965, the satellite Intelsat I—nicknamed “Early Bird”—became the first commercial communications satellite placed in geosynchronous orbit. From a single point over the Atlantic, it could relay live television, telephone, and data between North America and Europe, shrinking an ocean into milliseconds.",
+    "fact_year": 1965,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Intelsat_I",
     "episode": {
-      "id": 2,
-      "title": "Sedna FM #02 - Destination Sedna",
-      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "Pink Floyd - Breathe",
-        "The fountain DC - Starburster",
-        "Laura Cahen - La Poussiere",
-        "Taxi Kebab - Lmchi w rjou3",
-        "Odion Iruoje - Identify With Your Roots",
-        "Depeche mode - world in my eyes (Oil Tank Mix)",
-        "Massive attack - Dissolved girl",
-        "Kokoroko - Three piece suite",
-        "Salin - Egungun",
-        "E.S.P. - It's You"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Progressive Rock",
-        "Post-Punk",
-        "French Pop",
-        "Maghreb",
-        "Afrobeat",
-        "Synthpop",
-        "Trip-Hop"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "A deep-space spacecraft starting a long voyage pairs with an episode framed as a collective journey into new territories, sonically ‘launching’ listeners outward."
+    "match_reason": "A pioneering communications satellite that rewired human connection fits an episode about our modern dependence on digital links and networks."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "In 1965, the satellite Intelsat I—nicknamed “Early Bird”—became the first commercial communications satellite placed in geosynchronous orbit. From a single point over the Atlantic, it could relay live television, telephone, and data between North America and Europe, shrinking an ocean into milliseconds.",
-      "fact_year": 1965,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Intelsat_I",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "A pioneering communications satellite that rewired human connection fits an episode about our modern dependence on digital links and networks."
-    },
     {
       "hour": 2,
       "fact_text": "On April 6, 1974, ABBA won the Eurovision Song Contest in Brighton with “Waterloo”, a song whose victory catapulted them from a little-known Swedish act into global pop icons. The performance blended glam, theatricality, and catchy hooks so powerfully that it helped define Eurovision’s over-the-top spirit for decades.",
@@ -633,9 +599,34 @@
         ]
       },
       "match_reason": "A deep-space spacecraft starting a long voyage pairs with an episode framed as a collective journey into new territories, sonically ‘launching’ listeners outward."
+    },
+    {
+      "hour": 1,
+      "fact_text": "In 1965, the satellite Intelsat I—nicknamed “Early Bird”—became the first commercial communications satellite placed in geosynchronous orbit. From a single point over the Atlantic, it could relay live television, telephone, and data between North America and Europe, shrinking an ocean into milliseconds.",
+      "fact_year": 1965,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Intelsat_I",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "A pioneering communications satellite that rewired human connection fits an episode about our modern dependence on digital links and networks."
     }
   ],
   "generated_at": "2026-04-06T00:00:00.013757+00:00",
   "date": "2026-04-06",
-  "updated_at": "2026-04-06T00:00:42.099342+00:00"
+  "updated_at": "2026-04-06T01:00:01.498881+00:00"
 }
