@@ -1,65 +1,31 @@
 {
-  "current_hour": 2,
+  "current_hour": 3,
   "current_fact": {
-    "hour": 2,
-    "fact_text": "In 1927, engineer Herbert Ives transmitted the first long-distance public television broadcast, sending the live image of Commerce Secretary Herbert Hoover from Washington, D.C. to New York City. At a time when most homes didn’t even own radios, seeing a moving face travel over hundreds of kilometers felt almost supernatural.",
-    "fact_year": 1927,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Herbert_E._Ives",
+    "hour": 3,
+    "fact_text": "On April 7, 1989, the Soviet nuclear submarine K-278 Komsomolets sank in the icy Barents Sea after a fire on board, taking 42 sailors with it. Built to dive deeper than almost any other submarine of its time, it now rests on the seafloor—its damaged reactor still a quiet environmental concern in Arctic waters.",
+    "fact_year": 1989,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Soviet_submarine_K-278_Komsomolets",
     "episode": {
-      "id": 2,
-      "title": "Sedna FM #02 - Destination Sedna",
-      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "Pink Floyd - Breathe",
-        "The fountain DC - Starburster",
-        "Laura Cahen - La Poussiere",
-        "Taxi Kebab - Lmchi w rjou3",
-        "Odion Iruoje - Identify With Your Roots",
-        "Depeche mode - world in my eyes (Oil Tank Mix)",
-        "Massive attack - Dissolved girl",
-        "Kokoroko - Three piece suite",
-        "Salin - Egungun",
-        "E.S.P. - It's You"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Progressive Rock",
-        "Post-Punk",
-        "French Pop",
-        "Maghreb",
-        "Afrobeat",
-        "Synthpop",
-        "Trip-Hop"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "The leap from silent wires to moving images mirrors the show’s voyage into new sonic territories, with ‘world in my eyes’ echoing the idea of seeing across distance."
+    "match_reason": "Both the fact and the episode descend into the cold northern seas; one tells a tragic human story, the other an intimate encounter with Arctic life in the same waters."
   },
   "queue": [
-    {
-      "hour": 3,
-      "fact_text": "On April 7, 1989, the Soviet nuclear submarine K-278 Komsomolets sank in the icy Barents Sea after a fire on board, taking 42 sailors with it. Built to dive deeper than almost any other submarine of its time, it now rests on the seafloor—its damaged reactor still a quiet environmental concern in Arctic waters.",
-      "fact_year": 1989,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Soviet_submarine_K-278_Komsomolets",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "Both the fact and the episode descend into the cold northern seas; one tells a tragic human story, the other an intimate encounter with Arctic life in the same waters."
-    },
     {
       "hour": 4,
       "fact_text": "In 1805, the Lewis and Clark Expedition broke camp near the Mandan people and pushed west again along the Missouri River. Having survived a harsh winter thanks to Indigenous knowledge, they set off into lands that, to them, were blank on maps but were deeply known to the Native nations who lived there.",
@@ -634,9 +600,34 @@
         ]
       },
       "match_reason": "The leap from silent wires to moving images mirrors the show’s voyage into new sonic territories, with ‘world in my eyes’ echoing the idea of seeing across distance."
+    },
+    {
+      "hour": 3,
+      "fact_text": "On April 7, 1989, the Soviet nuclear submarine K-278 Komsomolets sank in the icy Barents Sea after a fire on board, taking 42 sailors with it. Built to dive deeper than almost any other submarine of its time, it now rests on the seafloor—its damaged reactor still a quiet environmental concern in Arctic waters.",
+      "fact_year": 1989,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Soviet_submarine_K-278_Komsomolets",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "Both the fact and the episode descend into the cold northern seas; one tells a tragic human story, the other an intimate encounter with Arctic life in the same waters."
     }
   ],
   "generated_at": "2026-04-07T00:00:00.009320+00:00",
   "date": "2026-04-07",
-  "updated_at": "2026-04-07T02:00:01.452918+00:00"
+  "updated_at": "2026-04-07T03:00:01.958747+00:00"
 }
