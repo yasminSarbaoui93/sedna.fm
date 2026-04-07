@@ -1,56 +1,31 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "In 1989, the Soviet nuclear-powered submarine Komsomolets sank in the icy Barents Sea after a fire on board, killing 42 sailors. Built to reach extraordinary depths, it ultimately became a cautionary tale about high-risk technology, human bravery, and the hidden dangers beneath polar waters.",
-    "fact_year": 1989,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Soviet_submarine_K-278_Komsomolets",
+    "hour": 5,
+    "fact_text": "On this day in 1906, Mount Vesuvius erupted once again, sending ash and lava toward Naples and devastating nearby towns. Though less famous than the ancient Pompeii eruption, it was powerful enough to destroy villages and even force the relocation of a major international event, the 1908 Olympic gymnastics competition.",
+    "fact_year": 1906,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mount_Vesuvius",
     "episode": {
-      "id": 39,
-      "title": "Morning Drops #33 - Immerse",
-      "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
+      "id": 45,
+      "title": "Morning Drops #39 - Moving Meditation",
+      "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
       "songs": [
-        "Pino D'Angiò - Un Po' d'Uva e un Liquore",
-        "Midlife - The Magnificent Moon",
-        "Tornado Wallace - Today",
-        "Nu Genea - Marechià (feat. Celia Kameni)"
+        "Stella & The Longos - La Flamme",
+        "España Circo Este - Dormo poco e sogno molto",
+        "Mystic Jungle - Sunset Breaker",
+        "Talking Heads - This Must Be the Place (Naive Melody)"
       ],
       "music-genres": [
-        "Italo Disco",
-        "Indie",
         "Balearic",
-        "Nu Disco"
+        "Italian Folk Rock",
+        "World Music",
+        "New Wave"
       ]
     },
-    "match_reason": "A deep-diving submarine lost in Arctic waters connects to an episode about submerging below the surface, bringing a more contemplative, human layer to a story of the sea’s depths."
+    "match_reason": "A Southern Italian volcano reshaping landscapes and journeys pairs with an episode about travel, changing paths, and Mediterranean warmth in motion."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "On this day in 1906, Mount Vesuvius erupted once again, sending ash and lava toward Naples and devastating nearby towns. Though less famous than the ancient Pompeii eruption, it was powerful enough to destroy villages and even force the relocation of a major international event, the 1908 Olympic gymnastics competition.",
-      "fact_year": 1906,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mount_Vesuvius",
-      "episode": {
-        "id": 45,
-        "title": "Morning Drops #39 - Moving Meditation",
-        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
-        "songs": [
-          "Stella & The Longos - La Flamme",
-          "España Circo Este - Dormo poco e sogno molto",
-          "Mystic Jungle - Sunset Breaker",
-          "Talking Heads - This Must Be the Place (Naive Melody)"
-        ],
-        "music-genres": [
-          "Balearic",
-          "Italian Folk Rock",
-          "World Music",
-          "New Wave"
-        ]
-      },
-      "match_reason": "A Southern Italian volcano reshaping landscapes and journeys pairs with an episode about travel, changing paths, and Mediterranean warmth in motion."
-    },
     {
       "hour": 6,
       "fact_text": "In 1805, the Lewis and Clark Expedition broke camp near the Mandan people and pushed westward along the Missouri River. Guided by Indigenous knowledge and sheer curiosity, the Corps of Discovery paddled into lands still unmapped on American charts, cataloguing new species and cultures as they went.",
@@ -623,9 +598,34 @@
         ]
       },
       "match_reason": "A deep-diving submarine lost in Arctic waters connects to an episode about submerging below the surface, bringing a more contemplative, human layer to a story of the sea’s depths."
+    },
+    {
+      "hour": 5,
+      "fact_text": "On this day in 1906, Mount Vesuvius erupted once again, sending ash and lava toward Naples and devastating nearby towns. Though less famous than the ancient Pompeii eruption, it was powerful enough to destroy villages and even force the relocation of a major international event, the 1908 Olympic gymnastics competition.",
+      "fact_year": 1906,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mount_Vesuvius",
+      "episode": {
+        "id": 45,
+        "title": "Morning Drops #39 - Moving Meditation",
+        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
+        "songs": [
+          "Stella & The Longos - La Flamme",
+          "España Circo Este - Dormo poco e sogno molto",
+          "Mystic Jungle - Sunset Breaker",
+          "Talking Heads - This Must Be the Place (Naive Melody)"
+        ],
+        "music-genres": [
+          "Balearic",
+          "Italian Folk Rock",
+          "World Music",
+          "New Wave"
+        ]
+      },
+      "match_reason": "A Southern Italian volcano reshaping landscapes and journeys pairs with an episode about travel, changing paths, and Mediterranean warmth in motion."
     }
   ],
   "generated_at": "2026-04-07T00:00:00.013842+00:00",
   "date": "2026-04-07",
-  "updated_at": "2026-04-07T04:00:01.625068+00:00"
+  "updated_at": "2026-04-07T05:00:01.586791+00:00"
 }
