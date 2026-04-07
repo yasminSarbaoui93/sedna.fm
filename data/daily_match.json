@@ -1,64 +1,31 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "Also in 1805, Ludwig van Beethoven premiered his Third Symphony, the \"Eroica\", in Vienna—a work so bold that many listeners found it bewildering. Stretching symphonic form to heroic, emotional extremes, it quietly opened the door from the Classical world into the stormier realm of musical Romanticism.",
-    "fact_year": 1805,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Symphony_No._3_(Beethoven)",
+    "hour": 6,
+    "fact_text": "In 1521, Ferdinand Magellan’s expedition reached Cebu in the Philippines, becoming one of the first European fleets to anchor in those waters. Although Magellan himself would soon die nearby, his crew ultimately completed the first circumnavigation of Earth, proving in practice what maps had only hinted at: the planet is a connected, navigable whole.",
+    "fact_year": 1521,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ferdinand_Magellan",
     "episode": {
-      "id": 1,
-      "title": "Sedna FM #01 - November Bomb",
-      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+      "id": 17,
+      "title": "Morning Drops #11 - Mediterranean Boat",
+      "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
       "songs": [
-        "berlioz - Open this wall",
-        "Nas - One Mic",
-        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-        "Frankie Knuckles - Your Love",
-        "Notorious B.I.G. - 17 Ten Crack Commandments",
-        "Liloca - Utani Xuva",
-        "Fela Kuti - Zombie",
-        "Neffa - Aspettando il sole",
-        "Childish Gambino - No Excuses",
-        "Modjo - Music takes you back"
+        "Arleta - Bar To Navagio",
+        "Baba Zula - Tavla",
+        "Mylène Farmer - Désenchantée",
+        "Fabrizio De André - Crêuza de mä"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Afrobeat",
-        "House",
-        "Italian Pop",
-        "R&B",
-        "Latin Rap"
+        "Greek Folk",
+        "Turkish Psychedelic",
+        "French Pop",
+        "Italian Singer-Songwriter"
       ]
     },
-    "match_reason": "Beethoven’s Eroica was an explosive new beginning in music history, fitting the raw, landmark ‘episode one’ energy that set Sedna FM’s own story in motion."
+    "match_reason": "An early circumnavigator arriving in a new island world aligns with an episode built as a sea voyage through coastal cultures and songs."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "In 1521, Ferdinand Magellan’s expedition reached Cebu in the Philippines, becoming one of the first European fleets to anchor in those waters. Although Magellan himself would soon die nearby, his crew ultimately completed the first circumnavigation of Earth, proving in practice what maps had only hinted at: the planet is a connected, navigable whole.",
-      "fact_year": 1521,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ferdinand_Magellan",
-      "episode": {
-        "id": 17,
-        "title": "Morning Drops #11 - Mediterranean Boat",
-        "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
-        "songs": [
-          "Arleta - Bar To Navagio",
-          "Baba Zula - Tavla",
-          "Mylène Farmer - Désenchantée",
-          "Fabrizio De André - Crêuza de mä"
-        ],
-        "music-genres": [
-          "Greek Folk",
-          "Turkish Psychedelic",
-          "French Pop",
-          "Italian Singer-Songwriter"
-        ]
-      },
-      "match_reason": "An early circumnavigator arriving in a new island world aligns with an episode built as a sea voyage through coastal cultures and songs."
-    },
     {
       "hour": 7,
       "fact_text": "On this day in 1541, Francis Xavier left Lisbon bound for the Portuguese East Indies, beginning a journey that would make him one of history’s most traveled missionaries. Crossing oceans for years, he blended religion, language learning, and cultural adaptation long before the word \"globalization\" existed.",
@@ -633,9 +600,34 @@
         ]
       },
       "match_reason": "Beethoven’s Eroica was an explosive new beginning in music history, fitting the raw, landmark ‘episode one’ energy that set Sedna FM’s own story in motion."
+    },
+    {
+      "hour": 6,
+      "fact_text": "In 1521, Ferdinand Magellan’s expedition reached Cebu in the Philippines, becoming one of the first European fleets to anchor in those waters. Although Magellan himself would soon die nearby, his crew ultimately completed the first circumnavigation of Earth, proving in practice what maps had only hinted at: the planet is a connected, navigable whole.",
+      "fact_year": 1521,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ferdinand_Magellan",
+      "episode": {
+        "id": 17,
+        "title": "Morning Drops #11 - Mediterranean Boat",
+        "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
+        "songs": [
+          "Arleta - Bar To Navagio",
+          "Baba Zula - Tavla",
+          "Mylène Farmer - Désenchantée",
+          "Fabrizio De André - Crêuza de mä"
+        ],
+        "music-genres": [
+          "Greek Folk",
+          "Turkish Psychedelic",
+          "French Pop",
+          "Italian Singer-Songwriter"
+        ]
+      },
+      "match_reason": "An early circumnavigator arriving in a new island world aligns with an episode built as a sea voyage through coastal cultures and songs."
     }
   ],
   "generated_at": "2026-04-07T00:00:00.009320+00:00",
   "date": "2026-04-07",
-  "updated_at": "2026-04-07T05:00:01.604382+00:00"
+  "updated_at": "2026-04-07T06:00:48.184584+00:00"
 }
