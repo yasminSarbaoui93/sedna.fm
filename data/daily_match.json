@@ -1,54 +1,31 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 2001, NASA launched the 2001 Mars Odyssey orbiter, a spacecraft that would go on to map Mars in unprecedented detail and detect vast reserves of subsurface ice. Its instruments helped reveal that Mars is far less dry than it looks, silently rewriting our expectations about where life might hide on the Red Planet.",
-    "fact_year": 2001,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2001_Mars_Odyssey",
+    "hour": 1,
+    "fact_text": "During the STS-6 mission in 1983, astronauts Story Musgrave and Don Peterson performed the first-ever spacewalk from a Space Shuttle. Tethered to their orbiting craft high above Earth, they tested the suits and tools that would later make ambitious satellite repairs and space station construction possible.",
+    "fact_year": 1983,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-6",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 39,
+      "title": "Morning Drops #33 - Immerse",
+      "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Pino D'Angiò - Un Po' d'Uva e un Liquore",
+        "Midlife - The Magnificent Moon",
+        "Tornado Wallace - Today",
+        "Nu Genea - Marechià (feat. Celia Kameni)"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Italo Disco",
+        "Indie",
+        "Balearic",
+        "Nu Disco"
       ]
     },
-    "match_reason": "A literal journey to Mars pairs with an episode about reimagining empty space as creative potential, backed by propulsive, forward-moving tracks."
+    "match_reason": "A spacewalk is essentially a dive into the void; the episode’s theme of immersion and floating mirrors the astronauts’ weightless exploration outside the shuttle."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "During the STS-6 mission in 1983, astronauts Story Musgrave and Don Peterson performed the first-ever spacewalk from a Space Shuttle. Tethered to their orbiting craft high above Earth, they tested the suits and tools that would later make ambitious satellite repairs and space station construction possible.",
-      "fact_year": 1983,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-6",
-      "episode": {
-        "id": 39,
-        "title": "Morning Drops #33 - Immerse",
-        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
-        "songs": [
-          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
-          "Midlife - The Magnificent Moon",
-          "Tornado Wallace - Today",
-          "Nu Genea - Marechià (feat. Celia Kameni)"
-        ],
-        "music-genres": [
-          "Italo Disco",
-          "Indie",
-          "Balearic",
-          "Nu Disco"
-        ]
-      },
-      "match_reason": "A spacewalk is essentially a dive into the void; the episode’s theme of immersion and floating mirrors the astronauts’ weightless exploration outside the shuttle."
-    },
     {
       "hour": 2,
       "fact_text": "In 1927, engineer Herbert Ives transmitted the first long-distance public television broadcast, sending the live image of Commerce Secretary Herbert Hoover from Washington, D.C. to New York City. At a time when most homes didn’t even own radios, seeing a moving face travel over hundreds of kilometers felt almost supernatural.",
@@ -623,9 +600,34 @@
         ]
       },
       "match_reason": "A literal journey to Mars pairs with an episode about reimagining empty space as creative potential, backed by propulsive, forward-moving tracks."
+    },
+    {
+      "hour": 1,
+      "fact_text": "During the STS-6 mission in 1983, astronauts Story Musgrave and Don Peterson performed the first-ever spacewalk from a Space Shuttle. Tethered to their orbiting craft high above Earth, they tested the suits and tools that would later make ambitious satellite repairs and space station construction possible.",
+      "fact_year": 1983,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-6",
+      "episode": {
+        "id": 39,
+        "title": "Morning Drops #33 - Immerse",
+        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
+        "songs": [
+          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
+          "Midlife - The Magnificent Moon",
+          "Tornado Wallace - Today",
+          "Nu Genea - Marechià (feat. Celia Kameni)"
+        ],
+        "music-genres": [
+          "Italo Disco",
+          "Indie",
+          "Balearic",
+          "Nu Disco"
+        ]
+      },
+      "match_reason": "A spacewalk is essentially a dive into the void; the episode’s theme of immersion and floating mirrors the astronauts’ weightless exploration outside the shuttle."
     }
   ],
   "generated_at": "2026-04-07T00:00:00.009320+00:00",
   "date": "2026-04-07",
-  "updated_at": "2026-04-07T00:00:48.260277+00:00"
+  "updated_at": "2026-04-07T01:00:01.413143+00:00"
 }
