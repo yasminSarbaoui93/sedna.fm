@@ -1,65 +1,40 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "During the STS-6 mission in 1983, astronauts Story Musgrave and Don Peterson performed the first-ever spacewalk from a Space Shuttle. Tethered to their orbiting craft high above Earth, they tested the suits and tools that would later make ambitious satellite repairs and space station construction possible.",
-    "fact_year": 1983,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-6",
+    "hour": 2,
+    "fact_text": "In 1927, engineer Herbert Ives transmitted the first long-distance public television broadcast, sending the live image of Commerce Secretary Herbert Hoover from Washington, D.C. to New York City. At a time when most homes didn’t even own radios, seeing a moving face travel over hundreds of kilometers felt almost supernatural.",
+    "fact_year": 1927,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Herbert_E._Ives",
     "episode": {
-      "id": 39,
-      "title": "Morning Drops #33 - Immerse",
-      "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
+      "id": 2,
+      "title": "Sedna FM #02 - Destination Sedna",
+      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
       "songs": [
-        "Pino D'Angiò - Un Po' d'Uva e un Liquore",
-        "Midlife - The Magnificent Moon",
-        "Tornado Wallace - Today",
-        "Nu Genea - Marechià (feat. Celia Kameni)"
+        "Pink Floyd - Breathe",
+        "The fountain DC - Starburster",
+        "Laura Cahen - La Poussiere",
+        "Taxi Kebab - Lmchi w rjou3",
+        "Odion Iruoje - Identify With Your Roots",
+        "Depeche mode - world in my eyes (Oil Tank Mix)",
+        "Massive attack - Dissolved girl",
+        "Kokoroko - Three piece suite",
+        "Salin - Egungun",
+        "E.S.P. - It's You"
       ],
       "music-genres": [
-        "Italo Disco",
-        "Indie",
-        "Balearic",
-        "Nu Disco"
+        "Progressive Rock",
+        "Post-Punk",
+        "French Pop",
+        "Maghreb",
+        "Afrobeat",
+        "Synthpop",
+        "Trip-Hop"
       ]
     },
-    "match_reason": "A spacewalk is essentially a dive into the void; the episode’s theme of immersion and floating mirrors the astronauts’ weightless exploration outside the shuttle."
+    "match_reason": "The leap from silent wires to moving images mirrors the show’s voyage into new sonic territories, with ‘world in my eyes’ echoing the idea of seeing across distance."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "In 1927, engineer Herbert Ives transmitted the first long-distance public television broadcast, sending the live image of Commerce Secretary Herbert Hoover from Washington, D.C. to New York City. At a time when most homes didn’t even own radios, seeing a moving face travel over hundreds of kilometers felt almost supernatural.",
-      "fact_year": 1927,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Herbert_E._Ives",
-      "episode": {
-        "id": 2,
-        "title": "Sedna FM #02 - Destination Sedna",
-        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
-        "songs": [
-          "Pink Floyd - Breathe",
-          "The fountain DC - Starburster",
-          "Laura Cahen - La Poussiere",
-          "Taxi Kebab - Lmchi w rjou3",
-          "Odion Iruoje - Identify With Your Roots",
-          "Depeche mode - world in my eyes (Oil Tank Mix)",
-          "Massive attack - Dissolved girl",
-          "Kokoroko - Three piece suite",
-          "Salin - Egungun",
-          "E.S.P. - It's You"
-        ],
-        "music-genres": [
-          "Progressive Rock",
-          "Post-Punk",
-          "French Pop",
-          "Maghreb",
-          "Afrobeat",
-          "Synthpop",
-          "Trip-Hop"
-        ]
-      },
-      "match_reason": "The leap from silent wires to moving images mirrors the show’s voyage into new sonic territories, with ‘world in my eyes’ echoing the idea of seeing across distance."
-    },
     {
       "hour": 3,
       "fact_text": "On April 7, 1989, the Soviet nuclear submarine K-278 Komsomolets sank in the icy Barents Sea after a fire on board, taking 42 sailors with it. Built to dive deeper than almost any other submarine of its time, it now rests on the seafloor—its damaged reactor still a quiet environmental concern in Arctic waters.",
@@ -625,9 +600,43 @@
         ]
       },
       "match_reason": "A spacewalk is essentially a dive into the void; the episode’s theme of immersion and floating mirrors the astronauts’ weightless exploration outside the shuttle."
+    },
+    {
+      "hour": 2,
+      "fact_text": "In 1927, engineer Herbert Ives transmitted the first long-distance public television broadcast, sending the live image of Commerce Secretary Herbert Hoover from Washington, D.C. to New York City. At a time when most homes didn’t even own radios, seeing a moving face travel over hundreds of kilometers felt almost supernatural.",
+      "fact_year": 1927,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Herbert_E._Ives",
+      "episode": {
+        "id": 2,
+        "title": "Sedna FM #02 - Destination Sedna",
+        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+        "songs": [
+          "Pink Floyd - Breathe",
+          "The fountain DC - Starburster",
+          "Laura Cahen - La Poussiere",
+          "Taxi Kebab - Lmchi w rjou3",
+          "Odion Iruoje - Identify With Your Roots",
+          "Depeche mode - world in my eyes (Oil Tank Mix)",
+          "Massive attack - Dissolved girl",
+          "Kokoroko - Three piece suite",
+          "Salin - Egungun",
+          "E.S.P. - It's You"
+        ],
+        "music-genres": [
+          "Progressive Rock",
+          "Post-Punk",
+          "French Pop",
+          "Maghreb",
+          "Afrobeat",
+          "Synthpop",
+          "Trip-Hop"
+        ]
+      },
+      "match_reason": "The leap from silent wires to moving images mirrors the show’s voyage into new sonic territories, with ‘world in my eyes’ echoing the idea of seeing across distance."
     }
   ],
   "generated_at": "2026-04-07T00:00:00.009320+00:00",
   "date": "2026-04-07",
-  "updated_at": "2026-04-07T01:00:01.413143+00:00"
+  "updated_at": "2026-04-07T02:00:01.452918+00:00"
 }
