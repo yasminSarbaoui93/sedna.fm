@@ -1,40 +1,25 @@
 {
-  "current_hour": 21,
+  "current_hour": 22,
   "current_fact": {
-    "hour": 21,
-    "fact_text": "The satellite 2001 Mars Odyssey later made another unexpected contribution: by mapping radiation around Mars, it helped scientists understand how dangerous deep space travel would be for future human explorers. Its data feeds directly into real plans for sending people far beyond Earth's protective magnetosphere.",
-    "fact_year": 2001,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/NASA",
+    "hour": 22,
+    "fact_text": "During the 1906 Vesuvius eruption, observatories around the volcano used seismographs, barometers, and cameras to document its behavior in real time, turning a disaster into a natural laboratory. Their observations helped launch modern volcanology and the idea that even destructive forces can be carefully, patiently studied.",
+    "fact_year": 1906,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Naples",
     "episode": {
-      "id": 58,
-      "title": "Evening Flows #00 - Introduction to evening flows",
-      "description": "Sedna FM introduces a new format: Evening Flow, where you can enjoy curated music sets from selectors, DJs, and artists.\n\nEach mix is an invitation to drift beyond the expected. A space where hidden gems from personal archives come to light, where sound speaks its own language. There are no rules here, no patterns to follow. Just the steady unfolding of a mood, a texture, a journey shaped by feeling.\n\nLet the music lead the way - enjoy the trip!",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-introduction-to-evening-flows",
-      "songs": [],
-      "music-genres": []
+      "id": 25,
+      "title": "Morning Drops #19 - Wabi Sabi",
+      "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
+      "songs": [
+        "song 1"
+      ],
+      "music-genres": [
+        "genre 1"
+      ]
     },
-    "match_reason": "A mission that prepares humans to drift beyond Earth fits an introductory evening set designed to let listeners drift beyond expectations into open, uncharted sonic space."
+    "match_reason": "Studying a dangerous eruption up close embraces the imperfect, unpredictable side of Earth; the episode celebrates imperfection and things that don’t go to plan, but still teach us."
   },
   "queue": [
-    {
-      "hour": 22,
-      "fact_text": "During the 1906 Vesuvius eruption, observatories around the volcano used seismographs, barometers, and cameras to document its behavior in real time, turning a disaster into a natural laboratory. Their observations helped launch modern volcanology and the idea that even destructive forces can be carefully, patiently studied.",
-      "fact_year": 1906,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Naples",
-      "episode": {
-        "id": 25,
-        "title": "Morning Drops #19 - Wabi Sabi",
-        "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
-        "songs": [
-          "song 1"
-        ],
-        "music-genres": [
-          "genre 1"
-        ]
-      },
-      "match_reason": "Studying a dangerous eruption up close embraces the imperfect, unpredictable side of Earth; the episode celebrates imperfection and things that don’t go to plan, but still teach us."
-    },
     {
       "hour": 23,
       "fact_text": "When Herbert Ives sent that first long-distance TV image of Herbert Hoover in 1927, the picture was only a few inches tall and built from a tiny number of scan lines. Yet in that flickering miniature face lay the seed of the global, high‑definition screens we now casually carry in our pockets.",
@@ -615,9 +600,28 @@
         "music-genres": []
       },
       "match_reason": "A mission that prepares humans to drift beyond Earth fits an introductory evening set designed to let listeners drift beyond expectations into open, uncharted sonic space."
+    },
+    {
+      "hour": 22,
+      "fact_text": "During the 1906 Vesuvius eruption, observatories around the volcano used seismographs, barometers, and cameras to document its behavior in real time, turning a disaster into a natural laboratory. Their observations helped launch modern volcanology and the idea that even destructive forces can be carefully, patiently studied.",
+      "fact_year": 1906,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Naples",
+      "episode": {
+        "id": 25,
+        "title": "Morning Drops #19 - Wabi Sabi",
+        "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
+        "songs": [
+          "song 1"
+        ],
+        "music-genres": [
+          "genre 1"
+        ]
+      },
+      "match_reason": "Studying a dangerous eruption up close embraces the imperfect, unpredictable side of Earth; the episode celebrates imperfection and things that don’t go to plan, but still teach us."
     }
   ],
   "generated_at": "2026-04-07T00:00:00.009320+00:00",
   "date": "2026-04-07",
-  "updated_at": "2026-04-07T21:00:01.885552+00:00"
+  "updated_at": "2026-04-07T22:00:01.592464+00:00"
 }
