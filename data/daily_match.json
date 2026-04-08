@@ -1,47 +1,31 @@
 {
-  "current_hour": 22,
+  "current_hour": 23,
   "current_fact": {
-    "hour": 22,
-    "fact_text": "On April 8, 2005’s eclipse, observers on ships in the Pacific experienced ‘360-degree sunsets’—a ring of orange light all around the horizon while above them the sky went dark. These strange visuals happen because regions outside totality are still in daylight, painting the edges of the shadow with distant sunlight.",
-    "fact_year": 2005,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Solar_eclipse",
+    "hour": 23,
+    "fact_text": "On April 8, 2002’s STS-110 mission, astronauts helped assemble the International Space Station’s ‘backbone’ while orbiting Earth every 90 minutes—seeing 16 sunrises and sunsets per day. From that vantage point, borders vanish and the planet looks like a single glowing island in a dark ocean.",
+    "fact_year": 2002,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis",
     "episode": {
-      "id": 58,
-      "title": "Evening Flows #00 - Introduction to evening flows",
-      "description": "Sedna FM introduces a new format: Evening Flow, where you can enjoy curated music sets from selectors, DJs, and artists.\n\nEach mix is an invitation to drift beyond the expected. A space where hidden gems from personal archives come to light, where sound speaks its own language. There are no rules here, no patterns to follow. Just the steady unfolding of a mood, a texture, a journey shaped by feeling.\n\nLet the music lead the way - enjoy the trip!",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-introduction-to-evening-flows",
-      "songs": [],
-      "music-genres": []
+      "id": 38,
+      "title": "Morning Drops #32 - A Weekend In London",
+      "description": "Recorded in London, marking a weekend reunion between Gaia and Yasmin. A selection inspired by London's energy, seen through the eyes of two inseparable friends — music from concerts, club nights, and long walks across town. Four tracks to ease you into the week at the right pace.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-weekend-in-london",
+      "songs": [
+        "Dele Sosimi - E Go Betta",
+        "Jimmy Castor Bunch - It's Just Begun",
+        "Little Simz feat. Obongjayar - Lion",
+        "The Asphodells - Late Flowering Lust (Phil Kieran Remix)"
+      ],
+      "music-genres": [
+        "Afrobeat",
+        "Funk",
+        "UK Hip-Hop",
+        "Electronic"
+      ]
     },
-    "match_reason": "A ship under a shadow ringed by light feels like standing at the center of a slow, surrounding mix; the open-ended, mood-first spirit of Evening Flows matches that 360-degree twilight."
+    "match_reason": "Orbiting Earth and walking London’s streets are both ways of circling a world made of connections; this energetic city mix brings human-scale motion to the station’s planetary loops."
   },
-  "queue": [
-    {
-      "hour": 23,
-      "fact_text": "On April 8, 2002’s STS-110 mission, astronauts helped assemble the International Space Station’s ‘backbone’ while orbiting Earth every 90 minutes—seeing 16 sunrises and sunsets per day. From that vantage point, borders vanish and the planet looks like a single glowing island in a dark ocean.",
-      "fact_year": 2002,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis",
-      "episode": {
-        "id": 38,
-        "title": "Morning Drops #32 - A Weekend In London",
-        "description": "Recorded in London, marking a weekend reunion between Gaia and Yasmin. A selection inspired by London's energy, seen through the eyes of two inseparable friends — music from concerts, club nights, and long walks across town. Four tracks to ease you into the week at the right pace.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-weekend-in-london",
-        "songs": [
-          "Dele Sosimi - E Go Betta",
-          "Jimmy Castor Bunch - It's Just Begun",
-          "Little Simz feat. Obongjayar - Lion",
-          "The Asphodells - Late Flowering Lust (Phil Kieran Remix)"
-        ],
-        "music-genres": [
-          "Afrobeat",
-          "Funk",
-          "UK Hip-Hop",
-          "Electronic"
-        ]
-      },
-      "match_reason": "Orbiting Earth and walking London’s streets are both ways of circling a world made of connections; this energetic city mix brings human-scale motion to the station’s planetary loops."
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "hour": 0,
@@ -576,9 +560,34 @@
         "music-genres": []
       },
       "match_reason": "A ship under a shadow ringed by light feels like standing at the center of a slow, surrounding mix; the open-ended, mood-first spirit of Evening Flows matches that 360-degree twilight."
+    },
+    {
+      "hour": 23,
+      "fact_text": "On April 8, 2002’s STS-110 mission, astronauts helped assemble the International Space Station’s ‘backbone’ while orbiting Earth every 90 minutes—seeing 16 sunrises and sunsets per day. From that vantage point, borders vanish and the planet looks like a single glowing island in a dark ocean.",
+      "fact_year": 2002,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis",
+      "episode": {
+        "id": 38,
+        "title": "Morning Drops #32 - A Weekend In London",
+        "description": "Recorded in London, marking a weekend reunion between Gaia and Yasmin. A selection inspired by London's energy, seen through the eyes of two inseparable friends — music from concerts, club nights, and long walks across town. Four tracks to ease you into the week at the right pace.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-weekend-in-london",
+        "songs": [
+          "Dele Sosimi - E Go Betta",
+          "Jimmy Castor Bunch - It's Just Begun",
+          "Little Simz feat. Obongjayar - Lion",
+          "The Asphodells - Late Flowering Lust (Phil Kieran Remix)"
+        ],
+        "music-genres": [
+          "Afrobeat",
+          "Funk",
+          "UK Hip-Hop",
+          "Electronic"
+        ]
+      },
+      "match_reason": "Orbiting Earth and walking London’s streets are both ways of circling a world made of connections; this energetic city mix brings human-scale motion to the station’s planetary loops."
     }
   ],
   "generated_at": "2026-04-08T00:00:00.017085+00:00",
   "date": "2026-04-08",
-  "updated_at": "2026-04-08T22:00:01.628986+00:00"
+  "updated_at": "2026-04-08T23:00:01.786285+00:00"
 }
