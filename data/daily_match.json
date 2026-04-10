@@ -1,59 +1,31 @@
 {
-  "current_hour": 6,
+  "current_hour": 7,
   "current_fact": {
-    "hour": 6,
-    "fact_text": "On April 10, 1912, the RMS Titanic slipped away from Southampton on her luxury-packed maiden voyage, hailed as an engineering marvel and, famously, \"practically unsinkable\". Within days, that confidence would collapse into one of history’s most haunting maritime disasters.",
-    "fact_year": 1912,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Titanic",
+    "hour": 7,
+    "fact_text": "On April 10, 1866, Henry Bergh founded the American Society for the Prevention of Cruelty to Animals in New York City. At a time when horses were beaten in the streets and animals had almost no legal protection, his work helped launch a global movement for animal welfare.",
+    "fact_year": 1866,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/American_Society_for_the_Prevention_of_Cruelty_to_Animals",
     "episode": {
-      "id": 37,
-      "title": "Morning Drops #31 - Sailing With Germans",
-      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+      "id": 40,
+      "title": "Morning Drops #34 - Soul Sisters",
+      "description": "A tribute to four iconic voices — women who have shaped the way we listen, feel, and move. Each track carries a different kind of presence: one that holds you, one that questions, one that grounds, and one that lets go. An energy that is soulful, raw, and unapologetically feminine.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-soul-sisters",
       "songs": [
-        "Billy Talent - Dead Silence",
-        "Ben Howard - Keep Your Head Up",
-        "Ziggy Alberts - Simple Things",
-        "Vitor Kley - O Sol",
-        "Enya - Orinoco Flow",
-        "Paveier - Leev Marie"
+        "Grace Jones - Walking in the Rain",
+        "Lauryn Hill - Lost Ones",
+        "Aretha Franklin - A Rose Is Still a Rose",
+        "Loredana Bertè - In Alto Mare"
       ],
       "music-genres": [
-        "Punk Rock",
-        "Indie Folk",
-        "Surf Pop",
-        "New Age",
-        "German Folk"
+        "New Wave",
+        "Neo-Soul",
+        "R&B",
+        "Italian Pop"
       ]
     },
-    "match_reason": "Titanic’s fateful voyage is a grand, tragic version of an ocean journey, connecting naturally with an episode recorded on a sailing boat and steeped in life at sea."
+    "match_reason": "An early stand against cruelty and for compassion pairs with an episode centered on powerful, empathetic voices that challenge and protect—soul as a vehicle for justice and care."
   },
   "queue": [
-    {
-      "hour": 7,
-      "fact_text": "On April 10, 1866, Henry Bergh founded the American Society for the Prevention of Cruelty to Animals in New York City. At a time when horses were beaten in the streets and animals had almost no legal protection, his work helped launch a global movement for animal welfare.",
-      "fact_year": 1866,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/American_Society_for_the_Prevention_of_Cruelty_to_Animals",
-      "episode": {
-        "id": 40,
-        "title": "Morning Drops #34 - Soul Sisters",
-        "description": "A tribute to four iconic voices — women who have shaped the way we listen, feel, and move. Each track carries a different kind of presence: one that holds you, one that questions, one that grounds, and one that lets go. An energy that is soulful, raw, and unapologetically feminine.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-soul-sisters",
-        "songs": [
-          "Grace Jones - Walking in the Rain",
-          "Lauryn Hill - Lost Ones",
-          "Aretha Franklin - A Rose Is Still a Rose",
-          "Loredana Bertè - In Alto Mare"
-        ],
-        "music-genres": [
-          "New Wave",
-          "Neo-Soul",
-          "R&B",
-          "Italian Pop"
-        ]
-      },
-      "match_reason": "An early stand against cruelty and for compassion pairs with an episode centered on powerful, empathetic voices that challenge and protect—soul as a vehicle for justice and care."
-    },
     {
       "hour": 8,
       "fact_text": "On April 10, 1724, Johann Sebastian Bach led the first performance of his Easter cantata \"Erfreut euch, ihr Herzen\" in Leipzig. The piece weaves trumpet fanfares, choir, and soloists into a luminous celebration that helped define the soundscape of Lutheran Easter.",
@@ -643,9 +615,34 @@
         ]
       },
       "match_reason": "Titanic’s fateful voyage is a grand, tragic version of an ocean journey, connecting naturally with an episode recorded on a sailing boat and steeped in life at sea."
+    },
+    {
+      "hour": 7,
+      "fact_text": "On April 10, 1866, Henry Bergh founded the American Society for the Prevention of Cruelty to Animals in New York City. At a time when horses were beaten in the streets and animals had almost no legal protection, his work helped launch a global movement for animal welfare.",
+      "fact_year": 1866,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/American_Society_for_the_Prevention_of_Cruelty_to_Animals",
+      "episode": {
+        "id": 40,
+        "title": "Morning Drops #34 - Soul Sisters",
+        "description": "A tribute to four iconic voices — women who have shaped the way we listen, feel, and move. Each track carries a different kind of presence: one that holds you, one that questions, one that grounds, and one that lets go. An energy that is soulful, raw, and unapologetically feminine.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-soul-sisters",
+        "songs": [
+          "Grace Jones - Walking in the Rain",
+          "Lauryn Hill - Lost Ones",
+          "Aretha Franklin - A Rose Is Still a Rose",
+          "Loredana Bertè - In Alto Mare"
+        ],
+        "music-genres": [
+          "New Wave",
+          "Neo-Soul",
+          "R&B",
+          "Italian Pop"
+        ]
+      },
+      "match_reason": "An early stand against cruelty and for compassion pairs with an episode centered on powerful, empathetic voices that challenge and protect—soul as a vehicle for justice and care."
     }
   ],
   "generated_at": "2026-04-10T00:00:00.009861+00:00",
   "date": "2026-04-10",
-  "updated_at": "2026-04-10T06:00:01.629726+00:00"
+  "updated_at": "2026-04-10T07:00:01.568393+00:00"
 }
