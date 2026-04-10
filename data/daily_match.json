@@ -1,56 +1,31 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "On April 10, 1979, a massive tornado tore through Wichita Falls, Texas, as part of the Red River Valley tornado outbreak, killing 42 people in that city alone. The storm became infamous not only for its destructive power but also for the haunting images of entire neighborhoods reduced to slabs.",
-    "fact_year": 1979,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1979_Red_River_Valley_tornado_outbreak",
+    "hour": 4,
+    "fact_text": "In 1963, the nuclear-powered submarine USS Thresher sank during deep-diving tests, taking 129 sailors and shipyard personnel with her. The disaster led to a sweeping overhaul of submarine safety, including the U.S. Navy's SUBSAFE program that still shapes how undersea vessels are built and tested.",
+    "fact_year": 1963,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/USS_Thresher_(SSN-593)",
     "episode": {
-      "id": 45,
-      "title": "Morning Drops #39 - Moving Meditation",
-      "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
+      "id": 39,
+      "title": "Morning Drops #33 - Immerse",
+      "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
       "songs": [
-        "Stella & The Longos - La Flamme",
-        "España Circo Este - Dormo poco e sogno molto",
-        "Mystic Jungle - Sunset Breaker",
-        "Talking Heads - This Must Be the Place (Naive Melody)"
+        "Pino D'Angiò - Un Po' d'Uva e un Liquore",
+        "Midlife - The Magnificent Moon",
+        "Tornado Wallace - Today",
+        "Nu Genea - Marechià (feat. Celia Kameni)"
       ],
       "music-genres": [
+        "Italo Disco",
+        "Indie",
         "Balearic",
-        "Italian Folk Rock",
-        "World Music",
-        "New Wave"
+        "Nu Disco"
       ]
     },
-    "match_reason": "Violent atmospheric motion is contrasted with an episode about slowing down and moving mindfully, turning chaotic weather into a call for grounded presence."
+    "match_reason": "A story from the ocean’s depths pairs with an episode built on aquatic metaphors of diving, immersion, and the hidden world below the surface."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "In 1963, the nuclear-powered submarine USS Thresher sank during deep-diving tests, taking 129 sailors and shipyard personnel with her. The disaster led to a sweeping overhaul of submarine safety, including the U.S. Navy's SUBSAFE program that still shapes how undersea vessels are built and tested.",
-      "fact_year": 1963,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/USS_Thresher_(SSN-593)",
-      "episode": {
-        "id": 39,
-        "title": "Morning Drops #33 - Immerse",
-        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
-        "songs": [
-          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
-          "Midlife - The Magnificent Moon",
-          "Tornado Wallace - Today",
-          "Nu Genea - Marechià (feat. Celia Kameni)"
-        ],
-        "music-genres": [
-          "Italo Disco",
-          "Indie",
-          "Balearic",
-          "Nu Disco"
-        ]
-      },
-      "match_reason": "A story from the ocean’s depths pairs with an episode built on aquatic metaphors of diving, immersion, and the hidden world below the surface."
-    },
     {
       "hour": 5,
       "fact_text": "On April 10, 1912, the RMS Titanic left Southampton for her maiden voyage, advertised as practically unsinkable. Just days later, the ship would become a symbol of human hubris and tragedy, but on departure she was a floating palace embodying early 20th-century optimism and luxury.",
@@ -635,9 +610,34 @@
         ]
       },
       "match_reason": "Violent atmospheric motion is contrasted with an episode about slowing down and moving mindfully, turning chaotic weather into a call for grounded presence."
+    },
+    {
+      "hour": 4,
+      "fact_text": "In 1963, the nuclear-powered submarine USS Thresher sank during deep-diving tests, taking 129 sailors and shipyard personnel with her. The disaster led to a sweeping overhaul of submarine safety, including the U.S. Navy's SUBSAFE program that still shapes how undersea vessels are built and tested.",
+      "fact_year": 1963,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/USS_Thresher_(SSN-593)",
+      "episode": {
+        "id": 39,
+        "title": "Morning Drops #33 - Immerse",
+        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
+        "songs": [
+          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
+          "Midlife - The Magnificent Moon",
+          "Tornado Wallace - Today",
+          "Nu Genea - Marechià (feat. Celia Kameni)"
+        ],
+        "music-genres": [
+          "Italo Disco",
+          "Indie",
+          "Balearic",
+          "Nu Disco"
+        ]
+      },
+      "match_reason": "A story from the ocean’s depths pairs with an episode built on aquatic metaphors of diving, immersion, and the hidden world below the surface."
     }
   ],
   "generated_at": "2026-04-10T00:00:00.010349+00:00",
   "date": "2026-04-10",
-  "updated_at": "2026-04-10T03:00:01.407147+00:00"
+  "updated_at": "2026-04-10T04:00:01.584277+00:00"
 }
