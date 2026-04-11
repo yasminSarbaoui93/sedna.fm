@@ -1,59 +1,34 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "On 11 April 1727, Johann Sebastian Bach’s monumental St Matthew Passion was first performed at St. Thomas Church in Leipzig. Originally intended as modest church music, it later vanished from public performance for nearly a century before being rediscovered and hailed as one of the greatest works in Western music.",
-    "fact_year": 1727,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/St_Matthew_Passion",
+    "hour": 1,
+    "fact_text": "On 11 April 1809, during the Battle of the Basque Roads, the daring British captain Lord Cochrane led a night attack using fireships against a French fleet trapped in shallow waters. His audacious plan nearly destroyed the enemy, but a lack of support from his superior, Admiral Gambier, turned a potential total victory into a controversial, incomplete one.",
+    "fact_year": 1809,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_the_Basque_Roads",
     "episode": {
-      "id": 27,
-      "title": "Morning Drops #27 - Endless Summer",
-      "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "Nik Bärtch - Modul 14",
-        "Mama Terra - Chameleon (Single Edit)",
-        "Spyro Gyra - Morning Dance",
-        "Yussef Kamaal - Black Focus"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Minimal Jazz",
-        "Nu Jazz",
-        "Jazz Fusion",
-        "UK Jazz"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "A deep, contemplative sacred work pairs with a meditative jazz episode that explores long-form, spiritual-feeling music."
+    "match_reason": "A dramatic naval battle in treacherous shallows fits with an episode recorded literally at sea, full of wave-swaying, maritime energy."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On 11 April 1809, during the Battle of the Basque Roads, the daring British captain Lord Cochrane led a night attack using fireships against a French fleet trapped in shallow waters. His audacious plan nearly destroyed the enemy, but a lack of support from his superior, Admiral Gambier, turned a potential total victory into a controversial, incomplete one.",
-      "fact_year": 1809,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_the_Basque_Roads",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "A dramatic naval battle in treacherous shallows fits with an episode recorded literally at sea, full of wave-swaying, maritime energy."
-    },
     {
       "hour": 2,
       "fact_text": "On 11 April 1814, the Treaty of Fontainebleau forced Napoleon Bonaparte to abdicate unconditionally and go into exile on the tiny island of Elba. Europe briefly exhaled, believing the Napoleonic storms to be over, unaware that the emperor’s dramatic return during the Hundred Days still lay ahead.",
@@ -642,9 +617,37 @@
         ]
       },
       "match_reason": "A deep, contemplative sacred work pairs with a meditative jazz episode that explores long-form, spiritual-feeling music."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On 11 April 1809, during the Battle of the Basque Roads, the daring British captain Lord Cochrane led a night attack using fireships against a French fleet trapped in shallow waters. His audacious plan nearly destroyed the enemy, but a lack of support from his superior, Admiral Gambier, turned a potential total victory into a controversial, incomplete one.",
+      "fact_year": 1809,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_the_Basque_Roads",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "A dramatic naval battle in treacherous shallows fits with an episode recorded literally at sea, full of wave-swaying, maritime energy."
     }
   ],
   "generated_at": "2026-04-11T00:00:00.012382+00:00",
   "date": "2026-04-11",
-  "updated_at": "2026-04-11T00:00:49.910495+00:00"
+  "updated_at": "2026-04-11T01:00:01.520760+00:00"
 }
