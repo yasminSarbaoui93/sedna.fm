@@ -1,66 +1,31 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "On April 11, 1727, Johann Sebastian Bach’s monumental St Matthew Passion was first performed at St. Thomas Church in Leipzig. Combining intricate choruses, solo arias, and haunting chorales, it wove theology, drama, and emotion into one of the most profound works in Western sacred music.",
-    "fact_year": 1727,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/St_Matthew_Passion",
+    "hour": 5,
+    "fact_text": "On April 11, 2006, Iranian president Mahmoud Ahmadinejad announced that Iran had successfully enriched uranium, declaring the country had joined the 'nuclear club.' Behind the political controversy was a complex story of physics, centrifuge cascades, and the global tension around atomic technology.",
+    "fact_year": 2006,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mahmoud_Ahmadinejad",
     "episode": {
-      "id": 4,
-      "title": "Sedna FM #04 - Queen of Spades",
-      "description": "Tuning in from the planet of irrational love. Exploring love's most vulnerable side — the kind that awakens the child within us. A diverse music selection ranging from electric blues to downtempo, soul, and jazz. A tribute to the feeling that has moved artists to create the most beautiful works. Love makes us vulnerable, and there is no art without vulnerability.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/queen-of-spades",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "Alabama Shakes - Gimme All Your Love",
-        "Queens of the stone age - Make it wit chu",
-        "Rosa Passos - Fusion",
-        "Sade - Mr Wrong",
-        "Daft Punk - Something About Us",
-        "10cc - I'm Not in Love",
-        "Jonny Nash - Theories",
-        "Etta James - I'd Rather Go Blind",
-        "Adriano Celentano - Storia D'amore",
-        "Eric Clapton - Have you ever loved a woman",
-        "Arctic Monkey - The Bakery"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Stoner Rock",
-        "Bossa Nova",
-        "Soul",
+        "Psychedelic Rock",
         "Electronic",
-        "Soft Rock",
-        "Blues"
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "Bach’s Passion is a towering work of devotion and vulnerability, fitting an episode that celebrates love, longing, and the emotional intensity that fuels great art."
+    "match_reason": "A milestone in nuclear technology echoes an episode reflecting on our ambivalent relationship with powerful technologies—from atoms to algorithms and the systems that quietly shape our lives."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "On April 11, 2006, Iranian president Mahmoud Ahmadinejad announced that Iran had successfully enriched uranium, declaring the country had joined the 'nuclear club.' Behind the political controversy was a complex story of physics, centrifuge cascades, and the global tension around atomic technology.",
-      "fact_year": 2006,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mahmoud_Ahmadinejad",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "A milestone in nuclear technology echoes an episode reflecting on our ambivalent relationship with powerful technologies—from atoms to algorithms and the systems that quietly shape our lives."
-    },
     {
       "hour": 6,
       "fact_text": "On April 11, 1908, the German armored cruiser SMS Blücher was launched, the last of her kind built for the Imperial German Navy. Designed just as naval warfare was shifting toward faster, more heavily gunned battlecruisers, she became a symbol of a rapidly changing technological era at sea.",
@@ -680,9 +645,34 @@
         ]
       },
       "match_reason": "Bach’s Passion is a towering work of devotion and vulnerability, fitting an episode that celebrates love, longing, and the emotional intensity that fuels great art."
+    },
+    {
+      "hour": 5,
+      "fact_text": "On April 11, 2006, Iranian president Mahmoud Ahmadinejad announced that Iran had successfully enriched uranium, declaring the country had joined the 'nuclear club.' Behind the political controversy was a complex story of physics, centrifuge cascades, and the global tension around atomic technology.",
+      "fact_year": 2006,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mahmoud_Ahmadinejad",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "A milestone in nuclear technology echoes an episode reflecting on our ambivalent relationship with powerful technologies—from atoms to algorithms and the systems that quietly shape our lives."
     }
   ],
   "generated_at": "2026-04-11T00:00:00.013579+00:00",
   "date": "2026-04-11",
-  "updated_at": "2026-04-11T04:00:01.602504+00:00"
+  "updated_at": "2026-04-11T05:00:01.453458+00:00"
 }
