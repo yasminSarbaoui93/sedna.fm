@@ -1,54 +1,29 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In the depths of the Indian Ocean's Wharton Basin on April 11, 2012, a rare 'doublet' of great strike-slip earthquakes ruptured within hours of each other, each exceeding magnitude 8. They twisted the seafloor sideways rather than thrusting it upward, generating only a small, non-destructive tsunami despite their immense power.",
-    "fact_year": 2012,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2012_Indian_Ocean_earthquakes",
+    "hour": 1,
+    "fact_text": "On April 11, 1970, Apollo 13 launched toward the Moon in what was supposed to be NASA's third lunar landing, carrying astronauts Jim Lovell, Jack Swigert, and Fred Haise. The mission would soon become a legendary story of survival, but at liftoff it was pure optimism: a Saturn V roaring skyward, humanity reaching again for another world.",
+    "fact_year": 1970,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Apollo_13",
     "episode": {
-      "id": 31,
-      "title": "Morning Drops #31 - A Trip-Hop Journey",
-      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+      "id": 9,
+      "title": "Morning Drops #03 - Space Shift",
+      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
       "songs": [
-        "Massive Attack - Unfinished Sympathy",
-        "Tricky - Hell Is Round the Corner",
-        "DJ Shadow - Midnight in a Perfect World",
-        "Thievery Corporation - Lebanese Blonde",
-        "Smoke City - Underwater Love"
+        "Willy J Healey - Woke Up Smiling",
+        "The Chemical Brothers - Go",
+        "The Strokes - You Only Live Once"
       ],
       "music-genres": [
-        "Trip-Hop",
-        "Downtempo",
-        "Electronic"
+        "Indie Rock",
+        "Electronic",
+        "Garage Rock"
       ]
     },
-    "match_reason": "A deep-ocean seismic doublet pairs with underwater, cinematic trip-hop textures like \"Underwater Love,\" evoking tectonic shifts beneath the surface."
+    "match_reason": "A mission to space fits naturally with an episode built around \"Space Shift\" and songs about new beginnings and bold trajectories like \"Go\" and \"You Only Live Once.\""
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On April 11, 1970, Apollo 13 launched toward the Moon in what was supposed to be NASA's third lunar landing, carrying astronauts Jim Lovell, Jack Swigert, and Fred Haise. The mission would soon become a legendary story of survival, but at liftoff it was pure optimism: a Saturn V roaring skyward, humanity reaching again for another world.",
-      "fact_year": 1970,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Apollo_13",
-      "episode": {
-        "id": 9,
-        "title": "Morning Drops #03 - Space Shift",
-        "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
-        "songs": [
-          "Willy J Healey - Woke Up Smiling",
-          "The Chemical Brothers - Go",
-          "The Strokes - You Only Live Once"
-        ],
-        "music-genres": [
-          "Indie Rock",
-          "Electronic",
-          "Garage Rock"
-        ]
-      },
-      "match_reason": "A mission to space fits naturally with an episode built around \"Space Shift\" and songs about new beginnings and bold trajectories like \"Go\" and \"You Only Live Once.\""
-    },
     {
       "hour": 2,
       "fact_text": "On April 11, 2001, Australia's men's national soccer team defeated American Samoa 31–0, setting the record for the largest victory in an international football match. Striker Archie Thompson scored 13 goals in that single game, a world record for most goals by one player in an international fixture.",
@@ -670,9 +645,32 @@
         ]
       },
       "match_reason": "A deep-ocean seismic doublet pairs with underwater, cinematic trip-hop textures like \"Underwater Love,\" evoking tectonic shifts beneath the surface."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On April 11, 1970, Apollo 13 launched toward the Moon in what was supposed to be NASA's third lunar landing, carrying astronauts Jim Lovell, Jack Swigert, and Fred Haise. The mission would soon become a legendary story of survival, but at liftoff it was pure optimism: a Saturn V roaring skyward, humanity reaching again for another world.",
+      "fact_year": 1970,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Apollo_13",
+      "episode": {
+        "id": 9,
+        "title": "Morning Drops #03 - Space Shift",
+        "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+        "songs": [
+          "Willy J Healey - Woke Up Smiling",
+          "The Chemical Brothers - Go",
+          "The Strokes - You Only Live Once"
+        ],
+        "music-genres": [
+          "Indie Rock",
+          "Electronic",
+          "Garage Rock"
+        ]
+      },
+      "match_reason": "A mission to space fits naturally with an episode built around \"Space Shift\" and songs about new beginnings and bold trajectories like \"Go\" and \"You Only Live Once.\""
     }
   ],
   "generated_at": "2026-04-11T00:00:00.013579+00:00",
   "date": "2026-04-11",
-  "updated_at": "2026-04-11T00:00:50.356283+00:00"
+  "updated_at": "2026-04-11T01:00:01.586425+00:00"
 }
