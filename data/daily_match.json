@@ -1,56 +1,31 @@
 {
-  "current_hour": 16,
+  "current_hour": 17,
   "current_fact": {
-    "hour": 16,
-    "fact_text": "On 12 April 1963, the Soviet nuclear-powered submarine K-33 collided with the Finnish merchant ship M/S Finnclipper in the Danish Straits. Though serious, the incident remained shrouded in secrecy for decades, typical of Cold War maritime near-disasters. Ships carrying ordinary cargo and vessels carrying reactors passed within meters of each other in some of the world’s busiest waterways.",
-    "fact_year": 1963,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Soviet_submarine_K-33",
+    "hour": 17,
+    "fact_text": "On 12 April 1999, during NATO’s bombing of Yugoslavia, an American F-15E Strike Eagle accidentally hit a passenger train at Grdelica Gorge while attacking a railway bridge. The pilot released a second bomb even after seeing the train, relying on the weapon’s programmed path, and between 20 and 60 civilians were killed. The incident became a grim example of how modern precision weapons can still produce tragic errors.",
+    "fact_year": 1999,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Grdelica_train_bombing",
     "episode": {
-      "id": 46,
-      "title": "Morning Drops #40 - Diving With Orcas",
-      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+      "id": 56,
+      "title": "Morning Drops #49 - Rage Against The Machine",
+      "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
       "songs": [
-        "Ludovico Einaudi - Experience",
-        "The Temper Trap - Sweet Disposition",
-        "Alex Warren - Ordinary",
-        "Piero Umiliani - Il tuo volto"
+        "Rage Against the Machine - Bombtrack",
+        "Rage Against the Machine - Killing in the Name",
+        "Rage Against the Machine - Without a Face",
+        "Rage Against the Machine - Guerrilla Radio",
+        "Rage Against the Machine - Sleep Now in the Fire"
       ],
       "music-genres": [
-        "Neo-Classical",
-        "Indie Rock",
-        "Pop",
-        "Italian Film Score"
+        "Rap Metal",
+        "Political Rock",
+        "Alternative Metal"
       ]
     },
-    "match_reason": "A secretive submarine collision in northern waters contrasts with an open, awe-filled journey among whales in nearby Arctic seas."
+    "match_reason": "A deadly wartime mistake intersects with an episode about political protest music, anger at systemic violence, and questioning the machinery of power."
   },
   "queue": [
-    {
-      "hour": 17,
-      "fact_text": "On 12 April 1999, during NATO’s bombing of Yugoslavia, an American F-15E Strike Eagle accidentally hit a passenger train at Grdelica Gorge while attacking a railway bridge. The pilot released a second bomb even after seeing the train, relying on the weapon’s programmed path, and between 20 and 60 civilians were killed. The incident became a grim example of how modern precision weapons can still produce tragic errors.",
-      "fact_year": 1999,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Grdelica_train_bombing",
-      "episode": {
-        "id": 56,
-        "title": "Morning Drops #49 - Rage Against The Machine",
-        "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
-        "songs": [
-          "Rage Against the Machine - Bombtrack",
-          "Rage Against the Machine - Killing in the Name",
-          "Rage Against the Machine - Without a Face",
-          "Rage Against the Machine - Guerrilla Radio",
-          "Rage Against the Machine - Sleep Now in the Fire"
-        ],
-        "music-genres": [
-          "Rap Metal",
-          "Political Rock",
-          "Alternative Metal"
-        ]
-      },
-      "match_reason": "A deadly wartime mistake intersects with an episode about political protest music, anger at systemic violence, and questioning the machinery of power."
-    },
     {
       "hour": 18,
       "fact_text": "On 12 April 1990, Widerøe Flight 839, a small de Havilland Twin Otter, crashed shortly after takeoff from Værøy Airport in Norway amid extreme wind conditions. All five people on board were killed, and the accident led to the closure of the exposed island airfield. The crash underscored how microclimates and mountain winds can turn short flights into serious engineering puzzles.",
@@ -653,9 +628,34 @@
         ]
       },
       "match_reason": "A secretive submarine collision in northern waters contrasts with an open, awe-filled journey among whales in nearby Arctic seas."
+    },
+    {
+      "hour": 17,
+      "fact_text": "On 12 April 1999, during NATO’s bombing of Yugoslavia, an American F-15E Strike Eagle accidentally hit a passenger train at Grdelica Gorge while attacking a railway bridge. The pilot released a second bomb even after seeing the train, relying on the weapon’s programmed path, and between 20 and 60 civilians were killed. The incident became a grim example of how modern precision weapons can still produce tragic errors.",
+      "fact_year": 1999,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Grdelica_train_bombing",
+      "episode": {
+        "id": 56,
+        "title": "Morning Drops #49 - Rage Against The Machine",
+        "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
+        "songs": [
+          "Rage Against the Machine - Bombtrack",
+          "Rage Against the Machine - Killing in the Name",
+          "Rage Against the Machine - Without a Face",
+          "Rage Against the Machine - Guerrilla Radio",
+          "Rage Against the Machine - Sleep Now in the Fire"
+        ],
+        "music-genres": [
+          "Rap Metal",
+          "Political Rock",
+          "Alternative Metal"
+        ]
+      },
+      "match_reason": "A deadly wartime mistake intersects with an episode about political protest music, anger at systemic violence, and questioning the machinery of power."
     }
   ],
   "generated_at": "2026-04-12T00:00:00.009242+00:00",
   "date": "2026-04-12",
-  "updated_at": "2026-04-12T16:00:01.662061+00:00"
+  "updated_at": "2026-04-12T17:00:01.765311+00:00"
 }
