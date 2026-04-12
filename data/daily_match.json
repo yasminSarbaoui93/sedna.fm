@@ -1,65 +1,31 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On 12 April 1981, Space Shuttle Columbia lifted off on STS-1, the first orbital flight of NASA’s partially reusable shuttle. Unusually for a maiden voyage, it carried two astronauts and a full flight profile, testing whether a winged spacecraft could survive both launch and runway landing. The shuttle’s black thermal tiles became an icon of a new era of space transportation.",
-    "fact_year": 1981,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-1",
+    "hour": 2,
+    "fact_text": "On 12 April 1985, Space Shuttle Discovery launched on STS-51-D, a mission that was supposed to be a straightforward deployment of two communications satellites. One satellite failed to boost itself into proper orbit, forcing astronauts to improvise an unscripted spacewalk using the shuttle’s robotic arm in an early example of orbital ‘repair work’. It hinted at how dependent Earth was becoming on quiet machines circling overhead.",
+    "fact_year": 1985,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-51-D",
     "episode": {
-      "id": 2,
-      "title": "Sedna FM #02 - Destination Sedna",
-      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "Pink Floyd - Breathe",
-        "The fountain DC - Starburster",
-        "Laura Cahen - La Poussiere",
-        "Taxi Kebab - Lmchi w rjou3",
-        "Odion Iruoje - Identify With Your Roots",
-        "Depeche mode - world in my eyes (Oil Tank Mix)",
-        "Massive attack - Dissolved girl",
-        "Kokoroko - Three piece suite",
-        "Salin - Egungun",
-        "E.S.P. - It's You"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Progressive Rock",
-        "Post-Punk",
-        "French Pop",
-        "Maghreb",
-        "Afrobeat",
-        "Synthpop",
-        "Trip-Hop"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "A bold new ‘destination’ into reusable spaceflight is matched with a voyage-themed episode that wanders into new territories."
+    "match_reason": "A mission about launching communications satellites fits an episode reflecting on our hyper-connected lives and dependence on invisible networks."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "On 12 April 1985, Space Shuttle Discovery launched on STS-51-D, a mission that was supposed to be a straightforward deployment of two communications satellites. One satellite failed to boost itself into proper orbit, forcing astronauts to improvise an unscripted spacewalk using the shuttle’s robotic arm in an early example of orbital ‘repair work’. It hinted at how dependent Earth was becoming on quiet machines circling overhead.",
-      "fact_year": 1985,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-51-D",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "A mission about launching communications satellites fits an episode reflecting on our hyper-connected lives and dependence on invisible networks."
-    },
     {
       "hour": 3,
       "fact_text": "On 12 April 1934, observers atop Mount Washington in New Hampshire recorded a surface wind gust of 231 mph (372 km/h), then the strongest reliably measured on Earth. The tiny weather station was rocked by hurricane-force winds and ice, showing just how extreme conditions can be on a relatively modest mountain. For decades, this lonely summit was known as the ‘Home of the World’s Worst Weather’.",
@@ -662,9 +628,34 @@
         ]
       },
       "match_reason": "A bold new ‘destination’ into reusable spaceflight is matched with a voyage-themed episode that wanders into new territories."
+    },
+    {
+      "hour": 2,
+      "fact_text": "On 12 April 1985, Space Shuttle Discovery launched on STS-51-D, a mission that was supposed to be a straightforward deployment of two communications satellites. One satellite failed to boost itself into proper orbit, forcing astronauts to improvise an unscripted spacewalk using the shuttle’s robotic arm in an early example of orbital ‘repair work’. It hinted at how dependent Earth was becoming on quiet machines circling overhead.",
+      "fact_year": 1985,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-51-D",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "A mission about launching communications satellites fits an episode reflecting on our hyper-connected lives and dependence on invisible networks."
     }
   ],
   "generated_at": "2026-04-12T00:00:00.009242+00:00",
   "date": "2026-04-12",
-  "updated_at": "2026-04-12T01:00:01.354042+00:00"
+  "updated_at": "2026-04-12T02:00:01.466013+00:00"
 }
