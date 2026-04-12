@@ -1,51 +1,36 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On April 12, 1981, Space Shuttle Columbia launched on STS‑1, the first orbital flight of NASA’s partially reusable shuttle system. It was the first time a crewed spacecraft was sent to space on its very first test flight, blending experimental risk with cinematic ambition.",
-    "fact_year": 1981,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-1",
+    "hour": 2,
+    "fact_text": "In 1985, Space Shuttle Discovery’s STS‑51D mission lifted off carrying two commercial communications satellites. A stuck antenna on one satellite forced astronauts into an improvised spacewalk using makeshift tools, turning a routine deployment into an orbital repair drama.",
+    "fact_year": 1985,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-51-D",
     "episode": {
-      "id": 58,
-      "title": "Evening Flows #00 - Introduction to evening flows",
-      "description": "Sedna FM introduces a new format: Evening Flow, where you can enjoy curated music sets from selectors, DJs, and artists.\n\nEach mix is an invitation to drift beyond the expected. A space where hidden gems from personal archives come to light, where sound speaks its own language. There are no rules here, no patterns to follow. Just the steady unfolding of a mood, a texture, a journey shaped by feeling.\n\nLet the music lead the way - enjoy the trip!",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-introduction-to-evening-flows",
-      "songs": [],
-      "music-genres": []
+      "id": 48,
+      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+      "songs": [
+        "Stive Morgan - Solar Wind, Pt. 3",
+        "David Visan & Carlos Campos - Crystal Heart",
+        "Evan Mars - Ya Zareef Al Tool",
+        "Gerardo Frisina - Cuiabá",
+        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+        "The Busy Twist - Friday Night"
+      ],
+      "music-genres": [
+        "Ambient",
+        "Deep House",
+        "World Music",
+        "Nu Jazz",
+        "Afrobeat",
+        "Funk",
+        "Electronic"
+      ]
     },
-    "match_reason": "The shuttle’s debut mirrors the launch of a new format: both open a reusable pathway into unexplored space, one orbital and one musical."
+    "match_reason": "The mission’s satellite choreography and improvised spacewalk pair well with an evolving, orbit-like musical journey from ambient lift-off to rhythmic communication."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "In 1985, Space Shuttle Discovery’s STS‑51D mission lifted off carrying two commercial communications satellites. A stuck antenna on one satellite forced astronauts into an improvised spacewalk using makeshift tools, turning a routine deployment into an orbital repair drama.",
-      "fact_year": 1985,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-51-D",
-      "episode": {
-        "id": 48,
-        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
-        "songs": [
-          "Stive Morgan - Solar Wind, Pt. 3",
-          "David Visan & Carlos Campos - Crystal Heart",
-          "Evan Mars - Ya Zareef Al Tool",
-          "Gerardo Frisina - Cuiabá",
-          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-          "The Busy Twist - Friday Night"
-        ],
-        "music-genres": [
-          "Ambient",
-          "Deep House",
-          "World Music",
-          "Nu Jazz",
-          "Afrobeat",
-          "Funk",
-          "Electronic"
-        ]
-      },
-      "match_reason": "The mission’s satellite choreography and improvised spacewalk pair well with an evolving, orbit-like musical journey from ambient lift-off to rhythmic communication."
-    },
     {
       "hour": 3,
       "fact_text": "On this day in 1934, observers atop Mount Washington in New Hampshire recorded a surface wind gust of 231 mph (372 km/h), then the fastest ever measured. For decades, the mountain was known as “Home of the World’s Worst Weather,” a natural wind tunnel for extreme atmospheric experiments.",
@@ -609,9 +594,39 @@
         "music-genres": []
       },
       "match_reason": "The shuttle’s debut mirrors the launch of a new format: both open a reusable pathway into unexplored space, one orbital and one musical."
+    },
+    {
+      "hour": 2,
+      "fact_text": "In 1985, Space Shuttle Discovery’s STS‑51D mission lifted off carrying two commercial communications satellites. A stuck antenna on one satellite forced astronauts into an improvised spacewalk using makeshift tools, turning a routine deployment into an orbital repair drama.",
+      "fact_year": 1985,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-51-D",
+      "episode": {
+        "id": 48,
+        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+        "songs": [
+          "Stive Morgan - Solar Wind, Pt. 3",
+          "David Visan & Carlos Campos - Crystal Heart",
+          "Evan Mars - Ya Zareef Al Tool",
+          "Gerardo Frisina - Cuiabá",
+          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+          "The Busy Twist - Friday Night"
+        ],
+        "music-genres": [
+          "Ambient",
+          "Deep House",
+          "World Music",
+          "Nu Jazz",
+          "Afrobeat",
+          "Funk",
+          "Electronic"
+        ]
+      },
+      "match_reason": "The mission’s satellite choreography and improvised spacewalk pair well with an evolving, orbit-like musical journey from ambient lift-off to rhythmic communication."
     }
   ],
   "generated_at": "2026-04-12T00:00:00.016260+00:00",
   "date": "2026-04-12",
-  "updated_at": "2026-04-12T01:00:02.097786+00:00"
+  "updated_at": "2026-04-12T02:00:01.377849+00:00"
 }
