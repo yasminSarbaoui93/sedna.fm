@@ -1,59 +1,39 @@
 {
-  "current_hour": 22,
+  "current_hour": 23,
   "current_fact": {
-    "hour": 22,
-    "fact_text": "On 13 April 1970, as Apollo 13’s crippled spacecraft coasted through space, NASA engineers on Earth had to improvise with exactly the hardware already aboard—famously using plastic bags, hoses, and tape to adapt carbon dioxide scrubbers. The \"mailbox\" fix turned a looming suffocation crisis into a triumph of creative problem-solving under pressure.",
+    "hour": 23,
+    "fact_text": "On 13 April 1970, when astronaut Jack Swigert reported \"Houston, we've had a problem,\" the phrase instantly entered pop culture, but the real drama was the crew’s calm, methodical response to cascading failures. Their ability to adapt, trust checklists, and lean on ground teams turned a doomed Moon mission into one of humanity’s most studied case studies in crisis management.",
     "fact_year": 1970,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Apollo_command_and_service_module",
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Oxygen",
     "episode": {
-      "id": 25,
-      "title": "Morning Drops #19 - Wabi Sabi",
-      "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
+      "id": 1,
+      "title": "Sedna FM #01 - November Bomb",
+      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
       "songs": [
-        "song 1"
+        "berlioz - Open this wall",
+        "Nas - One Mic",
+        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+        "Frankie Knuckles - Your Love",
+        "Notorious B.I.G. - 17 Ten Crack Commandments",
+        "Liloca - Utani Xuva",
+        "Fela Kuti - Zombie",
+        "Neffa - Aspettando il sole",
+        "Childish Gambino - No Excuses",
+        "Modjo - Music takes you back"
       ],
       "music-genres": [
-        "genre 1"
+        "Hip-Hop",
+        "Afrobeat",
+        "House",
+        "Italian Pop",
+        "R&B",
+        "Latin Rap"
       ]
     },
-    "match_reason": "A life-or-death hack built from imperfect materials aligns with an episode themed around wabi-sabi, celebrating improvisation, flaws, and making beauty out of what’s already there."
+    "match_reason": "A \"bomb\" of an oxygen tank that launched a new era of space safety pairs symbolically with Sedna FM’s own explosive first episode, both marking intense beginnings that defined everything that followed."
   },
-  "queue": [
-    {
-      "hour": 23,
-      "fact_text": "On 13 April 1970, when astronaut Jack Swigert reported \"Houston, we've had a problem,\" the phrase instantly entered pop culture, but the real drama was the crew’s calm, methodical response to cascading failures. Their ability to adapt, trust checklists, and lean on ground teams turned a doomed Moon mission into one of humanity’s most studied case studies in crisis management.",
-      "fact_year": 1970,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Oxygen",
-      "episode": {
-        "id": 1,
-        "title": "Sedna FM #01 - November Bomb",
-        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
-        "songs": [
-          "berlioz - Open this wall",
-          "Nas - One Mic",
-          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-          "Frankie Knuckles - Your Love",
-          "Notorious B.I.G. - 17 Ten Crack Commandments",
-          "Liloca - Utani Xuva",
-          "Fela Kuti - Zombie",
-          "Neffa - Aspettando il sole",
-          "Childish Gambino - No Excuses",
-          "Modjo - Music takes you back"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Afrobeat",
-          "House",
-          "Italian Pop",
-          "R&B",
-          "Latin Rap"
-        ]
-      },
-      "match_reason": "A \"bomb\" of an oxygen tank that launched a new era of space safety pairs symbolically with Sedna FM’s own explosive first episode, both marking intense beginnings that defined everything that followed."
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "hour": 0,
@@ -614,9 +594,42 @@
         ]
       },
       "match_reason": "A life-or-death hack built from imperfect materials aligns with an episode themed around wabi-sabi, celebrating improvisation, flaws, and making beauty out of what’s already there."
+    },
+    {
+      "hour": 23,
+      "fact_text": "On 13 April 1970, when astronaut Jack Swigert reported \"Houston, we've had a problem,\" the phrase instantly entered pop culture, but the real drama was the crew’s calm, methodical response to cascading failures. Their ability to adapt, trust checklists, and lean on ground teams turned a doomed Moon mission into one of humanity’s most studied case studies in crisis management.",
+      "fact_year": 1970,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Oxygen",
+      "episode": {
+        "id": 1,
+        "title": "Sedna FM #01 - November Bomb",
+        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+        "songs": [
+          "berlioz - Open this wall",
+          "Nas - One Mic",
+          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+          "Frankie Knuckles - Your Love",
+          "Notorious B.I.G. - 17 Ten Crack Commandments",
+          "Liloca - Utani Xuva",
+          "Fela Kuti - Zombie",
+          "Neffa - Aspettando il sole",
+          "Childish Gambino - No Excuses",
+          "Modjo - Music takes you back"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Afrobeat",
+          "House",
+          "Italian Pop",
+          "R&B",
+          "Latin Rap"
+        ]
+      },
+      "match_reason": "A \"bomb\" of an oxygen tank that launched a new era of space safety pairs symbolically with Sedna FM’s own explosive first episode, both marking intense beginnings that defined everything that followed."
     }
   ],
   "generated_at": "2026-04-13T00:00:00.013461+00:00",
   "date": "2026-04-13",
-  "updated_at": "2026-04-13T22:00:01.482521+00:00"
+  "updated_at": "2026-04-13T23:00:01.567370+00:00"
 }
