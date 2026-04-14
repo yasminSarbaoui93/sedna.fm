@@ -1,61 +1,31 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On April 14, 2023, the European Space Agency launched the Jupiter Icy Moons Explorer (JUICE), a spacecraft destined to study the hidden oceans of Europa, Ganymede, and Callisto. Its mission is to probe worlds where liquid water may lurk beneath ice, expanding our search for life far from Earth's warmth.",
-    "fact_year": 2023,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Jupiter_Icy_Moons_Explorer",
+    "hour": 2,
+    "fact_text": "On April 14, 1981, Space Shuttle Columbia completed STS-1, the first orbital flight of NASA's partially reusable spaceplane. It was the first time a crewed spacecraft had been launched on a brand-new vehicle and then glided back to land on a runway like an aircraft.",
+    "fact_year": 1981,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-1",
     "episode": {
-      "id": 48,
-      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+      "id": 31,
+      "title": "Morning Drops #31 - A Trip-Hop Journey",
+      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
       "songs": [
-        "Stive Morgan - Solar Wind, Pt. 3",
-        "David Visan & Carlos Campos - Crystal Heart",
-        "Evan Mars - Ya Zareef Al Tool",
-        "Gerardo Frisina - Cuiabá",
-        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-        "The Busy Twist - Friday Night"
+        "Massive Attack - Unfinished Sympathy",
+        "Tricky - Hell Is Round the Corner",
+        "DJ Shadow - Midnight in a Perfect World",
+        "Thievery Corporation - Lebanese Blonde",
+        "Smoke City - Underwater Love"
       ],
       "music-genres": [
-        "Ambient",
-        "Deep House",
-        "World Music",
-        "Nu Jazz",
-        "Afrobeat",
-        "Funk",
+        "Trip-Hop",
+        "Downtempo",
         "Electronic"
       ]
     },
-    "match_reason": "A deep-space voyage to distant moons fits with an evening mix that opens in mystery and slowly expands into a wide, exploratory soundscape, like cruising through the outer Solar System."
+    "match_reason": "Columbia blurred the line between rocket and airplane just as trip‑hop blurred lines between genres, both marking an experimental new era in how humans travel—through space or through sound."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "On April 14, 1981, Space Shuttle Columbia completed STS-1, the first orbital flight of NASA's partially reusable spaceplane. It was the first time a crewed spacecraft had been launched on a brand-new vehicle and then glided back to land on a runway like an aircraft.",
-      "fact_year": 1981,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-1",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #31 - A Trip-Hop Journey",
-        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
-        "songs": [
-          "Massive Attack - Unfinished Sympathy",
-          "Tricky - Hell Is Round the Corner",
-          "DJ Shadow - Midnight in a Perfect World",
-          "Thievery Corporation - Lebanese Blonde",
-          "Smoke City - Underwater Love"
-        ],
-        "music-genres": [
-          "Trip-Hop",
-          "Downtempo",
-          "Electronic"
-        ]
-      },
-      "match_reason": "Columbia blurred the line between rocket and airplane just as trip‑hop blurred lines between genres, both marking an experimental new era in how humans travel—through space or through sound."
-    },
     {
       "hour": 3,
       "fact_text": "On April 14, 2003, scientists announced the completion of the Human Genome Project, reporting a draft with 99% of the human genetic code sequenced to 99.99% accuracy. In just over a decade, humanity went from guessing at our DNA to reading the instruction book for our own species.",
@@ -653,9 +623,34 @@
         ]
       },
       "match_reason": "A deep-space voyage to distant moons fits with an evening mix that opens in mystery and slowly expands into a wide, exploratory soundscape, like cruising through the outer Solar System."
+    },
+    {
+      "hour": 2,
+      "fact_text": "On April 14, 1981, Space Shuttle Columbia completed STS-1, the first orbital flight of NASA's partially reusable spaceplane. It was the first time a crewed spacecraft had been launched on a brand-new vehicle and then glided back to land on a runway like an aircraft.",
+      "fact_year": 1981,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-1",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #31 - A Trip-Hop Journey",
+        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+        "songs": [
+          "Massive Attack - Unfinished Sympathy",
+          "Tricky - Hell Is Round the Corner",
+          "DJ Shadow - Midnight in a Perfect World",
+          "Thievery Corporation - Lebanese Blonde",
+          "Smoke City - Underwater Love"
+        ],
+        "music-genres": [
+          "Trip-Hop",
+          "Downtempo",
+          "Electronic"
+        ]
+      },
+      "match_reason": "Columbia blurred the line between rocket and airplane just as trip‑hop blurred lines between genres, both marking an experimental new era in how humans travel—through space or through sound."
     }
   ],
   "generated_at": "2026-04-14T00:00:00.014053+00:00",
   "date": "2026-04-14",
-  "updated_at": "2026-04-14T01:00:01.604771+00:00"
+  "updated_at": "2026-04-14T02:00:01.465930+00:00"
 }
