@@ -1,56 +1,31 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In the early hours of April 15, 1912, the supposedly “unsinkable” RMS Titanic disappeared beneath the North Atlantic after striking an iceberg, taking over 1,500 lives with her. Among the lesser-known details: the ship’s band kept playing to calm passengers, and wireless radio—still a relatively new technology—helped nearby ships rescue the 710 survivors.",
-    "fact_year": 1912,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Sinking_of_the_Titanic",
+    "hour": 1,
+    "fact_text": "On April 15, 1738, George Frideric Handel’s opera \"Serse\" premiered in London—and flopped so badly it closed after just five performances. Ironically, its opening aria \"Ombra mai fù\" later became one of the most famous and frequently performed pieces in all of opera, outliving the work’s original failure by centuries.",
+    "fact_year": 1738,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Serse",
     "episode": {
-      "id": 46,
-      "title": "Morning Drops #40 - Diving With Orcas",
-      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+      "id": 44,
+      "title": "Morning Drops #38 - History of Flamenco",
+      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
       "songs": [
-        "Ludovico Einaudi - Experience",
-        "The Temper Trap - Sweet Disposition",
-        "Alex Warren - Ordinary",
-        "Piero Umiliani - Il tuo volto"
+        "La Niña de los Peines - Al Gurugú",
+        "Lola Flores - Pena, penita, pena",
+        "Paco de Lucía - Entre dos aguas",
+        "Camarón de la Isla - La leyenda del tiempo",
+        "Rosalía - Pienso en tu mirá"
       ],
       "music-genres": [
-        "Neo-Classical",
-        "Indie Rock",
-        "Pop",
-        "Italian Film Score"
+        "Flamenco",
+        "Spanish Folk",
+        "Nuevo Flamenco"
       ]
     },
-    "match_reason": "An episode about cold northern seas and deep water encounters mirrors the icy Atlantic setting and reflective mood of the Titanic’s final night."
+    "match_reason": "Both the fact and the episode explore how vocal traditions and once-marginal works transform over time into canonical, emotionally powerful music."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On April 15, 1738, George Frideric Handel’s opera \"Serse\" premiered in London—and flopped so badly it closed after just five performances. Ironically, its opening aria \"Ombra mai fù\" later became one of the most famous and frequently performed pieces in all of opera, outliving the work’s original failure by centuries.",
-      "fact_year": 1738,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Serse",
-      "episode": {
-        "id": 44,
-        "title": "Morning Drops #38 - History of Flamenco",
-        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
-        "songs": [
-          "La Niña de los Peines - Al Gurugú",
-          "Lola Flores - Pena, penita, pena",
-          "Paco de Lucía - Entre dos aguas",
-          "Camarón de la Isla - La leyenda del tiempo",
-          "Rosalía - Pienso en tu mirá"
-        ],
-        "music-genres": [
-          "Flamenco",
-          "Spanish Folk",
-          "Nuevo Flamenco"
-        ]
-      },
-      "match_reason": "Both the fact and the episode explore how vocal traditions and once-marginal works transform over time into canonical, emotionally powerful music."
-    },
     {
       "hour": 2,
       "fact_text": "The EC-121 shootdown on April 15, 1969, saw a U.S. Navy signals-intelligence aircraft destroyed by North Korean fighters over the Sea of Japan, killing all 31 crew. The mission was unarmed and flying in international airspace, turning a routine reconnaissance flight into a Cold War flashpoint that nearly triggered major escalation.",
@@ -627,9 +602,34 @@
         ]
       },
       "match_reason": "An episode about cold northern seas and deep water encounters mirrors the icy Atlantic setting and reflective mood of the Titanic’s final night."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On April 15, 1738, George Frideric Handel’s opera \"Serse\" premiered in London—and flopped so badly it closed after just five performances. Ironically, its opening aria \"Ombra mai fù\" later became one of the most famous and frequently performed pieces in all of opera, outliving the work’s original failure by centuries.",
+      "fact_year": 1738,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Serse",
+      "episode": {
+        "id": 44,
+        "title": "Morning Drops #38 - History of Flamenco",
+        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+        "songs": [
+          "La Niña de los Peines - Al Gurugú",
+          "Lola Flores - Pena, penita, pena",
+          "Paco de Lucía - Entre dos aguas",
+          "Camarón de la Isla - La leyenda del tiempo",
+          "Rosalía - Pienso en tu mirá"
+        ],
+        "music-genres": [
+          "Flamenco",
+          "Spanish Folk",
+          "Nuevo Flamenco"
+        ]
+      },
+      "match_reason": "Both the fact and the episode explore how vocal traditions and once-marginal works transform over time into canonical, emotionally powerful music."
     }
   ],
   "generated_at": "2026-04-15T00:00:00.016930+00:00",
   "date": "2026-04-15",
-  "updated_at": "2026-04-15T00:01:11.628567+00:00"
+  "updated_at": "2026-04-15T01:00:01.806408+00:00"
 }
