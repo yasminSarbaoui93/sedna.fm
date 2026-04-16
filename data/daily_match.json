@@ -1,63 +1,39 @@
 {
-  "current_hour": 19,
+  "current_hour": 20,
   "current_fact": {
-    "hour": 19,
-    "fact_text": "On April 16, 2018, The New York Times and The New Yorker jointly won the Pulitzer Prize for Public Service for their investigative reporting on Harvey Weinstein’s long-hidden pattern of sexual abuse. Their articles helped ignite the global #MeToo movement, encouraging survivors worldwide to share their stories and confront abusive power.",
-    "fact_year": 2018,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Public_Service",
+    "hour": 20,
+    "fact_text": "On April 16, 1941, the Italian-German Tarigo convoy’s destruction at sea was just one of many episodes in World War II’s vast, global conflict, where submarines, aircraft, and ships turned entire oceans into battlegrounds. The war accelerated technological innovation, from radar to codebreaking, that would later spill into civilian life.",
+    "fact_year": 1941,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/World_War_II",
     "episode": {
-      "id": 10,
-      "title": "Morning Drops #04 - Bars With Balls",
-      "description": "Yasmin dives into Women's Day through the voices of four incredible female rappers. Morning fire from the magic planet of Sedna FM — move your hands up and down with us. Hip hop culture through a feminine lens.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-bars-with-balls",
+      "id": 1,
+      "title": "Sedna FM #01 - November Bomb",
+      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
       "songs": [
-        "Ele A - Globo",
-        "Little Simz - Point and Kill (feat. Obongjayar)",
-        "Lil' Kim - Lighters Up",
-        "Queen Latifah - U.N.I.T.Y."
+        "berlioz - Open this wall",
+        "Nas - One Mic",
+        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+        "Frankie Knuckles - Your Love",
+        "Notorious B.I.G. - 17 Ten Crack Commandments",
+        "Liloca - Utani Xuva",
+        "Fela Kuti - Zombie",
+        "Neffa - Aspettando il sole",
+        "Childish Gambino - No Excuses",
+        "Modjo - Music takes you back"
       ],
       "music-genres": [
         "Hip-Hop",
-        "Afrobeats",
-        "Rap"
+        "Afrobeat",
+        "House",
+        "Italian Pop",
+        "R&B",
+        "Latin Rap"
       ]
     },
-    "match_reason": "Investigative journalism that exposed systemic abuse aligns with an episode amplifying powerful female voices in rap, both challenging patriarchal structures and reclaiming agency."
+    "match_reason": "A world war that reshaped the planet parallels Sedna FM’s own origin episode—a kind of creative \"big bang\"—with a diverse, global soundtrack born from postwar cultural crossings."
   },
   "queue": [
-    {
-      "hour": 20,
-      "fact_text": "On April 16, 1941, the Italian-German Tarigo convoy’s destruction at sea was just one of many episodes in World War II’s vast, global conflict, where submarines, aircraft, and ships turned entire oceans into battlegrounds. The war accelerated technological innovation, from radar to codebreaking, that would later spill into civilian life.",
-      "fact_year": 1941,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/World_War_II",
-      "episode": {
-        "id": 1,
-        "title": "Sedna FM #01 - November Bomb",
-        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
-        "songs": [
-          "berlioz - Open this wall",
-          "Nas - One Mic",
-          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-          "Frankie Knuckles - Your Love",
-          "Notorious B.I.G. - 17 Ten Crack Commandments",
-          "Liloca - Utani Xuva",
-          "Fela Kuti - Zombie",
-          "Neffa - Aspettando il sole",
-          "Childish Gambino - No Excuses",
-          "Modjo - Music takes you back"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Afrobeat",
-          "House",
-          "Italian Pop",
-          "R&B",
-          "Latin Rap"
-        ]
-      },
-      "match_reason": "A world war that reshaped the planet parallels Sedna FM’s own origin episode—a kind of creative \"big bang\"—with a diverse, global soundtrack born from postwar cultural crossings."
-    },
     {
       "hour": 21,
       "fact_text": "On April 16, 2013, as part of the same date’s tragic tally, the Saravan earthquake underscored the importance of the moment magnitude scale, a tool seismologists use to compare the true energy released by quakes worldwide. Unlike older scales, it can reliably measure both moderate tremors and giant megaquakes on a single continuous scale.",
@@ -623,9 +599,42 @@
         ]
       },
       "match_reason": "Investigative journalism that exposed systemic abuse aligns with an episode amplifying powerful female voices in rap, both challenging patriarchal structures and reclaiming agency."
+    },
+    {
+      "hour": 20,
+      "fact_text": "On April 16, 1941, the Italian-German Tarigo convoy’s destruction at sea was just one of many episodes in World War II’s vast, global conflict, where submarines, aircraft, and ships turned entire oceans into battlegrounds. The war accelerated technological innovation, from radar to codebreaking, that would later spill into civilian life.",
+      "fact_year": 1941,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/World_War_II",
+      "episode": {
+        "id": 1,
+        "title": "Sedna FM #01 - November Bomb",
+        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+        "songs": [
+          "berlioz - Open this wall",
+          "Nas - One Mic",
+          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+          "Frankie Knuckles - Your Love",
+          "Notorious B.I.G. - 17 Ten Crack Commandments",
+          "Liloca - Utani Xuva",
+          "Fela Kuti - Zombie",
+          "Neffa - Aspettando il sole",
+          "Childish Gambino - No Excuses",
+          "Modjo - Music takes you back"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Afrobeat",
+          "House",
+          "Italian Pop",
+          "R&B",
+          "Latin Rap"
+        ]
+      },
+      "match_reason": "A world war that reshaped the planet parallels Sedna FM’s own origin episode—a kind of creative \"big bang\"—with a diverse, global soundtrack born from postwar cultural crossings."
     }
   ],
   "generated_at": "2026-04-16T00:00:00.012666+00:00",
   "date": "2026-04-16",
-  "updated_at": "2026-04-16T19:00:01.800838+00:00"
+  "updated_at": "2026-04-16T20:00:01.717808+00:00"
 }
