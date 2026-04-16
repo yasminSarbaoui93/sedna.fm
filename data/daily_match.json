@@ -1,57 +1,34 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "Apollo 16, launched on April 16, 1972, was the fifth mission to land humans on the Moon and the first to target the lunar highlands. Astronauts John Young and Charles Duke explored the Descartes Highlands, while Ken Mattingly conducted experiments from lunar orbit. The mission’s geology samples reshaped scientists’ ideas about how the Moon’s crust formed.",
-    "fact_year": 1972,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Apollo_16",
+    "hour": 1,
+    "fact_text": "On April 16, 1912, aviation pioneer Harriet Quimby became the first woman to fly an airplane across the English Channel. Wearing her signature plum-colored silk flying suit, she completed the hazardous journey in about an hour, though her achievement was overshadowed in the press by news of the Titanic sinking the day before.",
+    "fact_year": 1912,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Harriet_Quimby",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "A spaceflight milestone pairs naturally with an episode themed around \"Space Shift\" and reimagining emptiness as creative space, echoing the vastness of the lunar environment."
+    "match_reason": "Both the fact and the episode are about daring journeys across water and sky, with the sailing-trip mood mirroring Quimby’s pioneering cross-Channel flight."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On April 16, 1912, aviation pioneer Harriet Quimby became the first woman to fly an airplane across the English Channel. Wearing her signature plum-colored silk flying suit, she completed the hazardous journey in about an hour, though her achievement was overshadowed in the press by news of the Titanic sinking the day before.",
-      "fact_year": 1912,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Harriet_Quimby",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "Both the fact and the episode are about daring journeys across water and sky, with the sailing-trip mood mirroring Quimby’s pioneering cross-Channel flight."
-    },
     {
       "hour": 2,
       "fact_text": "The Battle of Megiddo, fought around 1457 BC, is considered the first military clash recorded in detail, thanks to hieroglyphic accounts from Pharaoh Thutmose III's scribes. They documented troop movements, logistics, and even war booty, offering a surprisingly granular snapshot of Bronze Age warfare.",
@@ -622,9 +599,37 @@
         ]
       },
       "match_reason": "A spaceflight milestone pairs naturally with an episode themed around \"Space Shift\" and reimagining emptiness as creative space, echoing the vastness of the lunar environment."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On April 16, 1912, aviation pioneer Harriet Quimby became the first woman to fly an airplane across the English Channel. Wearing her signature plum-colored silk flying suit, she completed the hazardous journey in about an hour, though her achievement was overshadowed in the press by news of the Titanic sinking the day before.",
+      "fact_year": 1912,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Harriet_Quimby",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "Both the fact and the episode are about daring journeys across water and sky, with the sailing-trip mood mirroring Quimby’s pioneering cross-Channel flight."
     }
   ],
   "generated_at": "2026-04-16T00:00:00.012666+00:00",
   "date": "2026-04-16",
-  "updated_at": "2026-04-16T00:01:00.225632+00:00"
+  "updated_at": "2026-04-16T01:00:01.766868+00:00"
 }
