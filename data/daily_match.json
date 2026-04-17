@@ -1,56 +1,31 @@
 {
-  "current_hour": 2,
+  "current_hour": 3,
   "current_fact": {
-    "hour": 2,
-    "fact_text": "In 1998, Space Shuttle Columbia launched STS-90, the final Spacelab mission, turning the orbiter into a temporary flying neuroscience laboratory. For 16 days, astronauts and rats alike floated in microgravity so scientists could study how brains and nervous systems adapt when up and down disappear.",
-    "fact_year": 1998,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-90",
+    "hour": 3,
+    "fact_text": "In 1492, the Capitulations of Santa Fe formalized an audacious deal: Christopher Columbus would sail west into the unknown, and in return be granted lofty titles and a share of whatever he found. Signed in a military camp outside Granada, the document helped launch Europe’s age of oceanic exploration—and centuries of global upheaval.",
+    "fact_year": 1492,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Capitulations_of_Santa_Fe",
     "episode": {
-      "id": 31,
-      "title": "Morning Drops #31 - A Trip-Hop Journey",
-      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+      "id": 45,
+      "title": "Morning Drops #39 - Moving Meditation",
+      "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
       "songs": [
-        "Massive Attack - Unfinished Sympathy",
-        "Tricky - Hell Is Round the Corner",
-        "DJ Shadow - Midnight in a Perfect World",
-        "Thievery Corporation - Lebanese Blonde",
-        "Smoke City - Underwater Love"
+        "Stella & The Longos - La Flamme",
+        "España Circo Este - Dormo poco e sogno molto",
+        "Mystic Jungle - Sunset Breaker",
+        "Talking Heads - This Must Be the Place (Naive Melody)"
       ],
       "music-genres": [
-        "Trip-Hop",
-        "Downtempo",
-        "Electronic"
+        "Balearic",
+        "Italian Folk Rock",
+        "World Music",
+        "New Wave"
       ]
     },
-    "match_reason": "A brain-focused mission drifting in orbit fits with the cinematic, drifting textures of trip-hop and the episode’s exploration of boundary-blurring, experimental soundscapes."
+    "match_reason": "A contract that launched transoceanic voyages aligns with an episode about travel and shifting perspective, both mapping inner journeys onto literal expeditions."
   },
   "queue": [
-    {
-      "hour": 3,
-      "fact_text": "In 1492, the Capitulations of Santa Fe formalized an audacious deal: Christopher Columbus would sail west into the unknown, and in return be granted lofty titles and a share of whatever he found. Signed in a military camp outside Granada, the document helped launch Europe’s age of oceanic exploration—and centuries of global upheaval.",
-      "fact_year": 1492,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Capitulations_of_Santa_Fe",
-      "episode": {
-        "id": 45,
-        "title": "Morning Drops #39 - Moving Meditation",
-        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
-        "songs": [
-          "Stella & The Longos - La Flamme",
-          "España Circo Este - Dormo poco e sogno molto",
-          "Mystic Jungle - Sunset Breaker",
-          "Talking Heads - This Must Be the Place (Naive Melody)"
-        ],
-        "music-genres": [
-          "Balearic",
-          "Italian Folk Rock",
-          "World Music",
-          "New Wave"
-        ]
-      },
-      "match_reason": "A contract that launched transoceanic voyages aligns with an episode about travel and shifting perspective, both mapping inner journeys onto literal expeditions."
-    },
     {
       "hour": 4,
       "fact_text": "On this day in 1524, Florentine explorer Giovanni da Verrazzano became the first recorded European to enter what is now New York Harbor. He sailed past the future site of the Statue of Liberty, unaware he was sketching the earliest European descriptions of one of Earth’s most iconic urban coastlines.",
@@ -624,9 +599,34 @@
         ]
       },
       "match_reason": "A brain-focused mission drifting in orbit fits with the cinematic, drifting textures of trip-hop and the episode’s exploration of boundary-blurring, experimental soundscapes."
+    },
+    {
+      "hour": 3,
+      "fact_text": "In 1492, the Capitulations of Santa Fe formalized an audacious deal: Christopher Columbus would sail west into the unknown, and in return be granted lofty titles and a share of whatever he found. Signed in a military camp outside Granada, the document helped launch Europe’s age of oceanic exploration—and centuries of global upheaval.",
+      "fact_year": 1492,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Capitulations_of_Santa_Fe",
+      "episode": {
+        "id": 45,
+        "title": "Morning Drops #39 - Moving Meditation",
+        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
+        "songs": [
+          "Stella & The Longos - La Flamme",
+          "España Circo Este - Dormo poco e sogno molto",
+          "Mystic Jungle - Sunset Breaker",
+          "Talking Heads - This Must Be the Place (Naive Melody)"
+        ],
+        "music-genres": [
+          "Balearic",
+          "Italian Folk Rock",
+          "World Music",
+          "New Wave"
+        ]
+      },
+      "match_reason": "A contract that launched transoceanic voyages aligns with an episode about travel and shifting perspective, both mapping inner journeys onto literal expeditions."
     }
   ],
   "generated_at": "2026-04-17T00:00:00.009586+00:00",
   "date": "2026-04-17",
-  "updated_at": "2026-04-17T02:00:01.561302+00:00"
+  "updated_at": "2026-04-17T03:00:01.567108+00:00"
 }
