@@ -1,56 +1,31 @@
 {
-  "current_hour": 7,
+  "current_hour": 8,
   "current_fact": {
-    "hour": 7,
-    "fact_text": "In 1783, near the end of the American Revolutionary War, a little‑known skirmish called Colbert’s Raid unfolded at Arkansas Post. Spanish forces under Captain Jacobo du Breuil repelled British irregulars along the Mississippi frontier, a reminder that the war’s outcome was shaped not just in famous cities, but in remote river outposts too.",
-    "fact_year": 1783,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Colbert_raid",
+    "hour": 8,
+    "fact_text": "In 1797, citizens of Verona rose up against French occupation in an eight‑day revolt known as the Veronese Easter. Church bells were rung as covert signals, and ordinary townspeople briefly turned their Renaissance city into a maze of barricades and ambushes.",
+    "fact_year": 1797,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Veronese_Easter",
     "episode": {
-      "id": 27,
-      "title": "Morning Drops #21 - Endless Summer",
-      "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
+      "id": 53,
+      "title": "Morning Drops #46 - Fog and Fire",
+      "description": "In today’s Morning Drops, Gaia brings us on a passport-free trip between two Italian energies: the foggy stillness of the North and the volcanic pulse of the South. Throughout the journey, Gaia shares four of her favourite Italian songwriters. Grab your coffee and tune into the radio show from another planet!",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-fog-and-fire",
       "songs": [
-        "Nik Bärtsch - Modul 14",
-        "Mama Terra - Chameleon (Single Edit)",
-        "Spyro Gyra - Morning Dance",
-        "Yussef Kamaal - Black Focus"
+        "Edoardo Bennato - La Torre Di Babele",
+        "Zucchero - Diavolo in Me",
+        "Lucio Dalla - Com'è Profondo il Mare",
+        "Pino Daniele - Tutta N'ata Storia"
       ],
       "music-genres": [
-        "Minimal Jazz",
-        "Nu Jazz",
-        "Jazz Fusion",
-        "UK Jazz"
+        "Blues",
+        "indie",
+        "Italian",
+        "Soft Rock"
       ]
     },
-    "match_reason": "A small, riverine battle on a quiet frontier fits the episode’s focus on overlooked, slower spaces that still shape history, with flowing jazz mirroring the Mississippi currents."
+    "match_reason": "An Italian city in revolt embodies both ‘fog’ and ‘fire’—everyday life disrupted by sudden passion—matching an episode that explores contrasting Italian moods and songwriters."
   },
   "queue": [
-    {
-      "hour": 8,
-      "fact_text": "In 1797, citizens of Verona rose up against French occupation in an eight‑day revolt known as the Veronese Easter. Church bells were rung as covert signals, and ordinary townspeople briefly turned their Renaissance city into a maze of barricades and ambushes.",
-      "fact_year": 1797,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Veronese_Easter",
-      "episode": {
-        "id": 53,
-        "title": "Morning Drops #46 - Fog and Fire",
-        "description": "In today’s Morning Drops, Gaia brings us on a passport-free trip between two Italian energies: the foggy stillness of the North and the volcanic pulse of the South. Throughout the journey, Gaia shares four of her favourite Italian songwriters. Grab your coffee and tune into the radio show from another planet!",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-fog-and-fire",
-        "songs": [
-          "Edoardo Bennato - La Torre Di Babele",
-          "Zucchero - Diavolo in Me",
-          "Lucio Dalla - Com'è Profondo il Mare",
-          "Pino Daniele - Tutta N'ata Storia"
-        ],
-        "music-genres": [
-          "Blues",
-          "indie",
-          "Italian",
-          "Soft Rock"
-        ]
-      },
-      "match_reason": "An Italian city in revolt embodies both ‘fog’ and ‘fire’—everyday life disrupted by sudden passion—matching an episode that explores contrasting Italian moods and songwriters."
-    },
     {
       "hour": 9,
       "fact_text": "On this day in 1863, Union cavalry under Colonel Benjamin Grierson launched Grierson’s Raid, a daring 600‑mile ride through Confederate Mississippi. The small force tied up far larger enemy armies and helped pave the way for the Union victory at Vicksburg by attacking from deep in the South’s own backyard.",
@@ -624,9 +599,34 @@
         ]
       },
       "match_reason": "A small, riverine battle on a quiet frontier fits the episode’s focus on overlooked, slower spaces that still shape history, with flowing jazz mirroring the Mississippi currents."
+    },
+    {
+      "hour": 8,
+      "fact_text": "In 1797, citizens of Verona rose up against French occupation in an eight‑day revolt known as the Veronese Easter. Church bells were rung as covert signals, and ordinary townspeople briefly turned their Renaissance city into a maze of barricades and ambushes.",
+      "fact_year": 1797,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Veronese_Easter",
+      "episode": {
+        "id": 53,
+        "title": "Morning Drops #46 - Fog and Fire",
+        "description": "In today’s Morning Drops, Gaia brings us on a passport-free trip between two Italian energies: the foggy stillness of the North and the volcanic pulse of the South. Throughout the journey, Gaia shares four of her favourite Italian songwriters. Grab your coffee and tune into the radio show from another planet!",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-fog-and-fire",
+        "songs": [
+          "Edoardo Bennato - La Torre Di Babele",
+          "Zucchero - Diavolo in Me",
+          "Lucio Dalla - Com'è Profondo il Mare",
+          "Pino Daniele - Tutta N'ata Storia"
+        ],
+        "music-genres": [
+          "Blues",
+          "indie",
+          "Italian",
+          "Soft Rock"
+        ]
+      },
+      "match_reason": "An Italian city in revolt embodies both ‘fog’ and ‘fire’—everyday life disrupted by sudden passion—matching an episode that explores contrasting Italian moods and songwriters."
     }
   ],
   "generated_at": "2026-04-17T00:00:00.009586+00:00",
   "date": "2026-04-17",
-  "updated_at": "2026-04-17T07:00:01.619908+00:00"
+  "updated_at": "2026-04-17T08:00:01.645428+00:00"
 }
