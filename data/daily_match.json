@@ -1,65 +1,40 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "On this day in 1524, Florentine explorer Giovanni da Verrazzano became the first recorded European to enter what is now New York Harbor. He sailed past the future site of the Statue of Liberty, unaware he was sketching the earliest European descriptions of one of Earth’s most iconic urban coastlines.",
-    "fact_year": 1524,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Giovanni_da_Verrazzano",
+    "hour": 5,
+    "fact_text": "In 1964, Jerrie Mock quietly became the first woman to fly solo around the world, piloting a single‑engine Cessna named Spirit of Columbus. Over 29 and a half days, this Ohio mother of three navigated storms, bureaucracies and sleepless nights, proving that long-distance aviation was not just a man’s domain.",
+    "fact_year": 1964,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Jerrie_Mock",
     "episode": {
-      "id": 17,
-      "title": "Morning Drops #11 - Mediterranean Boat",
-      "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
+      "id": 5,
+      "title": "Sedna FM #05 - On The Go - Zero Zero",
+      "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
       "songs": [
-        "Arleta - Bar To Navagio",
-        "Baba Zula - Tavla",
-        "Mylène Farmer - Désenchantée",
-        "Fabrizio De André - Crêuza de mä"
+        "Alborosie - Rock the dancehall",
+        "Grace Jones - Pull up to the bumper",
+        "Hollie cook - Happy hour",
+        "Easy star all star - Soul love",
+        "Jeremie Albino - Rolling down the 405",
+        "Cyril Neville - I found joy",
+        "Aretha Franklin - Rock steady",
+        "James Brown - Talking loud and saying nothing (remix)",
+        "Nubiyan Twist - So mi stay",
+        "Professor Wouassa - Fallou Fall",
+        "Jarabe de Palo - La Flaca"
       ],
       "music-genres": [
-        "Greek Folk",
-        "Turkish Psychedelic",
-        "French Pop",
-        "Italian Singer-Songwriter"
+        "Reggae",
+        "Funk",
+        "Soul",
+        "Afrobeat",
+        "Latin Rock",
+        "New Wave"
       ]
     },
-    "match_reason": "Verrazzano’s sea voyage from the Mediterranean to unknown shores pairs naturally with a boat-themed episode that sails sonically across Mediterranean coasts."
+    "match_reason": "A solo flight circling the planet fits perfectly with an episode designed for movement and travel, capturing the forward momentum and fresh-start energy of Mock’s journey."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "In 1964, Jerrie Mock quietly became the first woman to fly solo around the world, piloting a single‑engine Cessna named Spirit of Columbus. Over 29 and a half days, this Ohio mother of three navigated storms, bureaucracies and sleepless nights, proving that long-distance aviation was not just a man’s domain.",
-      "fact_year": 1964,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Jerrie_Mock",
-      "episode": {
-        "id": 5,
-        "title": "Sedna FM #05 - On The Go - Zero Zero",
-        "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
-        "songs": [
-          "Alborosie - Rock the dancehall",
-          "Grace Jones - Pull up to the bumper",
-          "Hollie cook - Happy hour",
-          "Easy star all star - Soul love",
-          "Jeremie Albino - Rolling down the 405",
-          "Cyril Neville - I found joy",
-          "Aretha Franklin - Rock steady",
-          "James Brown - Talking loud and saying nothing (remix)",
-          "Nubiyan Twist - So mi stay",
-          "Professor Wouassa - Fallou Fall",
-          "Jarabe de Palo - La Flaca"
-        ],
-        "music-genres": [
-          "Reggae",
-          "Funk",
-          "Soul",
-          "Afrobeat",
-          "Latin Rock",
-          "New Wave"
-        ]
-      },
-      "match_reason": "A solo flight circling the planet fits perfectly with an episode designed for movement and travel, capturing the forward momentum and fresh-start energy of Mock’s journey."
-    },
     {
       "hour": 6,
       "fact_text": "On April 17, 1942, French General Henri Giraud executed a daring escape from the supposedly inescapable Königstein Fortress, a cliff‑top prison in Saxony. Using a smuggled rope and careful observation, the 62‑year‑old officer rappelled down a 40‑meter wall and slipped through enemy territory to freedom.",
@@ -624,9 +599,43 @@
         ]
       },
       "match_reason": "Verrazzano’s sea voyage from the Mediterranean to unknown shores pairs naturally with a boat-themed episode that sails sonically across Mediterranean coasts."
+    },
+    {
+      "hour": 5,
+      "fact_text": "In 1964, Jerrie Mock quietly became the first woman to fly solo around the world, piloting a single‑engine Cessna named Spirit of Columbus. Over 29 and a half days, this Ohio mother of three navigated storms, bureaucracies and sleepless nights, proving that long-distance aviation was not just a man’s domain.",
+      "fact_year": 1964,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Jerrie_Mock",
+      "episode": {
+        "id": 5,
+        "title": "Sedna FM #05 - On The Go - Zero Zero",
+        "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
+        "songs": [
+          "Alborosie - Rock the dancehall",
+          "Grace Jones - Pull up to the bumper",
+          "Hollie cook - Happy hour",
+          "Easy star all star - Soul love",
+          "Jeremie Albino - Rolling down the 405",
+          "Cyril Neville - I found joy",
+          "Aretha Franklin - Rock steady",
+          "James Brown - Talking loud and saying nothing (remix)",
+          "Nubiyan Twist - So mi stay",
+          "Professor Wouassa - Fallou Fall",
+          "Jarabe de Palo - La Flaca"
+        ],
+        "music-genres": [
+          "Reggae",
+          "Funk",
+          "Soul",
+          "Afrobeat",
+          "Latin Rock",
+          "New Wave"
+        ]
+      },
+      "match_reason": "A solo flight circling the planet fits perfectly with an episode designed for movement and travel, capturing the forward momentum and fresh-start energy of Mock’s journey."
     }
   ],
   "generated_at": "2026-04-17T00:00:00.009586+00:00",
   "date": "2026-04-17",
-  "updated_at": "2026-04-17T04:00:01.512652+00:00"
+  "updated_at": "2026-04-17T05:00:01.669657+00:00"
 }
