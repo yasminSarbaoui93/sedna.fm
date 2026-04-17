@@ -1,56 +1,31 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On April 17, 1970, Apollo 13—crippled by an oxygen tank explosion 200,000 miles from home—splashed down safely in the Pacific Ocean. What could have been NASA's darkest tragedy became a legendary story of calm improvisation, human resilience and precise engineering under pressure.",
-    "fact_year": 1970,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Apollo_13",
+    "hour": 2,
+    "fact_text": "In 1998, Space Shuttle Columbia launched STS-90, the final Spacelab mission, turning the orbiter into a temporary flying neuroscience laboratory. For 16 days, astronauts and rats alike floated in microgravity so scientists could study how brains and nervous systems adapt when up and down disappear.",
+    "fact_year": 1998,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-90",
     "episode": {
-      "id": 52,
-      "title": "Morning Drops #45 - It Can't Rain Forever",
-      "description": "In this first broadcast of 2026, Gaia returns from the vivid landscapes of Morocco to open a space for reflection. This episode navigates the delicate transition between closing a significant chapter and stepping into the new year. It explores the concept of constancy amidst change, celebrating the grounding force of friendship and the creative sanctuary that is Sedna FM.\n\nThe musical selection mirrors this journey, moving from the orchestral depth of changing seasons into the golden warmth of psychedelic soul. It recalls memories of Swiss mountains and unexpected downpours, reminding us that shared optimism can weather any storm.\n\nTake a moment to breathe in the new morning and listen deeply.\n\nMood: Reflective, Warm, Transitional, Hopeful\nMusic genre: Classic Rock, Psychedelic Soul, Pop Rock, Soft Rock",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-it-cant-rain-forever",
+      "id": 31,
+      "title": "Morning Drops #31 - A Trip-Hop Journey",
+      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
       "songs": [
-        "Led Zeppelin - The Rain Song",
-        "Khruangbin & Leon Bridges - Texas Sun",
-        "Dragon - Rain",
-        "Fleetwood Mac - Don't Stop"
+        "Massive Attack - Unfinished Sympathy",
+        "Tricky - Hell Is Round the Corner",
+        "DJ Shadow - Midnight in a Perfect World",
+        "Thievery Corporation - Lebanese Blonde",
+        "Smoke City - Underwater Love"
       ],
       "music-genres": [
-        "Classic Rock",
-        "Psychedelic Soul",
-        "Pop Rock",
-        "Soft Rock"
+        "Trip-Hop",
+        "Downtempo",
+        "Electronic"
       ]
     },
-    "match_reason": "Apollo 13’s narrow escape from disaster resonates with the episode’s theme that storms eventually pass, pairing a near-tragedy turned triumph with reflective, hopeful rock."
+    "match_reason": "A brain-focused mission drifting in orbit fits with the cinematic, drifting textures of trip-hop and the episode’s exploration of boundary-blurring, experimental soundscapes."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "In 1998, Space Shuttle Columbia launched STS-90, the final Spacelab mission, turning the orbiter into a temporary flying neuroscience laboratory. For 16 days, astronauts and rats alike floated in microgravity so scientists could study how brains and nervous systems adapt when up and down disappear.",
-      "fact_year": 1998,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-90",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #31 - A Trip-Hop Journey",
-        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
-        "songs": [
-          "Massive Attack - Unfinished Sympathy",
-          "Tricky - Hell Is Round the Corner",
-          "DJ Shadow - Midnight in a Perfect World",
-          "Thievery Corporation - Lebanese Blonde",
-          "Smoke City - Underwater Love"
-        ],
-        "music-genres": [
-          "Trip-Hop",
-          "Downtempo",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A brain-focused mission drifting in orbit fits with the cinematic, drifting textures of trip-hop and the episode’s exploration of boundary-blurring, experimental soundscapes."
-    },
     {
       "hour": 3,
       "fact_text": "In 1492, the Capitulations of Santa Fe formalized an audacious deal: Christopher Columbus would sail west into the unknown, and in return be granted lofty titles and a share of whatever he found. Signed in a military camp outside Granada, the document helped launch Europe’s age of oceanic exploration—and centuries of global upheaval.",
@@ -624,9 +599,34 @@
         ]
       },
       "match_reason": "Apollo 13’s narrow escape from disaster resonates with the episode’s theme that storms eventually pass, pairing a near-tragedy turned triumph with reflective, hopeful rock."
+    },
+    {
+      "hour": 2,
+      "fact_text": "In 1998, Space Shuttle Columbia launched STS-90, the final Spacelab mission, turning the orbiter into a temporary flying neuroscience laboratory. For 16 days, astronauts and rats alike floated in microgravity so scientists could study how brains and nervous systems adapt when up and down disappear.",
+      "fact_year": 1998,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-90",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #31 - A Trip-Hop Journey",
+        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+        "songs": [
+          "Massive Attack - Unfinished Sympathy",
+          "Tricky - Hell Is Round the Corner",
+          "DJ Shadow - Midnight in a Perfect World",
+          "Thievery Corporation - Lebanese Blonde",
+          "Smoke City - Underwater Love"
+        ],
+        "music-genres": [
+          "Trip-Hop",
+          "Downtempo",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A brain-focused mission drifting in orbit fits with the cinematic, drifting textures of trip-hop and the episode’s exploration of boundary-blurring, experimental soundscapes."
     }
   ],
   "generated_at": "2026-04-17T00:00:00.009586+00:00",
   "date": "2026-04-17",
-  "updated_at": "2026-04-17T01:00:01.649387+00:00"
+  "updated_at": "2026-04-17T02:00:01.561302+00:00"
 }
