@@ -1,55 +1,31 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "On April 18, 1902, a magnitude 7.5 earthquake struck western Guatemala, violently shaking the earth with Mercalli intensity VIII and destroying towns built of adobe and stone. The disaster, which killed between 800 and 2,000 people, pushed scientists and governments to pay closer attention to how buildings respond to shaking, not just how strong the quake is.",
-    "fact_year": 1902,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1902_Guatemala_earthquake",
+    "hour": 4,
+    "fact_text": "On April 18, 1912, the RMS Carpathia slowly steamed into New York Harbor carrying 705 survivors of the Titanic disaster. For days, the ship had become a floating refuge of shock, grief, and improbable rescues—proof that in the middle of catastrophe, another vessel can quietly change hundreds of destinies.",
+    "fact_year": 1912,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/RMS_Carpathia",
     "episode": {
-      "id": 30,
-      "title": "Morning Drops #24 - The Rise Of Afrobeat",
-      "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "E.T. Mensah - Ghana Freedom",
-        "I.K. Dairo - Salome",
-        "Fela Kuti - Great Kids",
-        "Fela Kuti - Expensive Shit"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Highlife",
-        "Jùjú",
-        "Afrobeat"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "Both the earthquake and Afrobeat reveal how rhythm—whether geological or musical—shapes how communities build, rebuild, and move together."
+    "match_reason": "A rescue ship in cold North Atlantic waters and a voyage among Arctic whales share the same oceanic vastness and quiet, cinematic awe."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "On April 18, 1912, the RMS Carpathia slowly steamed into New York Harbor carrying 705 survivors of the Titanic disaster. For days, the ship had become a floating refuge of shock, grief, and improbable rescues—proof that in the middle of catastrophe, another vessel can quietly change hundreds of destinies.",
-      "fact_year": 1912,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/RMS_Carpathia",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "A rescue ship in cold North Atlantic waters and a voyage among Arctic whales share the same oceanic vastness and quiet, cinematic awe."
-    },
     {
       "hour": 5,
       "fact_text": "On April 18, 1942, sixteen B-25 bombers lifted off from the USS Hornet in the Pacific and flew a mission many thought impossible: the Doolittle Raid on Japan. Their surprise strike on Tokyo and other cities did limited physical damage, but it sent a shockwave through wartime morale, proving the seemingly untouchable homeland was within reach.",
@@ -607,9 +583,34 @@
         ]
       },
       "match_reason": "Both the earthquake and Afrobeat reveal how rhythm—whether geological or musical—shapes how communities build, rebuild, and move together."
+    },
+    {
+      "hour": 4,
+      "fact_text": "On April 18, 1912, the RMS Carpathia slowly steamed into New York Harbor carrying 705 survivors of the Titanic disaster. For days, the ship had become a floating refuge of shock, grief, and improbable rescues—proof that in the middle of catastrophe, another vessel can quietly change hundreds of destinies.",
+      "fact_year": 1912,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/RMS_Carpathia",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "A rescue ship in cold North Atlantic waters and a voyage among Arctic whales share the same oceanic vastness and quiet, cinematic awe."
     }
   ],
   "generated_at": "2026-04-18T00:00:00.018805+00:00",
   "date": "2026-04-18",
-  "updated_at": "2026-04-18T03:00:01.644734+00:00"
+  "updated_at": "2026-04-18T04:00:01.636138+00:00"
 }
