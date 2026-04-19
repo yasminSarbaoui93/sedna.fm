@@ -1,55 +1,31 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "On 19 April 2021, NASA’s Ingenuity helicopter achieved the first powered, controlled flight on another planet, rising into the thin Martian atmosphere. Its 39.1‑second hop was the extraterrestrial echo of the Wright brothers’ flight on Earth.",
-    "fact_year": 2021,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ingenuity_(helicopter)",
+    "hour": 4,
+    "fact_text": "In 1818, Augustin-Jean Fresnel submitted his groundbreaking “Note on the Theory of Diffraction,” ending with what are now known as the Fresnel integrals. His work helped prove that light behaves as a wave, reshaping our understanding of optics and paving the way for modern lenses and lasers.",
+    "fact_year": 1818,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Augustin-Jean_Fresnel",
     "episode": {
-      "id": 55,
-      "title": "Morning Drops #48 - Cosmic Monday",
-      "description": "Cosmic Monday is a Morning Drops episode built around four Italian dance records, tracing how disco rhythms slowly became electronic language.\nGaia moves through four tracks like chapters: groove first, then machines, then that bright, futuristic feeling you only get when the bassline is doing the talking. It's not nostalgia, exactly. It's more like returning to a sound that still works — especially on mornings when you need a little extra energy, but you don't want anything aggressive.\nTake it as a slow transmission. Let it carry you into the day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-cosmic-monday",
+      "id": 31,
+      "title": "Morning Drops #25 - A Trip-Hop Journey",
+      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
       "songs": [
-        "Giovanotti Mondani Meccanici - Don't Ask Me Why",
-        "Azoto - Sal Salvador",
-        "Capricorn - I Need Love",
-        "Cosmic Disco - Cosmic Sprint"
+        "Massive Attack - Unfinished Sympathy",
+        "Tricky - Hell Is Round the Corner",
+        "DJ Shadow - Midnight in a Perfect World",
+        "Thievery Corporation - Lebanese Blonde",
+        "Smoke City - Underwater Love"
       ],
       "music-genres": [
-        "Italo Disco",
-        "Disco",
+        "Trip-Hop",
+        "Downtempo",
         "Electronic"
       ]
     },
-    "match_reason": "A tiny helicopter flying on Mars feels like the ultimate 'cosmic Monday'—machines, rhythm, and a futuristic leap into the week."
+    "match_reason": "Fresnel’s interference patterns and wave theories parallel trip-hop’s layered, overlapping textures and cinematic waves of sound."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "In 1818, Augustin-Jean Fresnel submitted his groundbreaking “Note on the Theory of Diffraction,” ending with what are now known as the Fresnel integrals. His work helped prove that light behaves as a wave, reshaping our understanding of optics and paving the way for modern lenses and lasers.",
-      "fact_year": 1818,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Augustin-Jean_Fresnel",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #25 - A Trip-Hop Journey",
-        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
-        "songs": [
-          "Massive Attack - Unfinished Sympathy",
-          "Tricky - Hell Is Round the Corner",
-          "DJ Shadow - Midnight in a Perfect World",
-          "Thievery Corporation - Lebanese Blonde",
-          "Smoke City - Underwater Love"
-        ],
-        "music-genres": [
-          "Trip-Hop",
-          "Downtempo",
-          "Electronic"
-        ]
-      },
-      "match_reason": "Fresnel’s interference patterns and wave theories parallel trip-hop’s layered, overlapping textures and cinematic waves of sound."
-    },
     {
       "hour": 5,
       "fact_text": "On this day in 1984, Australia formally adopted “Advance Australia Fair” as its national anthem, and chose green and gold as its official national colours. The decision symbolically distanced the country from its colonial past while embracing its unique identity.",
@@ -662,9 +638,34 @@
         ]
       },
       "match_reason": "A tiny helicopter flying on Mars feels like the ultimate 'cosmic Monday'—machines, rhythm, and a futuristic leap into the week."
+    },
+    {
+      "hour": 4,
+      "fact_text": "In 1818, Augustin-Jean Fresnel submitted his groundbreaking “Note on the Theory of Diffraction,” ending with what are now known as the Fresnel integrals. His work helped prove that light behaves as a wave, reshaping our understanding of optics and paving the way for modern lenses and lasers.",
+      "fact_year": 1818,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Augustin-Jean_Fresnel",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #25 - A Trip-Hop Journey",
+        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+        "songs": [
+          "Massive Attack - Unfinished Sympathy",
+          "Tricky - Hell Is Round the Corner",
+          "DJ Shadow - Midnight in a Perfect World",
+          "Thievery Corporation - Lebanese Blonde",
+          "Smoke City - Underwater Love"
+        ],
+        "music-genres": [
+          "Trip-Hop",
+          "Downtempo",
+          "Electronic"
+        ]
+      },
+      "match_reason": "Fresnel’s interference patterns and wave theories parallel trip-hop’s layered, overlapping textures and cinematic waves of sound."
     }
   ],
   "generated_at": "2026-04-19T00:00:00.015709+00:00",
   "date": "2026-04-19",
-  "updated_at": "2026-04-19T03:00:01.486524+00:00"
+  "updated_at": "2026-04-19T04:00:01.376236+00:00"
 }
