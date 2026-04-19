@@ -1,59 +1,36 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 1971, the Soviet Union launched Salyut 1, the world’s first space station, turning science fiction visions of orbital habitats into reality. Though its operational life was short, Salyut 1 pioneered the idea of humans living and working for extended periods in space.",
-    "fact_year": 1971,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Salyut_1",
+    "hour": 1,
+    "fact_text": "On 19 April 2001, Space Shuttle Endeavour launched on mission STS-100, delivering the Canadian-built Canadarm2 to the International Space Station. This giant robotic arm became the station’s mechanical “hand,” crucial for assembly, maintenance, and capturing visiting spacecraft.",
+    "fact_year": 2001,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-100",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 48,
+      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Stive Morgan - Solar Wind, Pt. 3",
+        "David Visan & Carlos Campos - Crystal Heart",
+        "Evan Mars - Ya Zareef Al Tool",
+        "Gerardo Frisina - Cuiabá",
+        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+        "The Busy Twist - Friday Night"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Ambient",
+        "Deep House",
+        "World Music",
+        "Nu Jazz",
+        "Afrobeat",
+        "Funk",
+        "Electronic"
       ]
     },
-    "match_reason": "A literal 'space shift' in human history pairs with an episode about reimagining empty space as a place to create."
+    "match_reason": "A robotic arm assembling a modular space habitat fits a layered, slowly building mix that “constructs” a musical journey piece by piece."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On 19 April 2001, Space Shuttle Endeavour launched on mission STS-100, delivering the Canadian-built Canadarm2 to the International Space Station. This giant robotic arm became the station’s mechanical “hand,” crucial for assembly, maintenance, and capturing visiting spacecraft.",
-      "fact_year": 2001,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-100",
-      "episode": {
-        "id": 48,
-        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
-        "songs": [
-          "Stive Morgan - Solar Wind, Pt. 3",
-          "David Visan & Carlos Campos - Crystal Heart",
-          "Evan Mars - Ya Zareef Al Tool",
-          "Gerardo Frisina - Cuiabá",
-          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-          "The Busy Twist - Friday Night"
-        ],
-        "music-genres": [
-          "Ambient",
-          "Deep House",
-          "World Music",
-          "Nu Jazz",
-          "Afrobeat",
-          "Funk",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A robotic arm assembling a modular space habitat fits a layered, slowly building mix that “constructs” a musical journey piece by piece."
-    },
     {
       "hour": 2,
       "fact_text": "In 1975, India’s first satellite, Aryabhata, was launched from the Soviet launch site Kapustin Yar. Built almost entirely in India, it marked a bold technological leap for a newly independent nation beginning its own journey into space.",
@@ -661,9 +638,39 @@
         ]
       },
       "match_reason": "A literal 'space shift' in human history pairs with an episode about reimagining empty space as a place to create."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On 19 April 2001, Space Shuttle Endeavour launched on mission STS-100, delivering the Canadian-built Canadarm2 to the International Space Station. This giant robotic arm became the station’s mechanical “hand,” crucial for assembly, maintenance, and capturing visiting spacecraft.",
+      "fact_year": 2001,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-100",
+      "episode": {
+        "id": 48,
+        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+        "songs": [
+          "Stive Morgan - Solar Wind, Pt. 3",
+          "David Visan & Carlos Campos - Crystal Heart",
+          "Evan Mars - Ya Zareef Al Tool",
+          "Gerardo Frisina - Cuiabá",
+          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+          "The Busy Twist - Friday Night"
+        ],
+        "music-genres": [
+          "Ambient",
+          "Deep House",
+          "World Music",
+          "Nu Jazz",
+          "Afrobeat",
+          "Funk",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A robotic arm assembling a modular space habitat fits a layered, slowly building mix that “constructs” a musical journey piece by piece."
     }
   ],
   "generated_at": "2026-04-19T00:00:00.015709+00:00",
   "date": "2026-04-19",
-  "updated_at": "2026-04-19T00:00:40.074917+00:00"
+  "updated_at": "2026-04-19T01:00:01.380963+00:00"
 }
