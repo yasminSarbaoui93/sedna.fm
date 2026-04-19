@@ -1,60 +1,30 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On 19 April 2001, Space Shuttle Endeavour launched on mission STS-100, delivering the Canadian-built Canadarm2 to the International Space Station. This giant robotic arm became the station’s mechanical “hand,” crucial for assembly, maintenance, and capturing visiting spacecraft.",
-    "fact_year": 2001,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-100",
+    "hour": 2,
+    "fact_text": "In 1975, India’s first satellite, Aryabhata, was launched from the Soviet launch site Kapustin Yar. Built almost entirely in India, it marked a bold technological leap for a newly independent nation beginning its own journey into space.",
+    "fact_year": 1975,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Aryabhata_(satellite)",
     "episode": {
-      "id": 48,
-      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+      "id": 30,
+      "title": "Morning Drops #24 - The Rise Of Afrobeat",
+      "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
       "songs": [
-        "Stive Morgan - Solar Wind, Pt. 3",
-        "David Visan & Carlos Campos - Crystal Heart",
-        "Evan Mars - Ya Zareef Al Tool",
-        "Gerardo Frisina - Cuiabá",
-        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-        "The Busy Twist - Friday Night"
+        "E.T. Mensah - Ghana Freedom",
+        "I.K. Dairo - Salome",
+        "Fela Kuti - Great Kids",
+        "Fela Kuti - Expensive Shit"
       ],
       "music-genres": [
-        "Ambient",
-        "Deep House",
-        "World Music",
-        "Nu Jazz",
-        "Afrobeat",
-        "Funk",
-        "Electronic"
+        "Highlife",
+        "Jùjú",
+        "Afrobeat"
       ]
     },
-    "match_reason": "A robotic arm assembling a modular space habitat fits a layered, slowly building mix that “constructs” a musical journey piece by piece."
+    "match_reason": "Both tell stories of postcolonial nations asserting their identity on a global stage—one through satellites, the other through revolutionary music."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "In 1975, India’s first satellite, Aryabhata, was launched from the Soviet launch site Kapustin Yar. Built almost entirely in India, it marked a bold technological leap for a newly independent nation beginning its own journey into space.",
-      "fact_year": 1975,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Aryabhata_(satellite)",
-      "episode": {
-        "id": 30,
-        "title": "Morning Drops #24 - The Rise Of Afrobeat",
-        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
-        "songs": [
-          "E.T. Mensah - Ghana Freedom",
-          "I.K. Dairo - Salome",
-          "Fela Kuti - Great Kids",
-          "Fela Kuti - Expensive Shit"
-        ],
-        "music-genres": [
-          "Highlife",
-          "Jùjú",
-          "Afrobeat"
-        ]
-      },
-      "match_reason": "Both tell stories of postcolonial nations asserting their identity on a global stage—one through satellites, the other through revolutionary music."
-    },
     {
       "hour": 3,
       "fact_text": "On 19 April 2021, NASA’s Ingenuity helicopter achieved the first powered, controlled flight on another planet, rising into the thin Martian atmosphere. Its 39.1‑second hop was the extraterrestrial echo of the Wright brothers’ flight on Earth.",
@@ -668,9 +638,33 @@
         ]
       },
       "match_reason": "A robotic arm assembling a modular space habitat fits a layered, slowly building mix that “constructs” a musical journey piece by piece."
+    },
+    {
+      "hour": 2,
+      "fact_text": "In 1975, India’s first satellite, Aryabhata, was launched from the Soviet launch site Kapustin Yar. Built almost entirely in India, it marked a bold technological leap for a newly independent nation beginning its own journey into space.",
+      "fact_year": 1975,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Aryabhata_(satellite)",
+      "episode": {
+        "id": 30,
+        "title": "Morning Drops #24 - The Rise Of Afrobeat",
+        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
+        "songs": [
+          "E.T. Mensah - Ghana Freedom",
+          "I.K. Dairo - Salome",
+          "Fela Kuti - Great Kids",
+          "Fela Kuti - Expensive Shit"
+        ],
+        "music-genres": [
+          "Highlife",
+          "Jùjú",
+          "Afrobeat"
+        ]
+      },
+      "match_reason": "Both tell stories of postcolonial nations asserting their identity on a global stage—one through satellites, the other through revolutionary music."
     }
   ],
   "generated_at": "2026-04-19T00:00:00.015709+00:00",
   "date": "2026-04-19",
-  "updated_at": "2026-04-19T01:00:01.380963+00:00"
+  "updated_at": "2026-04-19T02:00:01.433365+00:00"
 }
