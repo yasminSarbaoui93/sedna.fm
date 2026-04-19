@@ -1,54 +1,30 @@
 {
-  "current_hour": 2,
+  "current_hour": 3,
   "current_fact": {
-    "hour": 2,
-    "fact_text": "In 1975, India’s first satellite, Aryabhata, was launched from the Soviet launch site Kapustin Yar. Built almost entirely in India, it marked a bold technological leap for a newly independent nation beginning its own journey into space.",
-    "fact_year": 1975,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Aryabhata_(satellite)",
+    "hour": 3,
+    "fact_text": "On 19 April 2021, NASA’s Ingenuity helicopter achieved the first powered, controlled flight on another planet, rising into the thin Martian atmosphere. Its 39.1‑second hop was the extraterrestrial echo of the Wright brothers’ flight on Earth.",
+    "fact_year": 2021,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ingenuity_(helicopter)",
     "episode": {
-      "id": 30,
-      "title": "Morning Drops #24 - The Rise Of Afrobeat",
-      "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
+      "id": 55,
+      "title": "Morning Drops #48 - Cosmic Monday",
+      "description": "Cosmic Monday is a Morning Drops episode built around four Italian dance records, tracing how disco rhythms slowly became electronic language.\nGaia moves through four tracks like chapters: groove first, then machines, then that bright, futuristic feeling you only get when the bassline is doing the talking. It's not nostalgia, exactly. It's more like returning to a sound that still works — especially on mornings when you need a little extra energy, but you don't want anything aggressive.\nTake it as a slow transmission. Let it carry you into the day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-cosmic-monday",
       "songs": [
-        "E.T. Mensah - Ghana Freedom",
-        "I.K. Dairo - Salome",
-        "Fela Kuti - Great Kids",
-        "Fela Kuti - Expensive Shit"
+        "Giovanotti Mondani Meccanici - Don't Ask Me Why",
+        "Azoto - Sal Salvador",
+        "Capricorn - I Need Love",
+        "Cosmic Disco - Cosmic Sprint"
       ],
       "music-genres": [
-        "Highlife",
-        "Jùjú",
-        "Afrobeat"
+        "Italo Disco",
+        "Disco",
+        "Electronic"
       ]
     },
-    "match_reason": "Both tell stories of postcolonial nations asserting their identity on a global stage—one through satellites, the other through revolutionary music."
+    "match_reason": "A tiny helicopter flying on Mars feels like the ultimate 'cosmic Monday'—machines, rhythm, and a futuristic leap into the week."
   },
   "queue": [
-    {
-      "hour": 3,
-      "fact_text": "On 19 April 2021, NASA’s Ingenuity helicopter achieved the first powered, controlled flight on another planet, rising into the thin Martian atmosphere. Its 39.1‑second hop was the extraterrestrial echo of the Wright brothers’ flight on Earth.",
-      "fact_year": 2021,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ingenuity_(helicopter)",
-      "episode": {
-        "id": 55,
-        "title": "Morning Drops #48 - Cosmic Monday",
-        "description": "Cosmic Monday is a Morning Drops episode built around four Italian dance records, tracing how disco rhythms slowly became electronic language.\nGaia moves through four tracks like chapters: groove first, then machines, then that bright, futuristic feeling you only get when the bassline is doing the talking. It's not nostalgia, exactly. It's more like returning to a sound that still works — especially on mornings when you need a little extra energy, but you don't want anything aggressive.\nTake it as a slow transmission. Let it carry you into the day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-cosmic-monday",
-        "songs": [
-          "Giovanotti Mondani Meccanici - Don't Ask Me Why",
-          "Azoto - Sal Salvador",
-          "Capricorn - I Need Love",
-          "Cosmic Disco - Cosmic Sprint"
-        ],
-        "music-genres": [
-          "Italo Disco",
-          "Disco",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A tiny helicopter flying on Mars feels like the ultimate 'cosmic Monday'—machines, rhythm, and a futuristic leap into the week."
-    },
     {
       "hour": 4,
       "fact_text": "In 1818, Augustin-Jean Fresnel submitted his groundbreaking “Note on the Theory of Diffraction,” ending with what are now known as the Fresnel integrals. His work helped prove that light behaves as a wave, reshaping our understanding of optics and paving the way for modern lenses and lasers.",
@@ -662,9 +638,33 @@
         ]
       },
       "match_reason": "Both tell stories of postcolonial nations asserting their identity on a global stage—one through satellites, the other through revolutionary music."
+    },
+    {
+      "hour": 3,
+      "fact_text": "On 19 April 2021, NASA’s Ingenuity helicopter achieved the first powered, controlled flight on another planet, rising into the thin Martian atmosphere. Its 39.1‑second hop was the extraterrestrial echo of the Wright brothers’ flight on Earth.",
+      "fact_year": 2021,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ingenuity_(helicopter)",
+      "episode": {
+        "id": 55,
+        "title": "Morning Drops #48 - Cosmic Monday",
+        "description": "Cosmic Monday is a Morning Drops episode built around four Italian dance records, tracing how disco rhythms slowly became electronic language.\nGaia moves through four tracks like chapters: groove first, then machines, then that bright, futuristic feeling you only get when the bassline is doing the talking. It's not nostalgia, exactly. It's more like returning to a sound that still works — especially on mornings when you need a little extra energy, but you don't want anything aggressive.\nTake it as a slow transmission. Let it carry you into the day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-cosmic-monday",
+        "songs": [
+          "Giovanotti Mondani Meccanici - Don't Ask Me Why",
+          "Azoto - Sal Salvador",
+          "Capricorn - I Need Love",
+          "Cosmic Disco - Cosmic Sprint"
+        ],
+        "music-genres": [
+          "Italo Disco",
+          "Disco",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A tiny helicopter flying on Mars feels like the ultimate 'cosmic Monday'—machines, rhythm, and a futuristic leap into the week."
     }
   ],
   "generated_at": "2026-04-19T00:00:00.015709+00:00",
   "date": "2026-04-19",
-  "updated_at": "2026-04-19T02:00:01.433365+00:00"
+  "updated_at": "2026-04-19T03:00:01.486524+00:00"
 }
