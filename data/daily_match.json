@@ -1,56 +1,31 @@
 {
-  "current_hour": 2,
+  "current_hour": 3,
   "current_fact": {
-    "hour": 2,
-    "fact_text": "On 20 April 1862, Louis Pasteur and Claude Bernard completed a famous swan-neck flask experiment that helped disprove the ancient idea of spontaneous generation. By showing that microbes only appeared when outside air could reach sterile broth, they revealed an invisible microbial world and transformed our understanding of life and disease.",
-    "fact_year": 1862,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Spontaneous_generation",
+    "hour": 3,
+    "fact_text": "On 20 April 1865, astronomer-priest Angelo Secchi demonstrated a simple white disk lowered into the sea to measure water clarity—now known as the Secchi disk. That humble, homemade tool became a global standard for monitoring lakes and oceans, quietly linking sailors, scientists, and climate researchers across centuries.",
+    "fact_year": 1865,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Secchi_disk",
     "episode": {
-      "id": 31,
-      "title": "Morning Drops #25 - A Trip-Hop Journey",
-      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+      "id": 39,
+      "title": "Morning Drops #33 - Immerse",
+      "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
       "songs": [
-        "Massive Attack - Unfinished Sympathy",
-        "Tricky - Hell Is Round the Corner",
-        "DJ Shadow - Midnight in a Perfect World",
-        "Thievery Corporation - Lebanese Blonde",
-        "Smoke City - Underwater Love"
+        "Pino D'Angiò - Un Po' d'Uva e un Liquore",
+        "Midlife - The Magnificent Moon",
+        "Tornado Wallace - Today",
+        "Nu Genea - Marechià (feat. Celia Kameni)"
       ],
       "music-genres": [
-        "Trip-Hop",
-        "Downtempo",
-        "Electronic"
+        "Italo Disco",
+        "Indie",
+        "Balearic",
+        "Nu Disco"
       ]
     },
-    "match_reason": "Pasteur shattered an old paradigm much like trip-hop shattered genre boundaries; both reveal hidden layers beneath what we thought we knew."
+    "match_reason": "A disk lowered into water to read its depths pairs with an episode about immersion and liquid, flowing sounds—both about going beneath the surface."
   },
   "queue": [
-    {
-      "hour": 3,
-      "fact_text": "On 20 April 1865, astronomer-priest Angelo Secchi demonstrated a simple white disk lowered into the sea to measure water clarity—now known as the Secchi disk. That humble, homemade tool became a global standard for monitoring lakes and oceans, quietly linking sailors, scientists, and climate researchers across centuries.",
-      "fact_year": 1865,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Secchi_disk",
-      "episode": {
-        "id": 39,
-        "title": "Morning Drops #33 - Immerse",
-        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
-        "songs": [
-          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
-          "Midlife - The Magnificent Moon",
-          "Tornado Wallace - Today",
-          "Nu Genea - Marechià (feat. Celia Kameni)"
-        ],
-        "music-genres": [
-          "Italo Disco",
-          "Indie",
-          "Balearic",
-          "Nu Disco"
-        ]
-      },
-      "match_reason": "A disk lowered into water to read its depths pairs with an episode about immersion and liquid, flowing sounds—both about going beneath the surface."
-    },
     {
       "hour": 4,
       "fact_text": "On 20 April 1861, aeronaut Thaddeus S. C. Lowe launched his gas balloon from Cincinnati and drifted an astonishing 900 miles to South Carolina in a single flight. His daring journey became an early proof-of-concept for aerial observation, inspiring the Union Army to experiment with reconnaissance balloons during the American Civil War.",
@@ -634,9 +609,34 @@
         ]
       },
       "match_reason": "Pasteur shattered an old paradigm much like trip-hop shattered genre boundaries; both reveal hidden layers beneath what we thought we knew."
+    },
+    {
+      "hour": 3,
+      "fact_text": "On 20 April 1865, astronomer-priest Angelo Secchi demonstrated a simple white disk lowered into the sea to measure water clarity—now known as the Secchi disk. That humble, homemade tool became a global standard for monitoring lakes and oceans, quietly linking sailors, scientists, and climate researchers across centuries.",
+      "fact_year": 1865,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Secchi_disk",
+      "episode": {
+        "id": 39,
+        "title": "Morning Drops #33 - Immerse",
+        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
+        "songs": [
+          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
+          "Midlife - The Magnificent Moon",
+          "Tornado Wallace - Today",
+          "Nu Genea - Marechià (feat. Celia Kameni)"
+        ],
+        "music-genres": [
+          "Italo Disco",
+          "Indie",
+          "Balearic",
+          "Nu Disco"
+        ]
+      },
+      "match_reason": "A disk lowered into water to read its depths pairs with an episode about immersion and liquid, flowing sounds—both about going beneath the surface."
     }
   ],
   "generated_at": "2026-04-20T00:00:00.011782+00:00",
   "date": "2026-04-20",
-  "updated_at": "2026-04-20T02:00:01.712749+00:00"
+  "updated_at": "2026-04-20T03:00:01.560506+00:00"
 }
