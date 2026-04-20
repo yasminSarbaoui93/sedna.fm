@@ -1,56 +1,31 @@
 {
-  "current_hour": 17,
+  "current_hour": 18,
   "current_fact": {
-    "hour": 17,
-    "fact_text": "On April 20, 2015, a bomb struck a convoy bringing food to a United Nations compound in Garowe, the capital of Somalia’s Puntland region. The attack killed ten people, including UN staff, and highlighted the risks faced by those trying to deliver help in fragile regions.",
-    "fact_year": 2015,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Garowe_attack",
+    "hour": 18,
+    "fact_text": "On April 20, 2007, a gunman entered building 44 at NASA’s Johnson Space Center in Houston, taking hostages before killing one engineer and himself. In a place devoted to exploration and optimism, the shooting exposed the human stress and fragility that can exist even inside a symbol of scientific progress.",
+    "fact_year": 2007,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Johnson_Space_Center_shooting",
     "episode": {
-      "id": 31,
-      "title": "Morning Drops #25 - A Trip-Hop Journey",
-      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "Massive Attack - Unfinished Sympathy",
-        "Tricky - Hell Is Round the Corner",
-        "DJ Shadow - Midnight in a Perfect World",
-        "Thievery Corporation - Lebanese Blonde",
-        "Smoke City - Underwater Love"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Trip-Hop",
-        "Downtempo",
-        "Electronic"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "A somber attack on humanitarian workers is paired with a moody, cinematic trip‑hop journey whose reflective, shadowed textures mirror the gravity of conflict zones."
+    "match_reason": "A tragedy inside a high‑tech space center connects with an episode that examines the psychological strain of modern technology and the unseen pressures within advanced environments."
   },
   "queue": [
-    {
-      "hour": 18,
-      "fact_text": "On April 20, 2007, a gunman entered building 44 at NASA’s Johnson Space Center in Houston, taking hostages before killing one engineer and himself. In a place devoted to exploration and optimism, the shooting exposed the human stress and fragility that can exist even inside a symbol of scientific progress.",
-      "fact_year": 2007,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Johnson_Space_Center_shooting",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "A tragedy inside a high‑tech space center connects with an episode that examines the psychological strain of modern technology and the unseen pressures within advanced environments."
-    },
     {
       "hour": 19,
       "fact_text": "On April 20, 2023, SpaceX’s Starship—the most powerful rocket ever built—lifted off from Texas, only to explode four minutes into flight when its stages failed to separate. Far from being dismissed as a failure, the fiery spectacle was treated as a full‑scale test, inching humanity closer to fully reusable, interplanetary rockets.",
@@ -617,9 +592,34 @@
         ]
       },
       "match_reason": "A somber attack on humanitarian workers is paired with a moody, cinematic trip‑hop journey whose reflective, shadowed textures mirror the gravity of conflict zones."
+    },
+    {
+      "hour": 18,
+      "fact_text": "On April 20, 2007, a gunman entered building 44 at NASA’s Johnson Space Center in Houston, taking hostages before killing one engineer and himself. In a place devoted to exploration and optimism, the shooting exposed the human stress and fragility that can exist even inside a symbol of scientific progress.",
+      "fact_year": 2007,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Johnson_Space_Center_shooting",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "A tragedy inside a high‑tech space center connects with an episode that examines the psychological strain of modern technology and the unseen pressures within advanced environments."
     }
   ],
   "generated_at": "2026-04-20T00:00:00.010352+00:00",
   "date": "2026-04-20",
-  "updated_at": "2026-04-20T17:00:02.061237+00:00"
+  "updated_at": "2026-04-20T18:00:01.626957+00:00"
 }
