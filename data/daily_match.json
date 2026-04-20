@@ -1,58 +1,30 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "In 1861, balloonist Thaddeus S. C. Lowe drifted 900 miles from Cincinnati to South Carolina in a daring attempt to prove the value of aerial observation. His record-breaking flight helped convince the U.S. military that hot-air balloons could be eyes in the sky long before satellites and drones.",
-    "fact_year": 1861,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Thaddeus_S._C._Lowe",
+    "hour": 5,
+    "fact_text": "On April 20, 1828, French explorer René Caillié slipped into the fabled city of Timbuktu disguised as a Muslim trader, becoming only the second non-Muslim to enter it—and the first to make it home alive. His quietly detailed accounts punctured centuries of myth that painted Timbuktu as a city of pure gold.",
+    "fact_year": 1828,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ren%C3%A9_Cailli%C3%A9",
     "episode": {
-      "id": 37,
-      "title": "Morning Drops #31 - Sailing With Germans",
-      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+      "id": 22,
+      "title": "Morning Drops #16 - The Sound of Tuareg",
+      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
       "songs": [
-        "Billy Talent - Dead Silence",
-        "Ben Howard - Keep Your Head Up",
-        "Ziggy Alberts - Simple Things",
-        "Vitor Kley - O Sol",
-        "Enya - Orinoco Flow",
-        "Paveier - Leev Marie"
+        "Les Filles de Illighadad - Imigradan",
+        "Tinariwen - Amassakoul ’N’ Ténéré",
+        "Liya Ag Ablil - Awa Adounia",
+        "Tinariwen - Sastanàqqàm"
       ],
       "music-genres": [
-        "Punk Rock",
-        "Indie Folk",
-        "Surf Pop",
-        "New Age",
-        "German Folk"
+        "Desert Blues",
+        "Tuareg",
+        "World Music"
       ]
     },
-    "match_reason": "A long, experimental journey through the air resonates with an episode recorded on a boat, centered on travel, movement, and shared adventure across distances."
+    "match_reason": "A perilous journey to Timbuktu on the edge of the Sahara fits a desert‑rooted episode about Tuareg culture, sand, and survival in the same region."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "On April 20, 1828, French explorer René Caillié slipped into the fabled city of Timbuktu disguised as a Muslim trader, becoming only the second non-Muslim to enter it—and the first to make it home alive. His quietly detailed accounts punctured centuries of myth that painted Timbuktu as a city of pure gold.",
-      "fact_year": 1828,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ren%C3%A9_Cailli%C3%A9",
-      "episode": {
-        "id": 22,
-        "title": "Morning Drops #16 - The Sound of Tuareg",
-        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
-        "songs": [
-          "Les Filles de Illighadad - Imigradan",
-          "Tinariwen - Amassakoul ’N’ Ténéré",
-          "Liya Ag Ablil - Awa Adounia",
-          "Tinariwen - Sastanàqqàm"
-        ],
-        "music-genres": [
-          "Desert Blues",
-          "Tuareg",
-          "World Music"
-        ]
-      },
-      "match_reason": "A perilous journey to Timbuktu on the edge of the Sahara fits a desert‑rooted episode about Tuareg culture, sand, and survival in the same region."
-    },
     {
       "hour": 6,
       "fact_text": "In 1770, Georgian king Erekle II, abandoned by his Russian ally, faced the Ottoman army at Aspindza and won. Outnumbered, he chose a risky surprise attack that became a symbol of Georgia’s stubborn independence wedged between empires.",
@@ -620,9 +592,33 @@
         ]
       },
       "match_reason": "A long, experimental journey through the air resonates with an episode recorded on a boat, centered on travel, movement, and shared adventure across distances."
+    },
+    {
+      "hour": 5,
+      "fact_text": "On April 20, 1828, French explorer René Caillié slipped into the fabled city of Timbuktu disguised as a Muslim trader, becoming only the second non-Muslim to enter it—and the first to make it home alive. His quietly detailed accounts punctured centuries of myth that painted Timbuktu as a city of pure gold.",
+      "fact_year": 1828,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ren%C3%A9_Cailli%C3%A9",
+      "episode": {
+        "id": 22,
+        "title": "Morning Drops #16 - The Sound of Tuareg",
+        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+        "songs": [
+          "Les Filles de Illighadad - Imigradan",
+          "Tinariwen - Amassakoul ’N’ Ténéré",
+          "Liya Ag Ablil - Awa Adounia",
+          "Tinariwen - Sastanàqqàm"
+        ],
+        "music-genres": [
+          "Desert Blues",
+          "Tuareg",
+          "World Music"
+        ]
+      },
+      "match_reason": "A perilous journey to Timbuktu on the edge of the Sahara fits a desert‑rooted episode about Tuareg culture, sand, and survival in the same region."
     }
   ],
   "generated_at": "2026-04-20T00:00:00.010352+00:00",
   "date": "2026-04-20",
-  "updated_at": "2026-04-20T04:00:01.562248+00:00"
+  "updated_at": "2026-04-20T05:00:01.388974+00:00"
 }
