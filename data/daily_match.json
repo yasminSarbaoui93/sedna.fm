@@ -1,68 +1,34 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "On April 21, 1965, the 1964–1965 New York World's Fair opened for its second and final season, showcasing futuristic visions of technology, space travel, and global culture. Visitors could see early prototypes of picturephones, marvel at the massive Unisphere, and sample a corporate dream of the world to come.",
-    "fact_year": 1965,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1964_New_York_World%27s_Fair",
+    "hour": 5,
+    "fact_text": "In 1958, United Air Lines Flight 736 collided mid-air with a U.S. Air Force fighter jet over Nevada, killing all 49 people aboard both aircraft. The disaster became a catalyst for stricter airspace management and radar control around busy flight corridors.",
+    "fact_year": 1958,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/United_Air_Lines_Flight_736",
     "episode": {
-      "id": 2,
-      "title": "Sedna FM #02 - Destination Sedna",
-      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "Pink Floyd - Breathe",
-        "The fountain DC - Starburster",
-        "Laura Cahen - La Poussiere",
-        "Taxi Kebab - Lmchi w rjou3",
-        "Odion Iruoje - Identify With Your Roots",
-        "Depeche mode - world in my eyes (Oil Tank Mix)",
-        "Massive attack - Dissolved girl",
-        "Kokoroko - Three piece suite",
-        "Salin - Egungun",
-        "E.S.P. - It's You"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Progressive Rock",
-        "Post-Punk",
-        "French Pop",
-        "Maghreb",
-        "Afrobeat",
-        "Synthpop",
-        "Trip-Hop"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "A world's fair of futuristic exhibits and global pavilions matches an episode framed as a collective voyage through diverse musical territories."
+    "match_reason": "A tragic transport accident that reshaped safety contrasts with a gentle journey-at-sea episode, both reflecting on how we move through space and depend on shared rules to travel safely."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "In 1958, United Air Lines Flight 736 collided mid-air with a U.S. Air Force fighter jet over Nevada, killing all 49 people aboard both aircraft. The disaster became a catalyst for stricter airspace management and radar control around busy flight corridors.",
-      "fact_year": 1958,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/United_Air_Lines_Flight_736",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "A tragic transport accident that reshaped safety contrasts with a gentle journey-at-sea episode, both reflecting on how we move through space and depend on shared rules to travel safely."
-    },
     {
       "hour": 6,
       "fact_text": "On April 21, 2021, the Indonesian submarine KRI Nanggala (402) disappeared during a torpedo drill in the Bali Sea and was later found broken into pieces at a depth of over 800 meters. All 53 sailors on board were lost, turning a routine exercise into one of Indonesia’s most haunting naval disasters.",
@@ -649,9 +615,37 @@
         ]
       },
       "match_reason": "A world's fair of futuristic exhibits and global pavilions matches an episode framed as a collective voyage through diverse musical territories."
+    },
+    {
+      "hour": 5,
+      "fact_text": "In 1958, United Air Lines Flight 736 collided mid-air with a U.S. Air Force fighter jet over Nevada, killing all 49 people aboard both aircraft. The disaster became a catalyst for stricter airspace management and radar control around busy flight corridors.",
+      "fact_year": 1958,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/United_Air_Lines_Flight_736",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "A tragic transport accident that reshaped safety contrasts with a gentle journey-at-sea episode, both reflecting on how we move through space and depend on shared rules to travel safely."
     }
   ],
   "generated_at": "2026-04-21T00:00:00.013937+00:00",
   "date": "2026-04-21",
-  "updated_at": "2026-04-21T04:00:01.422559+00:00"
+  "updated_at": "2026-04-21T05:00:02.068969+00:00"
 }
