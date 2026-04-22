@@ -1,59 +1,31 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "In 1889, a cannon shot at noon unleashed the Land Rush of 1889, sending thousands of settlers racing across the Oklahoma plains to hammer stakes into ‘unassigned’ lands. Entire cities like Oklahoma City and Guthrie went from empty prairie to bustling towns of 10,000 people in mere hours.",
-    "fact_year": 1889,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Land_Rush_of_1889",
+    "hour": 5,
+    "fact_text": "On April 22, 1898, as tensions with Spain boiled over, U.S. President William McKinley called for 125,000 volunteers and expanded the regular Army to 65,000, gearing the country for the Spanish–American War. A short, sharp conflict over Cuba and beyond would end with the U.S. unexpectedly holding far‑flung island territories.",
+    "fact_year": 1898,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Spanish%E2%80%93American_War",
     "episode": {
-      "id": 37,
-      "title": "Morning Drops #31 - Sailing With Germans",
-      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+      "id": 56,
+      "title": "Morning Drops #49 - Rage Against The Machine",
+      "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
       "songs": [
-        "Billy Talent - Dead Silence",
-        "Ben Howard - Keep Your Head Up",
-        "Ziggy Alberts - Simple Things",
-        "Vitor Kley - O Sol",
-        "Enya - Orinoco Flow",
-        "Paveier - Leev Marie"
+        "Rage Against the Machine - Bombtrack",
+        "Rage Against the Machine - Killing in the Name",
+        "Rage Against the Machine - Without a Face",
+        "Rage Against the Machine - Guerrilla Radio",
+        "Rage Against the Machine - Sleep Now in the Fire"
       ],
       "music-genres": [
-        "Punk Rock",
-        "Indie Folk",
-        "Surf Pop",
-        "New Age",
-        "German Folk"
+        "Rap Metal",
+        "Political Rock",
+        "Alternative Metal"
       ]
     },
-    "match_reason": "The frantic overland rush for new land mirrors, in a calmer key, the modern urge to set out into open spaces; a sailing‑trip episode captures that same frontier instinct of moving toward a horizon and making temporary homes together."
+    "match_reason": "A war that reshaped empires pairs with an episode about a band whose entire existence critiques militarism, imperialism, and power — turning historical calls to arms into calls to question."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "On April 22, 1898, as tensions with Spain boiled over, U.S. President William McKinley called for 125,000 volunteers and expanded the regular Army to 65,000, gearing the country for the Spanish–American War. A short, sharp conflict over Cuba and beyond would end with the U.S. unexpectedly holding far‑flung island territories.",
-      "fact_year": 1898,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Spanish%E2%80%93American_War",
-      "episode": {
-        "id": 56,
-        "title": "Morning Drops #49 - Rage Against The Machine",
-        "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
-        "songs": [
-          "Rage Against the Machine - Bombtrack",
-          "Rage Against the Machine - Killing in the Name",
-          "Rage Against the Machine - Without a Face",
-          "Rage Against the Machine - Guerrilla Radio",
-          "Rage Against the Machine - Sleep Now in the Fire"
-        ],
-        "music-genres": [
-          "Rap Metal",
-          "Political Rock",
-          "Alternative Metal"
-        ]
-      },
-      "match_reason": "A war that reshaped empires pairs with an episode about a band whose entire existence critiques militarism, imperialism, and power — turning historical calls to arms into calls to question."
-    },
     {
       "hour": 6,
       "fact_text": "On April 22, 1915, clouds of chlorine gas rolled over trenches at the Second Battle of Ypres, marking the first large‑scale use of poison gas in World War I. The greenish mist turned the air itself into a weapon, permanently changing how humanity thought about chemistry, ethics, and war.",
@@ -620,9 +592,34 @@
         ]
       },
       "match_reason": "The frantic overland rush for new land mirrors, in a calmer key, the modern urge to set out into open spaces; a sailing‑trip episode captures that same frontier instinct of moving toward a horizon and making temporary homes together."
+    },
+    {
+      "hour": 5,
+      "fact_text": "On April 22, 1898, as tensions with Spain boiled over, U.S. President William McKinley called for 125,000 volunteers and expanded the regular Army to 65,000, gearing the country for the Spanish–American War. A short, sharp conflict over Cuba and beyond would end with the U.S. unexpectedly holding far‑flung island territories.",
+      "fact_year": 1898,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Spanish%E2%80%93American_War",
+      "episode": {
+        "id": 56,
+        "title": "Morning Drops #49 - Rage Against The Machine",
+        "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
+        "songs": [
+          "Rage Against the Machine - Bombtrack",
+          "Rage Against the Machine - Killing in the Name",
+          "Rage Against the Machine - Without a Face",
+          "Rage Against the Machine - Guerrilla Radio",
+          "Rage Against the Machine - Sleep Now in the Fire"
+        ],
+        "music-genres": [
+          "Rap Metal",
+          "Political Rock",
+          "Alternative Metal"
+        ]
+      },
+      "match_reason": "A war that reshaped empires pairs with an episode about a band whose entire existence critiques militarism, imperialism, and power — turning historical calls to arms into calls to question."
     }
   ],
   "generated_at": "2026-04-22T00:00:00.015680+00:00",
   "date": "2026-04-22",
-  "updated_at": "2026-04-22T04:00:01.613870+00:00"
+  "updated_at": "2026-04-22T05:00:01.374963+00:00"
 }
