@@ -1,54 +1,30 @@
 {
-  "current_hour": 2,
+  "current_hour": 3,
   "current_fact": {
-    "hour": 2,
-    "fact_text": "In 1519, Hernán Cortés founded a precarious coastal settlement at Veracruz, Mexico, effectively burning his bridges to Spain and anchoring the Spanish conquest on the American mainland. That small outpost became a gateway through which ships, silver, people, and music would flow for centuries.",
-    "fact_year": 1519,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Veracruz_(city)",
+    "hour": 3,
+    "fact_text": "On April 22, 1809, Napoleon’s forces defeated the Austrian army at the Battle of Eckmühl and drove them across the Danube at Regensburg. The clash was a chess move in a larger European struggle, fought in springtime fields that would soon bloom where artillery had just scorched the earth.",
+    "fact_year": 1809,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Eckm%C3%BChl",
     "episode": {
-      "id": 19,
-      "title": "Morning Drops #13 - Demystifying Reggaeton",
-      "description": "Yasmin takes us on a journey through the real story of reggaeton — from its roots in Panama and Puerto Rico to its global evolution. Exploring the genre's history, influences, and cultural impact.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-demystifying-reggaeton",
+      "id": 42,
+      "title": "Morning Drops #36 - Women of Rock",
+      "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
       "songs": [
-        "Renato - Chica de los Ojos Café",
-        "B. F. Yaviah - Si Tu Quieres Fumar",
-        "Calle 13 - Atrévete",
-        "Bad Bunny - DtMF"
+        "Suzi Quatro - Can the Can",
+        "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
+        "Laura Cox - Hard Blues Shot",
+        "Jackie Venson - Always Free (Live)"
       ],
       "music-genres": [
-        "Reggaeton",
-        "Latin Urban",
-        "Hip-Hop"
+        "Glam Rock",
+        "Hard Rock",
+        "Blues Rock"
       ]
     },
-    "match_reason": "Veracruz’s port helped seed the Afro‑Latin cultural circuits that much later gave birth to genres like reggaeton; an episode unpacking that music’s roots echoes the deep colonial currents behind it."
+    "match_reason": "A brutal 19th‑century battlefield contrasts with the liberating defiance of women in rock; guitars as a new kind of weapon replacing muskets and cannons with distortion and dissent."
   },
   "queue": [
-    {
-      "hour": 3,
-      "fact_text": "On April 22, 1809, Napoleon’s forces defeated the Austrian army at the Battle of Eckmühl and drove them across the Danube at Regensburg. The clash was a chess move in a larger European struggle, fought in springtime fields that would soon bloom where artillery had just scorched the earth.",
-      "fact_year": 1809,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Eckm%C3%BChl",
-      "episode": {
-        "id": 42,
-        "title": "Morning Drops #36 - Women of Rock",
-        "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
-        "songs": [
-          "Suzi Quatro - Can the Can",
-          "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
-          "Laura Cox - Hard Blues Shot",
-          "Jackie Venson - Always Free (Live)"
-        ],
-        "music-genres": [
-          "Glam Rock",
-          "Hard Rock",
-          "Blues Rock"
-        ]
-      },
-      "match_reason": "A brutal 19th‑century battlefield contrasts with the liberating defiance of women in rock; guitars as a new kind of weapon replacing muskets and cannons with distortion and dissent."
-    },
     {
       "hour": 4,
       "fact_text": "In 1889, a cannon shot at noon unleashed the Land Rush of 1889, sending thousands of settlers racing across the Oklahoma plains to hammer stakes into ‘unassigned’ lands. Entire cities like Oklahoma City and Guthrie went from empty prairie to bustling towns of 10,000 people in mere hours.",
@@ -616,9 +592,33 @@
         ]
       },
       "match_reason": "Veracruz’s port helped seed the Afro‑Latin cultural circuits that much later gave birth to genres like reggaeton; an episode unpacking that music’s roots echoes the deep colonial currents behind it."
+    },
+    {
+      "hour": 3,
+      "fact_text": "On April 22, 1809, Napoleon’s forces defeated the Austrian army at the Battle of Eckmühl and drove them across the Danube at Regensburg. The clash was a chess move in a larger European struggle, fought in springtime fields that would soon bloom where artillery had just scorched the earth.",
+      "fact_year": 1809,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Eckm%C3%BChl",
+      "episode": {
+        "id": 42,
+        "title": "Morning Drops #36 - Women of Rock",
+        "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
+        "songs": [
+          "Suzi Quatro - Can the Can",
+          "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
+          "Laura Cox - Hard Blues Shot",
+          "Jackie Venson - Always Free (Live)"
+        ],
+        "music-genres": [
+          "Glam Rock",
+          "Hard Rock",
+          "Blues Rock"
+        ]
+      },
+      "match_reason": "A brutal 19th‑century battlefield contrasts with the liberating defiance of women in rock; guitars as a new kind of weapon replacing muskets and cannons with distortion and dissent."
     }
   ],
   "generated_at": "2026-04-22T00:00:00.015680+00:00",
   "date": "2026-04-22",
-  "updated_at": "2026-04-22T02:00:01.530932+00:00"
+  "updated_at": "2026-04-22T03:00:01.702486+00:00"
 }
