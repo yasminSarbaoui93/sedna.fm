@@ -1,56 +1,31 @@
 {
-  "current_hour": 6,
+  "current_hour": 7,
   "current_fact": {
-    "hour": 6,
-    "fact_text": "On 23 April 1941, as German forces advanced, the Greek government and King George II evacuated Athens, eventually forming a government-in-exile. The city, cradle of many human political ideas, suddenly became a place to flee rather than defend in person.",
-    "fact_year": 1941,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/German_invasion_of_Greece",
+    "hour": 7,
+    "fact_text": "On 23 April 1945, Hermann Göring sent a telegram to Adolf Hitler suggesting he assume leadership of the Reich if Hitler was incapacitated in besieged Berlin. Hitler’s inner circle branded the message treasonous, triggering a final spiral of paranoia and arrests in a collapsing regime.",
+    "fact_year": 1945,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/G%C3%B6ring_telegram",
     "episode": {
-      "id": 17,
-      "title": "Morning Drops #11 - Mediterranean Boat",
-      "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
+      "id": 56,
+      "title": "Morning Drops #49 - Rage Against The Machine",
+      "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
       "songs": [
-        "Arleta - Bar To Navagio",
-        "Baba Zula - Tavla",
-        "Mylène Farmer - Désenchantée",
-        "Fabrizio De André - Crêuza de mä"
+        "Rage Against the Machine - Bombtrack",
+        "Rage Against the Machine - Killing in the Name",
+        "Rage Against the Machine - Without a Face",
+        "Rage Against the Machine - Guerrilla Radio",
+        "Rage Against the Machine - Sleep Now in the Fire"
       ],
       "music-genres": [
-        "Greek Folk",
-        "Turkish Psychedelic",
-        "French Pop",
-        "Italian Singer-Songwriter"
+        "Rap Metal",
+        "Political Rock",
+        "Alternative Metal"
       ]
     },
-    "match_reason": "A wartime evacuation of Athens sits against a peaceful, modern Mediterranean soundscape, highlighting how this sea has seen both exile and homecoming across centuries."
+    "match_reason": "The power struggle at the end of a dictatorship connects with an episode about political resistance and the rage that rises against abusive systems."
   },
   "queue": [
-    {
-      "hour": 7,
-      "fact_text": "On 23 April 1945, Hermann Göring sent a telegram to Adolf Hitler suggesting he assume leadership of the Reich if Hitler was incapacitated in besieged Berlin. Hitler’s inner circle branded the message treasonous, triggering a final spiral of paranoia and arrests in a collapsing regime.",
-      "fact_year": 1945,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/G%C3%B6ring_telegram",
-      "episode": {
-        "id": 56,
-        "title": "Morning Drops #49 - Rage Against The Machine",
-        "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
-        "songs": [
-          "Rage Against the Machine - Bombtrack",
-          "Rage Against the Machine - Killing in the Name",
-          "Rage Against the Machine - Without a Face",
-          "Rage Against the Machine - Guerrilla Radio",
-          "Rage Against the Machine - Sleep Now in the Fire"
-        ],
-        "music-genres": [
-          "Rap Metal",
-          "Political Rock",
-          "Alternative Metal"
-        ]
-      },
-      "match_reason": "The power struggle at the end of a dictatorship connects with an episode about political resistance and the rage that rises against abusive systems."
-    },
     {
       "hour": 8,
       "fact_text": "On 23 April 1918, during World War I, the British Royal Navy launched the Zeebrugge Raid, attempting to block the Belgian port used by German U-boats by sinking old ships in its canal entrance. The daring nighttime operation was only partially successful, but became legendary for its audacity and high casualty rate.",
@@ -622,9 +597,34 @@
         ]
       },
       "match_reason": "A wartime evacuation of Athens sits against a peaceful, modern Mediterranean soundscape, highlighting how this sea has seen both exile and homecoming across centuries."
+    },
+    {
+      "hour": 7,
+      "fact_text": "On 23 April 1945, Hermann Göring sent a telegram to Adolf Hitler suggesting he assume leadership of the Reich if Hitler was incapacitated in besieged Berlin. Hitler’s inner circle branded the message treasonous, triggering a final spiral of paranoia and arrests in a collapsing regime.",
+      "fact_year": 1945,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/G%C3%B6ring_telegram",
+      "episode": {
+        "id": 56,
+        "title": "Morning Drops #49 - Rage Against The Machine",
+        "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
+        "songs": [
+          "Rage Against the Machine - Bombtrack",
+          "Rage Against the Machine - Killing in the Name",
+          "Rage Against the Machine - Without a Face",
+          "Rage Against the Machine - Guerrilla Radio",
+          "Rage Against the Machine - Sleep Now in the Fire"
+        ],
+        "music-genres": [
+          "Rap Metal",
+          "Political Rock",
+          "Alternative Metal"
+        ]
+      },
+      "match_reason": "The power struggle at the end of a dictatorship connects with an episode about political resistance and the rage that rises against abusive systems."
     }
   ],
   "generated_at": "2026-04-23T00:00:00.012225+00:00",
   "date": "2026-04-23",
-  "updated_at": "2026-04-23T06:00:01.544452+00:00"
+  "updated_at": "2026-04-23T07:00:01.898297+00:00"
 }
