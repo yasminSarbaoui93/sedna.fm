@@ -1,59 +1,31 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "On 23 April 1500, Portuguese navigator Pedro Álvares Cabral sighted and landed on the coast of what Europeans would soon call Brazil, near present-day Porto Seguro. Believing at first he had found an island, his arrival marked the beginning of a profound and often violent transformation of South America’s Atlantic shores.",
-    "fact_year": 1500,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pedro_%C3%81lvares_Cabral",
+    "hour": 5,
+    "fact_text": "On 23 April 215 BCE, after the Roman defeat at Lake Trasimene, the Romans vowed and later built a temple on the Capitoline Hill dedicated to Venus Erycina. The sanctuary was meant as both a plea and a protection, binding military crisis to divine favor in the heart of Rome.",
+    "fact_year": -215,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Temple_of_Venus_Erycina_(Capitoline_Hill)",
     "episode": {
-      "id": 37,
-      "title": "Morning Drops #31 - Sailing With Germans",
-      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+      "id": 44,
+      "title": "Morning Drops #38 - History of Flamenco",
+      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
       "songs": [
-        "Billy Talent - Dead Silence",
-        "Ben Howard - Keep Your Head Up",
-        "Ziggy Alberts - Simple Things",
-        "Vitor Kley - O Sol",
-        "Enya - Orinoco Flow",
-        "Paveier - Leev Marie"
+        "La Niña de los Peines - Al Gurugú",
+        "Lola Flores - Pena, penita, pena",
+        "Paco de Lucía - Entre dos aguas",
+        "Camarón de la Isla - La leyenda del tiempo",
+        "Rosalía - Pienso en tu mirá"
       ],
       "music-genres": [
-        "Punk Rock",
-        "Indie Folk",
-        "Surf Pop",
-        "New Age",
-        "German Folk"
+        "Flamenco",
+        "Spanish Folk",
+        "Nuevo Flamenco"
       ]
     },
-    "match_reason": "Cabral’s Atlantic crossing and landfall in Brazil echo the seafaring, sunlit mood of an episode literally recorded on a boat, with oceanic imagery and travel at its core."
+    "match_reason": "An ancient temple to a love and war goddess pairs with Flamenco’s intense, ritual-like emotional expression—both are about channelling devotion and pain into a powerful cultural form."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "On 23 April 215 BCE, after the Roman defeat at Lake Trasimene, the Romans vowed and later built a temple on the Capitoline Hill dedicated to Venus Erycina. The sanctuary was meant as both a plea and a protection, binding military crisis to divine favor in the heart of Rome.",
-      "fact_year": -215,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Temple_of_Venus_Erycina_(Capitoline_Hill)",
-      "episode": {
-        "id": 44,
-        "title": "Morning Drops #38 - History of Flamenco",
-        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
-        "songs": [
-          "La Niña de los Peines - Al Gurugú",
-          "Lola Flores - Pena, penita, pena",
-          "Paco de Lucía - Entre dos aguas",
-          "Camarón de la Isla - La leyenda del tiempo",
-          "Rosalía - Pienso en tu mirá"
-        ],
-        "music-genres": [
-          "Flamenco",
-          "Spanish Folk",
-          "Nuevo Flamenco"
-        ]
-      },
-      "match_reason": "An ancient temple to a love and war goddess pairs with Flamenco’s intense, ritual-like emotional expression—both are about channelling devotion and pain into a powerful cultural form."
-    },
     {
       "hour": 6,
       "fact_text": "On 23 April 1941, as German forces advanced, the Greek government and King George II evacuated Athens, eventually forming a government-in-exile. The city, cradle of many human political ideas, suddenly became a place to flee rather than defend in person.",
@@ -625,9 +597,34 @@
         ]
       },
       "match_reason": "Cabral’s Atlantic crossing and landfall in Brazil echo the seafaring, sunlit mood of an episode literally recorded on a boat, with oceanic imagery and travel at its core."
+    },
+    {
+      "hour": 5,
+      "fact_text": "On 23 April 215 BCE, after the Roman defeat at Lake Trasimene, the Romans vowed and later built a temple on the Capitoline Hill dedicated to Venus Erycina. The sanctuary was meant as both a plea and a protection, binding military crisis to divine favor in the heart of Rome.",
+      "fact_year": -215,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Temple_of_Venus_Erycina_(Capitoline_Hill)",
+      "episode": {
+        "id": 44,
+        "title": "Morning Drops #38 - History of Flamenco",
+        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+        "songs": [
+          "La Niña de los Peines - Al Gurugú",
+          "Lola Flores - Pena, penita, pena",
+          "Paco de Lucía - Entre dos aguas",
+          "Camarón de la Isla - La leyenda del tiempo",
+          "Rosalía - Pienso en tu mirá"
+        ],
+        "music-genres": [
+          "Flamenco",
+          "Spanish Folk",
+          "Nuevo Flamenco"
+        ]
+      },
+      "match_reason": "An ancient temple to a love and war goddess pairs with Flamenco’s intense, ritual-like emotional expression—both are about channelling devotion and pain into a powerful cultural form."
     }
   ],
   "generated_at": "2026-04-23T00:00:00.012225+00:00",
   "date": "2026-04-23",
-  "updated_at": "2026-04-23T04:00:01.485549+00:00"
+  "updated_at": "2026-04-23T05:00:01.831753+00:00"
 }
