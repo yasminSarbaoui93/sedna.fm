@@ -1,59 +1,34 @@
 {
-  "current_hour": 7,
+  "current_hour": 8,
   "current_fact": {
-    "hour": 7,
-    "fact_text": "On this day in 1944, Britain’s Special Boat Service launched a covert raid on the German garrison occupying the Greek island of Santorini. The mission combined stealth, small boats, and the island’s volcanic geography in a little‑known chapter of Aegean World War II operations.",
-    "fact_year": 1944,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Raid_on_Santorini",
+    "hour": 8,
+    "fact_text": "In 1994, a vintage Douglas DC‑3 departing Sydney lost engine power and was forced to ditch into Botany Bay. Despite the dramatic water landing, all 25 people aboard survived, turning a potential tragedy into a rare example of a successful controlled ditching.",
+    "fact_year": 1994,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1994_South_Pacific_Airmotive_DC-3_crash",
     "episode": {
-      "id": 17,
-      "title": "Morning Drops #11 - Mediterranean Boat",
-      "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "Arleta - Bar To Navagio",
-        "Baba Zula - Tavla",
-        "Mylène Farmer - Désenchantée",
-        "Fabrizio De André - Crêuza de mä"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Greek Folk",
-        "Turkish Psychedelic",
-        "French Pop",
-        "Italian Singer-Songwriter"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "A clandestine wartime raid on a Mediterranean island aligns with an episode themed around Mediterranean voyages, coasts, and sea stories."
+    "match_reason": "An airplane surviving a water landing in a bay pairs with a sea‑voyage episode where water, resilience, and shared journeys are central motifs."
   },
   "queue": [
-    {
-      "hour": 8,
-      "fact_text": "In 1994, a vintage Douglas DC‑3 departing Sydney lost engine power and was forced to ditch into Botany Bay. Despite the dramatic water landing, all 25 people aboard survived, turning a potential tragedy into a rare example of a successful controlled ditching.",
-      "fact_year": 1994,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1994_South_Pacific_Airmotive_DC-3_crash",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "An airplane surviving a water landing in a bay pairs with a sea‑voyage episode where water, resilience, and shared journeys are central motifs."
-    },
     {
       "hour": 9,
       "fact_text": "On April 24, 1990, Scotland’s Gruinard Island was officially declared free of anthrax after nearly half a century of quarantine following secret biological weapons tests during World War II. Decontamination involved soaking the island in seawater and formaldehyde, an eerie cleanup of a long‑hidden experiment.",
@@ -642,9 +617,37 @@
         ]
       },
       "match_reason": "A clandestine wartime raid on a Mediterranean island aligns with an episode themed around Mediterranean voyages, coasts, and sea stories."
+    },
+    {
+      "hour": 8,
+      "fact_text": "In 1994, a vintage Douglas DC‑3 departing Sydney lost engine power and was forced to ditch into Botany Bay. Despite the dramatic water landing, all 25 people aboard survived, turning a potential tragedy into a rare example of a successful controlled ditching.",
+      "fact_year": 1994,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1994_South_Pacific_Airmotive_DC-3_crash",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "An airplane surviving a water landing in a bay pairs with a sea‑voyage episode where water, resilience, and shared journeys are central motifs."
     }
   ],
   "generated_at": "2026-04-24T00:00:00.013013+00:00",
   "date": "2026-04-24",
-  "updated_at": "2026-04-24T07:00:02.056190+00:00"
+  "updated_at": "2026-04-24T08:00:01.904442+00:00"
 }
