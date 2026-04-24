@@ -1,55 +1,31 @@
 {
-  "current_hour": 18,
+  "current_hour": 19,
   "current_fact": {
-    "hour": 18,
-    "fact_text": "In 1885, sharpshooter Annie Oakley was hired by showman Nate Salsbury to join Buffalo Bill’s Wild West show. Her uncanny marksmanship and stage charisma turned a rural girl from Ohio into one of the world’s first female superstars of popular entertainment, challenging Victorian expectations of how a woman could move, dress, and perform.",
-    "fact_year": 1885,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Annie_Oakley",
+    "hour": 19,
+    "fact_text": "According to the ancient scholar Eratosthenes, April 24 marks the traditional date of the Fall of Troy, bringing an end to the legendary Trojan War. Whether or not a single city’s fall inspired Homer’s epics, this imagined burning city became a cornerstone myth about fate, pride, and the fragile line between history and storytelling.",
+    "fact_year": -1183,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Trojan_War",
     "episode": {
-      "id": 42,
-      "title": "Morning Drops #36 - Women of Rock",
-      "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
+      "id": 44,
+      "title": "Morning Drops #38 - History of Flamenco",
+      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
       "songs": [
-        "Suzi Quatro - Can the Can",
-        "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
-        "Laura Cox - Hard Blues Shot",
-        "Jackie Venson - Always Free (Live)"
+        "La Niña de los Peines - Al Gurugú",
+        "Lola Flores - Pena, penita, pena",
+        "Paco de Lucía - Entre dos aguas",
+        "Camarón de la Isla - La leyenda del tiempo",
+        "Rosalía - Pienso en tu mirá"
       ],
       "music-genres": [
-        "Glam Rock",
-        "Hard Rock",
-        "Blues Rock"
+        "Flamenco",
+        "Spanish Folk",
+        "Nuevo Flamenco"
       ]
     },
-    "match_reason": "A 19th‑century woman redefining what was possible with a rifle parallels rock women breaking norms with guitars and amplifiers."
+    "match_reason": "A mythic war transmitted through oral poetry pairs well with an episode about flamenco—another tradition where stories, sorrow, and legend are sung into collective memory."
   },
   "queue": [
-    {
-      "hour": 19,
-      "fact_text": "According to the ancient scholar Eratosthenes, April 24 marks the traditional date of the Fall of Troy, bringing an end to the legendary Trojan War. Whether or not a single city’s fall inspired Homer’s epics, this imagined burning city became a cornerstone myth about fate, pride, and the fragile line between history and storytelling.",
-      "fact_year": -1183,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Trojan_War",
-      "episode": {
-        "id": 44,
-        "title": "Morning Drops #38 - History of Flamenco",
-        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
-        "songs": [
-          "La Niña de los Peines - Al Gurugú",
-          "Lola Flores - Pena, penita, pena",
-          "Paco de Lucía - Entre dos aguas",
-          "Camarón de la Isla - La leyenda del tiempo",
-          "Rosalía - Pienso en tu mirá"
-        ],
-        "music-genres": [
-          "Flamenco",
-          "Spanish Folk",
-          "Nuevo Flamenco"
-        ]
-      },
-      "match_reason": "A mythic war transmitted through oral poetry pairs well with an episode about flamenco—another tradition where stories, sorrow, and legend are sung into collective memory."
-    },
     {
       "hour": 20,
       "fact_text": "On this day in 2007, astronomers announced the discovery of Gliese 581c, one of the first known exoplanets lying in its star’s habitable zone and a serious candidate for a rocky, potentially Earth‑like world. Orbiting a red dwarf 20 light‑years away, it helped shift our imagination from ‘are there other worlds?’ to ‘how many?’",
@@ -602,9 +578,34 @@
         ]
       },
       "match_reason": "A 19th‑century woman redefining what was possible with a rifle parallels rock women breaking norms with guitars and amplifiers."
+    },
+    {
+      "hour": 19,
+      "fact_text": "According to the ancient scholar Eratosthenes, April 24 marks the traditional date of the Fall of Troy, bringing an end to the legendary Trojan War. Whether or not a single city’s fall inspired Homer’s epics, this imagined burning city became a cornerstone myth about fate, pride, and the fragile line between history and storytelling.",
+      "fact_year": -1183,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Trojan_War",
+      "episode": {
+        "id": 44,
+        "title": "Morning Drops #38 - History of Flamenco",
+        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+        "songs": [
+          "La Niña de los Peines - Al Gurugú",
+          "Lola Flores - Pena, penita, pena",
+          "Paco de Lucía - Entre dos aguas",
+          "Camarón de la Isla - La leyenda del tiempo",
+          "Rosalía - Pienso en tu mirá"
+        ],
+        "music-genres": [
+          "Flamenco",
+          "Spanish Folk",
+          "Nuevo Flamenco"
+        ]
+      },
+      "match_reason": "A mythic war transmitted through oral poetry pairs well with an episode about flamenco—another tradition where stories, sorrow, and legend are sung into collective memory."
     }
   ],
   "generated_at": "2026-04-24T00:00:00.013786+00:00",
   "date": "2026-04-24",
-  "updated_at": "2026-04-24T18:00:01.675285+00:00"
+  "updated_at": "2026-04-24T19:00:01.442880+00:00"
 }
