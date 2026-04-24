@@ -1,56 +1,31 @@
 {
-  "current_hour": 9,
+  "current_hour": 10,
   "current_fact": {
-    "hour": 9,
-    "fact_text": "On April 24, 1990, Scotland’s Gruinard Island was officially declared free of anthrax after nearly half a century of quarantine following secret biological weapons tests during World War II. Decontamination involved soaking the island in seawater and formaldehyde, an eerie cleanup of a long‑hidden experiment.",
-    "fact_year": 1990,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Gruinard_Island",
+    "hour": 10,
+    "fact_text": "In 1980, Operation Eagle Claw—an ambitious U.S. mission to rescue hostages in Tehran—ended in disaster when a collision between a helicopter and a transport plane killed eight servicemen in the Iranian desert. The failed raid exposed the complexity of long‑range special operations and reshaped U.S. special forces.",
+    "fact_year": 1980,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Eagle_Claw",
     "episode": {
-      "id": 34,
-      "title": "Morning Drops #28 - Under Scottish Skies",
-      "description": "Gaia shares a personal moment of transition — a shift in seasons, in rhythm, and in life. From this space of quiet change comes a musical journey through Scotland: not the usual names, but voices that speak from the edges. A personal ritual and a small act of curiosity: an invitation to notice what grounds us when everything moves.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-under-scottish-skies",
+      "id": 56,
+      "title": "Morning Drops #49 - Rage Against The Machine",
+      "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
       "songs": [
-        "Paolo Nutini - Pencil Full of Lead",
-        "Lapse - Lady Bug",
-        "Joesef - Let's Stay Together",
-        "Vital Spark - Stone of Destiny"
+        "Rage Against the Machine - Bombtrack",
+        "Rage Against the Machine - Killing in the Name",
+        "Rage Against the Machine - Without a Face",
+        "Rage Against the Machine - Guerrilla Radio",
+        "Rage Against the Machine - Sleep Now in the Fire"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Scottish Folk",
-        "Soul",
-        "Celtic Rock"
+        "Rap Metal",
+        "Political Rock",
+        "Alternative Metal"
       ]
     },
-    "match_reason": "A strange Scottish island emerging from decades of contamination fits an episode grounded in Scottish landscapes, quiet transitions, and stories from the edges."
+    "match_reason": "A politically charged military failure during the Iran hostage crisis pairs with an episode centered on Rage Against the Machine’s critiques of U.S. power and intervention."
   },
   "queue": [
-    {
-      "hour": 10,
-      "fact_text": "In 1980, Operation Eagle Claw—an ambitious U.S. mission to rescue hostages in Tehran—ended in disaster when a collision between a helicopter and a transport plane killed eight servicemen in the Iranian desert. The failed raid exposed the complexity of long‑range special operations and reshaped U.S. special forces.",
-      "fact_year": 1980,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Eagle_Claw",
-      "episode": {
-        "id": 56,
-        "title": "Morning Drops #49 - Rage Against The Machine",
-        "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
-        "songs": [
-          "Rage Against the Machine - Bombtrack",
-          "Rage Against the Machine - Killing in the Name",
-          "Rage Against the Machine - Without a Face",
-          "Rage Against the Machine - Guerrilla Radio",
-          "Rage Against the Machine - Sleep Now in the Fire"
-        ],
-        "music-genres": [
-          "Rap Metal",
-          "Political Rock",
-          "Alternative Metal"
-        ]
-      },
-      "match_reason": "A politically charged military failure during the Iran hostage crisis pairs with an episode centered on Rage Against the Machine’s critiques of U.S. power and intervention."
-    },
     {
       "hour": 11,
       "fact_text": "On April 24, 1970, The Gambia shifted from monarchy to republic within the Commonwealth, with Dawda Jawara becoming its first president. This quiet constitutional change marked a deeper step in the country’s post‑colonial self‑definition.",
@@ -642,9 +617,34 @@
         ]
       },
       "match_reason": "A strange Scottish island emerging from decades of contamination fits an episode grounded in Scottish landscapes, quiet transitions, and stories from the edges."
+    },
+    {
+      "hour": 10,
+      "fact_text": "In 1980, Operation Eagle Claw—an ambitious U.S. mission to rescue hostages in Tehran—ended in disaster when a collision between a helicopter and a transport plane killed eight servicemen in the Iranian desert. The failed raid exposed the complexity of long‑range special operations and reshaped U.S. special forces.",
+      "fact_year": 1980,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Eagle_Claw",
+      "episode": {
+        "id": 56,
+        "title": "Morning Drops #49 - Rage Against The Machine",
+        "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
+        "songs": [
+          "Rage Against the Machine - Bombtrack",
+          "Rage Against the Machine - Killing in the Name",
+          "Rage Against the Machine - Without a Face",
+          "Rage Against the Machine - Guerrilla Radio",
+          "Rage Against the Machine - Sleep Now in the Fire"
+        ],
+        "music-genres": [
+          "Rap Metal",
+          "Political Rock",
+          "Alternative Metal"
+        ]
+      },
+      "match_reason": "A politically charged military failure during the Iran hostage crisis pairs with an episode centered on Rage Against the Machine’s critiques of U.S. power and intervention."
     }
   ],
   "generated_at": "2026-04-24T00:00:00.013013+00:00",
   "date": "2026-04-24",
-  "updated_at": "2026-04-24T09:00:01.488458+00:00"
+  "updated_at": "2026-04-24T10:00:01.963817+00:00"
 }
