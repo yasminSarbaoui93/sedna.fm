@@ -1,55 +1,30 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "On April 25, 1959, the St. Lawrence Seaway officially opened, connecting the Great Lakes to the Atlantic Ocean via a chain of locks, canals, and channels. It effectively gave ocean-going ships a 3,700-kilometer freshwater highway into the heart of North America, reshaping trade and the ecology of the lakes.",
-    "fact_year": 1959,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/St._Lawrence_Seaway",
+    "hour": 11,
+    "fact_text": "In 1882, French commandant Henri Rivière seized the citadel of Hanoi with a relatively small force of marine infantry, provoking a spiral of conflict in Tonkin. What began as a daring colonial gamble on April 25 soon contributed to decades of resistance and reshaped Vietnam’s relationship with European powers.",
+    "fact_year": 1882,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tonkin",
     "episode": {
-      "id": 17,
-      "title": "Morning Drops #07 - Mediterranean Boat",
-      "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
+      "id": 22,
+      "title": "Morning Drops #16 - The Sound of Tuareg",
+      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
       "songs": [
-        "Arleta - Bar To Navagio",
-        "Baba Zula - Tavla",
-        "Mylène Farmer - Désenchantée",
-        "Fabrizio De André - Crêuza de mä"
+        "Les Filles de Illighadad - Imigradan",
+        "Tinariwen - Amassakoul ’N’ Ténéré",
+        "Liya Ag Ablil - Awa Adounia",
+        "Tinariwen - Sastanàqqàm"
       ],
       "music-genres": [
-        "Greek Folk",
-        "Turkish Psychedelic",
-        "French Pop",
-        "Italian Singer-Songwriter"
+        "Desert Blues",
+        "Tuareg",
+        "World Music"
       ]
     },
-    "match_reason": "A grand waterway turning inland seas into maritime routes aligns with an episode built around boat journeys and coastal music, both celebrating travel across connected waters."
+    "match_reason": "French colonial actions in Asia mirror, in another region, the themes of occupation, exile, and resistance explored through Tuareg desert blues."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "In 1882, French commandant Henri Rivière seized the citadel of Hanoi with a relatively small force of marine infantry, provoking a spiral of conflict in Tonkin. What began as a daring colonial gamble on April 25 soon contributed to decades of resistance and reshaped Vietnam’s relationship with European powers.",
-      "fact_year": 1882,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tonkin",
-      "episode": {
-        "id": 22,
-        "title": "Morning Drops #16 - The Sound of Tuareg",
-        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
-        "songs": [
-          "Les Filles de Illighadad - Imigradan",
-          "Tinariwen - Amassakoul ’N’ Ténéré",
-          "Liya Ag Ablil - Awa Adounia",
-          "Tinariwen - Sastanàqqàm"
-        ],
-        "music-genres": [
-          "Desert Blues",
-          "Tuareg",
-          "World Music"
-        ]
-      },
-      "match_reason": "French colonial actions in Asia mirror, in another region, the themes of occupation, exile, and resistance explored through Tuareg desert blues."
-    },
     {
       "hour": 12,
       "fact_text": "On April 25, 1829, British naval officer Charles Fremantle arrived off the coast of what is now Western Australia aboard HMS Challenger, soon declaring the Swan River Colony for the British Empire. The proclamation overlooked tens of thousands of years of Aboriginal presence, marking yet another moment where a few lines of speech rewrote maps for entire peoples.",
@@ -630,9 +605,33 @@
         ]
       },
       "match_reason": "A grand waterway turning inland seas into maritime routes aligns with an episode built around boat journeys and coastal music, both celebrating travel across connected waters."
+    },
+    {
+      "hour": 11,
+      "fact_text": "In 1882, French commandant Henri Rivière seized the citadel of Hanoi with a relatively small force of marine infantry, provoking a spiral of conflict in Tonkin. What began as a daring colonial gamble on April 25 soon contributed to decades of resistance and reshaped Vietnam’s relationship with European powers.",
+      "fact_year": 1882,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tonkin",
+      "episode": {
+        "id": 22,
+        "title": "Morning Drops #16 - The Sound of Tuareg",
+        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+        "songs": [
+          "Les Filles de Illighadad - Imigradan",
+          "Tinariwen - Amassakoul ’N’ Ténéré",
+          "Liya Ag Ablil - Awa Adounia",
+          "Tinariwen - Sastanàqqàm"
+        ],
+        "music-genres": [
+          "Desert Blues",
+          "Tuareg",
+          "World Music"
+        ]
+      },
+      "match_reason": "French colonial actions in Asia mirror, in another region, the themes of occupation, exile, and resistance explored through Tuareg desert blues."
     }
   ],
   "generated_at": "2026-04-25T00:00:00.009856+00:00",
   "date": "2026-04-25",
-  "updated_at": "2026-04-25T10:00:01.690201+00:00"
+  "updated_at": "2026-04-25T11:00:01.362545+00:00"
 }
