@@ -1,64 +1,31 @@
 {
-  "current_hour": 8,
+  "current_hour": 9,
   "current_fact": {
-    "hour": 8,
-    "fact_text": "On this day in 1792, Claude Joseph Rouget de Lisle composed “La Marseillaise,” a song written in a single revolutionary night that would later become France’s national anthem. What began as a marching tune for soldiers of the Rhine became one of the world’s most recognizable musical calls to freedom.",
-    "fact_year": 1792,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/La_Marseillaise",
+    "hour": 9,
+    "fact_text": "On April 25, 1898, the U.S. Congress retroactively declared that a state of war with Spain had existed since April 21, following a naval blockade of Cuba. The brief Spanish–American War would end with Spain losing most of its remaining colonies, reshaping maps from the Caribbean to the Pacific.",
+    "fact_year": 1898,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Spanish%E2%80%93American_War",
     "episode": {
-      "id": 1,
-      "title": "Sedna FM #01 - November Bomb",
-      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+      "id": 44,
+      "title": "Morning Drops #38 - History of Flamenco",
+      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
       "songs": [
-        "berlioz - Open this wall",
-        "Nas - One Mic",
-        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-        "Frankie Knuckles - Your Love",
-        "Notorious B.I.G. - 17 Ten Crack Commandments",
-        "Liloca - Utani Xuva",
-        "Fela Kuti - Zombie",
-        "Neffa - Aspettando il sole",
-        "Childish Gambino - No Excuses",
-        "Modjo - Music takes you back"
+        "La Niña de los Peines - Al Gurugú",
+        "Lola Flores - Pena, penita, pena",
+        "Paco de Lucía - Entre dos aguas",
+        "Camarón de la Isla - La leyenda del tiempo",
+        "Rosalía - Pienso en tu mirá"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Afrobeat",
-        "House",
-        "Italian Pop",
-        "R&B",
-        "Latin Rap"
+        "Flamenco",
+        "Spanish Folk",
+        "Nuevo Flamenco"
       ]
     },
-    "match_reason": "The creation of a national anthem that becomes a defining soundtrack mirrors Sedna FM's very first episode, which serves as the 'anthem' and origin point for the whole station."
+    "match_reason": "A turning point in Spain’s imperial history sits alongside an episode dedicated to Spain’s deep musical soul, spotlighting cultural richness beyond its wars."
   },
   "queue": [
-    {
-      "hour": 9,
-      "fact_text": "On April 25, 1898, the U.S. Congress retroactively declared that a state of war with Spain had existed since April 21, following a naval blockade of Cuba. The brief Spanish–American War would end with Spain losing most of its remaining colonies, reshaping maps from the Caribbean to the Pacific.",
-      "fact_year": 1898,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Spanish%E2%80%93American_War",
-      "episode": {
-        "id": 44,
-        "title": "Morning Drops #38 - History of Flamenco",
-        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
-        "songs": [
-          "La Niña de los Peines - Al Gurugú",
-          "Lola Flores - Pena, penita, pena",
-          "Paco de Lucía - Entre dos aguas",
-          "Camarón de la Isla - La leyenda del tiempo",
-          "Rosalía - Pienso en tu mirá"
-        ],
-        "music-genres": [
-          "Flamenco",
-          "Spanish Folk",
-          "Nuevo Flamenco"
-        ]
-      },
-      "match_reason": "A turning point in Spain’s imperial history sits alongside an episode dedicated to Spain’s deep musical soul, spotlighting cultural richness beyond its wars."
-    },
     {
       "hour": 10,
       "fact_text": "On this day in 1882, French officer Henri Rivière seized the citadel of Hanoi with a relatively small force of marine infantry, provoking clashes in Tonkin. This audacious move helped set the stage for full French colonial control over northern Vietnam.",
@@ -650,9 +617,34 @@
         ]
       },
       "match_reason": "The creation of a national anthem that becomes a defining soundtrack mirrors Sedna FM's very first episode, which serves as the 'anthem' and origin point for the whole station."
+    },
+    {
+      "hour": 9,
+      "fact_text": "On April 25, 1898, the U.S. Congress retroactively declared that a state of war with Spain had existed since April 21, following a naval blockade of Cuba. The brief Spanish–American War would end with Spain losing most of its remaining colonies, reshaping maps from the Caribbean to the Pacific.",
+      "fact_year": 1898,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Spanish%E2%80%93American_War",
+      "episode": {
+        "id": 44,
+        "title": "Morning Drops #38 - History of Flamenco",
+        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+        "songs": [
+          "La Niña de los Peines - Al Gurugú",
+          "Lola Flores - Pena, penita, pena",
+          "Paco de Lucía - Entre dos aguas",
+          "Camarón de la Isla - La leyenda del tiempo",
+          "Rosalía - Pienso en tu mirá"
+        ],
+        "music-genres": [
+          "Flamenco",
+          "Spanish Folk",
+          "Nuevo Flamenco"
+        ]
+      },
+      "match_reason": "A turning point in Spain’s imperial history sits alongside an episode dedicated to Spain’s deep musical soul, spotlighting cultural richness beyond its wars."
     }
   ],
   "generated_at": "2026-04-25T00:00:00.010380+00:00",
   "date": "2026-04-25",
-  "updated_at": "2026-04-25T08:00:01.318375+00:00"
+  "updated_at": "2026-04-25T09:00:01.710225+00:00"
 }
