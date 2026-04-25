@@ -1,65 +1,31 @@
 {
-  "current_hour": 18,
+  "current_hour": 19,
   "current_fact": {
-    "hour": 18,
-    "fact_text": "Also on April 25, 1945, delegates from 50 nations gathered in San Francisco for the United Nations Conference on International Organization, drafting the UN Charter. After years of global war, they attempted to bottle the fragile hope of collective security into the architecture of a new world body.",
-    "fact_year": 1945,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/United_Nations_Conference_on_International_Organization",
+    "hour": 19,
+    "fact_text": "On April 25, 1898, the United States Congress declared that a state of war with Spain had existed since April 21, retroactively legitimizing the naval blockade of Cuba. The Spanish–American War, short but transformative, marked a turning point where the U.S. stepped fully onto the stage as an overseas imperial power.",
+    "fact_year": 1898,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Spanish%E2%80%93American_War",
     "episode": {
-      "id": 2,
-      "title": "Sedna FM #02 - Destination Sedna",
-      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+      "id": 44,
+      "title": "Morning Drops #38 - History of Flamenco",
+      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
       "songs": [
-        "Pink Floyd - Breathe",
-        "The fountain DC - Starburster",
-        "Laura Cahen - La Poussiere",
-        "Taxi Kebab - Lmchi w rjou3",
-        "Odion Iruoje - Identify With Your Roots",
-        "Depeche mode - world in my eyes (Oil Tank Mix)",
-        "Massive attack - Dissolved girl",
-        "Kokoroko - Three piece suite",
-        "Salin - Egungun",
-        "E.S.P. - It's You"
+        "La Niña de los Peines - Al Gurugú",
+        "Lola Flores - Pena, penita, pena",
+        "Paco de Lucía - Entre dos aguas",
+        "Camarón de la Isla - La leyenda del tiempo",
+        "Rosalía - Pienso en tu mirá"
       ],
       "music-genres": [
-        "Progressive Rock",
-        "Post-Punk",
-        "French Pop",
-        "Maghreb",
-        "Afrobeat",
-        "Synthpop",
-        "Trip-Hop"
+        "Flamenco",
+        "Spanish Folk",
+        "Nuevo Flamenco"
       ]
     },
-    "match_reason": "The birth of a global institution uniting many nations pairs with a 'collective voyage through sound' that blends genres and geographies into a shared destination."
+    "match_reason": "A war that reshaped Spain’s global role pairs with an episode that centers Spanish cultural identity through the deep, emotional history of flamenco."
   },
   "queue": [
-    {
-      "hour": 19,
-      "fact_text": "On April 25, 1898, the United States Congress declared that a state of war with Spain had existed since April 21, retroactively legitimizing the naval blockade of Cuba. The Spanish–American War, short but transformative, marked a turning point where the U.S. stepped fully onto the stage as an overseas imperial power.",
-      "fact_year": 1898,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Spanish%E2%80%93American_War",
-      "episode": {
-        "id": 44,
-        "title": "Morning Drops #38 - History of Flamenco",
-        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
-        "songs": [
-          "La Niña de los Peines - Al Gurugú",
-          "Lola Flores - Pena, penita, pena",
-          "Paco de Lucía - Entre dos aguas",
-          "Camarón de la Isla - La leyenda del tiempo",
-          "Rosalía - Pienso en tu mirá"
-        ],
-        "music-genres": [
-          "Flamenco",
-          "Spanish Folk",
-          "Nuevo Flamenco"
-        ]
-      },
-      "match_reason": "A war that reshaped Spain’s global role pairs with an episode that centers Spanish cultural identity through the deep, emotional history of flamenco."
-    },
     {
       "hour": 20,
       "fact_text": "On April 25, 1960, the same submarine USS Triton that circled the globe also proved how effectively nuclear reactors could power vessels for months without refueling. Nuclear submarines turned the deep ocean into an invisible strategic theatre, where endurance and silence mattered more than speed.",
@@ -639,9 +605,34 @@
         ]
       },
       "match_reason": "The birth of a global institution uniting many nations pairs with a 'collective voyage through sound' that blends genres and geographies into a shared destination."
+    },
+    {
+      "hour": 19,
+      "fact_text": "On April 25, 1898, the United States Congress declared that a state of war with Spain had existed since April 21, retroactively legitimizing the naval blockade of Cuba. The Spanish–American War, short but transformative, marked a turning point where the U.S. stepped fully onto the stage as an overseas imperial power.",
+      "fact_year": 1898,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Spanish%E2%80%93American_War",
+      "episode": {
+        "id": 44,
+        "title": "Morning Drops #38 - History of Flamenco",
+        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+        "songs": [
+          "La Niña de los Peines - Al Gurugú",
+          "Lola Flores - Pena, penita, pena",
+          "Paco de Lucía - Entre dos aguas",
+          "Camarón de la Isla - La leyenda del tiempo",
+          "Rosalía - Pienso en tu mirá"
+        ],
+        "music-genres": [
+          "Flamenco",
+          "Spanish Folk",
+          "Nuevo Flamenco"
+        ]
+      },
+      "match_reason": "A war that reshaped Spain’s global role pairs with an episode that centers Spanish cultural identity through the deep, emotional history of flamenco."
     }
   ],
   "generated_at": "2026-04-25T00:00:00.009856+00:00",
   "date": "2026-04-25",
-  "updated_at": "2026-04-25T18:00:01.440951+00:00"
+  "updated_at": "2026-04-25T19:00:01.528895+00:00"
 }
