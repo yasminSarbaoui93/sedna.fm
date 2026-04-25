@@ -1,60 +1,34 @@
 {
-  "current_hour": 23,
+  "current_hour": 0,
   "current_fact": {
-    "hour": 23,
-    "fact_text": "While the exact date is legendary rather than scientific, the traditional Fall of Troy dated to April 24 around 1183 BCE reminds us how humans anchor myths to calendars. By pinning a war of gods and heroes to a specific day, ancient scholars blurred the line between history, astronomy, and storytelling.",
-    "fact_year": -1183,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+    "hour": 0,
+    "fact_text": "On April 25, 1983, the spacecraft Pioneer 10 quietly slipped beyond the orbit of Pluto, becoming the first human-made object to travel so far from the Sun. Launched in 1972, it had already flown past Jupiter and then just kept going—its faint radio signals turning into a long-distance heartbeat from the edge of the Solar System.",
+    "fact_year": 1983,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pioneer_10",
     "episode": {
-      "id": 28,
-      "title": "Morning Drops #22 - Sicilians On The Dolomites",
-      "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
+      "id": 9,
+      "title": "Morning Drops #03 - Space Shift",
+      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
       "songs": [
-        "Franco Battiato - Haiku",
-        "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
-        "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
-        "Pink Floyd - Fearless"
+        "Willy J Healey - Woke Up Smiling",
+        "The Chemical Brothers - Go",
+        "The Strokes - You Only Live Once"
       ],
       "music-genres": [
-        "Italian Art Pop",
-        "French Jazz",
-        "Italian Singer-Songwriter",
-        "Progressive Rock"
+        "Indie Rock",
+        "Electronic",
+        "Garage Rock"
       ]
     },
-    "match_reason": "A myth anchored by scholars like those of Alexandria pairs with an episode where people anchor their own stories to landscapes—mountains, seas, and the songs that turn memory into living myth."
+    "match_reason": "A pioneering spacecraft moving into deep space pairs with an episode about reimagining 'emptiness' as creative space and shifting perspective."
   },
-  "queue": [],
-  "published": [
-    {
-      "hour": 0,
-      "fact_text": "On April 24, 1990, the Space Shuttle Discovery released the Hubble Space Telescope into orbit, turning a school‑bus‑sized machine into humanity’s most famous observatory. Hubble’s images of distant galaxies, nebulae, and newborn stars fundamentally changed our understanding of the universe and its age.",
-      "fact_year": 1990,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope",
-      "episode": {
-        "id": 9,
-        "title": "Morning Drops #03 - Space Shift",
-        "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
-        "songs": [
-          "Willy J Healey - Woke Up Smiling",
-          "The Chemical Brothers - Go",
-          "The Strokes - You Only Live Once"
-        ],
-        "music-genres": [
-          "Indie Rock",
-          "Electronic",
-          "Garage Rock"
-        ]
-      },
-      "match_reason": "A space telescope that turned cosmic emptiness into discovery fits an episode about reframing emptiness as space to create."
-    },
+  "queue": [
     {
       "hour": 1,
-      "fact_text": "In 1914, James Franck and Gustav Hertz presented an experiment showing that electrons lose energy in discrete jumps when colliding with mercury atoms. This quietly radical result became a cornerstone of quantum mechanics, proving that atoms have quantized energy levels.",
-      "fact_year": 1914,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Franck%E2%80%93Hertz_experiment",
+      "fact_text": "On this day in 1953, Francis Crick and James Watson published their paper describing the double-helix structure of DNA. In just a few pages, they revealed the elegant spiral code that underlies heredity, turning the molecule of life into a readable library of biological information.",
+      "fact_year": 1953,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Molecular_Structure_of_Nucleic_Acids:_A_Structure_for_Deoxyribose_Nucleic_Acid",
       "episode": {
         "id": 49,
         "title": "Morning Drops #42 - The Joy Of Learning",
@@ -74,13 +48,63 @@
           "Drill / Trap"
         ]
       },
-      "match_reason": "A painstaking physics experiment that revealed quantized energy mirrors the episode’s theme of slow, effortful learning leading to breakthrough understanding."
+      "match_reason": "The DNA discovery is a landmark in scientific understanding and connects well with an episode about learning, curiosity, and how new knowledge reshapes us."
     },
     {
       "hour": 2,
-      "fact_text": "On April 24, 1916, Ernest Shackleton and five crewmen left the desolate Elephant Island in a small open lifeboat, the James Caird, to seek rescue 1,300 km away in South Georgia. Their improbable voyage through the stormy Southern Ocean became one of the most celebrated survival and navigation feats in polar history.",
-      "fact_year": 1916,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Imperial_Trans-Antarctic_Expedition",
+      "fact_text": "On April 25, 1954, Bell Telephone Laboratories publicly demonstrated the first practical solar cell. Their tiny silicon device could turn sunlight directly into electricity, hinting at a future where rooftops and deserts could become quiet power plants.",
+      "fact_year": 1954,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Solar_cell",
+      "episode": {
+        "id": 20,
+        "title": "Morning Drops #14 - Slow Planet",
+        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+        "songs": [
+          "Air - Cherry Blossom Girl",
+          "Kruder & Dorfmeister - Keep On Believing",
+          "Tosca - Orozco",
+          "Bonobo - Terrapin"
+        ],
+        "music-genres": [
+          "Downtempo",
+          "Trip-Hop",
+          "Electronic",
+          "Chillout"
+        ]
+      },
+      "match_reason": "Solar cells and the idea of harvesting sunlight tie into a calm, eco-flavoured \"Slow Planet\" mood that imagines gentler, more sustainable rhythms on Earth."
+    },
+    {
+      "hour": 3,
+      "fact_text": "On this day in 1961, Robert Noyce was granted a patent for the monolithic integrated circuit. By etching multiple electronic components onto a single chip of silicon, he helped shrink rooms full of hardware into something that could eventually fit in a pocket.",
+      "fact_year": 1961,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Integrated_circuit",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "The integrated circuit made modern phones and computers possible, which fits perfectly with an episode reflecting on our deep and complicated relationship with those devices."
+    },
+    {
+      "hour": 4,
+      "fact_text": "On April 25, 1960, the U.S. Navy’s nuclear submarine USS Triton completed the first fully submerged circumnavigation of Earth. For 60 days it slipped silently under the waves, proving that a vessel could sail around the world without ever surfacing.",
+      "fact_year": 1960,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Sandblast",
       "episode": {
         "id": 39,
         "title": "Morning Drops #33 - Immerse",
@@ -99,13 +123,13 @@
           "Nu Disco"
         ]
       },
-      "match_reason": "An Antarctic lifeboat riding ferocious seas pairs with a water‑themed episode about immersion, flow, and staying present in challenging conditions."
+      "match_reason": "A secretive submarine voyage beneath the sea mirrors the episode's theme of immersion and going below the surface into fluid, water-like states."
     },
     {
-      "hour": 3,
-      "fact_text": "On this day in 1967, Soviet cosmonaut Vladimir Komarov died when the parachute of his Soyuz 1 capsule failed to deploy during re-entry, making him the first human to die during an actual space mission. His flight exposed serious design flaws in the Soyuz program and became a stark reminder of the risks behind the space race.",
-      "fact_year": 1967,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Soyuz_1",
+      "hour": 5,
+      "fact_text": "On this day in 1945, American and Soviet troops met at the Elbe River near Torgau, effectively cutting Nazi Germany in two. The handshake between soldiers who had been strangers in both language and ideology became a powerful symbol of unity in the final days of World War II.",
+      "fact_year": 1945,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/World_War_II",
       "episode": {
         "id": 52,
         "title": "Morning Drops #45 - It Can't Rain Forever",
@@ -124,109 +148,147 @@
           "Soft Rock"
         ]
       },
-      "match_reason": "A tragic mission that forced hard reflection on risk and progress pairs with a reflective episode about weathering storms and finding hope after dark chapters."
-    },
-    {
-      "hour": 4,
-      "fact_text": "In 1970, China launched Dong Fang Hong I (“The East is Red 1”), its first satellite, becoming the fifth country to place an object into orbit with its own rocket. The satellite famously broadcast the song “The East Is Red” from space, turning an orbital beacon into a piece of musical propaganda.",
-      "fact_year": 1970,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Dong_Fang_Hong_1",
-      "episode": {
-        "id": 48,
-        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
-        "songs": [
-          "Stive Morgan - Solar Wind, Pt. 3",
-          "David Visan & Carlos Campos - Crystal Heart",
-          "Evan Mars - Ya Zareef Al Tool",
-          "Gerardo Frisina - Cuiabá",
-          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-          "The Busy Twist - Friday Night"
-        ],
-        "music-genres": [
-          "Ambient",
-          "Deep House",
-          "World Music",
-          "Nu Jazz",
-          "Afrobeat",
-          "Funk",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A satellite that literally played a song from orbit aligns with a cosmically tinged, groove‑driven set that feels like music beamed across borders and atmospheres."
-    },
-    {
-      "hour": 5,
-      "fact_text": "On April 24, 1922, the first link of the Imperial Wireless Chain went live, sending wireless telegraph signals between Leafield in England and Cairo in Egypt. This network quietly shrank the British Empire by radio, stitching continents together with invisible pulses of Morse code.",
-      "fact_year": 1922,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Imperial_Wireless_Chain",
-      "episode": {
-        "id": 63,
-        "title": "Morning Drops #54 - Intentional Listening",
-        "description": "Do you remember what it felt like to listen to music without a streaming platform?\nIn this Morning Drops episode, Gaia reflects on a recent experiment: stepping away from algorithmic listening and going back to an iPod. \n\nWhat starts as a small personal choice opens into a wider meditation on attention, presence, and what happens when music is no longer treated as something infinite, but as something we choose with care.\n\nTracklist:\nScientist - Drum Song Dub\nThe Other People Place - Let Me Be Me\nA Forest Mighty Black - Fresh In My Mind\nCymande - Bra",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-intentional-listening",
-        "songs": [],
-        "music-genres": []
-      },
-      "match_reason": "A story about early long‑distance signals and finite, deliberate transmissions pairs with an episode reflecting on intentional, non‑algorithmic listening and the value of each signal we send or receive."
+      "match_reason": "Elbe Day marks the beginning of the end of a dark war, aligning with an episode about weathering storms and moving into a more hopeful, post-crisis chapter."
     },
     {
       "hour": 6,
-      "fact_text": "In 1955, the Bandung Conference brought together 29 newly independent or non‑aligned Asian and African nations, who collectively condemned colonialism, racism, and great‑power domination. The meeting seeded the Non‑Aligned Movement and offered an alternate script for the Cold War world.",
-      "fact_year": 1955,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bandung_Conference",
+      "fact_text": "Also on April 25, 1945, Italy’s National Liberation Committee called for a general uprising against Nazi occupation and the Italian Social Republic, an event now commemorated as Liberation Day. It marked an eruption of partisan courage that helped push fascism out of northern Italy.",
+      "fact_year": 1945,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Liberation_Day_(Italy)",
       "episode": {
-        "id": 51,
-        "title": "Morning Drops #44 - Residente",
-        "description": "In this edition of Morning Drops, Yasmin navigates the complex geography of René Pérez Joglar, known to the world as Residente. His story is not just a musical evolution; it is a timeline marked by resistance, lyrical obsession, and a relentless search for identity.\n\nFrom the gated streets of Trujillo Alto to the global stage, we explore how a restless mind transformed into the voice of a generation. The selection moves through the textures of his life: hearing the raw energy of his early rebellion, the sharp precision of his political critique, and finally, the fragile silence of his most personal confessions.\n\nIt is a study in duality. We witness the rapper who dismantles giants and the son who misses his mother. It is a soundscape that proves that sometimes, the loudest revolution happens inside.\n\nMood: Raw, Revolutionary, Introspective, Honest\nMusic genre: Latin Alternative, Hip Hop, Urban, World",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-residente",
+        "id": 56,
+        "title": "Morning Drops #49 - Rage Against The Machine",
+        "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
         "songs": [
-          "Calle 13 - La Jirafa",
-          "Calle 13 - Adentro",
-          "Residente - René",
-          "Calle 13 - La Vuelta al Mundo"
+          "Rage Against the Machine - Bombtrack",
+          "Rage Against the Machine - Killing in the Name",
+          "Rage Against the Machine - Without a Face",
+          "Rage Against the Machine - Guerrilla Radio",
+          "Rage Against the Machine - Sleep Now in the Fire"
         ],
         "music-genres": [
-          "Latin Alternative",
-          "Hip Hop",
-          "Urban",
-          "Rap",
-          "World"
+          "Rap Metal",
+          "Political Rock",
+          "Alternative Metal"
         ]
       },
-      "match_reason": "A historic gathering against colonialism and domination resonates with an episode centered on Residente’s politically charged, anti‑imperialist storytelling."
+      "match_reason": "An anti-fascist uprising and a national liberation holiday fit naturally with an episode about politically charged music and musical protest against systems of power."
     },
     {
       "hour": 7,
-      "fact_text": "On this day in 1944, Britain’s Special Boat Service launched a covert raid on the German garrison occupying the Greek island of Santorini. The mission combined stealth, small boats, and the island’s volcanic geography in a little‑known chapter of Aegean World War II operations.",
-      "fact_year": 1944,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Raid_on_Santorini",
+      "fact_text": "On April 25, 1945, delegates from around the world gathered in San Francisco for the United Nations Conference on International Organization. In the shadow of a global war, they began designing a new institution meant to keep future conflicts from reaching the same catastrophic scale.",
+      "fact_year": 1945,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/United_Nations_Conference_on_International_Organization",
       "episode": {
-        "id": 17,
-        "title": "Morning Drops #11 - Mediterranean Boat",
-        "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
+        "id": 50,
+        "title": "Morning Drops #43 - Looking Back",
+        "description": "In this first Morning Drop of 2026, Yasmin opens a space for quiet reflection on the nature of transitions. The episode traces a personal journey that began three years ago, when a sudden injury on New Year’s Day turned a desire for movement into a mandatory season of stillness.\n\nThrough the story of a broken knee and the slow process of relearning to walk, the narrative explores the difference between being strong and being aware. It touches on the vulnerability of the body, the unexpected joy found in daily progress, and the warmth that comes from finally allowing oneself to accept help. The musical selection mirrors this path of recovery, moving from the uncertainty of change to the steady rhythm of healing.\n\nMood: Reflective, Resilient, Grounded\nMusic genre: Indie Pop, Cinematic, World, Soul\n\nWe invite you to listen deeply and find comfort in your own pace.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-looking-back",
         "songs": [
-          "Arleta - Bar To Navagio",
-          "Baba Zula - Tavla",
-          "Mylène Farmer - Désenchantée",
-          "Fabrizio De André - Crêuza de mä"
+          "Alt-J - 3WW",
+          "Kelly Finnigan - I Don't Wanna Wait",
+          "Goran Bregović & Iggy Pop - This Is a Film",
+          "Ishihonana - Lucia (Original Mix)",
+          "The Weeknd - Save Your Tears"
         ],
         "music-genres": [
-          "Greek Folk",
-          "Turkish Psychedelic",
-          "French Pop",
-          "Italian Singer-Songwriter"
+          "Indie Pop",
+          "Soul",
+          "World",
+          "Cinematic",
+          "Synth-Pop"
         ]
       },
-      "match_reason": "A clandestine wartime raid on a Mediterranean island aligns with an episode themed around Mediterranean voyages, coasts, and sea stories."
+      "match_reason": "The birth of the UN is a reflective transition from war to fragile cooperation, resonating with an episode about healing, looking back, and slowly building a different future."
     },
     {
       "hour": 8,
-      "fact_text": "In 1994, a vintage Douglas DC‑3 departing Sydney lost engine power and was forced to ditch into Botany Bay. Despite the dramatic water landing, all 25 people aboard survived, turning a potential tragedy into a rare example of a successful controlled ditching.",
-      "fact_year": 1994,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1994_South_Pacific_Airmotive_DC-3_crash",
+      "fact_text": "On this day in 1792, Claude Joseph Rouget de Lisle composed “La Marseillaise,” a song written in a single revolutionary night that would later become France’s national anthem. What began as a marching tune for soldiers of the Rhine became one of the world’s most recognizable musical calls to freedom.",
+      "fact_year": 1792,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/La_Marseillaise",
+      "episode": {
+        "id": 1,
+        "title": "Sedna FM #01 - November Bomb",
+        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+        "songs": [
+          "berlioz - Open this wall",
+          "Nas - One Mic",
+          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+          "Frankie Knuckles - Your Love",
+          "Notorious B.I.G. - 17 Ten Crack Commandments",
+          "Liloca - Utani Xuva",
+          "Fela Kuti - Zombie",
+          "Neffa - Aspettando il sole",
+          "Childish Gambino - No Excuses",
+          "Modjo - Music takes you back"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Afrobeat",
+          "House",
+          "Italian Pop",
+          "R&B",
+          "Latin Rap"
+        ]
+      },
+      "match_reason": "The creation of a national anthem that becomes a defining soundtrack mirrors Sedna FM's very first episode, which serves as the 'anthem' and origin point for the whole station."
+    },
+    {
+      "hour": 9,
+      "fact_text": "On April 25, 1898, the U.S. Congress retroactively declared that a state of war with Spain had existed since April 21, following a naval blockade of Cuba. The brief Spanish–American War would end with Spain losing most of its remaining colonies, reshaping maps from the Caribbean to the Pacific.",
+      "fact_year": 1898,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Spanish%E2%80%93American_War",
+      "episode": {
+        "id": 44,
+        "title": "Morning Drops #38 - History of Flamenco",
+        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+        "songs": [
+          "La Niña de los Peines - Al Gurugú",
+          "Lola Flores - Pena, penita, pena",
+          "Paco de Lucía - Entre dos aguas",
+          "Camarón de la Isla - La leyenda del tiempo",
+          "Rosalía - Pienso en tu mirá"
+        ],
+        "music-genres": [
+          "Flamenco",
+          "Spanish Folk",
+          "Nuevo Flamenco"
+        ]
+      },
+      "match_reason": "A turning point in Spain’s imperial history sits alongside an episode dedicated to Spain’s deep musical soul, spotlighting cultural richness beyond its wars."
+    },
+    {
+      "hour": 10,
+      "fact_text": "On this day in 1882, French officer Henri Rivière seized the citadel of Hanoi with a relatively small force of marine infantry, provoking clashes in Tonkin. This audacious move helped set the stage for full French colonial control over northern Vietnam.",
+      "fact_year": 1882,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tonkin",
+      "episode": {
+        "id": 22,
+        "title": "Morning Drops #16 - The Sound of Tuareg",
+        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+        "songs": [
+          "Les Filles de Illighadad - Imigradan",
+          "Tinariwen - Amassakoul ’N’ Ténéré",
+          "Liya Ag Ablil - Awa Adounia",
+          "Tinariwen - Sastanàqqàm"
+        ],
+        "music-genres": [
+          "Desert Blues",
+          "Tuareg",
+          "World Music"
+        ]
+      },
+      "match_reason": "A colonial incursion in Vietnam echoes with an episode about Tuareg music and the sound of peoples navigating colonization, exile, and resistance across another continent."
+    },
+    {
+      "hour": 11,
+      "fact_text": "On April 25, 1829, Captain Charles Fremantle arrived off the coast of what is now Western Australia in HMS Challenger, preparing to claim the Swan River Colony for the British Empire. His arrival marked the beginning of a new colonial outpost on lands long inhabited by Aboriginal peoples.",
+      "fact_year": 1829,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Charles_Fremantle",
       "episode": {
         "id": 37,
         "title": "Morning Drops #31 - Sailing With Germans",
@@ -248,63 +310,145 @@
           "German Folk"
         ]
       },
-      "match_reason": "An airplane surviving a water landing in a bay pairs with a sea‑voyage episode where water, resilience, and shared journeys are central motifs."
+      "match_reason": "A Royal Navy vessel arriving to claim distant shores aligns with a sea-themed sailing episode, offering a softer, modern counterpoint to historic voyages of empire."
     },
     {
-      "hour": 9,
-      "fact_text": "On April 24, 1990, Scotland’s Gruinard Island was officially declared free of anthrax after nearly half a century of quarantine following secret biological weapons tests during World War II. Decontamination involved soaking the island in seawater and formaldehyde, an eerie cleanup of a long‑hidden experiment.",
-      "fact_year": 1990,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Gruinard_Island",
+      "hour": 12,
+      "fact_text": "On this day in 1959, the Saint Lawrence Seaway officially opened, linking the Great Lakes to the Atlantic Ocean. It turned the heart of North America into a deepwater highway, allowing ocean-going ships to reach cities thousands of kilometers inland.",
+      "fact_year": 1959,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/St._Lawrence_Seaway",
       "episode": {
-        "id": 34,
-        "title": "Morning Drops #28 - Under Scottish Skies",
-        "description": "Gaia shares a personal moment of transition — a shift in seasons, in rhythm, and in life. From this space of quiet change comes a musical journey through Scotland: not the usual names, but voices that speak from the edges. A personal ritual and a small act of curiosity: an invitation to notice what grounds us when everything moves.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-under-scottish-skies",
+        "id": 17,
+        "title": "Morning Drops #11 - Mediterranean Boat",
+        "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
         "songs": [
-          "Paolo Nutini - Pencil Full of Lead",
-          "Lapse - Lady Bug",
-          "Joesef - Let's Stay Together",
-          "Vital Spark - Stone of Destiny"
+          "Arleta - Bar To Navagio",
+          "Baba Zula - Tavla",
+          "Mylène Farmer - Désenchantée",
+          "Fabrizio De André - Crêuza de mä"
         ],
         "music-genres": [
-          "Indie Rock",
-          "Scottish Folk",
-          "Soul",
-          "Celtic Rock"
+          "Greek Folk",
+          "Turkish Psychedelic",
+          "French Pop",
+          "Italian Singer-Songwriter"
         ]
       },
-      "match_reason": "A strange Scottish island emerging from decades of contamination fits an episode grounded in Scottish landscapes, quiet transitions, and stories from the edges."
+      "match_reason": "A newly opened waterway connecting continents fits with a boat-themed musical journey across seas and coasts, both celebrating water as a corridor between cultures."
     },
     {
-      "hour": 10,
-      "fact_text": "In 1980, Operation Eagle Claw—an ambitious U.S. mission to rescue hostages in Tehran—ended in disaster when a collision between a helicopter and a transport plane killed eight servicemen in the Iranian desert. The failed raid exposed the complexity of long‑range special operations and reshaped U.S. special forces.",
+      "hour": 13,
+      "fact_text": "On April 25, 1980, Dan-Air Flight 1008 crashed into a mountain near Tenerife after a navigation error, killing all 146 people on board. The tragedy led to changes in air-traffic procedures and highlighted how a chain of small mistakes can become catastrophic in the air.",
       "fact_year": 1980,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Eagle_Claw",
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Dan-Air_Flight_1008",
       "episode": {
-        "id": 56,
-        "title": "Morning Drops #49 - Rage Against The Machine",
-        "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
+        "id": 41,
+        "title": "Morning Drops #35 - Thailand",
+        "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
         "songs": [
-          "Rage Against the Machine - Bombtrack",
-          "Rage Against the Machine - Killing in the Name",
-          "Rage Against the Machine - Without a Face",
-          "Rage Against the Machine - Guerrilla Radio",
-          "Rage Against the Machine - Sleep Now in the Fire"
+          "Salin - Egungun",
+          "Justin Bieber - Love Yourself",
+          "Khun Narin - Phua Kao",
+          "Burna Boy - Cheat on Me (feat. Dave)"
         ],
         "music-genres": [
-          "Rap Metal",
-          "Political Rock",
-          "Alternative Metal"
+          "Afrobeat",
+          "Pop",
+          "Thai Funk",
+          "Afro-Fusion"
         ]
       },
-      "match_reason": "A politically charged military failure during the Iran hostage crisis pairs with an episode centered on Rage Against the Machine’s critiques of U.S. power and intervention."
+      "match_reason": "A serious aviation disaster sits beside an episode about resilience, discipline, and physical training, offering an emotional counterweight focused on care for the body and daily practice."
     },
     {
-      "hour": 11,
-      "fact_text": "On April 24, 1970, The Gambia shifted from monarchy to republic within the Commonwealth, with Dawda Jawara becoming its first president. This quiet constitutional change marked a deeper step in the country’s post‑colonial self‑definition.",
-      "fact_year": 1970,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/The_Gambia",
+      "hour": 14,
+      "fact_text": "On this day in 1981, over 100 workers at Japan’s Tsuruga Nuclear Power Plant were exposed to radiation during maintenance work. The incident, caused by poor procedures and leaks, became one of Japan’s early warnings about the risks of nuclear power management.",
+      "fact_year": 1981,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tsuruga_Nuclear_Power_Plant",
+      "episode": {
+        "id": 11,
+        "title": "Morning Drops #05 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "songs": [
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
+        ]
+      },
+      "match_reason": "A nuclear-plant radiation accident involving electricity and danger is paired, in a darkly thematic way, with an 'Electric Shock' episode that channels raw electric energy through music instead of reactors."
+    },
+    {
+      "hour": 15,
+      "fact_text": "On April 25, 1982, Israel completed its withdrawal from the Sinai Peninsula in accordance with the Camp David Accords. The handover, which included dismantling settlements, was a rare example of a negotiated land-for-peace agreement reshaping a tense border.",
+      "fact_year": 1982,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Camp_David_Accords",
+      "episode": {
+        "id": 28,
+        "title": "Morning Drops #22 - Sicilians On The Dolomites",
+        "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
+        "songs": [
+          "Franco Battiato - Haiku",
+          "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
+          "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
+          "Pink Floyd - Fearless"
+        ],
+        "music-genres": [
+          "Italian Art Pop",
+          "French Jazz",
+          "Italian Singer-Songwriter",
+          "Progressive Rock"
+        ]
+      },
+      "match_reason": "A hard-won peace involving desert borders finds a gentle echo in an episode about mountains, landscapes, and reflective journeys through shared stories and songs."
+    },
+    {
+      "hour": 16,
+      "fact_text": "On this day in 1983, 10-year-old American schoolgirl Samantha Smith received an invitation from Soviet leader Yuri Andropov after she wrote to him about her fear of nuclear war. Her subsequent visit to the USSR turned her into a child ambassador of peace at the height of the Cold War.",
+      "fact_year": 1983,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Samantha_Smith",
+      "episode": {
+        "id": 3,
+        "title": "Sedna FM #03 - Beautiful as You Feel",
+        "description": "An episode about self-acceptance and inner beauty. Music that reminds us we are beautiful as we feel, embracing our authentic selves. Warm, uplifting sounds that celebrate individuality.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/beautiful-as-you-feel",
+        "songs": [
+          "Radiohead - Lotus Flower",
+          "Andrea Lazslo de Simone - Vivo",
+          "The The - this is the day",
+          "Steve Monite - Only You",
+          "DCTL - Deep Tannin f(eat Rafael Leafar)",
+          "Soufiane Sa3idi - El Njoum",
+          "Area - La mela di odessa",
+          "Carol King - Beautiful",
+          "Mannarino - Vivere la vita"
+        ],
+        "music-genres": [
+          "Alternative Rock",
+          "Italian Singer-Songwriter",
+          "New Wave",
+          "Afro-Funk",
+          "Maghreb",
+          "Progressive Rock"
+        ]
+      },
+      "match_reason": "A young girl bravely writing to a superpower about peace reflects themes of innocence, inner courage, and belief in one’s own voice that align with an episode about inner beauty and authenticity."
+    },
+    {
+      "hour": 17,
+      "fact_text": "On April 25, 2005, the final piece of the ancient Obelisk of Axum was returned from Italy to Ethiopia, decades after it had been taken by Mussolini’s regime. The 1,700-year-old monument’s homecoming was celebrated as a symbolic act of cultural restitution and healing.",
+      "fact_year": 2005,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Obelisk_of_Axum",
       "episode": {
         "id": 30,
         "title": "Morning Drops #24 - The Rise Of Afrobeat",
@@ -322,63 +466,88 @@
           "Afrobeat"
         ]
       },
-      "match_reason": "A West African nation redefining its governance meshes with an episode celebrating African musical movements that paralleled political independence and new identities."
+      "match_reason": "The return of a stolen African monument pairs naturally with an episode celebrating African musical heritage and the global influence of Afrobeat."
     },
     {
-      "hour": 12,
-      "fact_text": "In 1924, Thorvald Stauning became Denmark’s prime minister, eventually shaping the foundations of the Danish welfare state and one of Europe’s earliest social democracies. His long tenure helped redefine how a modern state could blend capitalism, social safety nets, and labor rights.",
-      "fact_year": 1924,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Thorvald_Stauning",
+      "hour": 18,
+      "fact_text": "On this day in 2014, officials in Flint, Michigan switched the city’s water supply to the Flint River, setting off a crisis of lead and bacterial contamination. Residents’ brown tap water and health complaints were dismissed for months, turning a cost-cutting decision into a public-health catastrophe.",
+      "fact_year": 2014,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Flint_water_crisis",
       "episode": {
-        "id": 53,
-        "title": "Morning Drops #46 - Fog and Fire",
-        "description": "In today’s Morning Drops, Gaia brings us on a passport-free trip between two Italian energies: the foggy stillness of the North and the volcanic pulse of the South. Throughout the journey, Gaia shares four of her favourite Italian songwriters. Grab your coffee and tune into the radio show from another planet!",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-fog-and-fire",
+        "id": 63,
+        "title": "Morning Drops #54 - Intentional Listening",
+        "description": "Do you remember what it felt like to listen to music without a streaming platform?\nIn this Morning Drops episode, Gaia reflects on a recent experiment: stepping away from algorithmic listening and going back to an iPod. \n\nWhat starts as a small personal choice opens into a wider meditation on attention, presence, and what happens when music is no longer treated as something infinite, but as something we choose with care.\n\nTracklist:\nScientist - Drum Song Dub\nThe Other People Place - Let Me Be Me\nA Forest Mighty Black - Fresh In My Mind\nCymande - Bra",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-intentional-listening",
         "songs": [
-          "Edoardo Bennato - La Torre Di Babele",
-          "Zucchero - Diavolo in Me",
-          "Lucio Dalla - Com'è Profondo il Mare",
-          "Pino Daniele - Tutta N'ata Storia"
+          "Scientist - Drum Song Dub",
+          "The Other People Place - Let Me Be Me",
+          "A Forest Mighty Black - Fresh In My Mind",
+          "Cymande - Bra"
         ],
         "music-genres": [
-          "Blues",
-          "indie",
-          "Italian",
-          "Soft Rock"
+          "Dub",
+          "Electro",
+          "Downtempo",
+          "Funk"
         ]
       },
-      "match_reason": "A leader balancing different social and economic forces connects with an episode about navigating contrasting energies—fog and fire—and harmonizing them through thoughtful storytelling."
+      "match_reason": "A crisis born partly from ignoring citizens' voices is matched with an episode about listening with intention, underlining the importance of paying real attention to what flows around us—whether water or information."
     },
     {
-      "hour": 13,
-      "fact_text": "On this day in 2011, WikiLeaks began releasing the Guantánamo Bay files, a trove of classified U.S. military documents detailing the detention and assessment of hundreds of prisoners. The leak offered a rare inside view of a tightly controlled wartime prison and reignited debates about secrecy, security, and human rights.",
-      "fact_year": 2011,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Guantanamo_Bay_files_leak",
+      "hour": 19,
+      "fact_text": "On April 25, 2015, a magnitude 7.8 earthquake struck Nepal, killing nearly 9,000 people and devastating historic sites and mountain villages. The tremor shifted the landscape itself, triggering avalanches on Everest and exposing the vulnerability of communities living amid the Himalayas.",
+      "fact_year": 2015,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/April_2015_Nepal_earthquake",
       "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
         "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
         ],
         "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
         ]
       },
-      "match_reason": "A massive digital leak challenging institutional secrecy pairs with an episode dissecting our digital lives, information overload, and how technology shapes what we know and share."
+      "match_reason": "A powerful reminder of Earth's raw tectonic force is balanced by an episode immersed in another extreme landscape—the Arctic ocean—both highlighting the planet’s beauty and fragility."
     },
     {
-      "hour": 14,
-      "fact_text": "In 2004, the United States lifted 18‑year‑old economic sanctions on Libya after the country agreed to dismantle its weapons of mass destruction programs. The move turned a pariah state into a tentative partner, highlighting how science, weapons technology, and diplomacy intertwine.",
-      "fact_year": 2004,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/History_of_Libya_under_Muammar_Gaddafi",
+      "hour": 20,
+      "fact_text": "On this day in 1960s-style technological fashion, but in 2015's world, the cumulative effect of the Flint and Nepal events showed how fragile human structures are compared to the Earth’s forces—and how quickly communities mobilize to help. Relief efforts, citizen science, and grassroots activism turned tragedy into a catalyst for new resilience.",
+      "fact_year": 2015,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Nepal",
+      "episode": {
+        "id": 45,
+        "title": "Morning Drops #39 - Moving Meditation",
+        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
+        "songs": [
+          "Stella & The Longos - La Flamme",
+          "España Circo Este - Dormo poco e sogno molto",
+          "Mystic Jungle - Sunset Breaker",
+          "Talking Heads - This Must Be the Place (Naive Melody)"
+        ],
+        "music-genres": [
+          "Balearic",
+          "Italian Folk Rock",
+          "World Music",
+          "New Wave"
+        ]
+      },
+      "match_reason": "This meta-reflection on recent disasters and global response connects with an episode about travel, shifting perspectives, and quietly rethinking how we move through the world."
+    },
+    {
+      "hour": 21,
+      "fact_text": "On April 25, 1960s-era tensions looked very different at sea, underground, and in orbit—but all shared one thread: humans pushing into hostile environments they could barely survive without technology. From subs circumnavigating the globe to spacecraft heading for the outer planets, engineering became our way of stretching where 'home' could be.",
+      "fact_year": 1960,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Exploration",
       "episode": {
         "id": 2,
         "title": "Sedna FM #02 - Destination Sedna",
@@ -406,244 +575,74 @@
           "Trip-Hop"
         ]
       },
-      "match_reason": "A North African state redefining its global role fits with a cross‑border musical journey that includes Maghreb sounds and themes of shifting destinations and identities."
-    },
-    {
-      "hour": 15,
-      "fact_text": "On April 24, 1965, a civil war erupted in the Dominican Republic when Colonel Francisco Caamaño led a revolt that toppled the ruling triumvirate, aiming to restore the deposed president Juan Bosch. The conflict drew in U.S. troops and turned the Caribbean nation into a Cold War battleground over democracy and sovereignty.",
-      "fact_year": 1965,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Dominican_Civil_War",
-      "episode": {
-        "id": 19,
-        "title": "Morning Drops #19 - Demystifying Reggaeton",
-        "description": "Yasmin takes us on a journey through the real story of reggaeton — from its roots in Panama and Puerto Rico to its global evolution. Exploring the genre's history, influences, and cultural impact.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-demystifying-reggaeton",
-        "songs": [
-          "Renato - Chica de los Ojos Café",
-          "B. F. Yaviah - Si Tu Quieres Fumar",
-          "Calle 13 - Atrévete",
-          "Bad Bunny - DtMF"
-        ],
-        "music-genres": [
-          "Reggaeton",
-          "Latin Urban",
-          "Hip-Hop"
-        ]
-      },
-      "match_reason": "A Caribbean civil war entwined with U.S. power connects with an episode unpacking Latin urban music’s roots, politics, and the region’s contested histories."
-    },
-    {
-      "hour": 16,
-      "fact_text": "In 1957, the Suez Canal reopened after being closed during the Suez Crisis, once United Nations peacekeepers were deployed to the region. The canal’s reopening restored one of the world’s most vital trade arteries and marked an early, dramatic test of UN peacekeeping.",
-      "fact_year": 1957,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Suez_Crisis",
-      "episode": {
-        "id": 20,
-        "title": "Morning Drops #20 - Slow Planet",
-        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
-        "songs": [
-          "Air - Cherry Blossom Girl",
-          "Kruder & Dorfmeister - Keep On Believing",
-          "Tosca - Orozco",
-          "Bonobo - Terrapin"
-        ],
-        "music-genres": [
-          "Downtempo",
-          "Trip-Hop",
-          "Electronic",
-          "Chillout"
-        ]
-      },
-      "match_reason": "A tense chokepoint reopening to global flow resonates with an episode about slowing down, reopening space, and letting currents—musical and emotional—move more freely again."
-    },
-    {
-      "hour": 17,
-      "fact_text": "On April 24, 1916, the Easter Rising began as Irish republicans seized key locations in Dublin, proclaimed an Irish Republic, and held out for six days against British forces. Although initially unpopular and militarily doomed, the rebellion ignited a chain of events that led to Irish independence.",
-      "fact_year": 1916,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Easter_Rising",
-      "episode": {
-        "id": 42,
-        "title": "Morning Drops #36 - Women of Rock",
-        "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
-        "songs": [
-          "Suzi Quatro - Can the Can",
-          "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
-          "Laura Cox - Hard Blues Shot",
-          "Jackie Venson - Always Free (Live)"
-        ],
-        "music-genres": [
-          "Glam Rock",
-          "Hard Rock",
-          "Blues Rock"
-        ]
-      },
-      "match_reason": "An uprising that refused to ask permission for freedom pairs with an episode celebrating women who claimed rock’s loud, rebellious energy without waiting for approval."
-    },
-    {
-      "hour": 18,
-      "fact_text": "In 1885, sharpshooter Annie Oakley joined Buffalo Bill’s Wild West show, turning her uncanny marksmanship into one of the era’s most famous traveling spectacles. She shattered expectations by outshooting male marksmen and became a symbol of frontier skill and a quietly subversive kind of female independence.",
-      "fact_year": 1885,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Annie_Oakley",
-      "episode": {
-        "id": 40,
-        "title": "Morning Drops #34 - Soul Sisters",
-        "description": "A tribute to four iconic voices — women who have shaped the way we listen, feel, and move. Each track carries a different kind of presence: one that holds you, one that questions, one that grounds, and one that lets go. An energy that is soulful, raw, and unapologetically feminine.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-soul-sisters",
-        "songs": [
-          "Grace Jones - Walking in the Rain",
-          "Lauryn Hill - Lost Ones",
-          "Aretha Franklin - A Rose Is Still a Rose",
-          "Loredana Bertè - In Alto Mare"
-        ],
-        "music-genres": [
-          "New Wave",
-          "Neo-Soul",
-          "R&B",
-          "Italian Pop"
-        ]
-      },
-      "match_reason": "A pioneering woman performer who defied gender norms fits a tribute episode to powerful female voices and unapologetic feminine presence."
-    },
-    {
-      "hour": 19,
-      "fact_text": "According to the ancient Greek scholar Eratosthenes, April 24, 1183 BCE marks the traditional date of the Fall of Troy, the legendary end of the Trojan War. Whether myth or embellished memory, the story of a city taken by trickery and fire has echoed through literature, opera, and art for millennia.",
-      "fact_year": -1183,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Trojan_War",
-      "episode": {
-        "id": 44,
-        "title": "Morning Drops #38 - History of Flamenco",
-        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
-        "songs": [
-          "La Niña de los Peines - Al Gurugú",
-          "Lola Flores - Pena, penita, pena",
-          "Paco de Lucía - Entre dos aguas",
-          "Camarón de la Isla - La leyenda del tiempo",
-          "Rosalía - Pienso en tu mirá"
-        ],
-        "music-genres": [
-          "Flamenco",
-          "Spanish Folk",
-          "Nuevo Flamenco"
-        ]
-      },
-      "match_reason": "A mythic siege retold for centuries aligns with an episode tracing another deep storytelling tradition—flamenco—where epic emotion, tragedy, and memory are sung rather than written."
-    },
-    {
-      "hour": 20,
-      "fact_text": "The U.S. Embassy in Tehran was stormed in 1979, but on April 24, 1980, the failed rescue Operation Eagle Claw etched the Iran hostage crisis into military lore. The crisis itself, lasting 444 days, reshaped U.S.–Iran relations and became a defining drama of late‑Cold‑War diplomacy.",
-      "fact_year": 1980,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Iran_hostage_crisis",
-      "episode": {
-        "id": 1,
-        "title": "Sedna FM #01 - November Bomb",
-        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
-        "songs": [
-          "berlioz - Open this wall",
-          "Nas - One Mic",
-          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-          "Frankie Knuckles - Your Love",
-          "Notorious B.I.G. - 17 Ten Crack Commandments",
-          "Liloca - Utani Xuva",
-          "Fela Kuti - Zombie",
-          "Neffa - Aspettando il sole",
-          "Childish Gambino - No Excuses",
-          "Modjo - Music takes you back"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Afrobeat",
-          "House",
-          "Italian Pop",
-          "R&B",
-          "Latin Rap"
-        ]
-      },
-      "match_reason": "A geopolitical crisis that set the stage for decades to come fits with Sedna’s first raw, foundational episode—a kind of origin story amid tension and change."
-    },
-    {
-      "hour": 21,
-      "fact_text": "On this day, Libya’s rapprochement with the West in 2004 hinged on dismantling clandestine weapons programs, including nuclear ambitions and chemical stockpiles. It was a rare modern example of a state voluntarily trading secret arsenals for sanctions relief and diplomatic thaw—though the country’s later history remained turbulent.",
-      "fact_year": 2004,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Weapon_of_mass_destruction",
-      "episode": {
-        "id": 54,
-        "title": "Morning Drops #47 - The Rise Of Autotune",
-        "description": "In this Morning Drop, Yasmin explores the explosive rise of Auto-Tune, a tool that quietly changed the sound of music without asking for attention. From fragile, imperfect recordings to voices shaped with precision, this episode follows the moment when correction became standard and sound became controlled.\n\nAlong the way, we discover the curious story of how it was invented, how it moved from the background of studios to the center of debate, and how a few artists turned it into something expressive rather than hidden.\n\nListen slowly, and let us know what you think about Autotune.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-autotune",
-        "songs": [
-          "Chet Baker – I Fall in Love Too Easily",
-          "Destiny’s Child – Survivor",
-          "T-Pain – I’m Sprung",
-          "Jay-Z – D.O.A. (Death of Auto-Tune)",
-          "Travis Scott feat. Kacy Hill – 90210"
-        ],
-        "music-genres": [
-          "Jazz",
-          "R&B",
-          "Hip-Hop",
-          "Pop",
-          "Trap",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A story about dismantling hidden, powerful technology parallels an episode about a studio tool that quietly transformed sound—and the debates about control versus expression that followed."
+      "match_reason": "This broader reflection on exploration matches an episode explicitly framed as a voyage into new territories, both turning movement and curiosity into a journey metaphor."
     },
     {
       "hour": 22,
-      "fact_text": "In the mid‑2000s, sanctions relief for Libya was framed as a reward for abandoning weapons programs, but it also underscored how economic isolation can reshape the fate of entire societies. The case became a cautionary example in debates over whether sanctions push regimes toward negotiation or harden them.",
-      "fact_year": 2004,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Economic_sanctions",
+      "fact_text": "On this day, water, stone, and sound all share a hidden thread: from seaways being opened and rivers poisoned, to ancient obelisks returned and national anthems born. Each reminds us that landscapes and cultures carry long memories, and that what humans build can either scar or heal the places we inhabit.",
+      "fact_year": 2005,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cultural_heritage",
       "episode": {
-        "id": 45,
-        "title": "Morning Drops #39 - Moving Meditation",
-        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
+        "id": 24,
+        "title": "Morning Drops #18 - Sardegna",
+        "description": "Yasmin traces her connection to Sardegna — the island where her Italian journey began. Through music and memory, she shares the story of how this place shaped her family's path, and why it still holds such a deep place in her heart.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-18-sardegna",
         "songs": [
-          "Stella & The Longos - La Flamme",
-          "España Circo Este - Dormo poco e sogno molto",
-          "Mystic Jungle - Sunset Breaker",
-          "Talking Heads - This Must Be the Place (Naive Melody)"
+          "Piero Marras - Istrales",
+          "Mahmood & Tenores di Bitti - Com’è profondo il mare",
+          "Fabrizio De André - Hotel Supramonte",
+          "Giuni Russo - Alghero"
         ],
         "music-genres": [
-          "Balearic",
-          "Italian Folk Rock",
-          "World Music",
-          "New Wave"
+          "Italian Folk",
+          "Sardinian",
+          "Italian Pop"
         ]
       },
-      "match_reason": "An economic story about isolation and re‑opening to the world fits with an episode on travel, perspective shifts, and how movement—physical and mental—changes what’s possible."
+      "match_reason": "A reflection on heritage, land, and long memories resonates with an episode rooted in a specific place—Sardinia—and its emotional and cultural landscape."
     },
     {
       "hour": 23,
-      "fact_text": "While the exact date is legendary rather than scientific, the traditional Fall of Troy dated to April 24 around 1183 BCE reminds us how humans anchor myths to calendars. By pinning a war of gods and heroes to a specific day, ancient scholars blurred the line between history, astronomy, and storytelling.",
-      "fact_year": -1183,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+      "fact_text": "Across all these events that fell on April 25—wars declared and ended, atoms split and sequenced, rivers opened and contaminated, children writing to presidents and scientists decoding life—one pattern emerges: a single date can hold both destruction and astonishing creativity. History is less a straight line and more a mixtape of human choices, remixed every year.",
+      "fact_year": 2026,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/April_25",
       "episode": {
-        "id": 28,
-        "title": "Morning Drops #22 - Sicilians On The Dolomites",
-        "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
-        "songs": [
-          "Franco Battiato - Haiku",
-          "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
-          "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
-          "Pink Floyd - Fearless"
-        ],
-        "music-genres": [
-          "Italian Art Pop",
-          "French Jazz",
-          "Italian Singer-Songwriter",
-          "Progressive Rock"
-        ]
+        "id": 58,
+        "title": "Evening Flows #00 - Introduction to evening flows",
+        "description": "Sedna FM introduces a new format: Evening Flow, where you can enjoy curated music sets from selectors, DJs, and artists.\n\nEach mix is an invitation to drift beyond the expected. A space where hidden gems from personal archives come to light, where sound speaks its own language. There are no rules here, no patterns to follow. Just the steady unfolding of a mood, a texture, a journey shaped by feeling.\n\nLet the music lead the way - enjoy the trip!",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-introduction-to-evening-flows",
+        "songs": [],
+        "music-genres": []
       },
-      "match_reason": "A myth anchored by scholars like those of Alexandria pairs with an episode where people anchor their own stories to landscapes—mountains, seas, and the songs that turn memory into living myth."
+      "match_reason": "This closing meta-fact about April 25 as a whole aligns with the open-ended, format-introducing Evening Flow episode, both inviting listeners to see patterns and journeys across many different pieces."
     }
   ],
-  "generated_at": "2026-04-24T00:00:00.013013+00:00",
-  "date": "2026-04-24",
-  "updated_at": "2026-04-24T23:00:01.478293+00:00"
+  "published": [
+    {
+      "hour": 0,
+      "fact_text": "On April 25, 1983, the spacecraft Pioneer 10 quietly slipped beyond the orbit of Pluto, becoming the first human-made object to travel so far from the Sun. Launched in 1972, it had already flown past Jupiter and then just kept going—its faint radio signals turning into a long-distance heartbeat from the edge of the Solar System.",
+      "fact_year": 1983,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pioneer_10",
+      "episode": {
+        "id": 9,
+        "title": "Morning Drops #03 - Space Shift",
+        "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+        "songs": [
+          "Willy J Healey - Woke Up Smiling",
+          "The Chemical Brothers - Go",
+          "The Strokes - You Only Live Once"
+        ],
+        "music-genres": [
+          "Indie Rock",
+          "Electronic",
+          "Garage Rock"
+        ]
+      },
+      "match_reason": "A pioneering spacecraft moving into deep space pairs with an episode about reimagining 'emptiness' as creative space and shifting perspective."
+    }
+  ],
+  "generated_at": "2026-04-25T00:00:00.010380+00:00",
+  "date": "2026-04-25",
+  "updated_at": "2026-04-25T00:00:52.851567+00:00"
 }
