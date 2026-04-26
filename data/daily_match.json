@@ -1,56 +1,31 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "Also in 1944, British commandos and Cretan resistance fighters kidnapped German General Heinrich Kreipe in occupied Crete. They famously smuggled him over the island’s rugged mountains under the noses of Nazi patrols, an operation so audacious it later inspired films and legends.",
-    "fact_year": 1944,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Heinrich_Kreipe",
+    "hour": 11,
+    "fact_text": "On April 26, 1937, the small Basque town of Guernica was bombed by the German Condor Legion and Italian Aviazione Legionaria during the Spanish Civil War. The attack, one of the first aerial bombings of a civilian population, shocked the world and inspired Pablo Picasso’s haunting anti‑war masterpiece, ‘Guernica.’",
+    "fact_year": 1937,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bombing_of_Guernica",
     "episode": {
-      "id": 28,
-      "title": "Morning Drops #22 - Sicilians On The Dolomites",
-      "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
+      "id": 56,
+      "title": "Morning Drops #49 - Rage Against The Machine",
+      "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
       "songs": [
-        "Franco Battiato - Haiku",
-        "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
-        "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
-        "Pink Floyd - Fearless"
+        "Rage Against the Machine - Bombtrack",
+        "Rage Against the Machine - Killing in the Name",
+        "Rage Against the Machine - Without a Face",
+        "Rage Against the Machine - Guerrilla Radio",
+        "Rage Against the Machine - Sleep Now in the Fire"
       ],
       "music-genres": [
-        "Italian Art Pop",
-        "French Jazz",
-        "Italian Singer-Songwriter",
-        "Progressive Rock"
+        "Rap Metal",
+        "Political Rock",
+        "Alternative Metal"
       ]
     },
-    "match_reason": "A daring mountain escape in Crete aligns with an episode shaped by mountain landscapes and the stories that echo through high, rugged terrain."
+    "match_reason": "An infamous bombing that became a symbol of anti‑war protest matches an episode centered on Rage Against the Machine, whose music channels political outrage and resistance."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "On April 26, 1937, the small Basque town of Guernica was bombed by the German Condor Legion and Italian Aviazione Legionaria during the Spanish Civil War. The attack, one of the first aerial bombings of a civilian population, shocked the world and inspired Pablo Picasso’s haunting anti‑war masterpiece, ‘Guernica.’",
-      "fact_year": 1937,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bombing_of_Guernica",
-      "episode": {
-        "id": 56,
-        "title": "Morning Drops #49 - Rage Against The Machine",
-        "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
-        "songs": [
-          "Rage Against the Machine - Bombtrack",
-          "Rage Against the Machine - Killing in the Name",
-          "Rage Against the Machine - Without a Face",
-          "Rage Against the Machine - Guerrilla Radio",
-          "Rage Against the Machine - Sleep Now in the Fire"
-        ],
-        "music-genres": [
-          "Rap Metal",
-          "Political Rock",
-          "Alternative Metal"
-        ]
-      },
-      "match_reason": "An infamous bombing that became a symbol of anti‑war protest matches an episode centered on Rage Against the Machine, whose music channels political outrage and resistance."
-    },
     {
       "hour": 12,
       "fact_text": "In 1805, during the First Barbary War, U.S. Marines and mercenaries captured the Libyan port city of Derna. The daring overland march to raise the American flag on foreign soil—immortalized in the ‘Marines’ Hymn’—marked one of the earliest overseas military actions by the young United States.",
@@ -625,9 +600,34 @@
         ]
       },
       "match_reason": "A daring mountain escape in Crete aligns with an episode shaped by mountain landscapes and the stories that echo through high, rugged terrain."
+    },
+    {
+      "hour": 11,
+      "fact_text": "On April 26, 1937, the small Basque town of Guernica was bombed by the German Condor Legion and Italian Aviazione Legionaria during the Spanish Civil War. The attack, one of the first aerial bombings of a civilian population, shocked the world and inspired Pablo Picasso’s haunting anti‑war masterpiece, ‘Guernica.’",
+      "fact_year": 1937,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bombing_of_Guernica",
+      "episode": {
+        "id": 56,
+        "title": "Morning Drops #49 - Rage Against The Machine",
+        "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
+        "songs": [
+          "Rage Against the Machine - Bombtrack",
+          "Rage Against the Machine - Killing in the Name",
+          "Rage Against the Machine - Without a Face",
+          "Rage Against the Machine - Guerrilla Radio",
+          "Rage Against the Machine - Sleep Now in the Fire"
+        ],
+        "music-genres": [
+          "Rap Metal",
+          "Political Rock",
+          "Alternative Metal"
+        ]
+      },
+      "match_reason": "An infamous bombing that became a symbol of anti‑war protest matches an episode centered on Rage Against the Machine, whose music channels political outrage and resistance."
     }
   ],
   "generated_at": "2026-04-26T00:00:00.008166+00:00",
   "date": "2026-04-26",
-  "updated_at": "2026-04-26T10:00:01.341816+00:00"
+  "updated_at": "2026-04-26T11:00:01.708369+00:00"
 }
