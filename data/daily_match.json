@@ -1,51 +1,36 @@
 {
-  "current_hour": 2,
+  "current_hour": 3,
   "current_fact": {
-    "hour": 2,
-    "fact_text": "In 1993, Space Shuttle Columbia’s STS-55 mission turned the orbiter into an orbiting laboratory with the Spacelab module. For almost 10 days, astronauts ran more than 80 experiments in microgravity, turning weightlessness into a tool for biology, materials science, and the physics of life in space.",
-    "fact_year": 1993,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-55",
+    "hour": 3,
+    "fact_text": "On April 26, 1803, thousands of meteorite fragments rained down near L’Aigle in Normandy, France. The event was so spectacular and well-documented that it finally convinced many skeptical European scientists that stones really can fall from the sky, reshaping our understanding of the solar system.",
+    "fact_year": 1803,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/L%27Aigle_(meteorite)",
     "episode": {
-      "id": 58,
-      "title": "Evening Flows #00 - Introduction to evening flows",
-      "description": "Sedna FM introduces a new format: Evening Flow, where you can enjoy curated music sets from selectors, DJs, and artists.\n\nEach mix is an invitation to drift beyond the expected. A space where hidden gems from personal archives come to light, where sound speaks its own language. There are no rules here, no patterns to follow. Just the steady unfolding of a mood, a texture, a journey shaped by feeling.\n\nLet the music lead the way - enjoy the trip!",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-introduction-to-evening-flows",
-      "songs": [],
-      "music-genres": []
+      "id": 48,
+      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+      "songs": [
+        "Stive Morgan - Solar Wind, Pt. 3",
+        "David Visan & Carlos Campos - Crystal Heart",
+        "Evan Mars - Ya Zareef Al Tool",
+        "Gerardo Frisina - Cuiabá",
+        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+        "The Busy Twist - Friday Night"
+      ],
+      "music-genres": [
+        "Ambient",
+        "Deep House",
+        "World Music",
+        "Nu Jazz",
+        "Afrobeat",
+        "Funk",
+        "Electronic"
+      ]
     },
-    "match_reason": "A shuttle turned into a lab in orbit fits the idea of a new format designed as a free-floating ‘space’ for experiments in sound and mood."
+    "match_reason": "A sky full of falling stones and an episode opening with ‘Solar Wind’ both play with cosmic imagery and the sense of invisible forces reshaping our world."
   },
   "queue": [
-    {
-      "hour": 3,
-      "fact_text": "On April 26, 1803, thousands of meteorite fragments rained down near L’Aigle in Normandy, France. The event was so spectacular and well-documented that it finally convinced many skeptical European scientists that stones really can fall from the sky, reshaping our understanding of the solar system.",
-      "fact_year": 1803,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/L%27Aigle_(meteorite)",
-      "episode": {
-        "id": 48,
-        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
-        "songs": [
-          "Stive Morgan - Solar Wind, Pt. 3",
-          "David Visan & Carlos Campos - Crystal Heart",
-          "Evan Mars - Ya Zareef Al Tool",
-          "Gerardo Frisina - Cuiabá",
-          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-          "The Busy Twist - Friday Night"
-        ],
-        "music-genres": [
-          "Ambient",
-          "Deep House",
-          "World Music",
-          "Nu Jazz",
-          "Afrobeat",
-          "Funk",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A sky full of falling stones and an episode opening with ‘Solar Wind’ both play with cosmic imagery and the sense of invisible forces reshaping our world."
-    },
     {
       "hour": 4,
       "fact_text": "In 1986, a late-night safety test at the Chernobyl nuclear power plant went catastrophically wrong, causing the worst nuclear power accident in history. The explosion and fire released vast amounts of radioactive material, turning an ordinary Soviet town into an eerie, long-term laboratory for ecology, health, and resilience.",
@@ -615,9 +600,39 @@
         "music-genres": []
       },
       "match_reason": "A shuttle turned into a lab in orbit fits the idea of a new format designed as a free-floating ‘space’ for experiments in sound and mood."
+    },
+    {
+      "hour": 3,
+      "fact_text": "On April 26, 1803, thousands of meteorite fragments rained down near L’Aigle in Normandy, France. The event was so spectacular and well-documented that it finally convinced many skeptical European scientists that stones really can fall from the sky, reshaping our understanding of the solar system.",
+      "fact_year": 1803,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/L%27Aigle_(meteorite)",
+      "episode": {
+        "id": 48,
+        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+        "songs": [
+          "Stive Morgan - Solar Wind, Pt. 3",
+          "David Visan & Carlos Campos - Crystal Heart",
+          "Evan Mars - Ya Zareef Al Tool",
+          "Gerardo Frisina - Cuiabá",
+          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+          "The Busy Twist - Friday Night"
+        ],
+        "music-genres": [
+          "Ambient",
+          "Deep House",
+          "World Music",
+          "Nu Jazz",
+          "Afrobeat",
+          "Funk",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A sky full of falling stones and an episode opening with ‘Solar Wind’ both play with cosmic imagery and the sense of invisible forces reshaping our world."
     }
   ],
   "generated_at": "2026-04-26T00:00:00.008166+00:00",
   "date": "2026-04-26",
-  "updated_at": "2026-04-26T02:00:01.445370+00:00"
+  "updated_at": "2026-04-26T03:00:01.761151+00:00"
 }
