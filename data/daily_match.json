@@ -1,59 +1,31 @@
 {
-  "current_hour": 20,
+  "current_hour": 21,
   "current_fact": {
-    "hour": 20,
-    "fact_text": "On April 26, 1802, the same amnesty that let many émigrés return also highlighted a curious detail: roughly one thousand of the ‘most notorious’ opponents of the regime were still excluded. Even reconciliation, it seemed, came with carefully drawn red lines and a political edit of who was allowed back into the story.",
-    "fact_year": 1802,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Napoleon",
+    "hour": 21,
+    "fact_text": "On April 26, 1962, NASA’s Ranger 4 crash wasn’t the only cosmic story of the day: together with Ariel 1 and earlier Soviet efforts, it marked a period when space was becoming a laboratory rather than a distant dream. In just a few years, the Moon went from mythic lantern to an object being hit, measured, and mapped by small, fragile machines from Earth.",
+    "fact_year": 1962,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/NASA",
     "episode": {
-      "id": 54,
-      "title": "Morning Drops #47 - The Rise Of Autotune",
-      "description": "In this Morning Drop, Yasmin explores the explosive rise of Auto-Tune, a tool that quietly changed the sound of music without asking for attention. From fragile, imperfect recordings to voices shaped with precision, this episode follows the moment when correction became standard and sound became controlled.\n\nAlong the way, we discover the curious story of how it was invented, how it moved from the background of studios to the center of debate, and how a few artists turned it into something expressive rather than hidden.\n\nListen slowly, and let us know what you think about Autotune.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-autotune",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "Chet Baker – I Fall in Love Too Easily",
-        "Destiny’s Child – Survivor",
-        "T-Pain – I’m Sprung",
-        "Jay-Z – D.O.A. (Death of Auto-Tune)",
-        "Travis Scott feat. Kacy Hill – 90210"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Jazz",
-        "R&B",
-        "Hip-Hop",
-        "Pop",
-        "Trap",
-        "Electronic"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "Napoleon’s selective amnesty ‘edits’ who gets to return, just as Auto‑Tune edits which voices are acceptable—both raising questions about control, correction, and who is left outside the official mix."
+    "match_reason": "As we turned the Moon into an object for instruments, we began weaving technology tightly into our lives; an episode about our dependence on devices echoes that expanding web from space probes to smartphones."
   },
   "queue": [
-    {
-      "hour": 21,
-      "fact_text": "On April 26, 1962, NASA’s Ranger 4 crash wasn’t the only cosmic story of the day: together with Ariel 1 and earlier Soviet efforts, it marked a period when space was becoming a laboratory rather than a distant dream. In just a few years, the Moon went from mythic lantern to an object being hit, measured, and mapped by small, fragile machines from Earth.",
-      "fact_year": 1962,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/NASA",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "As we turned the Moon into an object for instruments, we began weaving technology tightly into our lives; an episode about our dependence on devices echoes that expanding web from space probes to smartphones."
-    },
     {
       "hour": 22,
       "fact_text": "On April 26, 1803, when the L’Aigle meteorites fell, some locals reportedly thought a volcano had erupted in the sky. The meticulous investigation that followed—counting fragments over dozens of square kilometers—helped transform meteorites from folklore and fear into data and science.",
@@ -628,9 +600,34 @@
         ]
       },
       "match_reason": "Napoleon’s selective amnesty ‘edits’ who gets to return, just as Auto‑Tune edits which voices are acceptable—both raising questions about control, correction, and who is left outside the official mix."
+    },
+    {
+      "hour": 21,
+      "fact_text": "On April 26, 1962, NASA’s Ranger 4 crash wasn’t the only cosmic story of the day: together with Ariel 1 and earlier Soviet efforts, it marked a period when space was becoming a laboratory rather than a distant dream. In just a few years, the Moon went from mythic lantern to an object being hit, measured, and mapped by small, fragile machines from Earth.",
+      "fact_year": 1962,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/NASA",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "As we turned the Moon into an object for instruments, we began weaving technology tightly into our lives; an episode about our dependence on devices echoes that expanding web from space probes to smartphones."
     }
   ],
   "generated_at": "2026-04-26T00:00:00.008166+00:00",
   "date": "2026-04-26",
-  "updated_at": "2026-04-26T20:00:01.470007+00:00"
+  "updated_at": "2026-04-26T21:00:01.632101+00:00"
 }
