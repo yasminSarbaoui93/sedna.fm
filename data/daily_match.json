@@ -1,63 +1,40 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 1962, NASA’s Ranger 4 became the first U.S. spacecraft to reach the Moon’s surface—by accident. A technical failure left it ‘dead’ in space, so it slammed into the far side of the Moon without sending back any scientific data, turning a planned triumph into a strangely pioneering crash landing.",
+    "hour": 1,
+    "fact_text": "On April 26, 1962, the United Kingdom entered the Space Age with the launch of Ariel 1, its first satellite. Built in collaboration with NASA, the tiny craft focused on studying Earth’s upper atmosphere and cosmic rays, quietly turning Britain into the third country to operate its own satellite.",
     "fact_year": 1962,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ranger_4",
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ariel_1",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 2,
+      "title": "Sedna FM #02 - Destination Sedna",
+      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Pink Floyd - Breathe",
+        "The fountain DC - Starburster",
+        "Laura Cahen - La Poussiere",
+        "Taxi Kebab - Lmchi w rjou3",
+        "Odion Iruoje - Identify With Your Roots",
+        "Depeche mode - world in my eyes (Oil Tank Mix)",
+        "Massive attack - Dissolved girl",
+        "Kokoroko - Three piece suite",
+        "Salin - Egungun",
+        "E.S.P. - It's You"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Progressive Rock",
+        "Post-Punk",
+        "French Pop",
+        "Maghreb",
+        "Afrobeat",
+        "Synthpop",
+        "Trip-Hop"
       ]
     },
-    "match_reason": "A Moon probe that turned failure into a first pairs well with an episode about rethinking emptiness as creative space and shifting perspective."
+    "match_reason": "Ariel 1’s launch as a national leap into orbit mirrors the episode’s theme of setting off toward new destinations and sonic territories."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On April 26, 1962, the United Kingdom entered the Space Age with the launch of Ariel 1, its first satellite. Built in collaboration with NASA, the tiny craft focused on studying Earth’s upper atmosphere and cosmic rays, quietly turning Britain into the third country to operate its own satellite.",
-      "fact_year": 1962,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ariel_1",
-      "episode": {
-        "id": 2,
-        "title": "Sedna FM #02 - Destination Sedna",
-        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
-        "songs": [
-          "Pink Floyd - Breathe",
-          "The fountain DC - Starburster",
-          "Laura Cahen - La Poussiere",
-          "Taxi Kebab - Lmchi w rjou3",
-          "Odion Iruoje - Identify With Your Roots",
-          "Depeche mode - world in my eyes (Oil Tank Mix)",
-          "Massive attack - Dissolved girl",
-          "Kokoroko - Three piece suite",
-          "Salin - Egungun",
-          "E.S.P. - It's You"
-        ],
-        "music-genres": [
-          "Progressive Rock",
-          "Post-Punk",
-          "French Pop",
-          "Maghreb",
-          "Afrobeat",
-          "Synthpop",
-          "Trip-Hop"
-        ]
-      },
-      "match_reason": "Ariel 1’s launch as a national leap into orbit mirrors the episode’s theme of setting off toward new destinations and sonic territories."
-    },
     {
       "hour": 2,
       "fact_text": "In 1993, Space Shuttle Columbia’s STS-55 mission turned the orbiter into an orbiting laboratory with the Spacelab module. For almost 10 days, astronauts ran more than 80 experiments in microgravity, turning weightlessness into a tool for biology, materials science, and the physics of life in space.",
@@ -623,9 +600,43 @@
         ]
       },
       "match_reason": "A Moon probe that turned failure into a first pairs well with an episode about rethinking emptiness as creative space and shifting perspective."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On April 26, 1962, the United Kingdom entered the Space Age with the launch of Ariel 1, its first satellite. Built in collaboration with NASA, the tiny craft focused on studying Earth’s upper atmosphere and cosmic rays, quietly turning Britain into the third country to operate its own satellite.",
+      "fact_year": 1962,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ariel_1",
+      "episode": {
+        "id": 2,
+        "title": "Sedna FM #02 - Destination Sedna",
+        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+        "songs": [
+          "Pink Floyd - Breathe",
+          "The fountain DC - Starburster",
+          "Laura Cahen - La Poussiere",
+          "Taxi Kebab - Lmchi w rjou3",
+          "Odion Iruoje - Identify With Your Roots",
+          "Depeche mode - world in my eyes (Oil Tank Mix)",
+          "Massive attack - Dissolved girl",
+          "Kokoroko - Three piece suite",
+          "Salin - Egungun",
+          "E.S.P. - It's You"
+        ],
+        "music-genres": [
+          "Progressive Rock",
+          "Post-Punk",
+          "French Pop",
+          "Maghreb",
+          "Afrobeat",
+          "Synthpop",
+          "Trip-Hop"
+        ]
+      },
+      "match_reason": "Ariel 1’s launch as a national leap into orbit mirrors the episode’s theme of setting off toward new destinations and sonic territories."
     }
   ],
   "generated_at": "2026-04-26T00:00:00.008166+00:00",
   "date": "2026-04-26",
-  "updated_at": "2026-04-26T00:00:47.492902+00:00"
+  "updated_at": "2026-04-26T01:00:01.492193+00:00"
 }
