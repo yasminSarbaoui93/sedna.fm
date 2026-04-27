@@ -1,66 +1,32 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "On April 27, 1967, Expo 67 opened in Montreal and instantly became one of the most successful World's Fairs of the 20th century, drawing over 50 million visitors in just six months. The exposition showcased futuristic architecture, experimental pavilions, and a bold optimism about technology and global culture.",
-    "fact_year": 1967,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Expo_67",
+    "hour": 1,
+    "fact_text": "In the early hours of April 27, 1986, the city of Pripyat was evacuated as the scale of the Chernobyl nuclear disaster became apparent. Over 40,000 residents left their homes within hours, turning a modern Soviet city into a frozen time capsule of late–Cold War life.",
+    "fact_year": 1986,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Chernobyl_disaster",
     "episode": {
-      "id": 2,
-      "title": "Sedna FM #02 - Destination Sedna",
-      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+      "id": 49,
+      "title": "Morning Drops #42 - The Joy Of Learning",
+      "description": "Hosted by Yasmin, this Morning Drop explores learning as a lifelong process, focusing on persistence, repetition, and the emotional landscape that comes with challenging oneself over time.\n\nThrough personal stories and scientific insights, the episode looks at how learning reshapes the brain, generates joy through effort, and why progress often arrives after confusion and frustration. It reflects on the so-called delayed pleasure effect, the role of dopamine in motivation, and how curiosity and learning support long-term wellbeing.\n\nThe episode also questions our cultural relationship with failure and invites a softer, more realistic approach to learning, one that accepts mistakes as part of growth and sees persistence as a quiet form of strength.\n\nMood: reflective, grounded, quietly hopeful\nMusic genre: alternative rock, hip hop, electronic, neo-soul, drill\n\nA space to listen slowly and stay with the process.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-joy-of-learning",
       "songs": [
-        "Pink Floyd - Breathe",
-        "The fountain DC - Starburster",
-        "Laura Cahen - La Poussiere",
-        "Taxi Kebab - Lmchi w rjou3",
-        "Odion Iruoje - Identify With Your Roots",
-        "Depeche mode - world in my eyes (Oil Tank Mix)",
-        "Massive attack - Dissolved girl",
-        "Kokoroko - Three piece suite",
-        "Salin - Egungun",
-        "E.S.P. - It's You"
+        "Radiohead - Separator",
+        "Mac Miller - What's the Use?",
+        "Morad & Beny Jr - Sigue",
+        "Post Malone - White Iverson"
       ],
       "music-genres": [
-        "Progressive Rock",
-        "Post-Punk",
-        "French Pop",
-        "Maghreb",
-        "Afrobeat",
-        "Synthpop",
-        "Trip-Hop"
+        "Alternative Rock",
+        "Experimental Electronic",
+        "Hip Hop",
+        "Neo-Soul",
+        "Drill / Trap"
       ]
     },
-    "match_reason": "A global fair about futuristic worlds and cultural exchange pairs with an episode framed as a collective voyage through new musical territories and cosmic travel imagery."
+    "match_reason": "This disaster, born from technological overconfidence and human error, resonates with an episode about learning from failure, neuroplasticity, and rethinking how we relate to risk and progress."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "In the early hours of April 27, 1986, the city of Pripyat was evacuated as the scale of the Chernobyl nuclear disaster became apparent. Over 40,000 residents left their homes within hours, turning a modern Soviet city into a frozen time capsule of late–Cold War life.",
-      "fact_year": 1986,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Chernobyl_disaster",
-      "episode": {
-        "id": 49,
-        "title": "Morning Drops #42 - The Joy Of Learning",
-        "description": "Hosted by Yasmin, this Morning Drop explores learning as a lifelong process, focusing on persistence, repetition, and the emotional landscape that comes with challenging oneself over time.\n\nThrough personal stories and scientific insights, the episode looks at how learning reshapes the brain, generates joy through effort, and why progress often arrives after confusion and frustration. It reflects on the so-called delayed pleasure effect, the role of dopamine in motivation, and how curiosity and learning support long-term wellbeing.\n\nThe episode also questions our cultural relationship with failure and invites a softer, more realistic approach to learning, one that accepts mistakes as part of growth and sees persistence as a quiet form of strength.\n\nMood: reflective, grounded, quietly hopeful\nMusic genre: alternative rock, hip hop, electronic, neo-soul, drill\n\nA space to listen slowly and stay with the process.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-joy-of-learning",
-        "songs": [
-          "Radiohead - Separator",
-          "Mac Miller - What's the Use?",
-          "Morad & Beny Jr - Sigue",
-          "Post Malone - White Iverson"
-        ],
-        "music-genres": [
-          "Alternative Rock",
-          "Experimental Electronic",
-          "Hip Hop",
-          "Neo-Soul",
-          "Drill / Trap"
-        ]
-      },
-      "match_reason": "This disaster, born from technological overconfidence and human error, resonates with an episode about learning from failure, neuroplasticity, and rethinking how we relate to risk and progress."
-    },
     {
       "hour": 2,
       "fact_text": "On April 27, 2011, the so‑called 2011 Super Outbreak unleashed a staggering 205 tornadoes in a single day across the southeastern United States. Entire neighborhoods were leveled in minutes, and the outbreak became one of the deadliest and costliest tornado events in modern American history.",
@@ -649,9 +615,35 @@
         ]
       },
       "match_reason": "A global fair about futuristic worlds and cultural exchange pairs with an episode framed as a collective voyage through new musical territories and cosmic travel imagery."
+    },
+    {
+      "hour": 1,
+      "fact_text": "In the early hours of April 27, 1986, the city of Pripyat was evacuated as the scale of the Chernobyl nuclear disaster became apparent. Over 40,000 residents left their homes within hours, turning a modern Soviet city into a frozen time capsule of late–Cold War life.",
+      "fact_year": 1986,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Chernobyl_disaster",
+      "episode": {
+        "id": 49,
+        "title": "Morning Drops #42 - The Joy Of Learning",
+        "description": "Hosted by Yasmin, this Morning Drop explores learning as a lifelong process, focusing on persistence, repetition, and the emotional landscape that comes with challenging oneself over time.\n\nThrough personal stories and scientific insights, the episode looks at how learning reshapes the brain, generates joy through effort, and why progress often arrives after confusion and frustration. It reflects on the so-called delayed pleasure effect, the role of dopamine in motivation, and how curiosity and learning support long-term wellbeing.\n\nThe episode also questions our cultural relationship with failure and invites a softer, more realistic approach to learning, one that accepts mistakes as part of growth and sees persistence as a quiet form of strength.\n\nMood: reflective, grounded, quietly hopeful\nMusic genre: alternative rock, hip hop, electronic, neo-soul, drill\n\nA space to listen slowly and stay with the process.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-joy-of-learning",
+        "songs": [
+          "Radiohead - Separator",
+          "Mac Miller - What's the Use?",
+          "Morad & Beny Jr - Sigue",
+          "Post Malone - White Iverson"
+        ],
+        "music-genres": [
+          "Alternative Rock",
+          "Experimental Electronic",
+          "Hip Hop",
+          "Neo-Soul",
+          "Drill / Trap"
+        ]
+      },
+      "match_reason": "This disaster, born from technological overconfidence and human error, resonates with an episode about learning from failure, neuroplasticity, and rethinking how we relate to risk and progress."
     }
   ],
   "generated_at": "2026-04-27T00:00:00.019445+00:00",
   "date": "2026-04-27",
-  "updated_at": "2026-04-27T00:02:26.285843+00:00"
+  "updated_at": "2026-04-27T01:00:01.680427+00:00"
 }
