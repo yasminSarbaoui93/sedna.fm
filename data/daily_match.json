@@ -1,59 +1,34 @@
 {
-  "current_hour": 6,
+  "current_hour": 7,
   "current_fact": {
-    "hour": 6,
-    "fact_text": "On April 27, 395, the Eastern Roman Emperor Arcadius married Aelia Eudoxia, the daughter of a Frankish general who would become one of the most influential empresses of Late Antiquity. From behind palace walls, she navigated court politics, church disputes, and imperial succession in a world that rarely admitted women into public power.",
-    "fact_year": 395,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Aelia_Eudoxia",
+    "hour": 7,
+    "fact_text": "On April 27, 1521, Portuguese explorer Ferdinand Magellan was killed at the Battle of Mactan in the Philippines, struck down by warriors led by the local chief Lapulapu. The event turned a European expedition into an indigenous victory and left Magellan's crew to complete the first circumnavigation without him.",
+    "fact_year": 1521,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Mactan",
     "episode": {
-      "id": 40,
-      "title": "Morning Drops #34 - Soul Sisters",
-      "description": "A tribute to four iconic voices — women who have shaped the way we listen, feel, and move. Each track carries a different kind of presence: one that holds you, one that questions, one that grounds, and one that lets go. An energy that is soulful, raw, and unapologetically feminine.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-soul-sisters",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "Grace Jones - Walking in the Rain",
-        "Lauryn Hill - Lost Ones",
-        "Aretha Franklin - A Rose Is Still a Rose",
-        "Loredana Bertè - In Alto Mare"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "New Wave",
-        "Neo-Soul",
-        "R&B",
-        "Italian Pop"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "A story about a powerful empress working within and against patriarchal structures aligns with an episode honoring women who claimed space and power through their voices."
+    "match_reason": "An oceanic clash between explorers and islanders finds its echo in an episode recorded at sea, where sailing, waves, and shared journeys shape the soundtrack."
   },
   "queue": [
-    {
-      "hour": 7,
-      "fact_text": "On April 27, 1521, Portuguese explorer Ferdinand Magellan was killed at the Battle of Mactan in the Philippines, struck down by warriors led by the local chief Lapulapu. The event turned a European expedition into an indigenous victory and left Magellan's crew to complete the first circumnavigation without him.",
-      "fact_year": 1521,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Mactan",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "An oceanic clash between explorers and islanders finds its echo in an episode recorded at sea, where sailing, waves, and shared journeys shape the soundtrack."
-    },
     {
       "hour": 8,
       "fact_text": "On April 27, 1522, the Battle of Bicocca near Milan marked one of the first major European battles where firearms and entrenched positions decisively defeated traditional pike formations. The swift, bloody clash signaled the decline of Swiss mercenary dominance and the rise of gunpowder tactics.",
@@ -640,9 +615,37 @@
         ]
       },
       "match_reason": "A story about a powerful empress working within and against patriarchal structures aligns with an episode honoring women who claimed space and power through their voices."
+    },
+    {
+      "hour": 7,
+      "fact_text": "On April 27, 1521, Portuguese explorer Ferdinand Magellan was killed at the Battle of Mactan in the Philippines, struck down by warriors led by the local chief Lapulapu. The event turned a European expedition into an indigenous victory and left Magellan's crew to complete the first circumnavigation without him.",
+      "fact_year": 1521,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Mactan",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "An oceanic clash between explorers and islanders finds its echo in an episode recorded at sea, where sailing, waves, and shared journeys shape the soundtrack."
     }
   ],
   "generated_at": "2026-04-27T00:00:00.019445+00:00",
   "date": "2026-04-27",
-  "updated_at": "2026-04-27T06:00:01.411975+00:00"
+  "updated_at": "2026-04-27T07:00:01.764681+00:00"
 }
