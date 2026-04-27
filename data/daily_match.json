@@ -1,56 +1,31 @@
 {
-  "current_hour": 9,
+  "current_hour": 10,
   "current_fact": {
-    "hour": 9,
-    "fact_text": "In 1953, the U.S. Air Force launched Operation Moolah, broadcasting an offer of up to $100,000 to any pilot who defected to South Korea with a flyable Soviet MiG‑15. It was a bizarre mix of psychological warfare and aviation espionage, dangling a fortune for a single stolen jet.",
-    "fact_year": 1953,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Moolah",
+    "hour": 10,
+    "fact_text": "Expo 67 opened in Montreal on April 27, 1967, as a futuristic world’s fair where visitors could ride monorails, walk through geodesic domes, and glimpse optimistic visions of the 21st century. For six months, an island in the St. Lawrence River became a temporary planet of architecture, art, and experimental design.",
+    "fact_year": 1967,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Expo_67",
     "episode": {
-      "id": 33,
-      "title": "Morning Drops #27 - Nomophobia",
-      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+      "id": 18,
+      "title": "Morning Drops #12 - 80's Club",
+      "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
       "songs": [
-        "All Them Witches - Internet",
-        "James Blake - The Wilhelm Scream",
-        "Nick Mulvey - Juramidam",
-        "Kraftwerk - Computer Love"
+        "Donna Summer - I Feel Love",
+        "Depeche Mode - Just Can't Get Enough",
+        "Ken Laszlo - Hey Hey Guy",
+        "Mylène Farmer - Sans Contrefaçon"
       ],
       "music-genres": [
-        "Psychedelic Rock",
-        "Electronic",
-        "Folk",
-        "Synth-Pop"
+        "Disco",
+        "Synthpop",
+        "Italo Disco",
+        "French Pop"
       ]
     },
-    "match_reason": "Both the fact and the episode orbit around technology and psychology—how information, signals, and incentives shape what humans dare to do."
+    "match_reason": "Expo 67’s techno‑utopian vibe pairs with an episode celebrating machines that reshaped music, dance, and visions of the future."
   },
   "queue": [
-    {
-      "hour": 10,
-      "fact_text": "Expo 67 opened in Montreal on April 27, 1967, as a futuristic world’s fair where visitors could ride monorails, walk through geodesic domes, and glimpse optimistic visions of the 21st century. For six months, an island in the St. Lawrence River became a temporary planet of architecture, art, and experimental design.",
-      "fact_year": 1967,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Expo_67",
-      "episode": {
-        "id": 18,
-        "title": "Morning Drops #12 - 80's Club",
-        "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
-        "songs": [
-          "Donna Summer - I Feel Love",
-          "Depeche Mode - Just Can't Get Enough",
-          "Ken Laszlo - Hey Hey Guy",
-          "Mylène Farmer - Sans Contrefaçon"
-        ],
-        "music-genres": [
-          "Disco",
-          "Synthpop",
-          "Italo Disco",
-          "French Pop"
-        ]
-      },
-      "match_reason": "Expo 67’s techno‑utopian vibe pairs with an episode celebrating machines that reshaped music, dance, and visions of the future."
-    },
     {
       "hour": 11,
       "fact_text": "The Saur Revolution began in Afghanistan on April 27, 1978, when communist forces overthrew and killed President Mohammed Daoud Khan overnight. It was a short, violent pivot that hurled the country into decades of war, foreign intervention, and shifting regimes.",
@@ -616,9 +591,34 @@
         ]
       },
       "match_reason": "Both the fact and the episode orbit around technology and psychology—how information, signals, and incentives shape what humans dare to do."
+    },
+    {
+      "hour": 10,
+      "fact_text": "Expo 67 opened in Montreal on April 27, 1967, as a futuristic world’s fair where visitors could ride monorails, walk through geodesic domes, and glimpse optimistic visions of the 21st century. For six months, an island in the St. Lawrence River became a temporary planet of architecture, art, and experimental design.",
+      "fact_year": 1967,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Expo_67",
+      "episode": {
+        "id": 18,
+        "title": "Morning Drops #12 - 80's Club",
+        "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
+        "songs": [
+          "Donna Summer - I Feel Love",
+          "Depeche Mode - Just Can't Get Enough",
+          "Ken Laszlo - Hey Hey Guy",
+          "Mylène Farmer - Sans Contrefaçon"
+        ],
+        "music-genres": [
+          "Disco",
+          "Synthpop",
+          "Italo Disco",
+          "French Pop"
+        ]
+      },
+      "match_reason": "Expo 67’s techno‑utopian vibe pairs with an episode celebrating machines that reshaped music, dance, and visions of the future."
     }
   ],
   "generated_at": "2026-04-27T00:00:00.016633+00:00",
   "date": "2026-04-27",
-  "updated_at": "2026-04-27T09:00:01.884238+00:00"
+  "updated_at": "2026-04-27T10:00:01.727462+00:00"
 }
