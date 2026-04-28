@@ -1,65 +1,31 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "In 1869, Chinese and Irish laborers on the Central Pacific Railroad laid an unprecedented ten miles of track in a single day while building America’s first transcontinental railroad. This feat of coordination and endurance, achieved with hand tools and sheer muscle, has never been matched in railway construction.",
-    "fact_year": 1869,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/First_transcontinental_railroad",
+    "hour": 6,
+    "fact_text": "In 1789, a group of sailors aboard HMS Bounty overthrew their captain, William Bligh, and set him and loyal crew adrift in an open boat. Bligh then navigated more than 3,600 nautical miles to safety, an extraordinary feat of leadership and seamanship born from one of history’s most famous mutinies.",
+    "fact_year": 1789,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mutiny_on_the_Bounty",
     "episode": {
-      "id": 5,
-      "title": "Sedna FM #05 - On The Go - Zero Zero",
-      "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
+      "id": 28,
+      "title": "Morning Drops #22 - Sicilians On The Dolomites",
+      "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
       "songs": [
-        "Alborosie - Rock the dancehall",
-        "Grace Jones - Pull up to the bumper",
-        "Hollie cook - Happy hour",
-        "Easy star all star - Soul love",
-        "Jeremie Albino - Rolling down the 405",
-        "Cyril Neville - I found joy",
-        "Aretha Franklin - Rock steady",
-        "James Brown - Talking loud and saying nothing (remix)",
-        "Nubiyan Twist - So mi stay",
-        "Professor Wouassa - Fallou Fall",
-        "Jarabe de Palo - La Flaca"
+        "Franco Battiato - Haiku",
+        "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
+        "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
+        "Pink Floyd - Fearless"
       ],
       "music-genres": [
-        "Reggae",
-        "Funk",
-        "Soul",
-        "Afrobeat",
-        "Latin Rock",
-        "New Wave"
+        "Italian Art Pop",
+        "French Jazz",
+        "Italian Singer-Songwriter",
+        "Progressive Rock"
       ]
     },
-    "match_reason": "The record-setting day of track-laying evokes relentless forward motion and travel, mirrored by this high-energy, on-the-move playlist built for journeys and momentum."
+    "match_reason": "This episode literally includes a song about sailors (“Ma come fanno i marinai”) and journeys, making it a poetic echo of Bligh’s improbable survival voyage after the Bounty mutiny."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "In 1789, a group of sailors aboard HMS Bounty overthrew their captain, William Bligh, and set him and loyal crew adrift in an open boat. Bligh then navigated more than 3,600 nautical miles to safety, an extraordinary feat of leadership and seamanship born from one of history’s most famous mutinies.",
-      "fact_year": 1789,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mutiny_on_the_Bounty",
-      "episode": {
-        "id": 28,
-        "title": "Morning Drops #22 - Sicilians On The Dolomites",
-        "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
-        "songs": [
-          "Franco Battiato - Haiku",
-          "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
-          "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
-          "Pink Floyd - Fearless"
-        ],
-        "music-genres": [
-          "Italian Art Pop",
-          "French Jazz",
-          "Italian Singer-Songwriter",
-          "Progressive Rock"
-        ]
-      },
-      "match_reason": "This episode literally includes a song about sailors (“Ma come fanno i marinai”) and journeys, making it a poetic echo of Bligh’s improbable survival voyage after the Bounty mutiny."
-    },
     {
       "hour": 7,
       "fact_text": "On this day in 2004, CBS News released photographs from Abu Ghraib prison showing U.S. personnel torturing and abusing Iraqi detainees. The shocking images ignited global outrage and forced a reckoning with how power, war, and technology can combine to expose hidden brutality.",
@@ -660,9 +626,34 @@
         ]
       },
       "match_reason": "The record-setting day of track-laying evokes relentless forward motion and travel, mirrored by this high-energy, on-the-move playlist built for journeys and momentum."
+    },
+    {
+      "hour": 6,
+      "fact_text": "In 1789, a group of sailors aboard HMS Bounty overthrew their captain, William Bligh, and set him and loyal crew adrift in an open boat. Bligh then navigated more than 3,600 nautical miles to safety, an extraordinary feat of leadership and seamanship born from one of history’s most famous mutinies.",
+      "fact_year": 1789,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mutiny_on_the_Bounty",
+      "episode": {
+        "id": 28,
+        "title": "Morning Drops #22 - Sicilians On The Dolomites",
+        "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
+        "songs": [
+          "Franco Battiato - Haiku",
+          "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
+          "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
+          "Pink Floyd - Fearless"
+        ],
+        "music-genres": [
+          "Italian Art Pop",
+          "French Jazz",
+          "Italian Singer-Songwriter",
+          "Progressive Rock"
+        ]
+      },
+      "match_reason": "This episode literally includes a song about sailors (“Ma come fanno i marinai”) and journeys, making it a poetic echo of Bligh’s improbable survival voyage after the Bounty mutiny."
     }
   ],
   "generated_at": "2026-04-28T00:00:00.014753+00:00",
   "date": "2026-04-28",
-  "updated_at": "2026-04-28T05:00:01.451989+00:00"
+  "updated_at": "2026-04-28T06:00:01.517267+00:00"
 }
