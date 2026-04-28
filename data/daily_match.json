@@ -1,47 +1,31 @@
 {
-  "current_hour": 22,
+  "current_hour": 23,
   "current_fact": {
-    "hour": 22,
-    "fact_text": "In 1991, Space Shuttle Discovery lifted off on STS-39 carrying a suite of instruments that quietly mapped Earth’s atmosphere and tested new surveillance technologies. It was the first time a Department of Defense shuttle mission was officially unclassified, blurring the line between military hardware and open scientific exploration.",
-    "fact_year": 1991,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Discovery",
+    "hour": 23,
+    "fact_text": "On this day in 1941, yellow fever vaccine pioneer Max Theiler’s work began to show its broad impact as mass vaccination campaigns took root, turning once-feared outbreaks into controllable threats. The story of yellow fever—from mysterious 'black vomit' fevers to a laboratory-attenuated virus—reads like a medical detective tale across continents and mosquitoes.",
+    "fact_year": 1937,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Yellow_fever",
     "episode": {
-      "id": 58,
-      "title": "Evening Flows #00 - Introduction to evening flows",
-      "description": "Sedna FM introduces a new format: Evening Flow, where you can enjoy curated music sets from selectors, DJs, and artists.\n\nEach mix is an invitation to drift beyond the expected. A space where hidden gems from personal archives come to light, where sound speaks its own language. There are no rules here, no patterns to follow. Just the steady unfolding of a mood, a texture, a journey shaped by feeling.\n\nLet the music lead the way - enjoy the trip!",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-introduction-to-evening-flows",
-      "songs": [],
-      "music-genres": []
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+      "songs": [
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
+      ],
+      "music-genres": [
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
+      ]
     },
-    "match_reason": "A mission that opens military space work to public view pairs well with the launch of a new, drifting 'Evening Flow' format—both invite audiences into previously hidden journeys."
+    "match_reason": "A global health story shaped by tiny mosquitoes is paired with an episode about immense marine animals and fragile ecosystems, connecting different scales of nature, risk, and awe."
   },
-  "queue": [
-    {
-      "hour": 23,
-      "fact_text": "On this day in 1941, yellow fever vaccine pioneer Max Theiler’s work began to show its broad impact as mass vaccination campaigns took root, turning once-feared outbreaks into controllable threats. The story of yellow fever—from mysterious 'black vomit' fevers to a laboratory-attenuated virus—reads like a medical detective tale across continents and mosquitoes.",
-      "fact_year": 1937,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Yellow_fever",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "A global health story shaped by tiny mosquitoes is paired with an episode about immense marine animals and fragile ecosystems, connecting different scales of nature, risk, and awe."
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "hour": 0,
@@ -631,9 +615,34 @@
         "music-genres": []
       },
       "match_reason": "A mission that opens military space work to public view pairs well with the launch of a new, drifting 'Evening Flow' format—both invite audiences into previously hidden journeys."
+    },
+    {
+      "hour": 23,
+      "fact_text": "On this day in 1941, yellow fever vaccine pioneer Max Theiler’s work began to show its broad impact as mass vaccination campaigns took root, turning once-feared outbreaks into controllable threats. The story of yellow fever—from mysterious 'black vomit' fevers to a laboratory-attenuated virus—reads like a medical detective tale across continents and mosquitoes.",
+      "fact_year": 1937,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Yellow_fever",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "A global health story shaped by tiny mosquitoes is paired with an episode about immense marine animals and fragile ecosystems, connecting different scales of nature, risk, and awe."
     }
   ],
   "generated_at": "2026-04-28T00:00:00.010509+00:00",
   "date": "2026-04-28",
-  "updated_at": "2026-04-28T22:00:01.527535+00:00"
+  "updated_at": "2026-04-28T23:00:01.648988+00:00"
 }
