@@ -1,63 +1,40 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 1991, Space Shuttle Discovery lifted off on mission STS-39, the first U.S. Department of Defense shuttle flight that wasn’t shrouded in secrecy. Instead of classified experiments, its payload bay carried unclassified instruments studying Earth’s atmosphere and testing advanced sensors, quietly marking a shift toward more open collaboration between military tech and scientific research.",
-    "fact_year": 1991,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-39",
+    "hour": 1,
+    "fact_text": "On this day in 1973, Pink Floyd’s \"The Dark Side of the Moon\" reached number one on the U.S. Billboard chart, beginning an almost unbelievable 741-week run on the album chart. Its blend of studio experimentation, conceptual storytelling, and lush sound design quietly redefined what a rock album could be.",
+    "fact_year": 1973,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/The_Dark_Side_of_the_Moon",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 2,
+      "title": "Sedna FM #02 - Destination Sedna",
+      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Pink Floyd - Breathe",
+        "The fountain DC - Starburster",
+        "Laura Cahen - La Poussiere",
+        "Taxi Kebab - Lmchi w rjou3",
+        "Odion Iruoje - Identify With Your Roots",
+        "Depeche mode - world in my eyes (Oil Tank Mix)",
+        "Massive attack - Dissolved girl",
+        "Kokoroko - Three piece suite",
+        "Salin - Egungun",
+        "E.S.P. - It's You"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Progressive Rock",
+        "Post-Punk",
+        "French Pop",
+        "Maghreb",
+        "Afrobeat",
+        "Synthpop",
+        "Trip-Hop"
       ]
     },
-    "match_reason": "A space-themed shuttle mission pairs naturally with an episode built around 'Space Shift' and expansive, forward-looking energy."
+    "match_reason": "The fact is literally about Pink Floyd and studio experimentation, and this episode not only features Pink Floyd but frames listening as a cosmic voyage."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On this day in 1973, Pink Floyd’s \"The Dark Side of the Moon\" reached number one on the U.S. Billboard chart, beginning an almost unbelievable 741-week run on the album chart. Its blend of studio experimentation, conceptual storytelling, and lush sound design quietly redefined what a rock album could be.",
-      "fact_year": 1973,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/The_Dark_Side_of_the_Moon",
-      "episode": {
-        "id": 2,
-        "title": "Sedna FM #02 - Destination Sedna",
-        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
-        "songs": [
-          "Pink Floyd - Breathe",
-          "The fountain DC - Starburster",
-          "Laura Cahen - La Poussiere",
-          "Taxi Kebab - Lmchi w rjou3",
-          "Odion Iruoje - Identify With Your Roots",
-          "Depeche mode - world in my eyes (Oil Tank Mix)",
-          "Massive attack - Dissolved girl",
-          "Kokoroko - Three piece suite",
-          "Salin - Egungun",
-          "E.S.P. - It's You"
-        ],
-        "music-genres": [
-          "Progressive Rock",
-          "Post-Punk",
-          "French Pop",
-          "Maghreb",
-          "Afrobeat",
-          "Synthpop",
-          "Trip-Hop"
-        ]
-      },
-      "match_reason": "The fact is literally about Pink Floyd and studio experimentation, and this episode not only features Pink Floyd but frames listening as a cosmic voyage."
-    },
     {
       "hour": 2,
       "fact_text": "In 1937, South African–American virologist Max Theiler developed the first effective vaccine against yellow fever at the Rockefeller Foundation in New York. His painstaking work with weakened virus strains dramatically reduced a disease that had once terrorized port cities and tropical regions, earning him a Nobel Prize and saving countless lives.",
@@ -639,9 +616,43 @@
         ]
       },
       "match_reason": "A space-themed shuttle mission pairs naturally with an episode built around 'Space Shift' and expansive, forward-looking energy."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On this day in 1973, Pink Floyd’s \"The Dark Side of the Moon\" reached number one on the U.S. Billboard chart, beginning an almost unbelievable 741-week run on the album chart. Its blend of studio experimentation, conceptual storytelling, and lush sound design quietly redefined what a rock album could be.",
+      "fact_year": 1973,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/The_Dark_Side_of_the_Moon",
+      "episode": {
+        "id": 2,
+        "title": "Sedna FM #02 - Destination Sedna",
+        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+        "songs": [
+          "Pink Floyd - Breathe",
+          "The fountain DC - Starburster",
+          "Laura Cahen - La Poussiere",
+          "Taxi Kebab - Lmchi w rjou3",
+          "Odion Iruoje - Identify With Your Roots",
+          "Depeche mode - world in my eyes (Oil Tank Mix)",
+          "Massive attack - Dissolved girl",
+          "Kokoroko - Three piece suite",
+          "Salin - Egungun",
+          "E.S.P. - It's You"
+        ],
+        "music-genres": [
+          "Progressive Rock",
+          "Post-Punk",
+          "French Pop",
+          "Maghreb",
+          "Afrobeat",
+          "Synthpop",
+          "Trip-Hop"
+        ]
+      },
+      "match_reason": "The fact is literally about Pink Floyd and studio experimentation, and this episode not only features Pink Floyd but frames listening as a cosmic voyage."
     }
   ],
   "generated_at": "2026-04-28T00:00:00.010509+00:00",
   "date": "2026-04-28",
-  "updated_at": "2026-04-28T00:01:06.497868+00:00"
+  "updated_at": "2026-04-28T01:00:01.462383+00:00"
 }
