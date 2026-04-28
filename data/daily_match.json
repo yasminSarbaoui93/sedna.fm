@@ -1,64 +1,39 @@
 {
-  "current_hour": 22,
+  "current_hour": 23,
   "current_fact": {
-    "hour": 22,
-    "fact_text": "In 1935, French virologist Max Theiler’s work on yellow fever set the stage for widespread vaccination campaigns in tropical regions. The victory over the virus turned once-feared ports and jungles into safer routes for trade, travel, and human connection.",
-    "fact_year": 1935,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Yellow_fever",
+    "hour": 23,
+    "fact_text": "In 2001, the first full draft of the human genome was announced complete, but decades before, counterintelligence work like Aldrich Ames’s depended on more analog forms of pattern reading. The web of secrets, betrayals, and shifting loyalties in his case reads almost like a psychological concept album.",
+    "fact_year": 1994,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Central_Intelligence_Agency",
     "episode": {
-      "id": 29,
-      "title": "Morning Drops #23 - Morning Dubs",
-      "description": "Recorded while still processing Houghton Festival. One of the mornings there, waking up in the woods to a reggae DJ set — no phone signal, just trees, music, and loved ones. A slow selection of reggae, dub, and morning rhythms. Dubs instead of drops. Start your day slow — with space to breathe.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-morning-dubs",
+      "id": 1,
+      "title": "Sedna FM #01 - November Bomb",
+      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
       "songs": [
-        "The Gaylads - Joy in the Morning",
-        "The Officials - Babylonian",
-        "King Tubby - King Tubby Meets the Rockers Uptown",
-        "Aisha Morrison - Ethiopia"
+        "berlioz - Open this wall",
+        "Nas - One Mic",
+        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+        "Frankie Knuckles - Your Love",
+        "Notorious B.I.G. - 17 Ten Crack Commandments",
+        "Liloca - Utani Xuva",
+        "Fela Kuti - Zombie",
+        "Neffa - Aspettando il sole",
+        "Childish Gambino - No Excuses",
+        "Modjo - Music takes you back"
       ],
       "music-genres": [
-        "Reggae",
-        "Dub",
-        "Roots Reggae"
+        "Hip-Hop",
+        "Afrobeat",
+        "House",
+        "Italian Pop",
+        "R&B",
+        "Latin Rap"
       ]
     },
-    "match_reason": "Yellow fever deeply shaped life in tropical and Caribbean regions where reggae and dub later thrived; the relaxed, nature-rooted atmosphere of this episode offers a healing, post-epidemic counterpoint to the disease’s history."
+    "match_reason": "Ames’s intricate double life and the narrative weight of espionage sit well beside an eclectic, storytelling-heavy first episode that feels like a soundtrack to lives lived in parallel—public and hidden."
   },
-  "queue": [
-    {
-      "hour": 23,
-      "fact_text": "In 2001, the first full draft of the human genome was announced complete, but decades before, counterintelligence work like Aldrich Ames’s depended on more analog forms of pattern reading. The web of secrets, betrayals, and shifting loyalties in his case reads almost like a psychological concept album.",
-      "fact_year": 1994,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Central_Intelligence_Agency",
-      "episode": {
-        "id": 1,
-        "title": "Sedna FM #01 - November Bomb",
-        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
-        "songs": [
-          "berlioz - Open this wall",
-          "Nas - One Mic",
-          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-          "Frankie Knuckles - Your Love",
-          "Notorious B.I.G. - 17 Ten Crack Commandments",
-          "Liloca - Utani Xuva",
-          "Fela Kuti - Zombie",
-          "Neffa - Aspettando il sole",
-          "Childish Gambino - No Excuses",
-          "Modjo - Music takes you back"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Afrobeat",
-          "House",
-          "Italian Pop",
-          "R&B",
-          "Latin Rap"
-        ]
-      },
-      "match_reason": "Ames’s intricate double life and the narrative weight of espionage sit well beside an eclectic, storytelling-heavy first episode that feels like a soundtrack to lives lived in parallel—public and hidden."
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "hour": 0,
@@ -650,9 +625,42 @@
         ]
       },
       "match_reason": "Yellow fever deeply shaped life in tropical and Caribbean regions where reggae and dub later thrived; the relaxed, nature-rooted atmosphere of this episode offers a healing, post-epidemic counterpoint to the disease’s history."
+    },
+    {
+      "hour": 23,
+      "fact_text": "In 2001, the first full draft of the human genome was announced complete, but decades before, counterintelligence work like Aldrich Ames’s depended on more analog forms of pattern reading. The web of secrets, betrayals, and shifting loyalties in his case reads almost like a psychological concept album.",
+      "fact_year": 1994,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Central_Intelligence_Agency",
+      "episode": {
+        "id": 1,
+        "title": "Sedna FM #01 - November Bomb",
+        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+        "songs": [
+          "berlioz - Open this wall",
+          "Nas - One Mic",
+          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+          "Frankie Knuckles - Your Love",
+          "Notorious B.I.G. - 17 Ten Crack Commandments",
+          "Liloca - Utani Xuva",
+          "Fela Kuti - Zombie",
+          "Neffa - Aspettando il sole",
+          "Childish Gambino - No Excuses",
+          "Modjo - Music takes you back"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Afrobeat",
+          "House",
+          "Italian Pop",
+          "R&B",
+          "Latin Rap"
+        ]
+      },
+      "match_reason": "Ames’s intricate double life and the narrative weight of espionage sit well beside an eclectic, storytelling-heavy first episode that feels like a soundtrack to lives lived in parallel—public and hidden."
     }
   ],
   "generated_at": "2026-04-28T00:00:00.014753+00:00",
   "date": "2026-04-28",
-  "updated_at": "2026-04-28T22:00:01.698197+00:00"
+  "updated_at": "2026-04-28T23:00:01.599894+00:00"
 }
