@@ -1,64 +1,31 @@
 {
-  "current_hour": 21,
+  "current_hour": 22,
   "current_fact": {
-    "hour": 21,
-    "fact_text": "Another thread of April 29 is cultural rather than explosive: across the 20th century, this date saw the growth of broadcast experiments like 3D TV and the globalization of sports like baseball—which in 2015 played to empty stands. Taken together, they show how technology keeps redefining what it means to gather, even when we’re physically apart.",
-    "fact_year": 2015,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/American_Broadcasting_Company",
+    "hour": 22,
+    "fact_text": "If you zoom out from the battles and treaties of April 29, you see a pattern of borders crossed—Cook landing at Botany Bay, a U.S. carrier in the Suez Canal, armies stepping into Cambodia, and fleets clashing off Martinique. It’s a date when lines on maps have been redrawn again and again, often at great human cost.",
+    "fact_year": 1970,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Vietnam_War",
     "episode": {
-      "id": 1,
-      "title": "Sedna FM #01 - November Bomb",
-      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+      "id": 28,
+      "title": "Morning Drops #22 - Sicilians On The Dolomites",
+      "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
       "songs": [
-        "berlioz - Open this wall",
-        "Nas - One Mic",
-        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-        "Frankie Knuckles - Your Love",
-        "Notorious B.I.G. - 17 Ten Crack Commandments",
-        "Liloca - Utani Xuva",
-        "Fela Kuti - Zombie",
-        "Neffa - Aspettando il sole",
-        "Childish Gambino - No Excuses",
-        "Modjo - Music takes you back"
+        "Franco Battiato - Haiku",
+        "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
+        "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
+        "Pink Floyd - Fearless"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Afrobeat",
-        "House",
-        "Italian Pop",
-        "R&B",
-        "Latin Rap"
+        "Italian Art Pop",
+        "French Jazz",
+        "Italian Singer-Songwriter",
+        "Progressive Rock"
       ]
     },
-    "match_reason": "As TV and sports rethink how to reach people, a raw first radio episode mirrors that energy of inventing new ways to come together through sound and story."
+    "match_reason": "Stories of borders and crossings pair with an episode about people out of place—Sicilians in northern mountains—using music to navigate identity and landscape."
   },
   "queue": [
-    {
-      "hour": 22,
-      "fact_text": "If you zoom out from the battles and treaties of April 29, you see a pattern of borders crossed—Cook landing at Botany Bay, a U.S. carrier in the Suez Canal, armies stepping into Cambodia, and fleets clashing off Martinique. It’s a date when lines on maps have been redrawn again and again, often at great human cost.",
-      "fact_year": 1970,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Vietnam_War",
-      "episode": {
-        "id": 28,
-        "title": "Morning Drops #22 - Sicilians On The Dolomites",
-        "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
-        "songs": [
-          "Franco Battiato - Haiku",
-          "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
-          "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
-          "Pink Floyd - Fearless"
-        ],
-        "music-genres": [
-          "Italian Art Pop",
-          "French Jazz",
-          "Italian Singer-Songwriter",
-          "Progressive Rock"
-        ]
-      },
-      "match_reason": "Stories of borders and crossings pair with an episode about people out of place—Sicilians in northern mountains—using music to navigate identity and landscape."
-    },
     {
       "hour": 23,
       "fact_text": "Seen from far above, April 29 on Earth is a patchwork of seismic shocks, storms, uprisings, and scientific discoveries—from the shaking basilica in 801 to a galaxy logged in 1826 and a spaceship launched in 1985. It’s a reminder that history doesn’t move in a straight line; it pulses like music, with quiet interludes and sudden crescendos.",
@@ -630,9 +597,34 @@
         ]
       },
       "match_reason": "As TV and sports rethink how to reach people, a raw first radio episode mirrors that energy of inventing new ways to come together through sound and story."
+    },
+    {
+      "hour": 22,
+      "fact_text": "If you zoom out from the battles and treaties of April 29, you see a pattern of borders crossed—Cook landing at Botany Bay, a U.S. carrier in the Suez Canal, armies stepping into Cambodia, and fleets clashing off Martinique. It’s a date when lines on maps have been redrawn again and again, often at great human cost.",
+      "fact_year": 1970,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Vietnam_War",
+      "episode": {
+        "id": 28,
+        "title": "Morning Drops #22 - Sicilians On The Dolomites",
+        "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
+        "songs": [
+          "Franco Battiato - Haiku",
+          "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
+          "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
+          "Pink Floyd - Fearless"
+        ],
+        "music-genres": [
+          "Italian Art Pop",
+          "French Jazz",
+          "Italian Singer-Songwriter",
+          "Progressive Rock"
+        ]
+      },
+      "match_reason": "Stories of borders and crossings pair with an episode about people out of place—Sicilians in northern mountains—using music to navigate identity and landscape."
     }
   ],
   "generated_at": "2026-04-29T00:00:00.018473+00:00",
   "date": "2026-04-29",
-  "updated_at": "2026-04-29T21:00:01.556525+00:00"
+  "updated_at": "2026-04-29T22:00:01.994148+00:00"
 }
