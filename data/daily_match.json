@@ -1,55 +1,40 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On April 29, 1953, Los Angeles station KECA-TV broadcast one of the first experimental 3D television programs in the United States, featuring an episode of the sci‑fi series \"Space Patrol.\" Viewers needed special polarized glasses, turning their living rooms into tiny cinemas where spaceships and ray guns seemed to float out of the screen.",
-    "fact_year": 1953,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/3D_television",
+    "hour": 2,
+    "fact_text": "On April 29, 1985, Space Shuttle Challenger lifted off on mission STS‑51‑B, carrying Spacelab experiments ranging from materials science to the behavior of animals in microgravity. Inside, tiny crew members including monkeys and rats became some of the earliest non‑human frequent flyers of low Earth orbit.",
+    "fact_year": 1985,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-51-B",
     "episode": {
-      "id": 58,
-      "title": "Evening Flows #00 - Introduction to evening flows",
-      "description": "Sedna FM introduces a new format: Evening Flow, where you can enjoy curated music sets from selectors, DJs, and artists.\n\nEach mix is an invitation to drift beyond the expected. A space where hidden gems from personal archives come to light, where sound speaks its own language. There are no rules here, no patterns to follow. Just the steady unfolding of a mood, a texture, a journey shaped by feeling.\n\nLet the music lead the way - enjoy the trip!",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-introduction-to-evening-flows",
-      "songs": [],
-      "music-genres": []
+      "id": 2,
+      "title": "Sedna FM #02 - Destination Sedna",
+      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+      "songs": [
+        "Pink Floyd - Breathe",
+        "The fountain DC - Starburster",
+        "Laura Cahen - La Poussiere",
+        "Taxi Kebab - Lmchi w rjou3",
+        "Odion Iruoje - Identify With Your Roots",
+        "Depeche mode - world in my eyes (Oil Tank Mix)",
+        "Massive attack - Dissolved girl",
+        "Kokoroko - Three piece suite",
+        "Salin - Egungun",
+        "E.S.P. - It's You"
+      ],
+      "music-genres": [
+        "Progressive Rock",
+        "Post-Punk",
+        "French Pop",
+        "Maghreb",
+        "Afrobeat",
+        "Synthpop",
+        "Trip-Hop"
+      ]
     },
-    "match_reason": "An experimental 3D broadcast mirrors the exploratory, format-bending spirit of launching a new, immersive 'Evening Flows' format."
+    "match_reason": "A shuttle flight packed with experiments and exploration fits a 'Destination Sedna' voyage through new territories in sound and space."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "On April 29, 1985, Space Shuttle Challenger lifted off on mission STS‑51‑B, carrying Spacelab experiments ranging from materials science to the behavior of animals in microgravity. Inside, tiny crew members including monkeys and rats became some of the earliest non‑human frequent flyers of low Earth orbit.",
-      "fact_year": 1985,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-51-B",
-      "episode": {
-        "id": 2,
-        "title": "Sedna FM #02 - Destination Sedna",
-        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
-        "songs": [
-          "Pink Floyd - Breathe",
-          "The fountain DC - Starburster",
-          "Laura Cahen - La Poussiere",
-          "Taxi Kebab - Lmchi w rjou3",
-          "Odion Iruoje - Identify With Your Roots",
-          "Depeche mode - world in my eyes (Oil Tank Mix)",
-          "Massive attack - Dissolved girl",
-          "Kokoroko - Three piece suite",
-          "Salin - Egungun",
-          "E.S.P. - It's You"
-        ],
-        "music-genres": [
-          "Progressive Rock",
-          "Post-Punk",
-          "French Pop",
-          "Maghreb",
-          "Afrobeat",
-          "Synthpop",
-          "Trip-Hop"
-        ]
-      },
-      "match_reason": "A shuttle flight packed with experiments and exploration fits a 'Destination Sedna' voyage through new territories in sound and space."
-    },
     {
       "hour": 3,
       "fact_text": "On April 29, 1986, the nuclear‑powered aircraft carrier USS Enterprise became the first ship of its kind to squeeze through the Suez Canal, threading an 1,100‑foot floating airbase through a narrow man‑made waterway. The transit highlighted how human engineering can merge ocean‑spanning technology with a ribbon of water carved through the desert.",
@@ -612,9 +597,43 @@
         "music-genres": []
       },
       "match_reason": "An experimental 3D broadcast mirrors the exploratory, format-bending spirit of launching a new, immersive 'Evening Flows' format."
+    },
+    {
+      "hour": 2,
+      "fact_text": "On April 29, 1985, Space Shuttle Challenger lifted off on mission STS‑51‑B, carrying Spacelab experiments ranging from materials science to the behavior of animals in microgravity. Inside, tiny crew members including monkeys and rats became some of the earliest non‑human frequent flyers of low Earth orbit.",
+      "fact_year": 1985,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-51-B",
+      "episode": {
+        "id": 2,
+        "title": "Sedna FM #02 - Destination Sedna",
+        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+        "songs": [
+          "Pink Floyd - Breathe",
+          "The fountain DC - Starburster",
+          "Laura Cahen - La Poussiere",
+          "Taxi Kebab - Lmchi w rjou3",
+          "Odion Iruoje - Identify With Your Roots",
+          "Depeche mode - world in my eyes (Oil Tank Mix)",
+          "Massive attack - Dissolved girl",
+          "Kokoroko - Three piece suite",
+          "Salin - Egungun",
+          "E.S.P. - It's You"
+        ],
+        "music-genres": [
+          "Progressive Rock",
+          "Post-Punk",
+          "French Pop",
+          "Maghreb",
+          "Afrobeat",
+          "Synthpop",
+          "Trip-Hop"
+        ]
+      },
+      "match_reason": "A shuttle flight packed with experiments and exploration fits a 'Destination Sedna' voyage through new territories in sound and space."
     }
   ],
   "generated_at": "2026-04-29T00:00:00.018473+00:00",
   "date": "2026-04-29",
-  "updated_at": "2026-04-29T01:00:01.937502+00:00"
+  "updated_at": "2026-04-29T02:00:01.555838+00:00"
 }
