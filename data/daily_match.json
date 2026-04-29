@@ -1,56 +1,31 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "On April 29, 1970, U.S. and South Vietnamese forces launched the Cambodian Campaign, crossing the border in an effort to sever the Ho Chi Minh Trail supply routes. The operation extended the Vietnam War into yet another country, triggering massive protests at home and reshaping public opinion about the conflict.",
-    "fact_year": 1970,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cambodian_campaign",
+    "hour": 11,
+    "fact_text": "On April 29, 1974, President Richard Nixon announced he would release edited transcripts of secret White House tapes related to the Watergate scandal. The pages revealed profanity, paranoia, and political scheming, and the obvious gaps only deepened the public’s appetite for the unfiltered truth.",
+    "fact_year": 1974,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Watergate_scandal",
     "episode": {
-      "id": 56,
-      "title": "Morning Drops #49 - Rage Against The Machine",
-      "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "Rage Against the Machine - Bombtrack",
-        "Rage Against the Machine - Killing in the Name",
-        "Rage Against the Machine - Without a Face",
-        "Rage Against the Machine - Guerrilla Radio",
-        "Rage Against the Machine - Sleep Now in the Fire"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Rap Metal",
-        "Political Rock",
-        "Alternative Metal"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "A controversial war escalation that fueled protest movements matches an episode centered on Rage Against the Machine, whose music embodies anti‑war and anti‑imperialist resistance."
+    "match_reason": "A scandal built on recorded conversations and public distrust parallels an episode unpacking our complex relationship with technology, information, and what’s really being recorded."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "On April 29, 1974, President Richard Nixon announced he would release edited transcripts of secret White House tapes related to the Watergate scandal. The pages revealed profanity, paranoia, and political scheming, and the obvious gaps only deepened the public’s appetite for the unfiltered truth.",
-      "fact_year": 1974,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Watergate_scandal",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "A scandal built on recorded conversations and public distrust parallels an episode unpacking our complex relationship with technology, information, and what’s really being recorded."
-    },
     {
       "hour": 12,
       "fact_text": "On April 29, 1992, after four police officers were acquitted in the beating of Rodney King, Los Angeles erupted into days of unrest that left 63 people dead and thousands injured. The uprising forced the United States to confront—once again—deep fault lines of racism, policing, and inequality that still reverberate through culture and music.",
@@ -622,9 +597,34 @@
         ]
       },
       "match_reason": "A controversial war escalation that fueled protest movements matches an episode centered on Rage Against the Machine, whose music embodies anti‑war and anti‑imperialist resistance."
+    },
+    {
+      "hour": 11,
+      "fact_text": "On April 29, 1974, President Richard Nixon announced he would release edited transcripts of secret White House tapes related to the Watergate scandal. The pages revealed profanity, paranoia, and political scheming, and the obvious gaps only deepened the public’s appetite for the unfiltered truth.",
+      "fact_year": 1974,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Watergate_scandal",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "A scandal built on recorded conversations and public distrust parallels an episode unpacking our complex relationship with technology, information, and what’s really being recorded."
     }
   ],
   "generated_at": "2026-04-29T00:00:00.018473+00:00",
   "date": "2026-04-29",
-  "updated_at": "2026-04-29T10:00:01.707002+00:00"
+  "updated_at": "2026-04-29T11:00:01.649585+00:00"
 }
