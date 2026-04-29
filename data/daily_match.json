@@ -1,46 +1,31 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On April 29, 1953, Los Angeles station KECA‑TV broadcast an experimental 3D episode of the sci‑fi series “Space Patrol,” making it the first U.S. experimental 3D television broadcast. Viewers wearing red-and-green glasses suddenly saw rocket ships and ray guns leaping out of their screens, a moment when home entertainment tried to literally step into the third dimension.",
-    "fact_year": 1953,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/3D_television",
+    "hour": 2,
+    "fact_text": "On April 29, 1985, Space Shuttle Challenger lifted off on mission STS‑51‑B, carrying Spacelab and a small orbiting laboratory of living experiments. Over a week in orbit, astronauts tended to monkeys and laboratory rats, grew crystals, and studied how weightlessness changes life itself—turning the shuttle into a brief floating research station.",
+    "fact_year": 1985,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-51-B",
     "episode": {
-      "id": 58,
-      "title": "Evening Flows #00 - Introduction to evening flows",
-      "description": "Sedna FM introduces a new format: Evening Flow, where you can enjoy curated music sets from selectors, DJs, and artists.\n\nEach mix is an invitation to drift beyond the expected. A space where hidden gems from personal archives come to light, where sound speaks its own language. There are no rules here, no patterns to follow. Just the steady unfolding of a mood, a texture, a journey shaped by feeling.\n\nLet the music lead the way - enjoy the trip!",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-introduction-to-evening-flows",
-      "songs": [],
-      "music-genres": []
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+      "songs": [
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
+      ],
+      "music-genres": [
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
+      ]
     },
-    "match_reason": "An experimental 3D sci‑fi TV broadcast parallels the launch of a new, boundary‑bending audio format; both are introductions to immersive, beyond-the-usual sensory experiences."
+    "match_reason": "Both the shuttle mission and the orca dives explore life in extreme environments, with calm, cinematic music echoing weightless or underwater, otherworldly motion."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "On April 29, 1985, Space Shuttle Challenger lifted off on mission STS‑51‑B, carrying Spacelab and a small orbiting laboratory of living experiments. Over a week in orbit, astronauts tended to monkeys and laboratory rats, grew crystals, and studied how weightlessness changes life itself—turning the shuttle into a brief floating research station.",
-      "fact_year": 1985,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-51-B",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "Both the shuttle mission and the orca dives explore life in extreme environments, with calm, cinematic music echoing weightless or underwater, otherworldly motion."
-    },
     {
       "hour": 3,
       "fact_text": "On April 29, 1986, the nuclear‑powered aircraft carrier USS Enterprise became the first ship of its kind to transit the Suez Canal. This massive floating airbase, driven by reactors instead of fuel tanks, slid through a narrow man‑made waterway that links two seas—an encounter between high-tech naval power and one of Earth’s most strategic engineering feats.",
@@ -601,9 +586,34 @@
         "music-genres": []
       },
       "match_reason": "An experimental 3D sci‑fi TV broadcast parallels the launch of a new, boundary‑bending audio format; both are introductions to immersive, beyond-the-usual sensory experiences."
+    },
+    {
+      "hour": 2,
+      "fact_text": "On April 29, 1985, Space Shuttle Challenger lifted off on mission STS‑51‑B, carrying Spacelab and a small orbiting laboratory of living experiments. Over a week in orbit, astronauts tended to monkeys and laboratory rats, grew crystals, and studied how weightlessness changes life itself—turning the shuttle into a brief floating research station.",
+      "fact_year": 1985,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-51-B",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "Both the shuttle mission and the orca dives explore life in extreme environments, with calm, cinematic music echoing weightless or underwater, otherworldly motion."
     }
   ],
   "generated_at": "2026-04-29T00:00:00.016910+00:00",
   "date": "2026-04-29",
-  "updated_at": "2026-04-29T01:00:01.574635+00:00"
+  "updated_at": "2026-04-29T02:00:01.558003+00:00"
 }
