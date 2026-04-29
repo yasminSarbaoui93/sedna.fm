@@ -1,59 +1,31 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "On April 29, 1986, the nuclear‑powered aircraft carrier USS Enterprise became the first ship of its kind to squeeze through the Suez Canal, threading an 1,100‑foot floating airbase through a narrow man‑made waterway. The transit highlighted how human engineering can merge ocean‑spanning technology with a ribbon of water carved through the desert.",
-    "fact_year": 1986,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/USS_Enterprise_(CVN-65)",
+    "hour": 4,
+    "fact_text": "On April 29, 1770, James Cook’s ship Endeavour dropped anchor in a bay on Australia’s east coast that he named Botany Bay, inspired by the extraordinary variety of plants his botanists found there. The landing marked the beginning of a long thread of scientific exploration—and a painful chapter of colonization—for the continent’s First Peoples.",
+    "fact_year": 1770,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Botany_Bay",
     "episode": {
-      "id": 37,
-      "title": "Morning Drops #31 - Sailing With Germans",
-      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+      "id": 39,
+      "title": "Morning Drops #33 - Immerse",
+      "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
       "songs": [
-        "Billy Talent - Dead Silence",
-        "Ben Howard - Keep Your Head Up",
-        "Ziggy Alberts - Simple Things",
-        "Vitor Kley - O Sol",
-        "Enya - Orinoco Flow",
-        "Paveier - Leev Marie"
+        "Pino D'Angiò - Un Po' d'Uva e un Liquore",
+        "Midlife - The Magnificent Moon",
+        "Tornado Wallace - Today",
+        "Nu Genea - Marechià (feat. Celia Kameni)"
       ],
       "music-genres": [
-        "Punk Rock",
-        "Indie Folk",
-        "Surf Pop",
-        "New Age",
-        "German Folk"
+        "Italo Disco",
+        "Indie",
+        "Balearic",
+        "Nu Disco"
       ]
     },
-    "match_reason": "A giant carrier slipping through a canal connects to a boat‑themed episode about navigating water, travel, and shared journeys at sea."
+    "match_reason": "A coastal landing defined by curiosity about nature fits an episode about immersing in water and environment, moving fluidly between discovery and reflection."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "On April 29, 1770, James Cook’s ship Endeavour dropped anchor in a bay on Australia’s east coast that he named Botany Bay, inspired by the extraordinary variety of plants his botanists found there. The landing marked the beginning of a long thread of scientific exploration—and a painful chapter of colonization—for the continent’s First Peoples.",
-      "fact_year": 1770,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Botany_Bay",
-      "episode": {
-        "id": 39,
-        "title": "Morning Drops #33 - Immerse",
-        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
-        "songs": [
-          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
-          "Midlife - The Magnificent Moon",
-          "Tornado Wallace - Today",
-          "Nu Genea - Marechià (feat. Celia Kameni)"
-        ],
-        "music-genres": [
-          "Italo Disco",
-          "Indie",
-          "Balearic",
-          "Nu Disco"
-        ]
-      },
-      "match_reason": "A coastal landing defined by curiosity about nature fits an episode about immersing in water and environment, moving fluidly between discovery and reflection."
-    },
     {
       "hour": 5,
       "fact_text": "On April 29, 801, a powerful earthquake in the Central Apennines shook Rome and Spoleto, badly damaging the ancient basilica of San Paolo Fuori le Mura. Medieval chroniclers saw such quakes as signs from the heavens, long before plate tectonics revealed the restless geology beneath Italy’s mountains.",
@@ -625,9 +597,34 @@
         ]
       },
       "match_reason": "A giant carrier slipping through a canal connects to a boat‑themed episode about navigating water, travel, and shared journeys at sea."
+    },
+    {
+      "hour": 4,
+      "fact_text": "On April 29, 1770, James Cook’s ship Endeavour dropped anchor in a bay on Australia’s east coast that he named Botany Bay, inspired by the extraordinary variety of plants his botanists found there. The landing marked the beginning of a long thread of scientific exploration—and a painful chapter of colonization—for the continent’s First Peoples.",
+      "fact_year": 1770,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Botany_Bay",
+      "episode": {
+        "id": 39,
+        "title": "Morning Drops #33 - Immerse",
+        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
+        "songs": [
+          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
+          "Midlife - The Magnificent Moon",
+          "Tornado Wallace - Today",
+          "Nu Genea - Marechià (feat. Celia Kameni)"
+        ],
+        "music-genres": [
+          "Italo Disco",
+          "Indie",
+          "Balearic",
+          "Nu Disco"
+        ]
+      },
+      "match_reason": "A coastal landing defined by curiosity about nature fits an episode about immersing in water and environment, moving fluidly between discovery and reflection."
     }
   ],
   "generated_at": "2026-04-29T00:00:00.018473+00:00",
   "date": "2026-04-29",
-  "updated_at": "2026-04-29T03:00:01.467825+00:00"
+  "updated_at": "2026-04-29T04:00:01.527346+00:00"
 }
