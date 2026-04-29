@@ -1,65 +1,39 @@
 {
-  "current_hour": 22,
+  "current_hour": 23,
   "current_fact": {
-    "hour": 22,
-    "fact_text": "On April 29, 1991, far from Bangladesh and Georgia, TV viewers in Los Angeles who tuned into that 3D episode of “Space Patrol” joined a tiny experiment in human perception: could our brains be tricked into feeling depth from flat screens? The answer depended on a neat hack of binocular vision—each eye fed a slightly different picture, and the mind did the rest.",
-    "fact_year": 1953,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Space_Patrol_(1950_TV_series)",
+    "hour": 23,
+    "fact_text": "On April 29, 1991, while cyclones and earthquakes dominated headlines, many people experienced these events only as images and sounds filtered through television and radio. In a sense, global disasters became shared stories carried by invisible waves in the air, turning planetary upheavals into something you could overhear while making dinner.",
+    "fact_year": 1991,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Television_news",
     "episode": {
-      "id": 33,
-      "title": "Morning Drops #27 - Nomophobia",
-      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+      "id": 1,
+      "title": "Sedna FM #01 - November Bomb",
+      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
       "songs": [
-        "All Them Witches - Internet",
-        "James Blake - The Wilhelm Scream",
-        "Nick Mulvey - Juramidam",
-        "Kraftwerk - Computer Love"
+        "berlioz - Open this wall",
+        "Nas - One Mic",
+        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+        "Frankie Knuckles - Your Love",
+        "Notorious B.I.G. - 17 Ten Crack Commandments",
+        "Liloca - Utani Xuva",
+        "Fela Kuti - Zombie",
+        "Neffa - Aspettando il sole",
+        "Childish Gambino - No Excuses",
+        "Modjo - Music takes you back"
       ],
       "music-genres": [
-        "Psychedelic Rock",
-        "Electronic",
-        "Folk",
-        "Synth-Pop"
+        "Hip-Hop",
+        "Afrobeat",
+        "House",
+        "Italian Pop",
+        "R&B",
+        "Latin Rap"
       ]
     },
-    "match_reason": "A TV stunt that plays with human perception and screens connects to an episode about our psychological relationship with devices and digital overload, both probing how technology reshapes the way we see and feel."
+    "match_reason": "The way broadcast media turns distant catastrophes into shared narratives fits the very first Sedna FM episode—a raw, foundational transmission that also travels as invisible waves, mixing world events, politics, and life into one signal."
   },
-  "queue": [
-    {
-      "hour": 23,
-      "fact_text": "On April 29, 1991, while cyclones and earthquakes dominated headlines, many people experienced these events only as images and sounds filtered through television and radio. In a sense, global disasters became shared stories carried by invisible waves in the air, turning planetary upheavals into something you could overhear while making dinner.",
-      "fact_year": 1991,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Television_news",
-      "episode": {
-        "id": 1,
-        "title": "Sedna FM #01 - November Bomb",
-        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
-        "songs": [
-          "berlioz - Open this wall",
-          "Nas - One Mic",
-          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-          "Frankie Knuckles - Your Love",
-          "Notorious B.I.G. - 17 Ten Crack Commandments",
-          "Liloca - Utani Xuva",
-          "Fela Kuti - Zombie",
-          "Neffa - Aspettando il sole",
-          "Childish Gambino - No Excuses",
-          "Modjo - Music takes you back"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Afrobeat",
-          "House",
-          "Italian Pop",
-          "R&B",
-          "Latin Rap"
-        ]
-      },
-      "match_reason": "The way broadcast media turns distant catastrophes into shared narratives fits the very first Sedna FM episode—a raw, foundational transmission that also travels as invisible waves, mixing world events, politics, and life into one signal."
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "hour": 0,
@@ -611,9 +585,42 @@
         ]
       },
       "match_reason": "A TV stunt that plays with human perception and screens connects to an episode about our psychological relationship with devices and digital overload, both probing how technology reshapes the way we see and feel."
+    },
+    {
+      "hour": 23,
+      "fact_text": "On April 29, 1991, while cyclones and earthquakes dominated headlines, many people experienced these events only as images and sounds filtered through television and radio. In a sense, global disasters became shared stories carried by invisible waves in the air, turning planetary upheavals into something you could overhear while making dinner.",
+      "fact_year": 1991,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Television_news",
+      "episode": {
+        "id": 1,
+        "title": "Sedna FM #01 - November Bomb",
+        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+        "songs": [
+          "berlioz - Open this wall",
+          "Nas - One Mic",
+          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+          "Frankie Knuckles - Your Love",
+          "Notorious B.I.G. - 17 Ten Crack Commandments",
+          "Liloca - Utani Xuva",
+          "Fela Kuti - Zombie",
+          "Neffa - Aspettando il sole",
+          "Childish Gambino - No Excuses",
+          "Modjo - Music takes you back"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Afrobeat",
+          "House",
+          "Italian Pop",
+          "R&B",
+          "Latin Rap"
+        ]
+      },
+      "match_reason": "The way broadcast media turns distant catastrophes into shared narratives fits the very first Sedna FM episode—a raw, foundational transmission that also travels as invisible waves, mixing world events, politics, and life into one signal."
     }
   ],
   "generated_at": "2026-04-29T00:00:00.016910+00:00",
   "date": "2026-04-29",
-  "updated_at": "2026-04-29T22:00:01.597754+00:00"
+  "updated_at": "2026-04-29T23:00:01.553820+00:00"
 }
