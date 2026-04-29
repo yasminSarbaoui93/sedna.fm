@@ -1,59 +1,31 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "On April 29, 1986, the nuclear‑powered aircraft carrier USS Enterprise became the first ship of its kind to transit the Suez Canal. This massive floating airbase, driven by reactors instead of fuel tanks, slid through a narrow man‑made waterway that links two seas—an encounter between high-tech naval power and one of Earth’s most strategic engineering feats.",
-    "fact_year": 1986,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/USS_Enterprise_(CVN-65)",
+    "hour": 4,
+    "fact_text": "On April 29, 1770, James Cook’s ship Endeavour dropped anchor in a bay on Australia’s east coast, where European maps showed only blank shoreline. Struck by the rich plant life catalogued by botanist Joseph Banks, Cook named it Botany Bay—an early moment when European exploration collided with an already ancient, Indigenous landscape.",
+    "fact_year": 1770,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Botany_Bay",
     "episode": {
-      "id": 37,
-      "title": "Morning Drops #31 - Sailing With Germans",
-      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+      "id": 17,
+      "title": "Morning Drops #11 - Mediterranean Boat",
+      "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
       "songs": [
-        "Billy Talent - Dead Silence",
-        "Ben Howard - Keep Your Head Up",
-        "Ziggy Alberts - Simple Things",
-        "Vitor Kley - O Sol",
-        "Enya - Orinoco Flow",
-        "Paveier - Leev Marie"
+        "Arleta - Bar To Navagio",
+        "Baba Zula - Tavla",
+        "Mylène Farmer - Désenchantée",
+        "Fabrizio De André - Crêuza de mä"
       ],
       "music-genres": [
-        "Punk Rock",
-        "Indie Folk",
-        "Surf Pop",
-        "New Age",
-        "German Folk"
+        "Greek Folk",
+        "Turkish Psychedelic",
+        "French Pop",
+        "Italian Singer-Songwriter"
       ]
     },
-    "match_reason": "A nuclear carrier threading the Suez is an epic sea passage, nicely mirrored by an episode recorded on a boat and built around life on the water and long journeys."
+    "match_reason": "Cook’s coastal landfall, rich in botany and sea imagery, fits a warm episode about seafaring, coasts, and musical voyages across historic waters."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "On April 29, 1770, James Cook’s ship Endeavour dropped anchor in a bay on Australia’s east coast, where European maps showed only blank shoreline. Struck by the rich plant life catalogued by botanist Joseph Banks, Cook named it Botany Bay—an early moment when European exploration collided with an already ancient, Indigenous landscape.",
-      "fact_year": 1770,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Botany_Bay",
-      "episode": {
-        "id": 17,
-        "title": "Morning Drops #11 - Mediterranean Boat",
-        "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
-        "songs": [
-          "Arleta - Bar To Navagio",
-          "Baba Zula - Tavla",
-          "Mylène Farmer - Désenchantée",
-          "Fabrizio De André - Crêuza de mä"
-        ],
-        "music-genres": [
-          "Greek Folk",
-          "Turkish Psychedelic",
-          "French Pop",
-          "Italian Singer-Songwriter"
-        ]
-      },
-      "match_reason": "Cook’s coastal landfall, rich in botany and sea imagery, fits a warm episode about seafaring, coasts, and musical voyages across historic waters."
-    },
     {
       "hour": 5,
       "fact_text": "On April 29, 1826, an earthquake struck Italy’s Central Apennines, shaking Rome and Spoleto and damaging the ancient basilica of San Paolo Fuori le Mura. For people used to seeing churches as eternal stone, the sudden cracking of walls and collapse of artwork must have felt like the ground itself withdrawing its promise of stability.",
@@ -614,9 +586,34 @@
         ]
       },
       "match_reason": "A nuclear carrier threading the Suez is an epic sea passage, nicely mirrored by an episode recorded on a boat and built around life on the water and long journeys."
+    },
+    {
+      "hour": 4,
+      "fact_text": "On April 29, 1770, James Cook’s ship Endeavour dropped anchor in a bay on Australia’s east coast, where European maps showed only blank shoreline. Struck by the rich plant life catalogued by botanist Joseph Banks, Cook named it Botany Bay—an early moment when European exploration collided with an already ancient, Indigenous landscape.",
+      "fact_year": 1770,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Botany_Bay",
+      "episode": {
+        "id": 17,
+        "title": "Morning Drops #11 - Mediterranean Boat",
+        "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
+        "songs": [
+          "Arleta - Bar To Navagio",
+          "Baba Zula - Tavla",
+          "Mylène Farmer - Désenchantée",
+          "Fabrizio De André - Crêuza de mä"
+        ],
+        "music-genres": [
+          "Greek Folk",
+          "Turkish Psychedelic",
+          "French Pop",
+          "Italian Singer-Songwriter"
+        ]
+      },
+      "match_reason": "Cook’s coastal landfall, rich in botany and sea imagery, fits a warm episode about seafaring, coasts, and musical voyages across historic waters."
     }
   ],
   "generated_at": "2026-04-29T00:00:00.016910+00:00",
   "date": "2026-04-29",
-  "updated_at": "2026-04-29T03:00:01.849322+00:00"
+  "updated_at": "2026-04-29T04:00:01.788248+00:00"
 }
