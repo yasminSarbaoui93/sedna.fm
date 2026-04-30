@@ -1,46 +1,31 @@
 {
-  "current_hour": 2,
+  "current_hour": 3,
   "current_fact": {
-    "hour": 2,
-    "fact_text": "In 1939, NBC launched its first regular television service from New York City by broadcasting Franklin D. Roosevelt’s opening address at the World’s Fair. For many viewers, this wasn’t just a speech – it was the first time moving images and voices arrived together, live, in their living rooms.",
-    "fact_year": 1939,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/History_of_television",
+    "hour": 3,
+    "fact_text": "On April 30, 1943, the British submarine HMS Seraph surfaced off the coast of Spain to release a single corpse into the sea. Dressed as a courier and carrying forged documents, this man – part of the covert Operation Mincemeat – would successfully mislead Nazi planners about the Allied invasion of Europe.",
+    "fact_year": 1943,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/HMS_Seraph_(P219)",
     "episode": {
-      "id": 58,
-      "title": "Evening Flows #00 - Introduction to evening flows",
-      "description": "Sedna FM introduces a new format: Evening Flow, where you can enjoy curated music sets from selectors, DJs, and artists.\n\nEach mix is an invitation to drift beyond the expected. A space where hidden gems from personal archives come to light, where sound speaks its own language. There are no rules here, no patterns to follow. Just the steady unfolding of a mood, a texture, a journey shaped by feeling.\n\nLet the music lead the way - enjoy the trip!",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-introduction-to-evening-flows",
-      "songs": [],
-      "music-genres": []
+      "id": 56,
+      "title": "Morning Drops #49 - Rage Against The Machine",
+      "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
+      "songs": [
+        "Rage Against the Machine - Bombtrack",
+        "Rage Against the Machine - Killing in the Name",
+        "Rage Against the Machine - Without a Face",
+        "Rage Against the Machine - Guerrilla Radio",
+        "Rage Against the Machine - Sleep Now in the Fire"
+      ],
+      "music-genres": [
+        "Rap Metal",
+        "Political Rock",
+        "Alternative Metal"
+      ]
     },
-    "match_reason": "The birth of regular TV broadcasting fits an episode introducing a new broadcast format, both marking fresh frontiers in how stories and sound reach people."
+    "match_reason": "A clandestine wartime deception aimed at undermining a regime resonates with an episode about political resistance and challenging entrenched power."
   },
   "queue": [
-    {
-      "hour": 3,
-      "fact_text": "On April 30, 1943, the British submarine HMS Seraph surfaced off the coast of Spain to release a single corpse into the sea. Dressed as a courier and carrying forged documents, this man – part of the covert Operation Mincemeat – would successfully mislead Nazi planners about the Allied invasion of Europe.",
-      "fact_year": 1943,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/HMS_Seraph_(P219)",
-      "episode": {
-        "id": 56,
-        "title": "Morning Drops #49 - Rage Against The Machine",
-        "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
-        "songs": [
-          "Rage Against the Machine - Bombtrack",
-          "Rage Against the Machine - Killing in the Name",
-          "Rage Against the Machine - Without a Face",
-          "Rage Against the Machine - Guerrilla Radio",
-          "Rage Against the Machine - Sleep Now in the Fire"
-        ],
-        "music-genres": [
-          "Rap Metal",
-          "Political Rock",
-          "Alternative Metal"
-        ]
-      },
-      "match_reason": "A clandestine wartime deception aimed at undermining a regime resonates with an episode about political resistance and challenging entrenched power."
-    },
     {
       "hour": 4,
       "fact_text": "On April 30, 1945, deep beneath a burning Berlin in the Führerbunker, Adolf Hitler and Eva Braun died by suicide less than two days after their marriage. Above them, Soviet troops hoisted the Victory Banner over the Reichstag, a stark symbol of the Nazi regime’s collapse.",
@@ -573,9 +558,34 @@
         "music-genres": []
       },
       "match_reason": "The birth of regular TV broadcasting fits an episode introducing a new broadcast format, both marking fresh frontiers in how stories and sound reach people."
+    },
+    {
+      "hour": 3,
+      "fact_text": "On April 30, 1943, the British submarine HMS Seraph surfaced off the coast of Spain to release a single corpse into the sea. Dressed as a courier and carrying forged documents, this man – part of the covert Operation Mincemeat – would successfully mislead Nazi planners about the Allied invasion of Europe.",
+      "fact_year": 1943,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/HMS_Seraph_(P219)",
+      "episode": {
+        "id": 56,
+        "title": "Morning Drops #49 - Rage Against The Machine",
+        "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
+        "songs": [
+          "Rage Against the Machine - Bombtrack",
+          "Rage Against the Machine - Killing in the Name",
+          "Rage Against the Machine - Without a Face",
+          "Rage Against the Machine - Guerrilla Radio",
+          "Rage Against the Machine - Sleep Now in the Fire"
+        ],
+        "music-genres": [
+          "Rap Metal",
+          "Political Rock",
+          "Alternative Metal"
+        ]
+      },
+      "match_reason": "A clandestine wartime deception aimed at undermining a regime resonates with an episode about political resistance and challenging entrenched power."
     }
   ],
   "generated_at": "2026-04-30T00:00:00.015013+00:00",
   "date": "2026-04-30",
-  "updated_at": "2026-04-30T02:00:01.572752+00:00"
+  "updated_at": "2026-04-30T03:00:01.822287+00:00"
 }
