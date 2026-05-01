@@ -1,40 +1,25 @@
 {
-  "current_hour": 20,
+  "current_hour": 21,
   "current_fact": {
-    "hour": 20,
-    "fact_text": "On May 1, 2003, while Bush spoke of \"mission accomplished\" at sea, another mission decades earlier had quietly begun reshaping our understanding of the universe: by the early 20th century, Vesto Slipher’s observations at Lowell Observatory — the same institution that would later name Pluto — helped reveal that many nebulae were actually distant galaxies racing away from us. His measurements of galactic redshifts laid crucial groundwork for the idea of an expanding universe, even if his name is less famous than Hubble’s.",
-    "fact_year": 1912,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Vesto_Slipher",
+    "hour": 21,
+    "fact_text": "On May 1, 1945, as Berlin fell, the Soviet flag was hoisted over the Reich Chancellery — a photograph that would become an icon of victory. The image was later staged and retouched, with extra smoke added and a watch on a soldier’s wrist painted out to hide looting. Even history’s most famous moments, it turns out, can be part documentary, part careful editing.",
+    "fact_year": 1945,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Reich_Chancellery",
     "episode": {
-      "id": 58,
-      "title": "Evening Flows #00 - Introduction to evening flows",
-      "description": "Sedna FM introduces a new format: Evening Flow, where you can enjoy curated music sets from selectors, DJs, and artists.\n\nEach mix is an invitation to drift beyond the expected. A space where hidden gems from personal archives come to light, where sound speaks its own language. There are no rules here, no patterns to follow. Just the steady unfolding of a mood, a texture, a journey shaped by feeling.\n\nLet the music lead the way - enjoy the trip!",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-introduction-to-evening-flows",
-      "songs": [],
-      "music-genres": []
+      "id": 25,
+      "title": "Morning Drops #19 - Wabi Sabi",
+      "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
+      "songs": [
+        "song 1"
+      ],
+      "music-genres": [
+        "genre 1"
+      ]
     },
-    "match_reason": "Slipher’s quiet, foundational work on an expanding universe suits an open‑ended Evening Flow introduction, both inviting listeners to drift beyond familiar boundaries."
+    "match_reason": "A heavily retouched victory photo contrasts with an episode that embraces imperfection, inviting us to notice what gets edited out of official history and art."
   },
   "queue": [
-    {
-      "hour": 21,
-      "fact_text": "On May 1, 1945, as Berlin fell, the Soviet flag was hoisted over the Reich Chancellery — a photograph that would become an icon of victory. The image was later staged and retouched, with extra smoke added and a watch on a soldier’s wrist painted out to hide looting. Even history’s most famous moments, it turns out, can be part documentary, part careful editing.",
-      "fact_year": 1945,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Reich_Chancellery",
-      "episode": {
-        "id": 25,
-        "title": "Morning Drops #19 - Wabi Sabi",
-        "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
-        "songs": [
-          "song 1"
-        ],
-        "music-genres": [
-          "genre 1"
-        ]
-      },
-      "match_reason": "A heavily retouched victory photo contrasts with an episode that embraces imperfection, inviting us to notice what gets edited out of official history and art."
-    },
     {
       "hour": 22,
       "fact_text": "On May 1, 2003, as speeches echoed over the Pacific, Iraqis were still living through the chaos of invasion, illustrating how different a war can look from above and below. That same tension — between the neatness of announcements and the mess of real life — runs through many modern conflicts. It asks uncomfortable questions about who gets to declare an ending, and for whom the fighting is truly over.",
@@ -611,9 +596,28 @@
         "music-genres": []
       },
       "match_reason": "Slipher’s quiet, foundational work on an expanding universe suits an open‑ended Evening Flow introduction, both inviting listeners to drift beyond familiar boundaries."
+    },
+    {
+      "hour": 21,
+      "fact_text": "On May 1, 1945, as Berlin fell, the Soviet flag was hoisted over the Reich Chancellery — a photograph that would become an icon of victory. The image was later staged and retouched, with extra smoke added and a watch on a soldier’s wrist painted out to hide looting. Even history’s most famous moments, it turns out, can be part documentary, part careful editing.",
+      "fact_year": 1945,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Reich_Chancellery",
+      "episode": {
+        "id": 25,
+        "title": "Morning Drops #19 - Wabi Sabi",
+        "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
+        "songs": [
+          "song 1"
+        ],
+        "music-genres": [
+          "genre 1"
+        ]
+      },
+      "match_reason": "A heavily retouched victory photo contrasts with an episode that embraces imperfection, inviting us to notice what gets edited out of official history and art."
     }
   ],
   "generated_at": "2026-05-01T00:00:00.013317+00:00",
   "date": "2026-05-01",
-  "updated_at": "2026-05-01T20:00:01.791307+00:00"
+  "updated_at": "2026-05-01T21:00:01.432449+00:00"
 }
