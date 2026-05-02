@@ -1,68 +1,40 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "On May 2, 1969, the ocean liner Queen Elizabeth 2 departed on her maiden voyage from the River Clyde to New York City. The ship symbolized a late golden age of transatlantic travel, blending luxury with engineering prowess at a time when jets were already transforming how humans crossed oceans.",
-    "fact_year": 1969,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Queen_Elizabeth_2",
+    "hour": 4,
+    "fact_text": "On May 2, 1952, a De Havilland Comet made history by operating the first jetliner flight with fare-paying passengers, flying from London to Johannesburg. Passengers suddenly leaped into a future where crossing continents by jet became a matter of hours rather than days.",
+    "fact_year": 1952,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/De_Havilland_Comet",
     "episode": {
-      "id": 37,
-      "title": "Morning Drops #31 - Sailing With Germans",
-      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+      "id": 5,
+      "title": "Sedna FM #05 - On The Go - Zero Zero",
+      "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
       "songs": [
-        "Billy Talent - Dead Silence",
-        "Ben Howard - Keep Your Head Up",
-        "Ziggy Alberts - Simple Things",
-        "Vitor Kley - O Sol",
-        "Enya - Orinoco Flow",
-        "Paveier - Leev Marie"
+        "Alborosie - Rock the dancehall",
+        "Grace Jones - Pull up to the bumper",
+        "Hollie cook - Happy hour",
+        "Easy star all star - Soul love",
+        "Jeremie Albino - Rolling down the 405",
+        "Cyril Neville - I found joy",
+        "Aretha Franklin - Rock steady",
+        "James Brown - Talking loud and saying nothing (remix)",
+        "Nubiyan Twist - So mi stay",
+        "Professor Wouassa - Fallou Fall",
+        "Jarabe de Palo - La Flaca"
       ],
       "music-genres": [
-        "Punk Rock",
-        "Indie Folk",
-        "Surf Pop",
-        "New Age",
-        "German Folk"
+        "Reggae",
+        "Funk",
+        "Soul",
+        "Afrobeat",
+        "Latin Rock",
+        "New Wave"
       ]
     },
-    "match_reason": "A grand liner’s first voyage across the Atlantic aligns with an episode literally recorded at sea, both exploring how water journeys reshape the people on board."
+    "match_reason": "The world’s first commercial jetliner flight captures the thrill of fast, long-distance travel, matching this episode’s on-the-move energy and fresh-start vibe."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "On May 2, 1952, a De Havilland Comet made history by operating the first jetliner flight with fare-paying passengers, flying from London to Johannesburg. Passengers suddenly leaped into a future where crossing continents by jet became a matter of hours rather than days.",
-      "fact_year": 1952,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/De_Havilland_Comet",
-      "episode": {
-        "id": 5,
-        "title": "Sedna FM #05 - On The Go - Zero Zero",
-        "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
-        "songs": [
-          "Alborosie - Rock the dancehall",
-          "Grace Jones - Pull up to the bumper",
-          "Hollie cook - Happy hour",
-          "Easy star all star - Soul love",
-          "Jeremie Albino - Rolling down the 405",
-          "Cyril Neville - I found joy",
-          "Aretha Franklin - Rock steady",
-          "James Brown - Talking loud and saying nothing (remix)",
-          "Nubiyan Twist - So mi stay",
-          "Professor Wouassa - Fallou Fall",
-          "Jarabe de Palo - La Flaca"
-        ],
-        "music-genres": [
-          "Reggae",
-          "Funk",
-          "Soul",
-          "Afrobeat",
-          "Latin Rock",
-          "New Wave"
-        ]
-      },
-      "match_reason": "The world’s first commercial jetliner flight captures the thrill of fast, long-distance travel, matching this episode’s on-the-move energy and fresh-start vibe."
-    },
     {
       "hour": 5,
       "fact_text": "On May 2, 1970, ALM Flight 980 ditched into the Caribbean Sea near Saint Croix after multiple failed landing attempts, in what became one of the earliest large-scale survivable water landings. Despite 23 fatalities, the controlled ditching and rescue operations helped shape modern aviation safety procedures.",
@@ -633,9 +605,43 @@
         ]
       },
       "match_reason": "A grand liner’s first voyage across the Atlantic aligns with an episode literally recorded at sea, both exploring how water journeys reshape the people on board."
+    },
+    {
+      "hour": 4,
+      "fact_text": "On May 2, 1952, a De Havilland Comet made history by operating the first jetliner flight with fare-paying passengers, flying from London to Johannesburg. Passengers suddenly leaped into a future where crossing continents by jet became a matter of hours rather than days.",
+      "fact_year": 1952,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/De_Havilland_Comet",
+      "episode": {
+        "id": 5,
+        "title": "Sedna FM #05 - On The Go - Zero Zero",
+        "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
+        "songs": [
+          "Alborosie - Rock the dancehall",
+          "Grace Jones - Pull up to the bumper",
+          "Hollie cook - Happy hour",
+          "Easy star all star - Soul love",
+          "Jeremie Albino - Rolling down the 405",
+          "Cyril Neville - I found joy",
+          "Aretha Franklin - Rock steady",
+          "James Brown - Talking loud and saying nothing (remix)",
+          "Nubiyan Twist - So mi stay",
+          "Professor Wouassa - Fallou Fall",
+          "Jarabe de Palo - La Flaca"
+        ],
+        "music-genres": [
+          "Reggae",
+          "Funk",
+          "Soul",
+          "Afrobeat",
+          "Latin Rock",
+          "New Wave"
+        ]
+      },
+      "match_reason": "The world’s first commercial jetliner flight captures the thrill of fast, long-distance travel, matching this episode’s on-the-move energy and fresh-start vibe."
     }
   ],
   "generated_at": "2026-05-02T00:00:00.011035+00:00",
   "date": "2026-05-02",
-  "updated_at": "2026-05-02T03:00:01.716656+00:00"
+  "updated_at": "2026-05-02T04:00:01.706217+00:00"
 }
