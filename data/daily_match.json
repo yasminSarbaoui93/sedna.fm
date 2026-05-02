@@ -1,63 +1,38 @@
 {
-  "current_hour": 11,
+  "current_hour": 12,
   "current_fact": {
-    "hour": 11,
-    "fact_text": "On May 2, 1808, the people of Madrid launched the Dos de Mayo uprising against French occupation, sparking the Peninsular War. The brutal crackdown that followed was seared into cultural memory by Francisco Goya’s paintings, which turned a local revolt into a universal image of resistance.",
-    "fact_year": 1808,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Dos_de_Mayo_Uprising",
+    "hour": 12,
+    "fact_text": "On May 2, 2012, a pastel version of Edvard Munch’s \"The Scream\" sold at auction in New York for nearly $120 million, setting a new record at the time. The sale showed how a single image of existential anxiety could become both cultural icon and ultra‑luxury commodity.",
+    "fact_year": 2012,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/The_Scream",
     "episode": {
-      "id": 44,
-      "title": "Morning Drops #38 - History of Flamenco",
-      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+      "id": 3,
+      "title": "Sedna FM #03 - Beautiful as You Feel",
+      "description": "An episode about self-acceptance and inner beauty. Music that reminds us we are beautiful as we feel, embracing our authentic selves. Warm, uplifting sounds that celebrate individuality.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/beautiful-as-you-feel",
       "songs": [
-        "La Niña de los Peines - Al Gurugú",
-        "Lola Flores - Pena, penita, pena",
-        "Paco de Lucía - Entre dos aguas",
-        "Camarón de la Isla - La leyenda del tiempo",
-        "Rosalía - Pienso en tu mirá"
+        "Radiohead - Lotus Flower",
+        "Andrea Lazslo de Simone - Vivo",
+        "The The - this is the day",
+        "Steve Monite - Only You",
+        "DCTL - Deep Tannin f(eat Rafael Leafar)",
+        "Soufiane Sa3idi - El Njoum",
+        "Area - La mela di odessa",
+        "Carol King - Beautiful",
+        "Mannarino - Vivere la vita"
       ],
       "music-genres": [
-        "Flamenco",
-        "Spanish Folk",
-        "Nuevo Flamenco"
+        "Alternative Rock",
+        "Italian Singer-Songwriter",
+        "New Wave",
+        "Afro-Funk",
+        "Maghreb",
+        "Progressive Rock"
       ]
     },
-    "match_reason": "A Madrid uprising immortalized in Spanish art pairs with an episode rooted in Spain’s musical soul, tracing flamenco’s history as another form of cultural resistance and expression."
+    "match_reason": "A world-famous depiction of inner anguish sells for a fortune; this contrasts beautifully with an episode encouraging listeners to find inner beauty beyond price tags and market value."
   },
   "queue": [
-    {
-      "hour": 12,
-      "fact_text": "On May 2, 2012, a pastel version of Edvard Munch’s \"The Scream\" sold at auction in New York for nearly $120 million, setting a new record at the time. The sale showed how a single image of existential anxiety could become both cultural icon and ultra‑luxury commodity.",
-      "fact_year": 2012,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/The_Scream",
-      "episode": {
-        "id": 3,
-        "title": "Sedna FM #03 - Beautiful as You Feel",
-        "description": "An episode about self-acceptance and inner beauty. Music that reminds us we are beautiful as we feel, embracing our authentic selves. Warm, uplifting sounds that celebrate individuality.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/beautiful-as-you-feel",
-        "songs": [
-          "Radiohead - Lotus Flower",
-          "Andrea Lazslo de Simone - Vivo",
-          "The The - this is the day",
-          "Steve Monite - Only You",
-          "DCTL - Deep Tannin f(eat Rafael Leafar)",
-          "Soufiane Sa3idi - El Njoum",
-          "Area - La mela di odessa",
-          "Carol King - Beautiful",
-          "Mannarino - Vivere la vita"
-        ],
-        "music-genres": [
-          "Alternative Rock",
-          "Italian Singer-Songwriter",
-          "New Wave",
-          "Afro-Funk",
-          "Maghreb",
-          "Progressive Rock"
-        ]
-      },
-      "match_reason": "A world-famous depiction of inner anguish sells for a fortune; this contrasts beautifully with an episode encouraging listeners to find inner beauty beyond price tags and market value."
-    },
     {
       "hour": 13,
       "fact_text": "On May 2, 1945, the U.S. 82nd Airborne Division liberated the Wöbbelin concentration camp in northern Germany, discovering about 1,000 dead prisoners who had largely starved. The harrowing scenes they documented helped expose the full horror of Nazi camps to the wider world.",
@@ -630,9 +605,41 @@
         ]
       },
       "match_reason": "A Madrid uprising immortalized in Spanish art pairs with an episode rooted in Spain’s musical soul, tracing flamenco’s history as another form of cultural resistance and expression."
+    },
+    {
+      "hour": 12,
+      "fact_text": "On May 2, 2012, a pastel version of Edvard Munch’s \"The Scream\" sold at auction in New York for nearly $120 million, setting a new record at the time. The sale showed how a single image of existential anxiety could become both cultural icon and ultra‑luxury commodity.",
+      "fact_year": 2012,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/The_Scream",
+      "episode": {
+        "id": 3,
+        "title": "Sedna FM #03 - Beautiful as You Feel",
+        "description": "An episode about self-acceptance and inner beauty. Music that reminds us we are beautiful as we feel, embracing our authentic selves. Warm, uplifting sounds that celebrate individuality.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/beautiful-as-you-feel",
+        "songs": [
+          "Radiohead - Lotus Flower",
+          "Andrea Lazslo de Simone - Vivo",
+          "The The - this is the day",
+          "Steve Monite - Only You",
+          "DCTL - Deep Tannin f(eat Rafael Leafar)",
+          "Soufiane Sa3idi - El Njoum",
+          "Area - La mela di odessa",
+          "Carol King - Beautiful",
+          "Mannarino - Vivere la vita"
+        ],
+        "music-genres": [
+          "Alternative Rock",
+          "Italian Singer-Songwriter",
+          "New Wave",
+          "Afro-Funk",
+          "Maghreb",
+          "Progressive Rock"
+        ]
+      },
+      "match_reason": "A world-famous depiction of inner anguish sells for a fortune; this contrasts beautifully with an episode encouraging listeners to find inner beauty beyond price tags and market value."
     }
   ],
   "generated_at": "2026-05-02T00:00:00.011035+00:00",
   "date": "2026-05-02",
-  "updated_at": "2026-05-02T11:00:01.599495+00:00"
+  "updated_at": "2026-05-02T12:00:01.506104+00:00"
 }
