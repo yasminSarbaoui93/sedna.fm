@@ -1,46 +1,31 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "On May 2, 2011, U.S. Navy SEALs located and killed Osama bin Laden in Abbottabad, Pakistan, ending a decade-long manhunt for the architect of the September 11 attacks. The covert operation rewrote the final chapter of one of the most intense global security searches in modern history.",
-    "fact_year": 2011,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Osama_bin_Laden",
+    "hour": 11,
+    "fact_text": "On May 2, 1808, the people of Madrid launched the Dos de Mayo uprising against French occupation, sparking the Peninsular War. The brutal crackdown that followed was seared into cultural memory by Francisco Goya’s paintings, which turned a local revolt into a universal image of resistance.",
+    "fact_year": 1808,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Dos_de_Mayo_Uprising",
     "episode": {
-      "id": 61,
-      "title": "Morning Drops #52- Think Again",
-      "description": "In this Morning Drop, Yasmin explores the quiet art of changing your mind, guided by Adam Grant's book Think Again. From the beliefs we carry without questioning to the identities we build around what we think we know, this episode follows the slow, sometimes uncomfortable process of unlearning.\n\nAlong the way, we meet a Serbian trumpet player who had to let go of one dream to find another, a Tunisian oud master who challenged centuries of tradition from the inside, and a Japanese band who found freedom in playing for no one. The music moves from Balkan brass to Mediterranean stillness to psychedelic drift, tracing the shape of a mind opening up.\n\nListen slowly, and ask yourself: is there something you believe today that deserves a second look?",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-think-again",
-      "songs": [],
-      "music-genres": []
+      "id": 44,
+      "title": "Morning Drops #38 - History of Flamenco",
+      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+      "songs": [
+        "La Niña de los Peines - Al Gurugú",
+        "Lola Flores - Pena, penita, pena",
+        "Paco de Lucía - Entre dos aguas",
+        "Camarón de la Isla - La leyenda del tiempo",
+        "Rosalía - Pienso en tu mirá"
+      ],
+      "music-genres": [
+        "Flamenco",
+        "Spanish Folk",
+        "Nuevo Flamenco"
+      ]
     },
-    "match_reason": "The end of bin Laden’s story symbolizes a geopolitical pivot and a chance to reassess long-held narratives, aligning with an episode about unlearning and rethinking what we take for granted."
+    "match_reason": "A Madrid uprising immortalized in Spanish art pairs with an episode rooted in Spain’s musical soul, tracing flamenco’s history as another form of cultural resistance and expression."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "On May 2, 1808, the people of Madrid launched the Dos de Mayo uprising against French occupation, sparking the Peninsular War. The brutal crackdown that followed was seared into cultural memory by Francisco Goya’s paintings, which turned a local revolt into a universal image of resistance.",
-      "fact_year": 1808,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Dos_de_Mayo_Uprising",
-      "episode": {
-        "id": 44,
-        "title": "Morning Drops #38 - History of Flamenco",
-        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
-        "songs": [
-          "La Niña de los Peines - Al Gurugú",
-          "Lola Flores - Pena, penita, pena",
-          "Paco de Lucía - Entre dos aguas",
-          "Camarón de la Isla - La leyenda del tiempo",
-          "Rosalía - Pienso en tu mirá"
-        ],
-        "music-genres": [
-          "Flamenco",
-          "Spanish Folk",
-          "Nuevo Flamenco"
-        ]
-      },
-      "match_reason": "A Madrid uprising immortalized in Spanish art pairs with an episode rooted in Spain’s musical soul, tracing flamenco’s history as another form of cultural resistance and expression."
-    },
     {
       "hour": 12,
       "fact_text": "On May 2, 2012, a pastel version of Edvard Munch’s \"The Scream\" sold at auction in New York for nearly $120 million, setting a new record at the time. The sale showed how a single image of existential anxiety could become both cultural icon and ultra‑luxury commodity.",
@@ -620,9 +605,34 @@
         "music-genres": []
       },
       "match_reason": "The end of bin Laden’s story symbolizes a geopolitical pivot and a chance to reassess long-held narratives, aligning with an episode about unlearning and rethinking what we take for granted."
+    },
+    {
+      "hour": 11,
+      "fact_text": "On May 2, 1808, the people of Madrid launched the Dos de Mayo uprising against French occupation, sparking the Peninsular War. The brutal crackdown that followed was seared into cultural memory by Francisco Goya’s paintings, which turned a local revolt into a universal image of resistance.",
+      "fact_year": 1808,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Dos_de_Mayo_Uprising",
+      "episode": {
+        "id": 44,
+        "title": "Morning Drops #38 - History of Flamenco",
+        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+        "songs": [
+          "La Niña de los Peines - Al Gurugú",
+          "Lola Flores - Pena, penita, pena",
+          "Paco de Lucía - Entre dos aguas",
+          "Camarón de la Isla - La leyenda del tiempo",
+          "Rosalía - Pienso en tu mirá"
+        ],
+        "music-genres": [
+          "Flamenco",
+          "Spanish Folk",
+          "Nuevo Flamenco"
+        ]
+      },
+      "match_reason": "A Madrid uprising immortalized in Spanish art pairs with an episode rooted in Spain’s musical soul, tracing flamenco’s history as another form of cultural resistance and expression."
     }
   ],
   "generated_at": "2026-05-02T00:00:00.011035+00:00",
   "date": "2026-05-02",
-  "updated_at": "2026-05-02T10:00:01.819486+00:00"
+  "updated_at": "2026-05-02T11:00:01.599495+00:00"
 }
