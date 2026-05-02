@@ -1,56 +1,31 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "On May 2, 1970, ALM Flight 980 ditched in the Caribbean Sea near Saint Croix after multiple failed landing attempts, in one of the earliest airline accidents where most passengers survived a controlled water landing. The incident became a crucial case study in ditching procedures and life-raft survival.",
-    "fact_year": 1970,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/ALM_Flight_980",
+    "hour": 6,
+    "fact_text": "On May 2, 1808, the people of Madrid rose in a spontaneous uprising against Napoleon’s occupying forces, an event later immortalized by Francisco Goya in \"The Second of May\" and \"The Third of May 1808.\" The rebellion failed militarily but ignited the Peninsular War and etched an image of civilian resistance into art history.",
+    "fact_year": 1808,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Dos_de_Mayo_Uprising",
     "episode": {
-      "id": 39,
-      "title": "Morning Drops #33 - Immerse",
-      "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
+      "id": 44,
+      "title": "Morning Drops #38 - History of Flamenco",
+      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
       "songs": [
-        "Pino D'Angiò - Un Po' d'Uva e un Liquore",
-        "Midlife - The Magnificent Moon",
-        "Tornado Wallace - Today",
-        "Nu Genea - Marechià (feat. Celia Kameni)"
+        "La Niña de los Peines - Al Gurugú",
+        "Lola Flores - Pena, penita, pena",
+        "Paco de Lucía - Entre dos aguas",
+        "Camarón de la Isla - La leyenda del tiempo",
+        "Rosalía - Pienso en tu mirá"
       ],
       "music-genres": [
-        "Italo Disco",
-        "Indie",
-        "Balearic",
-        "Nu Disco"
+        "Flamenco",
+        "Spanish Folk",
+        "Nuevo Flamenco"
       ]
     },
-    "match_reason": "A dramatic landing on the sea mirrors an episode themed around water, immersion, and the tension between danger and calm below the surface."
+    "match_reason": "A Madrid uprising that shaped Spain’s identity fits with an episode tracing another Spanish cultural force: the history and emotion of flamenco."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "On May 2, 1808, the people of Madrid rose in a spontaneous uprising against Napoleon’s occupying forces, an event later immortalized by Francisco Goya in \"The Second of May\" and \"The Third of May 1808.\" The rebellion failed militarily but ignited the Peninsular War and etched an image of civilian resistance into art history.",
-      "fact_year": 1808,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Dos_de_Mayo_Uprising",
-      "episode": {
-        "id": 44,
-        "title": "Morning Drops #38 - History of Flamenco",
-        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
-        "songs": [
-          "La Niña de los Peines - Al Gurugú",
-          "Lola Flores - Pena, penita, pena",
-          "Paco de Lucía - Entre dos aguas",
-          "Camarón de la Isla - La leyenda del tiempo",
-          "Rosalía - Pienso en tu mirá"
-        ],
-        "music-genres": [
-          "Flamenco",
-          "Spanish Folk",
-          "Nuevo Flamenco"
-        ]
-      },
-      "match_reason": "A Madrid uprising that shaped Spain’s identity fits with an episode tracing another Spanish cultural force: the history and emotion of flamenco."
-    },
     {
       "hour": 7,
       "fact_text": "On May 2, 1867, zoologist Albert Günther published a study recognizing that New Zealand’s tuatara is not a lizard but the last survivor of an entirely separate reptile lineage, the Rhynchocephalia. This unassuming, nocturnal creature turned out to be a living fossil, preserving a branch of reptile evolution otherwise lost.",
@@ -594,9 +569,34 @@
         ]
       },
       "match_reason": "A dramatic landing on the sea mirrors an episode themed around water, immersion, and the tension between danger and calm below the surface."
+    },
+    {
+      "hour": 6,
+      "fact_text": "On May 2, 1808, the people of Madrid rose in a spontaneous uprising against Napoleon’s occupying forces, an event later immortalized by Francisco Goya in \"The Second of May\" and \"The Third of May 1808.\" The rebellion failed militarily but ignited the Peninsular War and etched an image of civilian resistance into art history.",
+      "fact_year": 1808,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Dos_de_Mayo_Uprising",
+      "episode": {
+        "id": 44,
+        "title": "Morning Drops #38 - History of Flamenco",
+        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+        "songs": [
+          "La Niña de los Peines - Al Gurugú",
+          "Lola Flores - Pena, penita, pena",
+          "Paco de Lucía - Entre dos aguas",
+          "Camarón de la Isla - La leyenda del tiempo",
+          "Rosalía - Pienso en tu mirá"
+        ],
+        "music-genres": [
+          "Flamenco",
+          "Spanish Folk",
+          "Nuevo Flamenco"
+        ]
+      },
+      "match_reason": "A Madrid uprising that shaped Spain’s identity fits with an episode tracing another Spanish cultural force: the history and emotion of flamenco."
     }
   ],
   "generated_at": "2026-05-02T00:00:00.008791+00:00",
   "date": "2026-05-02",
-  "updated_at": "2026-05-02T05:00:01.956823+00:00"
+  "updated_at": "2026-05-02T06:00:01.388080+00:00"
 }
