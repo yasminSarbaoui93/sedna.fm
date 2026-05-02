@@ -1,50 +1,31 @@
 {
-  "current_hour": 8,
+  "current_hour": 9,
   "current_fact": {
-    "hour": 8,
-    "fact_text": "On May 2, 1986, the city of Chernobyl was evacuated six days after the nuclear disaster at the nearby power plant, transforming a lived-in Soviet town into a frozen-in-time exclusion zone. Nature has since crept back through abandoned streets, creating a haunting experiment in post-human ecosystems.",
-    "fact_year": 1986,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Chernobyl_disaster",
+    "hour": 9,
+    "fact_text": "On May 2, 2008, Chile’s Chaitén volcano erupted explosively after more than 9,000 years of dormancy, forcing the evacuation of the nearby town. Its ash plume climbed over 20 kilometers into the sky, reminding modern Chileans that even \"quiet\" volcanoes can wake abruptly.",
+    "fact_year": 2008,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Chait%C3%A9n_(volcano)",
     "episode": {
-      "id": 25,
-      "title": "Morning Drops #19 - Wabi Sabi",
-      "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
+      "id": 53,
+      "title": "Morning Drops #46 - Fog and Fire",
+      "description": "In today’s Morning Drops, Gaia brings us on a passport-free trip between two Italian energies: the foggy stillness of the North and the volcanic pulse of the South. Throughout the journey, Gaia shares four of her favourite Italian songwriters. Grab your coffee and tune into the radio show from another planet!",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-fog-and-fire",
       "songs": [
-        "song 1"
+        "Edoardo Bennato - La Torre Di Babele",
+        "Zucchero - Diavolo in Me",
+        "Lucio Dalla - Com'è Profondo il Mare",
+        "Pino Daniele - Tutta N'ata Storia"
       ],
       "music-genres": [
-        "genre 1"
+        "Blues",
+        "indie",
+        "Italian",
+        "Soft Rock"
       ]
     },
-    "match_reason": "A catastrophic failure that left behind an eerie, reclaimed landscape pairs with an episode meditating on imperfection, unintended consequences, and strange beauty in what went wrong."
+    "match_reason": "An ancient volcano’s sudden awakening aligns with an episode about the fiery, volcanic energy of the south and the unseen forces simmering under everyday life."
   },
   "queue": [
-    {
-      "hour": 9,
-      "fact_text": "On May 2, 2008, Chile’s Chaitén volcano erupted explosively after more than 9,000 years of dormancy, forcing the evacuation of the nearby town. Its ash plume climbed over 20 kilometers into the sky, reminding modern Chileans that even \"quiet\" volcanoes can wake abruptly.",
-      "fact_year": 2008,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Chait%C3%A9n_(volcano)",
-      "episode": {
-        "id": 53,
-        "title": "Morning Drops #46 - Fog and Fire",
-        "description": "In today’s Morning Drops, Gaia brings us on a passport-free trip between two Italian energies: the foggy stillness of the North and the volcanic pulse of the South. Throughout the journey, Gaia shares four of her favourite Italian songwriters. Grab your coffee and tune into the radio show from another planet!",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-fog-and-fire",
-        "songs": [
-          "Edoardo Bennato - La Torre Di Babele",
-          "Zucchero - Diavolo in Me",
-          "Lucio Dalla - Com'è Profondo il Mare",
-          "Pino Daniele - Tutta N'ata Storia"
-        ],
-        "music-genres": [
-          "Blues",
-          "indie",
-          "Italian",
-          "Soft Rock"
-        ]
-      },
-      "match_reason": "An ancient volcano’s sudden awakening aligns with an episode about the fiery, volcanic energy of the south and the unseen forces simmering under everyday life."
-    },
     {
       "hour": 10,
       "fact_text": "On May 2, 2008, Cyclone Nargis made landfall in Myanmar, driving a storm surge up the Irrawaddy Delta that killed over 138,000 people and left millions homeless. It was one of the deadliest tropical cyclones ever recorded in the North Indian Ocean, exposing how fragile low-lying river deltas are to rising seas and extreme weather.",
@@ -588,9 +569,34 @@
         ]
       },
       "match_reason": "A catastrophic failure that left behind an eerie, reclaimed landscape pairs with an episode meditating on imperfection, unintended consequences, and strange beauty in what went wrong."
+    },
+    {
+      "hour": 9,
+      "fact_text": "On May 2, 2008, Chile’s Chaitén volcano erupted explosively after more than 9,000 years of dormancy, forcing the evacuation of the nearby town. Its ash plume climbed over 20 kilometers into the sky, reminding modern Chileans that even \"quiet\" volcanoes can wake abruptly.",
+      "fact_year": 2008,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Chait%C3%A9n_(volcano)",
+      "episode": {
+        "id": 53,
+        "title": "Morning Drops #46 - Fog and Fire",
+        "description": "In today’s Morning Drops, Gaia brings us on a passport-free trip between two Italian energies: the foggy stillness of the North and the volcanic pulse of the South. Throughout the journey, Gaia shares four of her favourite Italian songwriters. Grab your coffee and tune into the radio show from another planet!",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-fog-and-fire",
+        "songs": [
+          "Edoardo Bennato - La Torre Di Babele",
+          "Zucchero - Diavolo in Me",
+          "Lucio Dalla - Com'è Profondo il Mare",
+          "Pino Daniele - Tutta N'ata Storia"
+        ],
+        "music-genres": [
+          "Blues",
+          "indie",
+          "Italian",
+          "Soft Rock"
+        ]
+      },
+      "match_reason": "An ancient volcano’s sudden awakening aligns with an episode about the fiery, volcanic energy of the south and the unseen forces simmering under everyday life."
     }
   ],
   "generated_at": "2026-05-02T00:00:00.008791+00:00",
   "date": "2026-05-02",
-  "updated_at": "2026-05-02T08:00:01.423994+00:00"
+  "updated_at": "2026-05-02T09:00:01.498251+00:00"
 }
