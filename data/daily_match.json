@@ -1,45 +1,30 @@
 {
-  "current_hour": 17,
+  "current_hour": 18,
   "current_fact": {
-    "hour": 17,
-    "fact_text": "On May 4, 1946, U.S. Marines from Treasure Island stormed Alcatraz Island to end a violent two-day prison uprising known as the Battle of Alcatraz, which left five people dead. The clash turned a supposedly escape-proof prison into a battlefield, exposing tensions simmering behind its concrete walls.",
-    "fact_year": 1946,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/San_Francisco_Bay",
+    "hour": 18,
+    "fact_text": "On May 4, 1799, British forces stormed the fortress city of Seringapatam, killing Tipu Sultan and ending the Fourth Anglo-Mysore War. Tipu, famed for his use of rockets and his refusal to yield to colonial power, fell defending a city that had become a symbol of resistance in southern India.",
+    "fact_year": 1799,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Siege_of_Seringapatam_(1799)",
     "episode": {
-      "id": 63,
-      "title": "Morning Drops #54 - Intentional Listening",
-      "description": "Do you remember what it felt like to listen to music without a streaming platform?\nIn this Morning Drops episode, Gaia reflects on a recent experiment: stepping away from algorithmic listening and going back to an iPod. \n\nWhat starts as a small personal choice opens into a wider meditation on attention, presence, and what happens when music is no longer treated as something infinite, but as something we choose with care.\n\nTracklist:\nScientist - Drum Song Dub\nThe Other People Place - Let Me Be Me\nA Forest Mighty Black - Fresh In My Mind\nCymande - Bra",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-intentional-listening",
-      "songs": [],
-      "music-genres": []
+      "id": 22,
+      "title": "Morning Drops #16 - The Sound of Tuareg",
+      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+      "songs": [
+        "Les Filles de Illighadad - Imigradan",
+        "Tinariwen - Amassakoul ’N’ Ténéré",
+        "Liya Ag Ablil - Awa Adounia",
+        "Tinariwen - Sastanàqqàm"
+      ],
+      "music-genres": [
+        "Desert Blues",
+        "Tuareg",
+        "World Music"
+      ]
     },
-    "match_reason": "A brutal prison riot invites reflection on control, confinement, and freedom, themes that quietly echo an episode about reclaiming attention and choosing what we let into our mental ‘cells.’"
+    "match_reason": "An anti-colonial ruler dying in a siege resonates with an episode about desert peoples expressing exile and resistance through music; both weave geography, memory, and struggle into cultural survival."
   },
   "queue": [
-    {
-      "hour": 18,
-      "fact_text": "On May 4, 1799, British forces stormed the fortress city of Seringapatam, killing Tipu Sultan and ending the Fourth Anglo-Mysore War. Tipu, famed for his use of rockets and his refusal to yield to colonial power, fell defending a city that had become a symbol of resistance in southern India.",
-      "fact_year": 1799,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Siege_of_Seringapatam_(1799)",
-      "episode": {
-        "id": 22,
-        "title": "Morning Drops #16 - The Sound of Tuareg",
-        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
-        "songs": [
-          "Les Filles de Illighadad - Imigradan",
-          "Tinariwen - Amassakoul ’N’ Ténéré",
-          "Liya Ag Ablil - Awa Adounia",
-          "Tinariwen - Sastanàqqàm"
-        ],
-        "music-genres": [
-          "Desert Blues",
-          "Tuareg",
-          "World Music"
-        ]
-      },
-      "match_reason": "An anti-colonial ruler dying in a siege resonates with an episode about desert peoples expressing exile and resistance through music; both weave geography, memory, and struggle into cultural survival."
-    },
     {
       "hour": 19,
       "fact_text": "On May 4, 1493, Pope Alexander VI issued the papal bull Inter caetera, drawing an imaginary line through the Atlantic and dividing newly encountered lands between Spain and Portugal. With a few strokes of ink in Rome, entire continents were claimed, traded, and partitioned without a single local voice in the room.",
@@ -599,9 +584,33 @@
         "music-genres": []
       },
       "match_reason": "A brutal prison riot invites reflection on control, confinement, and freedom, themes that quietly echo an episode about reclaiming attention and choosing what we let into our mental ‘cells.’"
+    },
+    {
+      "hour": 18,
+      "fact_text": "On May 4, 1799, British forces stormed the fortress city of Seringapatam, killing Tipu Sultan and ending the Fourth Anglo-Mysore War. Tipu, famed for his use of rockets and his refusal to yield to colonial power, fell defending a city that had become a symbol of resistance in southern India.",
+      "fact_year": 1799,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Siege_of_Seringapatam_(1799)",
+      "episode": {
+        "id": 22,
+        "title": "Morning Drops #16 - The Sound of Tuareg",
+        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+        "songs": [
+          "Les Filles de Illighadad - Imigradan",
+          "Tinariwen - Amassakoul ’N’ Ténéré",
+          "Liya Ag Ablil - Awa Adounia",
+          "Tinariwen - Sastanàqqàm"
+        ],
+        "music-genres": [
+          "Desert Blues",
+          "Tuareg",
+          "World Music"
+        ]
+      },
+      "match_reason": "An anti-colonial ruler dying in a siege resonates with an episode about desert peoples expressing exile and resistance through music; both weave geography, memory, and struggle into cultural survival."
     }
   ],
   "generated_at": "2026-05-04T00:00:00.011209+00:00",
   "date": "2026-05-04",
-  "updated_at": "2026-05-04T17:00:01.837980+00:00"
+  "updated_at": "2026-05-04T18:00:01.839114+00:00"
 }
