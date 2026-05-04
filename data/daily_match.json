@@ -1,54 +1,31 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "On May 4, 1989, Space Shuttle Atlantis lifted off on mission STS-30, carrying the Magellan probe that would become the first spacecraft launched by a shuttle to orbit another planet. Magellan later used radar to pierce Venus’s thick clouds, mapping over 98% of the planet’s surface and revealing towering volcanoes and vast lava plains.",
-    "fact_year": 1989,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-30",
+    "hour": 1,
+    "fact_text": "On May 4, 1961, U.S. Navy balloonists Malcolm Ross and Victor Prather ascended in the open gondola Strato-Lab V to an astonishing 113,740 feet (34.67 km), setting a new record for manned balloon flight. Wearing pressurized suits in near-space conditions, they gathered critical data that informed the design of future high-altitude and space suits.",
+    "fact_year": 1961,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Project_Strato-Lab",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 39,
+      "title": "Morning Drops #33 - Immerse",
+      "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Pino D'Angiò - Un Po' d'Uva e un Liquore",
+        "Midlife - The Magnificent Moon",
+        "Tornado Wallace - Today",
+        "Nu Genea - Marechià (feat. Celia Kameni)"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Italo Disco",
+        "Indie",
+        "Balearic",
+        "Nu Disco"
       ]
     },
-    "match_reason": "A literal \"space shift\": a shuttle launching a Venus orbiter pairs with an episode about reimagining emptiness as creative space, with energetic, forward-moving tracks echoing the momentum of a planetary mission."
+    "match_reason": "A record-breaking ascent into the thin upper atmosphere feels like floating in another medium; the episode’s theme of immersion, suspension, and drifting parallels the serene, otherworldly calm of riding a balloon to the edge of space."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On May 4, 1961, U.S. Navy balloonists Malcolm Ross and Victor Prather ascended in the open gondola Strato-Lab V to an astonishing 113,740 feet (34.67 km), setting a new record for manned balloon flight. Wearing pressurized suits in near-space conditions, they gathered critical data that informed the design of future high-altitude and space suits.",
-      "fact_year": 1961,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Project_Strato-Lab",
-      "episode": {
-        "id": 39,
-        "title": "Morning Drops #33 - Immerse",
-        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
-        "songs": [
-          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
-          "Midlife - The Magnificent Moon",
-          "Tornado Wallace - Today",
-          "Nu Genea - Marechià (feat. Celia Kameni)"
-        ],
-        "music-genres": [
-          "Italo Disco",
-          "Indie",
-          "Balearic",
-          "Nu Disco"
-        ]
-      },
-      "match_reason": "A record-breaking ascent into the thin upper atmosphere feels like floating in another medium; the episode’s theme of immersion, suspension, and drifting parallels the serene, otherworldly calm of riding a balloon to the edge of space."
-    },
     {
       "hour": 2,
       "fact_text": "On May 4, 1988, the PEPCON disaster shook Henderson, Nevada, when a fire ignited thousands of tons of ammonium perchlorate, a key oxidizer used in Space Shuttle solid rocket boosters. The successive explosions were so powerful they registered on seismographs and blasted out windows miles away, prompting major reforms in industrial safety and storage of rocket propellants.",
@@ -636,9 +613,34 @@
         ]
       },
       "match_reason": "A literal \"space shift\": a shuttle launching a Venus orbiter pairs with an episode about reimagining emptiness as creative space, with energetic, forward-moving tracks echoing the momentum of a planetary mission."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On May 4, 1961, U.S. Navy balloonists Malcolm Ross and Victor Prather ascended in the open gondola Strato-Lab V to an astonishing 113,740 feet (34.67 km), setting a new record for manned balloon flight. Wearing pressurized suits in near-space conditions, they gathered critical data that informed the design of future high-altitude and space suits.",
+      "fact_year": 1961,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Project_Strato-Lab",
+      "episode": {
+        "id": 39,
+        "title": "Morning Drops #33 - Immerse",
+        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
+        "songs": [
+          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
+          "Midlife - The Magnificent Moon",
+          "Tornado Wallace - Today",
+          "Nu Genea - Marechià (feat. Celia Kameni)"
+        ],
+        "music-genres": [
+          "Italo Disco",
+          "Indie",
+          "Balearic",
+          "Nu Disco"
+        ]
+      },
+      "match_reason": "A record-breaking ascent into the thin upper atmosphere feels like floating in another medium; the episode’s theme of immersion, suspension, and drifting parallels the serene, otherworldly calm of riding a balloon to the edge of space."
     }
   ],
   "generated_at": "2026-05-04T00:00:00.018598+00:00",
   "date": "2026-05-04",
-  "updated_at": "2026-05-04T00:01:56.382520+00:00"
+  "updated_at": "2026-05-04T01:00:01.357337+00:00"
 }
