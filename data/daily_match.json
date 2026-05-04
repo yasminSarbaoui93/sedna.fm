@@ -1,57 +1,30 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "On May 4, 1927, the Academy of Motion Picture Arts and Sciences was incorporated, laying the groundwork for the Oscars long before golden statues became global television events. The Academy began as a small, somewhat experimental idea: a professional club that would both promote film artistry and quietly mediate labor disputes.",
-    "fact_year": 1927,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Academy_of_Motion_Picture_Arts_and_Sciences",
+    "hour": 11,
+    "fact_text": "On May 4, 1932, infamous Chicago mobster Al Capone was transferred from the Cook County Jail to a federal penitentiary in Atlanta after the U.S. Supreme Court refused to hear his tax-evasion appeal. The gangster who had dodged murder charges and Prohibition-era raids was ultimately undone by ledgers and accountants.",
+    "fact_year": 1932,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Al_Capone",
     "episode": {
-      "id": 50,
-      "title": "Morning Drops #43 - Looking Back",
-      "description": "In this first Morning Drop of 2026, Yasmin opens a space for quiet reflection on the nature of transitions. The episode traces a personal journey that began three years ago, when a sudden injury on New Year’s Day turned a desire for movement into a mandatory season of stillness.\n\nThrough the story of a broken knee and the slow process of relearning to walk, the narrative explores the difference between being strong and being aware. It touches on the vulnerability of the body, the unexpected joy found in daily progress, and the warmth that comes from finally allowing oneself to accept help. The musical selection mirrors this path of recovery, moving from the uncertainty of change to the steady rhythm of healing.\n\nMood: Reflective, Resilient, Grounded\nMusic genre: Indie Pop, Cinematic, World, Soul\n\nWe invite you to listen deeply and find comfort in your own pace.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-looking-back",
+      "id": 32,
+      "title": "Morning Drops #26 - Canserbero",
+      "description": "Yasmin guides us through the story of Canserbero, the Venezuelan rapper who reshaped Latin American hip hop with his raw voice and deeply reflective lyrics. A journey into his music, his vision, and the legacy of an artist who transformed personal and social struggles into powerful storytelling.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-canserbero",
       "songs": [
-        "Alt-J - 3WW",
-        "Kelly Finnigan - I Don't Wanna Wait",
-        "Goran Bregović & Iggy Pop - This Is a Film",
-        "Ishihonana - Lucia (Original Mix)",
-        "The Weeknd - Save Your Tears"
+        "Canserbero - Mañana será otro día",
+        "Canserbero - Querer Querernos",
+        "Canserbero - Jeremías",
+        "Canserbero - De la vida como una película y su tragedia, comedia y ficción"
       ],
       "music-genres": [
-        "Indie Pop",
-        "Soul",
-        "World",
-        "Cinematic",
-        "Synth-Pop"
+        "Latin Rap",
+        "Hip-Hop",
+        "Conscious Rap"
       ]
     },
-    "match_reason": "An institution that would define cinematic storytelling pairs with an episode explicitly described as ‘cinematic,’ both reflecting on how we frame and replay stories over time."
+    "match_reason": "Capone’s crime-saga arc complements an episode focused on a rapper who narrates social violence and moral collapse, both turning crime and justice into stark, narrative-heavy stories."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "On May 4, 1932, infamous Chicago mobster Al Capone was transferred from the Cook County Jail to a federal penitentiary in Atlanta after the U.S. Supreme Court refused to hear his tax-evasion appeal. The gangster who had dodged murder charges and Prohibition-era raids was ultimately undone by ledgers and accountants.",
-      "fact_year": 1932,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Al_Capone",
-      "episode": {
-        "id": 32,
-        "title": "Morning Drops #26 - Canserbero",
-        "description": "Yasmin guides us through the story of Canserbero, the Venezuelan rapper who reshaped Latin American hip hop with his raw voice and deeply reflective lyrics. A journey into his music, his vision, and the legacy of an artist who transformed personal and social struggles into powerful storytelling.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-canserbero",
-        "songs": [
-          "Canserbero - Mañana será otro día",
-          "Canserbero - Querer Querernos",
-          "Canserbero - Jeremías",
-          "Canserbero - De la vida como una película y su tragedia, comedia y ficción"
-        ],
-        "music-genres": [
-          "Latin Rap",
-          "Hip-Hop",
-          "Conscious Rap"
-        ]
-      },
-      "match_reason": "Capone’s crime-saga arc complements an episode focused on a rapper who narrates social violence and moral collapse, both turning crime and justice into stark, narrative-heavy stories."
-    },
     {
       "hour": 12,
       "fact_text": "On May 4, 1919, thousands of Chinese students gathered in Tiananmen Square to protest the Treaty of Versailles handing former German concessions in Shandong to Japan. Their May Fourth Movement grew into a cultural and political earthquake, challenging old hierarchies, promoting science and democracy, and planting seeds for later revolutions.",
@@ -611,9 +584,33 @@
         ]
       },
       "match_reason": "An institution that would define cinematic storytelling pairs with an episode explicitly described as ‘cinematic,’ both reflecting on how we frame and replay stories over time."
+    },
+    {
+      "hour": 11,
+      "fact_text": "On May 4, 1932, infamous Chicago mobster Al Capone was transferred from the Cook County Jail to a federal penitentiary in Atlanta after the U.S. Supreme Court refused to hear his tax-evasion appeal. The gangster who had dodged murder charges and Prohibition-era raids was ultimately undone by ledgers and accountants.",
+      "fact_year": 1932,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Al_Capone",
+      "episode": {
+        "id": 32,
+        "title": "Morning Drops #26 - Canserbero",
+        "description": "Yasmin guides us through the story of Canserbero, the Venezuelan rapper who reshaped Latin American hip hop with his raw voice and deeply reflective lyrics. A journey into his music, his vision, and the legacy of an artist who transformed personal and social struggles into powerful storytelling.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-canserbero",
+        "songs": [
+          "Canserbero - Mañana será otro día",
+          "Canserbero - Querer Querernos",
+          "Canserbero - Jeremías",
+          "Canserbero - De la vida como una película y su tragedia, comedia y ficción"
+        ],
+        "music-genres": [
+          "Latin Rap",
+          "Hip-Hop",
+          "Conscious Rap"
+        ]
+      },
+      "match_reason": "Capone’s crime-saga arc complements an episode focused on a rapper who narrates social violence and moral collapse, both turning crime and justice into stark, narrative-heavy stories."
     }
   ],
   "generated_at": "2026-05-04T00:00:00.011209+00:00",
   "date": "2026-05-04",
-  "updated_at": "2026-05-04T10:00:01.787266+00:00"
+  "updated_at": "2026-05-04T11:00:01.861456+00:00"
 }
