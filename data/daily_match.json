@@ -1,45 +1,30 @@
 {
-  "current_hour": 7,
+  "current_hour": 8,
   "current_fact": {
-    "hour": 7,
-    "fact_text": "On May 4, 1989, former White House aide Oliver North was convicted on three counts in the Iran–Contra affair, including aiding the obstruction of Congress, though his convictions were later overturned. The case revealed a clandestine web of arms sales and covert funding that tested the boundaries of executive power in the United States.",
-    "fact_year": 1989,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Iran%E2%80%93Contra_affair",
+    "hour": 8,
+    "fact_text": "On May 4, 1973, the Sears Tower in Chicago was topped out at 1,451 feet, making it the tallest building in the world at the time. Its bundled-tube design not only redefined skylines but also pushed engineering to conjure stability from air, wind, and steel.",
+    "fact_year": 1973,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Willis_Tower",
     "episode": {
-      "id": 61,
-      "title": "Morning Drops #52- Think Again",
-      "description": "In this Morning Drop, Yasmin explores the quiet art of changing your mind, guided by Adam Grant's book Think Again. From the beliefs we carry without questioning to the identities we build around what we think we know, this episode follows the slow, sometimes uncomfortable process of unlearning.\n\nAlong the way, we meet a Serbian trumpet player who had to let go of one dream to find another, a Tunisian oud master who challenged centuries of tradition from the inside, and a Japanese band who found freedom in playing for no one. The music moves from Balkan brass to Mediterranean stillness to psychedelic drift, tracing the shape of a mind opening up.\n\nListen slowly, and ask yourself: is there something you believe today that deserves a second look?\n\nTracklist:\nBoban Marković Orkestar – SAT\nAnouar Brahem – The Astounding Eyes of Rita\nKikagaku Moyo – Dripping Sun\nSon Lux – Lost It to Trying",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-think-again",
-      "songs": [],
-      "music-genres": []
+      "id": 55,
+      "title": "Morning Drops #48 - Cosmic Monday",
+      "description": "Cosmic Monday is a Morning Drops episode built around four Italian dance records, tracing how disco rhythms slowly became electronic language.\nGaia moves through four tracks like chapters: groove first, then machines, then that bright, futuristic feeling you only get when the bassline is doing the talking. It's not nostalgia, exactly. It's more like returning to a sound that still works — especially on mornings when you need a little extra energy, but you don't want anything aggressive.\nTake it as a slow transmission. Let it carry you into the day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-cosmic-monday",
+      "songs": [
+        "Giovanotti Mondani Meccanici - Don't Ask Me Why",
+        "Azoto - Sal Salvador",
+        "Capricorn - I Need Love",
+        "Cosmic Disco - Cosmic Sprint"
+      ],
+      "music-genres": [
+        "Italo Disco",
+        "Disco",
+        "Electronic"
+      ]
     },
-    "match_reason": "A scandal that forced a nation to re-examine trust in institutions suits an episode about unlearning and rethinking, both asking listeners to question what they once accepted as truth."
+    "match_reason": "The skyscraper’s futuristic skyline presence pairs with an episode about cosmic, machine-driven dance music, both celebrating the thrill of height, technology, and modernist imagination."
   },
   "queue": [
-    {
-      "hour": 8,
-      "fact_text": "On May 4, 1973, the Sears Tower in Chicago was topped out at 1,451 feet, making it the tallest building in the world at the time. Its bundled-tube design not only redefined skylines but also pushed engineering to conjure stability from air, wind, and steel.",
-      "fact_year": 1973,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Willis_Tower",
-      "episode": {
-        "id": 55,
-        "title": "Morning Drops #48 - Cosmic Monday",
-        "description": "Cosmic Monday is a Morning Drops episode built around four Italian dance records, tracing how disco rhythms slowly became electronic language.\nGaia moves through four tracks like chapters: groove first, then machines, then that bright, futuristic feeling you only get when the bassline is doing the talking. It's not nostalgia, exactly. It's more like returning to a sound that still works — especially on mornings when you need a little extra energy, but you don't want anything aggressive.\nTake it as a slow transmission. Let it carry you into the day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-cosmic-monday",
-        "songs": [
-          "Giovanotti Mondani Meccanici - Don't Ask Me Why",
-          "Azoto - Sal Salvador",
-          "Capricorn - I Need Love",
-          "Cosmic Disco - Cosmic Sprint"
-        ],
-        "music-genres": [
-          "Italo Disco",
-          "Disco",
-          "Electronic"
-        ]
-      },
-      "match_reason": "The skyscraper’s futuristic skyline presence pairs with an episode about cosmic, machine-driven dance music, both celebrating the thrill of height, technology, and modernist imagination."
-    },
     {
       "hour": 9,
       "fact_text": "On May 4, 1959, the very first Grammy Awards ceremony was held simultaneously in Los Angeles and New York, honoring artists from Ella Fitzgerald to Count Basie. In an era before streaming and viral hits, it marked an attempt to canonize recorded music as an art form worthy of its own institutional spotlight.",
@@ -599,9 +584,33 @@
         "music-genres": []
       },
       "match_reason": "A scandal that forced a nation to re-examine trust in institutions suits an episode about unlearning and rethinking, both asking listeners to question what they once accepted as truth."
+    },
+    {
+      "hour": 8,
+      "fact_text": "On May 4, 1973, the Sears Tower in Chicago was topped out at 1,451 feet, making it the tallest building in the world at the time. Its bundled-tube design not only redefined skylines but also pushed engineering to conjure stability from air, wind, and steel.",
+      "fact_year": 1973,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Willis_Tower",
+      "episode": {
+        "id": 55,
+        "title": "Morning Drops #48 - Cosmic Monday",
+        "description": "Cosmic Monday is a Morning Drops episode built around four Italian dance records, tracing how disco rhythms slowly became electronic language.\nGaia moves through four tracks like chapters: groove first, then machines, then that bright, futuristic feeling you only get when the bassline is doing the talking. It's not nostalgia, exactly. It's more like returning to a sound that still works — especially on mornings when you need a little extra energy, but you don't want anything aggressive.\nTake it as a slow transmission. Let it carry you into the day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-cosmic-monday",
+        "songs": [
+          "Giovanotti Mondani Meccanici - Don't Ask Me Why",
+          "Azoto - Sal Salvador",
+          "Capricorn - I Need Love",
+          "Cosmic Disco - Cosmic Sprint"
+        ],
+        "music-genres": [
+          "Italo Disco",
+          "Disco",
+          "Electronic"
+        ]
+      },
+      "match_reason": "The skyscraper’s futuristic skyline presence pairs with an episode about cosmic, machine-driven dance music, both celebrating the thrill of height, technology, and modernist imagination."
     }
   ],
   "generated_at": "2026-05-04T00:00:00.011209+00:00",
   "date": "2026-05-04",
-  "updated_at": "2026-05-04T07:00:01.398744+00:00"
+  "updated_at": "2026-05-04T08:00:01.703030+00:00"
 }
