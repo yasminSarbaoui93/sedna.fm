@@ -1,60 +1,36 @@
 {
-  "current_hour": 21,
+  "current_hour": 22,
   "current_fact": {
-    "hour": 21,
-    "fact_text": "On May 4, 1946, five people were killed as Marines suppressed the Battle of Alcatraz, the prison uprising in San Francisco Bay that turned a rocky island into a brief warzone. The riot only ended when guards blasted through walls with explosives and tear gas, a grim reminder of how tightly controlled spaces can suddenly unravel.",
-    "fact_year": 1946,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Naval_Station_Treasure_Island",
+    "hour": 22,
+    "fact_text": "On May 4, 1972, the nascent Greenpeace Foundation adopted a name that would soon sail on ragtag boats to confront nuclear tests and harpoons. These early campaigns brought cameras and folk guitars inches from warships and whaling vessels, turning activism into a traveling performance on the open ocean.",
+    "fact_year": 1972,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Don%27t_Make_a_Wave_Committee",
     "episode": {
-      "id": 42,
-      "title": "Morning Drops #36 - Women of Rock",
-      "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
+      "id": 48,
+      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
       "songs": [
-        "Suzi Quatro - Can the Can",
-        "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
-        "Laura Cox - Hard Blues Shot",
-        "Jackie Venson - Always Free (Live)"
+        "Stive Morgan - Solar Wind, Pt. 3",
+        "David Visan & Carlos Campos - Crystal Heart",
+        "Evan Mars - Ya Zareef Al Tool",
+        "Gerardo Frisina - Cuiabá",
+        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+        "The Busy Twist - Friday Night"
       ],
       "music-genres": [
-        "Glam Rock",
-        "Hard Rock",
-        "Blues Rock"
+        "Ambient",
+        "Deep House",
+        "World Music",
+        "Nu Jazz",
+        "Afrobeat",
+        "Funk",
+        "Electronic"
       ]
     },
-    "match_reason": "A violent assertion of control over rebellious inmates finds a distant echo in an episode about women refusing permission and playing loud; both involve power, defiance, and who’s allowed to be ‘always free.’"
+    "match_reason": "Greenpeace’s shift from a small committee to a global, ocean-crossing movement matches an ‘Evening Flow’ that starts confined in a medina and grows into a transcontinental musical journey."
   },
   "queue": [
-    {
-      "hour": 22,
-      "fact_text": "On May 4, 1972, the nascent Greenpeace Foundation adopted a name that would soon sail on ragtag boats to confront nuclear tests and harpoons. These early campaigns brought cameras and folk guitars inches from warships and whaling vessels, turning activism into a traveling performance on the open ocean.",
-      "fact_year": 1972,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Don%27t_Make_a_Wave_Committee",
-      "episode": {
-        "id": 48,
-        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
-        "songs": [
-          "Stive Morgan - Solar Wind, Pt. 3",
-          "David Visan & Carlos Campos - Crystal Heart",
-          "Evan Mars - Ya Zareef Al Tool",
-          "Gerardo Frisina - Cuiabá",
-          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-          "The Busy Twist - Friday Night"
-        ],
-        "music-genres": [
-          "Ambient",
-          "Deep House",
-          "World Music",
-          "Nu Jazz",
-          "Afrobeat",
-          "Funk",
-          "Electronic"
-        ]
-      },
-      "match_reason": "Greenpeace’s shift from a small committee to a global, ocean-crossing movement matches an ‘Evening Flow’ that starts confined in a medina and grows into a transcontinental musical journey."
-    },
     {
       "hour": 23,
       "fact_text": "On May 4, 1959, the first Grammy Awards quietly attempted to codify what ‘great’ recorded music sounded like, honoring everything from jazz standards to novelty tracks. At the time, rock and roll barely registered, reminding us that what institutions bless as timeless often lags behind what listeners already love.",
@@ -608,9 +584,39 @@
         ]
       },
       "match_reason": "A violent assertion of control over rebellious inmates finds a distant echo in an episode about women refusing permission and playing loud; both involve power, defiance, and who’s allowed to be ‘always free.’"
+    },
+    {
+      "hour": 22,
+      "fact_text": "On May 4, 1972, the nascent Greenpeace Foundation adopted a name that would soon sail on ragtag boats to confront nuclear tests and harpoons. These early campaigns brought cameras and folk guitars inches from warships and whaling vessels, turning activism into a traveling performance on the open ocean.",
+      "fact_year": 1972,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Don%27t_Make_a_Wave_Committee",
+      "episode": {
+        "id": 48,
+        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+        "songs": [
+          "Stive Morgan - Solar Wind, Pt. 3",
+          "David Visan & Carlos Campos - Crystal Heart",
+          "Evan Mars - Ya Zareef Al Tool",
+          "Gerardo Frisina - Cuiabá",
+          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+          "The Busy Twist - Friday Night"
+        ],
+        "music-genres": [
+          "Ambient",
+          "Deep House",
+          "World Music",
+          "Nu Jazz",
+          "Afrobeat",
+          "Funk",
+          "Electronic"
+        ]
+      },
+      "match_reason": "Greenpeace’s shift from a small committee to a global, ocean-crossing movement matches an ‘Evening Flow’ that starts confined in a medina and grows into a transcontinental musical journey."
     }
   ],
   "generated_at": "2026-05-04T00:00:00.011209+00:00",
   "date": "2026-05-04",
-  "updated_at": "2026-05-04T21:00:02.732945+00:00"
+  "updated_at": "2026-05-04T22:00:01.720871+00:00"
 }
