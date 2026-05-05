@@ -1,46 +1,31 @@
 {
-  "current_hour": 12,
+  "current_hour": 13,
   "current_fact": {
-    "hour": 12,
-    "fact_text": "On May 5, 1987, millions of Americans watched the Iran–Contra hearings unfold on live television, turning a complex web of secret arms deals and covert funding into a national spectacle. For many viewers, it was the first time they saw political spin, denial, and partial truths dissected in real time.",
-    "fact_year": 1987,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Iran%E2%80%93Contra_affair",
+    "hour": 13,
+    "fact_text": "On May 5, 1945, a Japanese Fu-Go balloon bomb that had drifted across the Pacific exploded near Bly, Oregon, killing a minister’s pregnant wife and five children on a church picnic. They became the only known civilians killed by enemy action in the continental United States during World War II, victims of a weapon that rode the jet stream.",
+    "fact_year": 1945,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Fu-Go_balloon_bomb",
     "episode": {
-      "id": 60,
-      "title": "Morning Drops #52- Think Again",
-      "description": "In this Morning Drop, Yasmin explores the quiet art of changing your mind, guided by Adam Grant's book Think Again. From the beliefs we carry without questioning to the identities we build around what we think we know, this episode follows the slow, sometimes uncomfortable process of unlearning.\n\nAlong the way, we meet a Serbian trumpet player who had to let go of one dream to find another, a Tunisian oud master who challenged centuries of tradition from the inside, and a Japanese band who found freedom in playing for no one. The music moves from Balkan brass to Mediterranean stillness to psychedelic drift, tracing the shape of a mind opening up.\n\nListen slowly, and ask yourself: is there something you believe today that deserves a second look?\n\nTracklist:\nBoban Marković Orkestar – SAT\nAnouar Brahem – The Astounding Eyes of Rita\nKikagaku Moyo – Dripping Sun\nSon Lux – Lost It to Trying",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-think-again",
-      "songs": [],
-      "music-genres": []
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+      "songs": [
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
+      ],
+      "music-genres": [
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
+      ]
     },
-    "match_reason": "A scandal that forced a country to question its leaders fits with an episode about unlearning, rethinking, and examining what we once accepted without question."
+    "match_reason": "A haunting story of unseen forces drifting across oceans connects with an episode about vast skies, long distances, and the quiet power of nature over open water."
   },
   "queue": [
-    {
-      "hour": 13,
-      "fact_text": "On May 5, 1945, a Japanese Fu-Go balloon bomb that had drifted across the Pacific exploded near Bly, Oregon, killing a minister’s pregnant wife and five children on a church picnic. They became the only known civilians killed by enemy action in the continental United States during World War II, victims of a weapon that rode the jet stream.",
-      "fact_year": 1945,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Fu-Go_balloon_bomb",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "A haunting story of unseen forces drifting across oceans connects with an episode about vast skies, long distances, and the quiet power of nature over open water."
-    },
     {
       "hour": 14,
       "fact_text": "Italian troops entered Addis Ababa on May 5, 1936, after a brutal campaign that used chemical weapons and mass reprisals against Ethiopian forces and civilians. The so‑called ‘March of the Iron Will’ was staged as a triumphant parade, masking the violence that had paved the road to the capital.",
@@ -602,9 +587,34 @@
         "music-genres": []
       },
       "match_reason": "A scandal that forced a country to question its leaders fits with an episode about unlearning, rethinking, and examining what we once accepted without question."
+    },
+    {
+      "hour": 13,
+      "fact_text": "On May 5, 1945, a Japanese Fu-Go balloon bomb that had drifted across the Pacific exploded near Bly, Oregon, killing a minister’s pregnant wife and five children on a church picnic. They became the only known civilians killed by enemy action in the continental United States during World War II, victims of a weapon that rode the jet stream.",
+      "fact_year": 1945,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Fu-Go_balloon_bomb",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "A haunting story of unseen forces drifting across oceans connects with an episode about vast skies, long distances, and the quiet power of nature over open water."
     }
   ],
   "generated_at": "2026-05-05T00:00:00.014864+00:00",
   "date": "2026-05-05",
-  "updated_at": "2026-05-05T12:00:01.667536+00:00"
+  "updated_at": "2026-05-05T13:00:01.834270+00:00"
 }
