@@ -1,70 +1,36 @@
 {
-  "current_hour": 22,
+  "current_hour": 23,
   "current_fact": {
-    "hour": 22,
-    "fact_text": "Carnegie Hall’s 1891 opening on May 5 did more than host Tchaikovsky—it helped cement New York as a global music capital. Its extraordinary acoustics came partly from guesswork: the architect had little scientific guidance and relied on proportion, wood, and intuition, yet created a hall so resonant that musicians still revere its sound.",
-    "fact_year": 1891,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky",
+    "hour": 23,
+    "fact_text": "The first continental European railway, opened between Brussels and Mechelen on May 5, 1835, was powered by British‑built locomotives named after Belgian royalty. Early passengers sat in open carriages, pelted by soot and wind, thrilled by a speed that made the countryside seem to slide rather than roll past.",
+    "fact_year": 1835,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Brussels",
     "episode": {
-      "id": 1,
-      "title": "Sedna FM #01 - November Bomb",
-      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+      "id": 48,
+      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
       "songs": [
-        "berlioz - Open this wall",
-        "Nas - One Mic",
-        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-        "Frankie Knuckles - Your Love",
-        "Notorious B.I.G. - 17 Ten Crack Commandments",
-        "Liloca - Utani Xuva",
-        "Fela Kuti - Zombie",
-        "Neffa - Aspettando il sole",
-        "Childish Gambino - No Excuses",
-        "Modjo - Music takes you back"
+        "Stive Morgan - Solar Wind, Pt. 3",
+        "David Visan & Carlos Campos - Crystal Heart",
+        "Evan Mars - Ya Zareef Al Tool",
+        "Gerardo Frisina - Cuiabá",
+        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+        "The Busy Twist - Friday Night"
       ],
       "music-genres": [
-        "Hip-Hop",
+        "Ambient",
+        "Deep House",
+        "World Music",
+        "Nu Jazz",
         "Afrobeat",
-        "House",
-        "Italian Pop",
-        "R&B",
-        "Latin Rap"
+        "Funk",
+        "Electronic"
       ]
     },
-    "match_reason": "The birth of an iconic concert hall as a musical launchpad aligns with Sedna FM’s own first episode—the place 'where it all began.'"
+    "match_reason": "A pioneering railway line that turned linear travel into a flowing landscape matches an evening mix that slowly accelerates into a cross‑continental musical journey."
   },
-  "queue": [
-    {
-      "hour": 23,
-      "fact_text": "The first continental European railway, opened between Brussels and Mechelen on May 5, 1835, was powered by British‑built locomotives named after Belgian royalty. Early passengers sat in open carriages, pelted by soot and wind, thrilled by a speed that made the countryside seem to slide rather than roll past.",
-      "fact_year": 1835,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Brussels",
-      "episode": {
-        "id": 48,
-        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
-        "songs": [
-          "Stive Morgan - Solar Wind, Pt. 3",
-          "David Visan & Carlos Campos - Crystal Heart",
-          "Evan Mars - Ya Zareef Al Tool",
-          "Gerardo Frisina - Cuiabá",
-          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-          "The Busy Twist - Friday Night"
-        ],
-        "music-genres": [
-          "Ambient",
-          "Deep House",
-          "World Music",
-          "Nu Jazz",
-          "Afrobeat",
-          "Funk",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A pioneering railway line that turned linear travel into a flowing landscape matches an evening mix that slowly accelerates into a cross‑continental musical journey."
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "hour": 0,
@@ -622,9 +588,39 @@
         ]
       },
       "match_reason": "The birth of an iconic concert hall as a musical launchpad aligns with Sedna FM’s own first episode—the place 'where it all began.'"
+    },
+    {
+      "hour": 23,
+      "fact_text": "The first continental European railway, opened between Brussels and Mechelen on May 5, 1835, was powered by British‑built locomotives named after Belgian royalty. Early passengers sat in open carriages, pelted by soot and wind, thrilled by a speed that made the countryside seem to slide rather than roll past.",
+      "fact_year": 1835,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Brussels",
+      "episode": {
+        "id": 48,
+        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+        "songs": [
+          "Stive Morgan - Solar Wind, Pt. 3",
+          "David Visan & Carlos Campos - Crystal Heart",
+          "Evan Mars - Ya Zareef Al Tool",
+          "Gerardo Frisina - Cuiabá",
+          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+          "The Busy Twist - Friday Night"
+        ],
+        "music-genres": [
+          "Ambient",
+          "Deep House",
+          "World Music",
+          "Nu Jazz",
+          "Afrobeat",
+          "Funk",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A pioneering railway line that turned linear travel into a flowing landscape matches an evening mix that slowly accelerates into a cross‑continental musical journey."
     }
   ],
   "generated_at": "2026-05-05T00:00:00.018033+00:00",
   "date": "2026-05-05",
-  "updated_at": "2026-05-05T22:00:01.447075+00:00"
+  "updated_at": "2026-05-05T23:00:01.520728+00:00"
 }
