@@ -1,56 +1,31 @@
 {
-  "current_hour": 9,
+  "current_hour": 10,
   "current_fact": {
-    "hour": 9,
-    "fact_text": "The Stratton Brothers case, whose trial began on May 5, 1905, was the first murder conviction in Britain based primarily on fingerprint evidence. A bloody thumbprint left on a cash box lid turned a then‑novel forensic curiosity into one of criminal investigation’s most powerful tools.",
-    "fact_year": 1905,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Stratton_Brothers_case",
+    "hour": 10,
+    "fact_text": "The Battle of Puebla on May 5, 1862, saw a smaller, poorly equipped Mexican force under Ignacio Zaragoza halt a much better armed French army. Though not the end of the war, the unexpected victory became a powerful symbol of resistance and is commemorated every year as Cinco de Mayo.",
+    "fact_year": 1862,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cinco_de_Mayo",
     "episode": {
-      "id": 63,
-      "title": "Morning Drops #54 - Intentional Listening",
-      "description": "Do you remember what it felt like to listen to music without a streaming platform?\nIn this Morning Drops episode, Gaia reflects on a recent experiment: stepping away from algorithmic listening and going back to an iPod. \n\nWhat starts as a small personal choice opens into a wider meditation on attention, presence, and what happens when music is no longer treated as something infinite, but as something we choose with care.\n\nTracklist:\nScientist - Drum Song Dub\nThe Other People Place - Let Me Be Me\nA Forest Mighty Black - Fresh In My Mind\nCymande - Bra",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-intentional-listening",
+      "id": 45,
+      "title": "Morning Drops #39 - Moving Meditation",
+      "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
       "songs": [
-        "Scientist - Drum Song Dub",
-        "The Other People Place - Let Me Be Me",
-        "A Forest Mighty Black - Fresh In My Mind",
-        "Cymande - Bra"
+        "Stella & The Longos - La Flamme",
+        "España Circo Este - Dormo poco e sogno molto",
+        "Mystic Jungle - Sunset Breaker",
+        "Talking Heads - This Must Be the Place (Naive Melody)"
       ],
       "music-genres": [
-        "Reggae",
-        "Dub",
-        "Downtempo",
-        "Funk"
+        "Balearic",
+        "Italian Folk Rock",
+        "World Music",
+        "New Wave"
       ]
     },
-    "match_reason": "A story about noticing tiny patterns—unique fingerprints—pairs with an episode about paying deliberate, focused attention rather than scanning on autopilot."
+    "match_reason": "Cinco de Mayo’s mix of Mexican pride, resistance, and later cross‑border celebration fits a world‑flavored, travel‑inspired set with Latin folk colors."
   },
   "queue": [
-    {
-      "hour": 10,
-      "fact_text": "The Battle of Puebla on May 5, 1862, saw a smaller, poorly equipped Mexican force under Ignacio Zaragoza halt a much better armed French army. Though not the end of the war, the unexpected victory became a powerful symbol of resistance and is commemorated every year as Cinco de Mayo.",
-      "fact_year": 1862,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cinco_de_Mayo",
-      "episode": {
-        "id": 45,
-        "title": "Morning Drops #39 - Moving Meditation",
-        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
-        "songs": [
-          "Stella & The Longos - La Flamme",
-          "España Circo Este - Dormo poco e sogno molto",
-          "Mystic Jungle - Sunset Breaker",
-          "Talking Heads - This Must Be the Place (Naive Melody)"
-        ],
-        "music-genres": [
-          "Balearic",
-          "Italian Folk Rock",
-          "World Music",
-          "New Wave"
-        ]
-      },
-      "match_reason": "Cinco de Mayo’s mix of Mexican pride, resistance, and later cross‑border celebration fits a world‑flavored, travel‑inspired set with Latin folk colors."
-    },
     {
       "hour": 11,
       "fact_text": "On May 5, 1835, the first railway in continental Europe began service between Brussels and Mechelen in Belgium. Curious crowds watched steam locomotives compress distances that had taken hours by carriage into a matter of minutes, hinting that industrial speed would soon redraw the map of daily life.",
@@ -614,9 +589,34 @@
         ]
       },
       "match_reason": "A story about noticing tiny patterns—unique fingerprints—pairs with an episode about paying deliberate, focused attention rather than scanning on autopilot."
+    },
+    {
+      "hour": 10,
+      "fact_text": "The Battle of Puebla on May 5, 1862, saw a smaller, poorly equipped Mexican force under Ignacio Zaragoza halt a much better armed French army. Though not the end of the war, the unexpected victory became a powerful symbol of resistance and is commemorated every year as Cinco de Mayo.",
+      "fact_year": 1862,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cinco_de_Mayo",
+      "episode": {
+        "id": 45,
+        "title": "Morning Drops #39 - Moving Meditation",
+        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
+        "songs": [
+          "Stella & The Longos - La Flamme",
+          "España Circo Este - Dormo poco e sogno molto",
+          "Mystic Jungle - Sunset Breaker",
+          "Talking Heads - This Must Be the Place (Naive Melody)"
+        ],
+        "music-genres": [
+          "Balearic",
+          "Italian Folk Rock",
+          "World Music",
+          "New Wave"
+        ]
+      },
+      "match_reason": "Cinco de Mayo’s mix of Mexican pride, resistance, and later cross‑border celebration fits a world‑flavored, travel‑inspired set with Latin folk colors."
     }
   ],
   "generated_at": "2026-05-05T00:00:00.018033+00:00",
   "date": "2026-05-05",
-  "updated_at": "2026-05-05T09:00:01.624638+00:00"
+  "updated_at": "2026-05-05T10:00:01.727715+00:00"
 }
