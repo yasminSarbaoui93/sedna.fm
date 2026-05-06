@@ -1,46 +1,31 @@
 {
-  "current_hour": 15,
+  "current_hour": 16,
   "current_fact": {
-    "hour": 15,
-    "fact_text": "On May 6, 2002, Dutch politician Pim Fortuyn was assassinated in Hilversum just after a radio interview, the first political killing in the Netherlands for centuries. His death shocked a country that prided itself on consensus and sparked intense debate about free speech, populism, and political violence.",
-    "fact_year": 2002,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Assassination_of_Pim_Fortuyn",
+    "hour": 16,
+    "fact_text": "On May 6, 1960, more than 20 million viewers watched the first televised royal wedding when Princess Margaret married photographer Antony Armstrong-Jones at Westminster Abbey. It was a pioneering moment where television turned a traditional ceremony into a shared living-room spectacle.",
+    "fact_year": 1960,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Wedding_of_Princess_Margaret_and_Antony_Armstrong-Jones",
     "episode": {
-      "id": 61,
-      "title": "Morning Drops #52- Think Again",
-      "description": "In this Morning Drop, Yasmin explores the quiet art of changing your mind, guided by Adam Grant's book Think Again. From the beliefs we carry without questioning to the identities we build around what we think we know, this episode follows the slow, sometimes uncomfortable process of unlearning.\n\nAlong the way, we meet a Serbian trumpet player who had to let go of one dream to find another, a Tunisian oud master who challenged centuries of tradition from the inside, and a Japanese band who found freedom in playing for no one. The music moves from Balkan brass to Mediterranean stillness to psychedelic drift, tracing the shape of a mind opening up.\n\nListen slowly, and ask yourself: is there something you believe today that deserves a second look?\n\nTracklist:\nBoban Marković Orkestar – SAT\nAnouar Brahem – The Astounding Eyes of Rita\nKikagaku Moyo – Dripping Sun\nSon Lux – Lost It to Trying",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-think-again",
-      "songs": [],
-      "music-genres": []
+      "id": 18,
+      "title": "Morning Drops #12 - 80's Club",
+      "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
+      "songs": [
+        "Donna Summer - I Feel Love",
+        "Depeche Mode - Just Can't Get Enough",
+        "Ken Laszlo - Hey Hey Guy",
+        "Mylène Farmer - Sans Contrefaçon"
+      ],
+      "music-genres": [
+        "Disco",
+        "Synthpop",
+        "Italo Disco",
+        "French Pop"
+      ]
     },
-    "match_reason": "An assassination that forced a nation to re-examine its assumptions pairs with an episode about unlearning, questioning convictions, and 'thinking again' about deeply held beliefs."
+    "match_reason": "A highly choreographed royal event broadcast via mid-century technology foreshadows the later era of televised pop glamour and synth-driven spectacle celebrated in this 80s dance-focused episode."
   },
   "queue": [
-    {
-      "hour": 16,
-      "fact_text": "On May 6, 1960, more than 20 million viewers watched the first televised royal wedding when Princess Margaret married photographer Antony Armstrong-Jones at Westminster Abbey. It was a pioneering moment where television turned a traditional ceremony into a shared living-room spectacle.",
-      "fact_year": 1960,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Wedding_of_Princess_Margaret_and_Antony_Armstrong-Jones",
-      "episode": {
-        "id": 18,
-        "title": "Morning Drops #12 - 80's Club",
-        "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
-        "songs": [
-          "Donna Summer - I Feel Love",
-          "Depeche Mode - Just Can't Get Enough",
-          "Ken Laszlo - Hey Hey Guy",
-          "Mylène Farmer - Sans Contrefaçon"
-        ],
-        "music-genres": [
-          "Disco",
-          "Synthpop",
-          "Italo Disco",
-          "French Pop"
-        ]
-      },
-      "match_reason": "A highly choreographed royal event broadcast via mid-century technology foreshadows the later era of televised pop glamour and synth-driven spectacle celebrated in this 80s dance-focused episode."
-    },
     {
       "hour": 17,
       "fact_text": "On May 6, 1945, the Prague Offensive began, the last major Soviet operation on the Eastern Front of World War II. Even as Berlin fell, fighting continued around Prague, where Czech resistance and Red Army troops clashed with retreating German forces in a final, chaotic push.",
@@ -600,9 +585,34 @@
         "music-genres": []
       },
       "match_reason": "An assassination that forced a nation to re-examine its assumptions pairs with an episode about unlearning, questioning convictions, and 'thinking again' about deeply held beliefs."
+    },
+    {
+      "hour": 16,
+      "fact_text": "On May 6, 1960, more than 20 million viewers watched the first televised royal wedding when Princess Margaret married photographer Antony Armstrong-Jones at Westminster Abbey. It was a pioneering moment where television turned a traditional ceremony into a shared living-room spectacle.",
+      "fact_year": 1960,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Wedding_of_Princess_Margaret_and_Antony_Armstrong-Jones",
+      "episode": {
+        "id": 18,
+        "title": "Morning Drops #12 - 80's Club",
+        "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
+        "songs": [
+          "Donna Summer - I Feel Love",
+          "Depeche Mode - Just Can't Get Enough",
+          "Ken Laszlo - Hey Hey Guy",
+          "Mylène Farmer - Sans Contrefaçon"
+        ],
+        "music-genres": [
+          "Disco",
+          "Synthpop",
+          "Italo Disco",
+          "French Pop"
+        ]
+      },
+      "match_reason": "A highly choreographed royal event broadcast via mid-century technology foreshadows the later era of televised pop glamour and synth-driven spectacle celebrated in this 80s dance-focused episode."
     }
   ],
   "generated_at": "2026-05-06T00:00:00.014444+00:00",
   "date": "2026-05-06",
-  "updated_at": "2026-05-06T15:00:01.763272+00:00"
+  "updated_at": "2026-05-06T16:00:01.844179+00:00"
 }
