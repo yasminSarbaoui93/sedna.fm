@@ -1,56 +1,31 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On May 7, 1895, Russian physicist Alexander Popov demonstrated a lightning detector in Saint Petersburg, effectively one of the earliest radio receivers. In parts of the former Soviet Union, this date is still celebrated as Radio Day, honoring the birth of wireless communication.",
-    "fact_year": 1895,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Aleksandr_Popov_(physicist)",
+    "hour": 2,
+    "fact_text": "On May 7, 1824, Beethoven’s Ninth Symphony premiered in Vienna. By then almost completely deaf, Beethoven reportedly followed along with the orchestra from the stage and had to be gently turned toward the audience to see the thunderous applause he could no longer hear.",
+    "fact_year": 1824,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)",
     "episode": {
-      "id": 11,
-      "title": "Morning Drops #05 - Electric Shock",
-      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "Johnny Winter - Highway 61 Revisited",
-        "Joan Armatrading - Sleight of Hand",
-        "Joan Armatrading - Russian Roulette",
-        "Jimi Hendrix - Freedom",
-        "Jeff Beck - Scatterbrain"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Rock",
-        "Electric Blues"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "A primitive radio receiver born from lightning fits perfectly with an 'Electric Shock' set, tying together electricity, transmission, and the thrill of early tech."
+    "match_reason": "The grandeur and emotional arc of Beethoven’s Ninth resonates with the cinematic, neo-classical mood of an episode about whales and vast, moving soundscapes."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "On May 7, 1824, Beethoven’s Ninth Symphony premiered in Vienna. By then almost completely deaf, Beethoven reportedly followed along with the orchestra from the stage and had to be gently turned toward the audience to see the thunderous applause he could no longer hear.",
-      "fact_year": 1824,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "The grandeur and emotional arc of Beethoven’s Ninth resonates with the cinematic, neo-classical mood of an episode about whales and vast, moving soundscapes."
-    },
     {
       "hour": 3,
       "fact_text": "On May 7, 1930, a magnitude 7.1 earthquake struck near Salmas in northwestern Iran, reaching a Mercalli intensity of IX and destroying many villages. The quake not only reshaped the landscape but also catalyzed early seismic studies in the region, helping scientists better understand how the Earth moves.",
@@ -613,9 +588,34 @@
         ]
       },
       "match_reason": "A primitive radio receiver born from lightning fits perfectly with an 'Electric Shock' set, tying together electricity, transmission, and the thrill of early tech."
+    },
+    {
+      "hour": 2,
+      "fact_text": "On May 7, 1824, Beethoven’s Ninth Symphony premiered in Vienna. By then almost completely deaf, Beethoven reportedly followed along with the orchestra from the stage and had to be gently turned toward the audience to see the thunderous applause he could no longer hear.",
+      "fact_year": 1824,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "The grandeur and emotional arc of Beethoven’s Ninth resonates with the cinematic, neo-classical mood of an episode about whales and vast, moving soundscapes."
     }
   ],
   "generated_at": "2026-05-07T00:00:00.010384+00:00",
   "date": "2026-05-07",
-  "updated_at": "2026-05-07T01:00:01.811567+00:00"
+  "updated_at": "2026-05-07T02:00:01.565022+00:00"
 }
