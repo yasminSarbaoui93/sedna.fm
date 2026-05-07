@@ -1,54 +1,31 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "On May 7, 1992, Space Shuttle Endeavour launched on its maiden voyage, STS-49. The mission famously featured the first and only three‑astronaut spacewalk to capture and repair the stranded Intelsat VI satellite, showcasing the improvisational side of human spaceflight.",
-    "fact_year": 1992,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Endeavour",
+    "hour": 1,
+    "fact_text": "On May 7, 1895, Russian physicist Alexander Popov demonstrated a lightning detector in Saint Petersburg, effectively one of the earliest radio receivers. In parts of the former Soviet Union, this date is still celebrated as Radio Day, honoring the birth of wireless communication.",
+    "fact_year": 1895,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Aleksandr_Popov_(physicist)",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 11,
+      "title": "Morning Drops #05 - Electric Shock",
+      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Johnny Winter - Highway 61 Revisited",
+        "Joan Armatrading - Sleight of Hand",
+        "Joan Armatrading - Russian Roulette",
+        "Jimi Hendrix - Freedom",
+        "Jeff Beck - Scatterbrain"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Blues Rock",
+        "Rock",
+        "Electric Blues"
       ]
     },
-    "match_reason": "A shuttle’s first flight and a triple spacewalk pair naturally with an episode about seeing emptiness as creative space, echoing both the literal space environment and the feeling of new beginnings."
+    "match_reason": "A primitive radio receiver born from lightning fits perfectly with an 'Electric Shock' set, tying together electricity, transmission, and the thrill of early tech."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On May 7, 1895, Russian physicist Alexander Popov demonstrated a lightning detector in Saint Petersburg, effectively one of the earliest radio receivers. In parts of the former Soviet Union, this date is still celebrated as Radio Day, honoring the birth of wireless communication.",
-      "fact_year": 1895,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Aleksandr_Popov_(physicist)",
-      "episode": {
-        "id": 11,
-        "title": "Morning Drops #05 - Electric Shock",
-        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
-        "songs": [
-          "Johnny Winter - Highway 61 Revisited",
-          "Joan Armatrading - Sleight of Hand",
-          "Joan Armatrading - Russian Roulette",
-          "Jimi Hendrix - Freedom",
-          "Jeff Beck - Scatterbrain"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Rock",
-          "Electric Blues"
-        ]
-      },
-      "match_reason": "A primitive radio receiver born from lightning fits perfectly with an 'Electric Shock' set, tying together electricity, transmission, and the thrill of early tech."
-    },
     {
       "hour": 2,
       "fact_text": "On May 7, 1824, Beethoven’s Ninth Symphony premiered in Vienna. By then almost completely deaf, Beethoven reportedly followed along with the orchestra from the stage and had to be gently turned toward the audience to see the thunderous applause he could no longer hear.",
@@ -611,9 +588,34 @@
         ]
       },
       "match_reason": "A shuttle’s first flight and a triple spacewalk pair naturally with an episode about seeing emptiness as creative space, echoing both the literal space environment and the feeling of new beginnings."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On May 7, 1895, Russian physicist Alexander Popov demonstrated a lightning detector in Saint Petersburg, effectively one of the earliest radio receivers. In parts of the former Soviet Union, this date is still celebrated as Radio Day, honoring the birth of wireless communication.",
+      "fact_year": 1895,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Aleksandr_Popov_(physicist)",
+      "episode": {
+        "id": 11,
+        "title": "Morning Drops #05 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "songs": [
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
+        ]
+      },
+      "match_reason": "A primitive radio receiver born from lightning fits perfectly with an 'Electric Shock' set, tying together electricity, transmission, and the thrill of early tech."
     }
   ],
   "generated_at": "2026-05-07T00:00:00.010384+00:00",
   "date": "2026-05-07",
-  "updated_at": "2026-05-07T00:02:16.254974+00:00"
+  "updated_at": "2026-05-07T01:00:01.811567+00:00"
 }
