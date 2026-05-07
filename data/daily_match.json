@@ -1,59 +1,34 @@
 {
-  "current_hour": 8,
+  "current_hour": 9,
   "current_fact": {
-    "hour": 8,
-    "fact_text": "In the early hours of May 7, 1945, a German submarine carried out the last U-boat attack of World War II, sinking two freighters off Scotland’s Firth of Forth. Within days, the U-boat campaign that had once terrorized the Atlantic fell silent as Germany capitulated.",
-    "fact_year": 1945,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/U-boat",
+    "hour": 9,
+    "fact_text": "On May 7, 1942, during the Battle of the Coral Sea, American carrier-based aircraft located and sank the Japanese light carrier Shōhō. It was the first naval battle in history where opposing fleets fought without their ships ever seeing each other, trading blows entirely through aircraft and radio.",
+    "fact_year": 1942,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_the_Coral_Sea",
     "episode": {
-      "id": 34,
-      "title": "Morning Drops #28 - Under Scottish Skies",
-      "description": "Gaia shares a personal moment of transition — a shift in seasons, in rhythm, and in life. From this space of quiet change comes a musical journey through Scotland: not the usual names, but voices that speak from the edges. A personal ritual and a small act of curiosity: an invitation to notice what grounds us when everything moves.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-under-scottish-skies",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "Paolo Nutini - Pencil Full of Lead",
-        "Lapse - Lady Bug",
-        "Joesef - Let's Stay Together",
-        "Vital Spark - Stone of Destiny"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Scottish Folk",
-        "Soul",
-        "Celtic Rock"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "The final U-boat strike off the Scottish coast and an episode steeped in Scottish music both look to the same waters and skies, one through the lens of war’s end and the other through calm, reflective storytelling."
+    "match_reason": "A sea battle fought beyond the horizon and an episode recorded from a sailboat both center the ocean as a stage—one for war’s innovation, the other for peaceful shared journeys."
   },
   "queue": [
-    {
-      "hour": 9,
-      "fact_text": "On May 7, 1942, during the Battle of the Coral Sea, American carrier-based aircraft located and sank the Japanese light carrier Shōhō. It was the first naval battle in history where opposing fleets fought without their ships ever seeing each other, trading blows entirely through aircraft and radio.",
-      "fact_year": 1942,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_the_Coral_Sea",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "A sea battle fought beyond the horizon and an episode recorded from a sailboat both center the ocean as a stage—one for war’s innovation, the other for peaceful shared journeys."
-    },
     {
       "hour": 10,
       "fact_text": "The Norway Debate began in Britain’s House of Commons on May 7, 1940, as MPs fiercely criticized the government’s mishandling of the Norwegian campaign. The debate’s fallout toppled Prime Minister Neville Chamberlain and paved the way for Winston Churchill to become wartime leader.",
@@ -596,9 +571,37 @@
         ]
       },
       "match_reason": "The final U-boat strike off the Scottish coast and an episode steeped in Scottish music both look to the same waters and skies, one through the lens of war’s end and the other through calm, reflective storytelling."
+    },
+    {
+      "hour": 9,
+      "fact_text": "On May 7, 1942, during the Battle of the Coral Sea, American carrier-based aircraft located and sank the Japanese light carrier Shōhō. It was the first naval battle in history where opposing fleets fought without their ships ever seeing each other, trading blows entirely through aircraft and radio.",
+      "fact_year": 1942,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_the_Coral_Sea",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "A sea battle fought beyond the horizon and an episode recorded from a sailboat both center the ocean as a stage—one for war’s innovation, the other for peaceful shared journeys."
     }
   ],
   "generated_at": "2026-05-07T00:00:00.010678+00:00",
   "date": "2026-05-07",
-  "updated_at": "2026-05-07T08:00:01.687451+00:00"
+  "updated_at": "2026-05-07T09:00:01.672003+00:00"
 }
