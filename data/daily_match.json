@@ -1,59 +1,34 @@
 {
-  "current_hour": 12,
+  "current_hour": 13,
   "current_fact": {
-    "hour": 12,
-    "fact_text": "On May 7, 1794, during the French Revolution, Maximilien Robespierre introduced the Cult of the Supreme Being as the new state religion of the French Republic. It was an attempt to replace traditional faith with a rational, civic spirituality—complete with festivals, symbolism, and its own theology.",
-    "fact_year": 1794,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cult_of_the_Supreme_Being",
+    "hour": 13,
+    "fact_text": "On May 7, 1765, the Royal Navy launched HMS Victory at Chatham Dockyard, though she would not be commissioned until 1778. Decades later she became famous as Admiral Nelson’s flagship at the Battle of Trafalgar, turning a wooden warship into a floating national symbol.",
+    "fact_year": 1765,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/HMS_Victory",
     "episode": {
-      "id": 44,
-      "title": "Morning Drops #38 - History of Flamenco",
-      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "La Niña de los Peines - Al Gurugú",
-        "Lola Flores - Pena, penita, pena",
-        "Paco de Lucía - Entre dos aguas",
-        "Camarón de la Isla - La leyenda del tiempo",
-        "Rosalía - Pienso en tu mirá"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Flamenco",
-        "Spanish Folk",
-        "Nuevo Flamenco"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "A state‑crafted civic religion with festivals and rituals pairs with an episode about a deeply ritualized musical tradition, both exploring how culture turns belief and emotion into performance."
+    "match_reason": "A legendary sailing warship fits naturally with a sea-bound episode, contrasting the grim business of battle with modern stories of shared voyages and calm oceans."
   },
   "queue": [
-    {
-      "hour": 13,
-      "fact_text": "On May 7, 1765, the Royal Navy launched HMS Victory at Chatham Dockyard, though she would not be commissioned until 1778. Decades later she became famous as Admiral Nelson’s flagship at the Battle of Trafalgar, turning a wooden warship into a floating national symbol.",
-      "fact_year": 1765,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/HMS_Victory",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "A legendary sailing warship fits naturally with a sea-bound episode, contrasting the grim business of battle with modern stories of shared voyages and calm oceans."
-    },
     {
       "hour": 14,
       "fact_text": "On May 7, 1999, a NATO airstrike mistakenly hit the Chinese embassy in Belgrade during the Kosovo War, killing three Chinese journalists and injuring many others. The incident sparked protests and a diplomatic crisis, revealing how fragile global trust can be when guided by imperfect information.",
@@ -613,9 +588,37 @@
         ]
       },
       "match_reason": "A state‑crafted civic religion with festivals and rituals pairs with an episode about a deeply ritualized musical tradition, both exploring how culture turns belief and emotion into performance."
+    },
+    {
+      "hour": 13,
+      "fact_text": "On May 7, 1765, the Royal Navy launched HMS Victory at Chatham Dockyard, though she would not be commissioned until 1778. Decades later she became famous as Admiral Nelson’s flagship at the Battle of Trafalgar, turning a wooden warship into a floating national symbol.",
+      "fact_year": 1765,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/HMS_Victory",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "A legendary sailing warship fits naturally with a sea-bound episode, contrasting the grim business of battle with modern stories of shared voyages and calm oceans."
     }
   ],
   "generated_at": "2026-05-07T00:00:00.010384+00:00",
   "date": "2026-05-07",
-  "updated_at": "2026-05-07T12:00:01.923928+00:00"
+  "updated_at": "2026-05-07T13:00:02.066709+00:00"
 }
