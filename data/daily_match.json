@@ -1,56 +1,31 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "On May 7, 1986, Canadian mountaineer Patrick Morrow became the first person to climb the Seven Summits, the highest peak on each continent. His feat demanded not just physical endurance but also years of planning, patience, and surviving wildly different climates and cultures.",
-    "fact_year": 1986,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Patrick_Morrow",
+    "hour": 6,
+    "fact_text": "On May 7, 1960, Soviet leader Nikita Khrushchev announced that the USSR had captured U.S. U‑2 pilot Gary Powers, shattering the illusion that the spy plane was invulnerable. The revelation embarrassed the United States and intensified Cold War tensions over surveillance and trust.",
+    "fact_year": 1960,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1960_U-2_incident",
     "episode": {
-      "id": 28,
-      "title": "Morning Drops #22 - Sicilians On The Dolomites",
-      "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "Franco Battiato - Haiku",
-        "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
-        "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
-        "Pink Floyd - Fearless"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Italian Art Pop",
-        "French Jazz",
-        "Italian Singer-Songwriter",
-        "Progressive Rock"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "A mountaineer circling the globe's highest peaks aligns with an episode anchored in mountain landscapes, blending stories of altitude, perspective, and the quiet obsession of climbing."
+    "match_reason": "A story about high‑altitude surveillance and the anxiety of being watched mirrors an episode questioning our hyper-connected lives and the invisible networks that track us."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "On May 7, 1960, Soviet leader Nikita Khrushchev announced that the USSR had captured U.S. U‑2 pilot Gary Powers, shattering the illusion that the spy plane was invulnerable. The revelation embarrassed the United States and intensified Cold War tensions over surveillance and trust.",
-      "fact_year": 1960,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1960_U-2_incident",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "A story about high‑altitude surveillance and the anxiety of being watched mirrors an episode questioning our hyper-connected lives and the invisible networks that track us."
-    },
     {
       "hour": 7,
       "fact_text": "On May 7, 1945, the last German U-boat attack of World War II sank two freighters off Scotland’s Firth of Forth, even as the war in Europe was ending. It was a final, almost anachronistic echo of a conflict that had already been decided.",
@@ -613,9 +588,34 @@
         ]
       },
       "match_reason": "A mountaineer circling the globe's highest peaks aligns with an episode anchored in mountain landscapes, blending stories of altitude, perspective, and the quiet obsession of climbing."
+    },
+    {
+      "hour": 6,
+      "fact_text": "On May 7, 1960, Soviet leader Nikita Khrushchev announced that the USSR had captured U.S. U‑2 pilot Gary Powers, shattering the illusion that the spy plane was invulnerable. The revelation embarrassed the United States and intensified Cold War tensions over surveillance and trust.",
+      "fact_year": 1960,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1960_U-2_incident",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "A story about high‑altitude surveillance and the anxiety of being watched mirrors an episode questioning our hyper-connected lives and the invisible networks that track us."
     }
   ],
   "generated_at": "2026-05-07T00:00:00.010384+00:00",
   "date": "2026-05-07",
-  "updated_at": "2026-05-07T05:00:01.630199+00:00"
+  "updated_at": "2026-05-07T06:00:01.802660+00:00"
 }
