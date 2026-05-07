@@ -1,56 +1,31 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "In 1930, the Salmas earthquake struck northwestern Iran and southeastern Turkey with a magnitude of 7.1, reaching a Mercalli intensity of IX and destroying numerous villages. The ground ruptured, homes collapsed, and up to 3,000 people lost their lives in a region already familiar with the restless force of tectonic plates.",
-    "fact_year": 1930,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1930_Salmas_earthquake",
+    "hour": 6,
+    "fact_text": "On May 7, 1986, Canadian climber Patrick Morrow became the first person to stand atop all Seven Summits—the highest peaks on each continent—from Everest to Vinson Massif. His achievement stitched together a planetary necklace of mountains climbed over years of cold, thin air and careful perseverance.",
+    "fact_year": 1986,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Seven_Summits",
     "episode": {
-      "id": 52,
-      "title": "Morning Drops #45 - It Can't Rain Forever",
-      "description": "In this first broadcast of 2026, Gaia returns from the vivid landscapes of Morocco to open a space for reflection. This episode navigates the delicate transition between closing a significant chapter and stepping into the new year. It explores the concept of constancy amidst change, celebrating the grounding force of friendship and the creative sanctuary that is Sedna FM.\n\nThe musical selection mirrors this journey, moving from the orchestral depth of changing seasons into the golden warmth of psychedelic soul. It recalls memories of Swiss mountains and unexpected downpours, reminding us that shared optimism can weather any storm.\n\nTake a moment to breathe in the new morning and listen deeply.\n\nMood: Reflective, Warm, Transitional, Hopeful\nMusic genre: Classic Rock, Psychedelic Soul, Pop Rock, Soft Rock",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-it-cant-rain-forever",
+      "id": 28,
+      "title": "Morning Drops #22 - Sicilians On The Dolomites",
+      "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
       "songs": [
-        "Led Zeppelin - The Rain Song",
-        "Khruangbin & Leon Bridges - Texas Sun",
-        "Dragon - Rain",
-        "Fleetwood Mac - Don't Stop"
+        "Franco Battiato - Haiku",
+        "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
+        "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
+        "Pink Floyd - Fearless"
       ],
       "music-genres": [
-        "Classic Rock",
-        "Psychedelic Soul",
-        "Pop Rock",
-        "Soft Rock"
+        "Italian Art Pop",
+        "French Jazz",
+        "Italian Singer-Songwriter",
+        "Progressive Rock"
       ]
     },
-    "match_reason": "A devastating earthquake and an episode about weathering storms both revolve around the raw power of nature and the human search for steadiness when the ground literally or metaphorically shifts."
+    "match_reason": "A climber completing the Seven Summits and an episode dedicated to mountain landscapes both celebrate the strange mix of hardship and beauty found at high altitudes."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "On May 7, 1986, Canadian climber Patrick Morrow became the first person to stand atop all Seven Summits—the highest peaks on each continent—from Everest to Vinson Massif. His achievement stitched together a planetary necklace of mountains climbed over years of cold, thin air and careful perseverance.",
-      "fact_year": 1986,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Seven_Summits",
-      "episode": {
-        "id": 28,
-        "title": "Morning Drops #22 - Sicilians On The Dolomites",
-        "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
-        "songs": [
-          "Franco Battiato - Haiku",
-          "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
-          "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
-          "Pink Floyd - Fearless"
-        ],
-        "music-genres": [
-          "Italian Art Pop",
-          "French Jazz",
-          "Italian Singer-Songwriter",
-          "Progressive Rock"
-        ]
-      },
-      "match_reason": "A climber completing the Seven Summits and an episode dedicated to mountain landscapes both celebrate the strange mix of hardship and beauty found at high altitudes."
-    },
     {
       "hour": 7,
       "fact_text": "On May 7, 1960, Soviet leader Nikita Khrushchev announced that his country had captured U.S. U-2 pilot Gary Powers, whose spy plane had been shot down deep inside Soviet territory. The revelation embarrassed the United States, shattered a carefully constructed cover story, and escalated Cold War tensions in the skies.",
@@ -596,9 +571,34 @@
         ]
       },
       "match_reason": "A devastating earthquake and an episode about weathering storms both revolve around the raw power of nature and the human search for steadiness when the ground literally or metaphorically shifts."
+    },
+    {
+      "hour": 6,
+      "fact_text": "On May 7, 1986, Canadian climber Patrick Morrow became the first person to stand atop all Seven Summits—the highest peaks on each continent—from Everest to Vinson Massif. His achievement stitched together a planetary necklace of mountains climbed over years of cold, thin air and careful perseverance.",
+      "fact_year": 1986,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Seven_Summits",
+      "episode": {
+        "id": 28,
+        "title": "Morning Drops #22 - Sicilians On The Dolomites",
+        "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
+        "songs": [
+          "Franco Battiato - Haiku",
+          "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
+          "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
+          "Pink Floyd - Fearless"
+        ],
+        "music-genres": [
+          "Italian Art Pop",
+          "French Jazz",
+          "Italian Singer-Songwriter",
+          "Progressive Rock"
+        ]
+      },
+      "match_reason": "A climber completing the Seven Summits and an episode dedicated to mountain landscapes both celebrate the strange mix of hardship and beauty found at high altitudes."
     }
   ],
   "generated_at": "2026-05-07T00:00:00.010678+00:00",
   "date": "2026-05-07",
-  "updated_at": "2026-05-07T05:00:01.440448+00:00"
+  "updated_at": "2026-05-07T06:00:01.652660+00:00"
 }
