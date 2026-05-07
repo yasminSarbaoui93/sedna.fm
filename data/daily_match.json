@@ -1,59 +1,34 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "In 1952, British engineer Geoffrey Dummer publicly proposed the idea of the integrated circuit—tiny electronic components fabricated together on a single piece of semiconductor. His vision laid the conceptual groundwork for microchips, quietly setting the stage for everything from pocket calculators to smartphones and space probes.",
-    "fact_year": 1952,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Integrated_circuit",
+    "hour": 4,
+    "fact_text": "On May 7, 1946, a small Tokyo company called Tokyo Telecommunications Engineering was founded; it would later become Sony. Starting with repairing radios and making rice cookers that accidentally burned the rice, the firm eventually helped define modern electronics, from the Walkman to high-definition entertainment.",
+    "fact_year": 1946,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Sony",
     "episode": {
-      "id": 33,
-      "title": "Morning Drops #27 - Nomophobia",
-      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+      "id": 54,
+      "title": "Morning Drops #47 - The Rise Of Autotune",
+      "description": "In this Morning Drop, Yasmin explores the explosive rise of Auto-Tune, a tool that quietly changed the sound of music without asking for attention. From fragile, imperfect recordings to voices shaped with precision, this episode follows the moment when correction became standard and sound became controlled.\n\nAlong the way, we discover the curious story of how it was invented, how it moved from the background of studios to the center of debate, and how a few artists turned it into something expressive rather than hidden.\n\nListen slowly, and let us know what you think about Autotune.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-autotune",
       "songs": [
-        "All Them Witches - Internet",
-        "James Blake - The Wilhelm Scream",
-        "Nick Mulvey - Juramidam",
-        "Kraftwerk - Computer Love"
+        "Chet Baker – I Fall in Love Too Easily",
+        "Destiny’s Child – Survivor",
+        "T-Pain – I’m Sprung",
+        "Jay-Z – D.O.A. (Death of Auto-Tune)",
+        "Travis Scott feat. Kacy Hill – 90210"
       ],
       "music-genres": [
-        "Psychedelic Rock",
-        "Electronic",
-        "Folk",
-        "Synth-Pop"
+        "Jazz",
+        "R&B",
+        "Hip-Hop",
+        "Pop",
+        "Trap",
+        "Electronic"
       ]
     },
-    "match_reason": "The birth of the microchip and an episode about our tangled relationship with smartphones are two chapters of the same story: how integrated circuits rewired our daily lives and inner worlds."
+    "match_reason": "Sony’s role in popularizing audio tech and an episode on Auto-Tune both explore how companies and tools quietly reshape the way music is produced, polished, and heard."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "On May 7, 1946, a small Tokyo company called Tokyo Telecommunications Engineering was founded; it would later become Sony. Starting with repairing radios and making rice cookers that accidentally burned the rice, the firm eventually helped define modern electronics, from the Walkman to high-definition entertainment.",
-      "fact_year": 1946,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Sony",
-      "episode": {
-        "id": 54,
-        "title": "Morning Drops #47 - The Rise Of Autotune",
-        "description": "In this Morning Drop, Yasmin explores the explosive rise of Auto-Tune, a tool that quietly changed the sound of music without asking for attention. From fragile, imperfect recordings to voices shaped with precision, this episode follows the moment when correction became standard and sound became controlled.\n\nAlong the way, we discover the curious story of how it was invented, how it moved from the background of studios to the center of debate, and how a few artists turned it into something expressive rather than hidden.\n\nListen slowly, and let us know what you think about Autotune.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-autotune",
-        "songs": [
-          "Chet Baker – I Fall in Love Too Easily",
-          "Destiny’s Child – Survivor",
-          "T-Pain – I’m Sprung",
-          "Jay-Z – D.O.A. (Death of Auto-Tune)",
-          "Travis Scott feat. Kacy Hill – 90210"
-        ],
-        "music-genres": [
-          "Jazz",
-          "R&B",
-          "Hip-Hop",
-          "Pop",
-          "Trap",
-          "Electronic"
-        ]
-      },
-      "match_reason": "Sony’s role in popularizing audio tech and an episode on Auto-Tune both explore how companies and tools quietly reshape the way music is produced, polished, and heard."
-    },
     {
       "hour": 5,
       "fact_text": "In 1930, the Salmas earthquake struck northwestern Iran and southeastern Turkey with a magnitude of 7.1, reaching a Mercalli intensity of IX and destroying numerous villages. The ground ruptured, homes collapsed, and up to 3,000 people lost their lives in a region already familiar with the restless force of tectonic plates.",
@@ -596,9 +571,37 @@
         ]
       },
       "match_reason": "The birth of the microchip and an episode about our tangled relationship with smartphones are two chapters of the same story: how integrated circuits rewired our daily lives and inner worlds."
+    },
+    {
+      "hour": 4,
+      "fact_text": "On May 7, 1946, a small Tokyo company called Tokyo Telecommunications Engineering was founded; it would later become Sony. Starting with repairing radios and making rice cookers that accidentally burned the rice, the firm eventually helped define modern electronics, from the Walkman to high-definition entertainment.",
+      "fact_year": 1946,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Sony",
+      "episode": {
+        "id": 54,
+        "title": "Morning Drops #47 - The Rise Of Autotune",
+        "description": "In this Morning Drop, Yasmin explores the explosive rise of Auto-Tune, a tool that quietly changed the sound of music without asking for attention. From fragile, imperfect recordings to voices shaped with precision, this episode follows the moment when correction became standard and sound became controlled.\n\nAlong the way, we discover the curious story of how it was invented, how it moved from the background of studios to the center of debate, and how a few artists turned it into something expressive rather than hidden.\n\nListen slowly, and let us know what you think about Autotune.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-autotune",
+        "songs": [
+          "Chet Baker – I Fall in Love Too Easily",
+          "Destiny’s Child – Survivor",
+          "T-Pain – I’m Sprung",
+          "Jay-Z – D.O.A. (Death of Auto-Tune)",
+          "Travis Scott feat. Kacy Hill – 90210"
+        ],
+        "music-genres": [
+          "Jazz",
+          "R&B",
+          "Hip-Hop",
+          "Pop",
+          "Trap",
+          "Electronic"
+        ]
+      },
+      "match_reason": "Sony’s role in popularizing audio tech and an episode on Auto-Tune both explore how companies and tools quietly reshape the way music is produced, polished, and heard."
     }
   ],
   "generated_at": "2026-05-07T00:00:00.010678+00:00",
   "date": "2026-05-07",
-  "updated_at": "2026-05-07T03:00:01.616833+00:00"
+  "updated_at": "2026-05-07T04:00:01.411146+00:00"
 }
