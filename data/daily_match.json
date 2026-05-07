@@ -1,59 +1,34 @@
 {
-  "current_hour": 9,
+  "current_hour": 10,
   "current_fact": {
-    "hour": 9,
-    "fact_text": "On May 7, 1940, the Norway Debate in the British House of Commons exposed deep dissatisfaction with Prime Minister Neville Chamberlain’s handling of the war. Within three days, he resigned and Winston Churchill took over, altering the leadership and rhetoric of Britain’s fight against Nazi Germany.",
-    "fact_year": 1940,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Norway_Debate",
+    "hour": 10,
+    "fact_text": "On May 7, 1915, German submarine U‑20 torpedoed the ocean liner RMS Lusitania off the coast of Ireland, killing 1,199 people. The sinking shocked global public opinion and helped shift U.S. sentiment sharply against Germany long before America officially entered World War I.",
+    "fact_year": 1915,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/SM_U-20_(Germany)",
     "episode": {
-      "id": 56,
-      "title": "Morning Drops #49 - Rage Against The Machine",
-      "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "Rage Against the Machine - Bombtrack",
-        "Rage Against the Machine - Killing in the Name",
-        "Rage Against the Machine - Without a Face",
-        "Rage Against the Machine - Guerrilla Radio",
-        "Rage Against the Machine - Sleep Now in the Fire"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Rap Metal",
-        "Political Rock",
-        "Alternative Metal"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "A parliamentary revolt that changes leadership aligns with an episode steeped in political resistance and critique, both narratives about speaking against the status quo."
+    "match_reason": "A tragic story of a German submarine and an ocean liner is mirrored, in a gentler, healing way, by an episode about Germans at sea, focusing on shared humanity instead of conflict."
   },
   "queue": [
-    {
-      "hour": 10,
-      "fact_text": "On May 7, 1915, German submarine U‑20 torpedoed the ocean liner RMS Lusitania off the coast of Ireland, killing 1,199 people. The sinking shocked global public opinion and helped shift U.S. sentiment sharply against Germany long before America officially entered World War I.",
-      "fact_year": 1915,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/SM_U-20_(Germany)",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "A tragic story of a German submarine and an ocean liner is mirrored, in a gentler, healing way, by an episode about Germans at sea, focusing on shared humanity instead of conflict."
-    },
     {
       "hour": 11,
       "fact_text": "Also on May 7, 1915, the government of the Republic of China agreed to most of Japan’s infamous Twenty-One Demands. The concessions extended Japanese control over Manchuria and large parts of the Chinese economy, fueling nationalist resentment that would shape Chinese politics for decades.",
@@ -613,9 +588,37 @@
         ]
       },
       "match_reason": "A parliamentary revolt that changes leadership aligns with an episode steeped in political resistance and critique, both narratives about speaking against the status quo."
+    },
+    {
+      "hour": 10,
+      "fact_text": "On May 7, 1915, German submarine U‑20 torpedoed the ocean liner RMS Lusitania off the coast of Ireland, killing 1,199 people. The sinking shocked global public opinion and helped shift U.S. sentiment sharply against Germany long before America officially entered World War I.",
+      "fact_year": 1915,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/SM_U-20_(Germany)",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "A tragic story of a German submarine and an ocean liner is mirrored, in a gentler, healing way, by an episode about Germans at sea, focusing on shared humanity instead of conflict."
     }
   ],
   "generated_at": "2026-05-07T00:00:00.010384+00:00",
   "date": "2026-05-07",
-  "updated_at": "2026-05-07T09:00:01.993616+00:00"
+  "updated_at": "2026-05-07T10:00:01.972135+00:00"
 }
