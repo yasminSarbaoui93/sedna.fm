@@ -1,65 +1,31 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "On May 8, 1970, the Beatles released their twelfth and final studio album, “Let It Be,” closing the chapter on a decade that had radically reshaped popular music and culture. The album emerged from turbulent recording sessions, yet its title track became an enduring hymn of acceptance and calm.",
-    "fact_year": 1970,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Let_It_Be_(album)",
+    "hour": 1,
+    "fact_text": "On May 8, 1978, Reinhold Messner and Peter Habeler reached the summit of Mount Everest without supplemental oxygen, something many scientists believed was physiologically impossible. Their climb pushed human endurance to the edge of what the body can tolerate at extreme altitude.",
+    "fact_year": 1978,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mount_Everest",
     "episode": {
-      "id": 6,
-      "title": "Sedna FM #06 - Alters of an Ego",
-      "description": "What if you could step outside yourself and become someone freer, bolder, or completely unexpected? Exploring the artistry of musicians who craft alter-egos and parallel realities to experiment with new dimensions of their identity. It's not about hiding who they are — it's about expanding who they can be.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/alters-of-an-ego",
+      "id": 28,
+      "title": "Morning Drops #22 - Sicilians On The Dolomites",
+      "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
       "songs": [
-        "The Thin White Duke - Stay",
-        "Mac Miller - Dang (feat. Anderson .Paak)",
-        "Larry Lovestein - Love Affair",
-        "The Fireman - Strawberries Oceans Ships Forest",
-        "Paul McCartney - Oh! Darling",
-        "Prince - Kiss",
-        "Camille - Rebirth of the Flash",
-        "MF DOOM - Deep Fried Frenz",
-        "Gorillaz - Dirty Harry",
-        "Gorillaz - Andromeda"
+        "Franco Battiato - Haiku",
+        "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
+        "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
+        "Pink Floyd - Fearless"
       ],
       "music-genres": [
-        "Glam Rock",
-        "Hip-Hop",
-        "Jazz",
-        "Ambient",
-        "Classic Rock",
-        "Funk",
-        "Electronic"
+        "Italian Art Pop",
+        "French Jazz",
+        "Italian Singer-Songwriter",
+        "Progressive Rock"
       ]
     },
-    "match_reason": "Features Paul McCartney and themes of artistic personas and evolution, echoing the Beatles’ final transformation and farewell."
+    "match_reason": "A mountain-themed episode that mirrors the high-altitude challenge and contemplative vastness of Everest’s oxygen-free ascent."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On May 8, 1978, Reinhold Messner and Peter Habeler reached the summit of Mount Everest without supplemental oxygen, something many scientists believed was physiologically impossible. Their climb pushed human endurance to the edge of what the body can tolerate at extreme altitude.",
-      "fact_year": 1978,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mount_Everest",
-      "episode": {
-        "id": 28,
-        "title": "Morning Drops #22 - Sicilians On The Dolomites",
-        "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
-        "songs": [
-          "Franco Battiato - Haiku",
-          "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
-          "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
-          "Pink Floyd - Fearless"
-        ],
-        "music-genres": [
-          "Italian Art Pop",
-          "French Jazz",
-          "Italian Singer-Songwriter",
-          "Progressive Rock"
-        ]
-      },
-      "match_reason": "A mountain-themed episode that mirrors the high-altitude challenge and contemplative vastness of Everest’s oxygen-free ascent."
-    },
     {
       "hour": 2,
       "fact_text": "From May 4–8, 1942, the Battle of the Coral Sea became the first naval engagement in history where opposing ships never directly saw each other, fighting entirely via aircraft launched from carriers. On its final day, Japanese planes crippled and ultimately sank the USS Lexington, demonstrating how war had shifted into the air.",
@@ -622,9 +588,34 @@
         ]
       },
       "match_reason": "Features Paul McCartney and themes of artistic personas and evolution, echoing the Beatles’ final transformation and farewell."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On May 8, 1978, Reinhold Messner and Peter Habeler reached the summit of Mount Everest without supplemental oxygen, something many scientists believed was physiologically impossible. Their climb pushed human endurance to the edge of what the body can tolerate at extreme altitude.",
+      "fact_year": 1978,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mount_Everest",
+      "episode": {
+        "id": 28,
+        "title": "Morning Drops #22 - Sicilians On The Dolomites",
+        "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
+        "songs": [
+          "Franco Battiato - Haiku",
+          "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
+          "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
+          "Pink Floyd - Fearless"
+        ],
+        "music-genres": [
+          "Italian Art Pop",
+          "French Jazz",
+          "Italian Singer-Songwriter",
+          "Progressive Rock"
+        ]
+      },
+      "match_reason": "A mountain-themed episode that mirrors the high-altitude challenge and contemplative vastness of Everest’s oxygen-free ascent."
     }
   ],
   "generated_at": "2026-05-08T00:00:00.011178+00:00",
   "date": "2026-05-08",
-  "updated_at": "2026-05-08T00:00:51.028417+00:00"
+  "updated_at": "2026-05-08T01:00:01.438417+00:00"
 }
