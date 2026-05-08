@@ -1,61 +1,36 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On May 8, 1978, Reinhold Messner and Peter Habeler became the first climbers to reach the summit of Mount Everest without supplemental oxygen. Many experts believed such an ascent was physiologically impossible, but their success rewrote the limits of human endurance at extreme altitude.",
-    "fact_year": 1978,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mount_Everest",
+    "hour": 2,
+    "fact_text": "On May 8, 1942, the Battle of the Coral Sea ended with the sinking of the U.S. aircraft carrier USS Lexington after massive air strikes. It was the first naval battle in history where opposing ships never sighted each other, fought entirely by carrier-based aircraft over hundreds of kilometers of open ocean.",
+    "fact_year": 1942,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_the_Coral_Sea",
     "episode": {
-      "id": 11,
-      "title": "Morning Drops #05 - Electric Shock",
-      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+      "id": 48,
+      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
       "songs": [
-        "Johnny Winter - Highway 61 Revisited",
-        "Joan Armatrading - Sleight of Hand",
-        "Joan Armatrading - Russian Roulette",
-        "Jimi Hendrix - Freedom",
-        "Jeff Beck - Scatterbrain"
+        "Stive Morgan - Solar Wind, Pt. 3",
+        "David Visan & Carlos Campos - Crystal Heart",
+        "Evan Mars - Ya Zareef Al Tool",
+        "Gerardo Frisina - Cuiabá",
+        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+        "The Busy Twist - Friday Night"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Rock",
-        "Electric Blues"
+        "Ambient",
+        "Deep House",
+        "World Music",
+        "Nu Jazz",
+        "Afrobeat",
+        "Funk",
+        "Electronic"
       ]
     },
-    "match_reason": "The oxygen-free Everest ascent is an extreme feat of physical energy and risk; the ‘Electric Shock’ episode mirrors that charge with high-voltage guitar work and adrenaline-boosting rock."
+    "match_reason": "An unseen battle fought across vast stretches of sea has an eerie, distant quality that fits an ambient-to-deep-house ‘Evening Flow’ set, like radar blips and aircraft moving through invisible space."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "On May 8, 1942, the Battle of the Coral Sea ended with the sinking of the U.S. aircraft carrier USS Lexington after massive air strikes. It was the first naval battle in history where opposing ships never sighted each other, fought entirely by carrier-based aircraft over hundreds of kilometers of open ocean.",
-      "fact_year": 1942,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_the_Coral_Sea",
-      "episode": {
-        "id": 48,
-        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
-        "songs": [
-          "Stive Morgan - Solar Wind, Pt. 3",
-          "David Visan & Carlos Campos - Crystal Heart",
-          "Evan Mars - Ya Zareef Al Tool",
-          "Gerardo Frisina - Cuiabá",
-          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-          "The Busy Twist - Friday Night"
-        ],
-        "music-genres": [
-          "Ambient",
-          "Deep House",
-          "World Music",
-          "Nu Jazz",
-          "Afrobeat",
-          "Funk",
-          "Electronic"
-        ]
-      },
-      "match_reason": "An unseen battle fought across vast stretches of sea has an eerie, distant quality that fits an ambient-to-deep-house ‘Evening Flow’ set, like radar blips and aircraft moving through invisible space."
-    },
     {
       "hour": 3,
       "fact_text": "On May 8, 1945, the Halifax riot erupted in Nova Scotia when thousands of servicemen and civilians went on a rampage of looting and destruction during V-E Day celebrations. The chaos was fueled by poor planning, alcohol, and the sudden release of wartime tension in a city that had lived on a military edge for years.",
@@ -644,9 +619,39 @@
         ]
       },
       "match_reason": "The oxygen-free Everest ascent is an extreme feat of physical energy and risk; the ‘Electric Shock’ episode mirrors that charge with high-voltage guitar work and adrenaline-boosting rock."
+    },
+    {
+      "hour": 2,
+      "fact_text": "On May 8, 1942, the Battle of the Coral Sea ended with the sinking of the U.S. aircraft carrier USS Lexington after massive air strikes. It was the first naval battle in history where opposing ships never sighted each other, fought entirely by carrier-based aircraft over hundreds of kilometers of open ocean.",
+      "fact_year": 1942,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_the_Coral_Sea",
+      "episode": {
+        "id": 48,
+        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+        "songs": [
+          "Stive Morgan - Solar Wind, Pt. 3",
+          "David Visan & Carlos Campos - Crystal Heart",
+          "Evan Mars - Ya Zareef Al Tool",
+          "Gerardo Frisina - Cuiabá",
+          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+          "The Busy Twist - Friday Night"
+        ],
+        "music-genres": [
+          "Ambient",
+          "Deep House",
+          "World Music",
+          "Nu Jazz",
+          "Afrobeat",
+          "Funk",
+          "Electronic"
+        ]
+      },
+      "match_reason": "An unseen battle fought across vast stretches of sea has an eerie, distant quality that fits an ambient-to-deep-house ‘Evening Flow’ set, like radar blips and aircraft moving through invisible space."
     }
   ],
   "generated_at": "2026-05-08T00:00:00.010235+00:00",
   "date": "2026-05-08",
-  "updated_at": "2026-05-08T01:00:01.483683+00:00"
+  "updated_at": "2026-05-08T02:00:01.541825+00:00"
 }
