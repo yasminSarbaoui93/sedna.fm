@@ -1,61 +1,31 @@
 {
-  "current_hour": 2,
+  "current_hour": 3,
   "current_fact": {
-    "hour": 2,
-    "fact_text": "On May 8, 1942, the Battle of the Coral Sea ended with the sinking of the U.S. aircraft carrier USS Lexington after massive air strikes. It was the first naval battle in history where opposing ships never sighted each other, fought entirely by carrier-based aircraft over hundreds of kilometers of open ocean.",
-    "fact_year": 1942,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_the_Coral_Sea",
+    "hour": 3,
+    "fact_text": "On May 8, 1945, the Halifax riot erupted in Nova Scotia when thousands of servicemen and civilians went on a rampage of looting and destruction during V-E Day celebrations. The chaos was fueled by poor planning, alcohol, and the sudden release of wartime tension in a city that had lived on a military edge for years.",
+    "fact_year": 1945,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Halifax_riot",
     "episode": {
-      "id": 48,
-      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+      "id": 56,
+      "title": "Morning Drops #49 - Rage Against The Machine",
+      "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
       "songs": [
-        "Stive Morgan - Solar Wind, Pt. 3",
-        "David Visan & Carlos Campos - Crystal Heart",
-        "Evan Mars - Ya Zareef Al Tool",
-        "Gerardo Frisina - Cuiabá",
-        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-        "The Busy Twist - Friday Night"
+        "Rage Against the Machine - Bombtrack",
+        "Rage Against the Machine - Killing in the Name",
+        "Rage Against the Machine - Without a Face",
+        "Rage Against the Machine - Guerrilla Radio",
+        "Rage Against the Machine - Sleep Now in the Fire"
       ],
       "music-genres": [
-        "Ambient",
-        "Deep House",
-        "World Music",
-        "Nu Jazz",
-        "Afrobeat",
-        "Funk",
-        "Electronic"
+        "Rap Metal",
+        "Political Rock",
+        "Alternative Metal"
       ]
     },
-    "match_reason": "An unseen battle fought across vast stretches of sea has an eerie, distant quality that fits an ambient-to-deep-house ‘Evening Flow’ set, like radar blips and aircraft moving through invisible space."
+    "match_reason": "A city bursting into uncontrolled violence on a symbolic political day resonates with an episode built around Rage Against the Machine, whose music channels unrest, crowds, and explosive social tension."
   },
   "queue": [
-    {
-      "hour": 3,
-      "fact_text": "On May 8, 1945, the Halifax riot erupted in Nova Scotia when thousands of servicemen and civilians went on a rampage of looting and destruction during V-E Day celebrations. The chaos was fueled by poor planning, alcohol, and the sudden release of wartime tension in a city that had lived on a military edge for years.",
-      "fact_year": 1945,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Halifax_riot",
-      "episode": {
-        "id": 56,
-        "title": "Morning Drops #49 - Rage Against The Machine",
-        "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
-        "songs": [
-          "Rage Against the Machine - Bombtrack",
-          "Rage Against the Machine - Killing in the Name",
-          "Rage Against the Machine - Without a Face",
-          "Rage Against the Machine - Guerrilla Radio",
-          "Rage Against the Machine - Sleep Now in the Fire"
-        ],
-        "music-genres": [
-          "Rap Metal",
-          "Political Rock",
-          "Alternative Metal"
-        ]
-      },
-      "match_reason": "A city bursting into uncontrolled violence on a symbolic political day resonates with an episode built around Rage Against the Machine, whose music channels unrest, crowds, and explosive social tension."
-    },
     {
       "hour": 4,
       "fact_text": "On May 8, 1942, the German 11th Army launched Operation Trappenjagd, \"Bustard Hunt,\" crushing Soviet forces on the Kerch Peninsula. The meticulously planned offensive used concentrated artillery, air power, and deceptive maneuvers to encircle three Soviet armies in a matter of days.",
@@ -649,9 +619,34 @@
         ]
       },
       "match_reason": "An unseen battle fought across vast stretches of sea has an eerie, distant quality that fits an ambient-to-deep-house ‘Evening Flow’ set, like radar blips and aircraft moving through invisible space."
+    },
+    {
+      "hour": 3,
+      "fact_text": "On May 8, 1945, the Halifax riot erupted in Nova Scotia when thousands of servicemen and civilians went on a rampage of looting and destruction during V-E Day celebrations. The chaos was fueled by poor planning, alcohol, and the sudden release of wartime tension in a city that had lived on a military edge for years.",
+      "fact_year": 1945,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Halifax_riot",
+      "episode": {
+        "id": 56,
+        "title": "Morning Drops #49 - Rage Against The Machine",
+        "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
+        "songs": [
+          "Rage Against the Machine - Bombtrack",
+          "Rage Against the Machine - Killing in the Name",
+          "Rage Against the Machine - Without a Face",
+          "Rage Against the Machine - Guerrilla Radio",
+          "Rage Against the Machine - Sleep Now in the Fire"
+        ],
+        "music-genres": [
+          "Rap Metal",
+          "Political Rock",
+          "Alternative Metal"
+        ]
+      },
+      "match_reason": "A city bursting into uncontrolled violence on a symbolic political day resonates with an episode built around Rage Against the Machine, whose music channels unrest, crowds, and explosive social tension."
     }
   ],
   "generated_at": "2026-05-08T00:00:00.010235+00:00",
   "date": "2026-05-08",
-  "updated_at": "2026-05-08T02:00:01.541825+00:00"
+  "updated_at": "2026-05-08T03:00:01.420936+00:00"
 }
