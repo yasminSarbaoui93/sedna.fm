@@ -1,64 +1,31 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "On May 8, 1970, The Beatles released their twelfth and final studio album, \"Let It Be,\" closing the most influential decade-long run in pop music history. Although recorded amid internal tensions, the album carries a strange mix of tenderness and farewell, with songs that sound like a band both dissolving and saying goodbye with grace.",
-    "fact_year": 1970,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Let_It_Be_(album)",
+    "hour": 1,
+    "fact_text": "On May 8, 1978, Reinhold Messner and Peter Habeler became the first climbers to reach the summit of Mount Everest without supplemental oxygen. Many experts believed such an ascent was physiologically impossible, but their success rewrote the limits of human endurance at extreme altitude.",
+    "fact_year": 1978,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mount_Everest",
     "episode": {
-      "id": 1,
-      "title": "Sedna FM #01 - November Bomb",
-      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+      "id": 11,
+      "title": "Morning Drops #05 - Electric Shock",
+      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
       "songs": [
-        "berlioz - Open this wall",
-        "Nas - One Mic",
-        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-        "Frankie Knuckles - Your Love",
-        "Notorious B.I.G. - 17 Ten Crack Commandments",
-        "Liloca - Utani Xuva",
-        "Fela Kuti - Zombie",
-        "Neffa - Aspettando il sole",
-        "Childish Gambino - No Excuses",
-        "Modjo - Music takes you back"
+        "Johnny Winter - Highway 61 Revisited",
+        "Joan Armatrading - Sleight of Hand",
+        "Joan Armatrading - Russian Roulette",
+        "Jimi Hendrix - Freedom",
+        "Jeff Beck - Scatterbrain"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Afrobeat",
-        "House",
-        "Italian Pop",
-        "R&B",
-        "Latin Rap"
+        "Blues Rock",
+        "Rock",
+        "Electric Blues"
       ]
     },
-    "match_reason": "A final Beatles album that marks a beginning and an ending pairs well with Sedna FM’s own first episode, which is literally described as where it all began — both are origin stories built on powerful, emotional music histories."
+    "match_reason": "The oxygen-free Everest ascent is an extreme feat of physical energy and risk; the ‘Electric Shock’ episode mirrors that charge with high-voltage guitar work and adrenaline-boosting rock."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On May 8, 1978, Reinhold Messner and Peter Habeler became the first climbers to reach the summit of Mount Everest without supplemental oxygen. Many experts believed such an ascent was physiologically impossible, but their success rewrote the limits of human endurance at extreme altitude.",
-      "fact_year": 1978,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mount_Everest",
-      "episode": {
-        "id": 11,
-        "title": "Morning Drops #05 - Electric Shock",
-        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
-        "songs": [
-          "Johnny Winter - Highway 61 Revisited",
-          "Joan Armatrading - Sleight of Hand",
-          "Joan Armatrading - Russian Roulette",
-          "Jimi Hendrix - Freedom",
-          "Jeff Beck - Scatterbrain"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Rock",
-          "Electric Blues"
-        ]
-      },
-      "match_reason": "The oxygen-free Everest ascent is an extreme feat of physical energy and risk; the ‘Electric Shock’ episode mirrors that charge with high-voltage guitar work and adrenaline-boosting rock."
-    },
     {
       "hour": 2,
       "fact_text": "On May 8, 1942, the Battle of the Coral Sea ended with the sinking of the U.S. aircraft carrier USS Lexington after massive air strikes. It was the first naval battle in history where opposing ships never sighted each other, fought entirely by carrier-based aircraft over hundreds of kilometers of open ocean.",
@@ -652,9 +619,34 @@
         ]
       },
       "match_reason": "A final Beatles album that marks a beginning and an ending pairs well with Sedna FM’s own first episode, which is literally described as where it all began — both are origin stories built on powerful, emotional music histories."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On May 8, 1978, Reinhold Messner and Peter Habeler became the first climbers to reach the summit of Mount Everest without supplemental oxygen. Many experts believed such an ascent was physiologically impossible, but their success rewrote the limits of human endurance at extreme altitude.",
+      "fact_year": 1978,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mount_Everest",
+      "episode": {
+        "id": 11,
+        "title": "Morning Drops #05 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "songs": [
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
+        ]
+      },
+      "match_reason": "The oxygen-free Everest ascent is an extreme feat of physical energy and risk; the ‘Electric Shock’ episode mirrors that charge with high-voltage guitar work and adrenaline-boosting rock."
     }
   ],
   "generated_at": "2026-05-08T00:00:00.010235+00:00",
   "date": "2026-05-08",
-  "updated_at": "2026-05-08T00:00:48.679521+00:00"
+  "updated_at": "2026-05-08T01:00:01.483683+00:00"
 }
