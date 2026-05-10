@@ -1,65 +1,31 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "On May 10, 1869, the First Transcontinental Railroad in the United States was completed at Promontory Summit, Utah Territory, when a ceremonial golden spike was driven to join the eastern and western lines. In just six years, rail had shrunk a months‑long overland journey into about a week, rewiring trade, migration, and the very sense of distance across a continent.",
-    "fact_year": 1869,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/First_transcontinental_railroad",
+    "hour": 5,
+    "fact_text": "On May 10, 1975, Sony introduced the Betamax videocassette recorder, bringing high‑quality home video recording to consumers for the first time. Although Betamax would ultimately lose the famous \"format war\" to VHS, it helped launch the entire era of time‑shifting TV, home taping, and a new kind of media control by ordinary viewers.",
+    "fact_year": 1975,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Betamax",
     "episode": {
-      "id": 5,
-      "title": "Sedna FM #05 - On The Go - Zero Zero",
-      "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
+      "id": 13,
+      "title": "Morning Drops #03 - secret_mp3_player_1",
+      "description": "Inspired by a throwback MP3 player on Instagram, Yasmin and Gaia take you on a nostalgic journey to the early 2000s. LimeWire, eMule, guilty-pleasure playlists — remember those? Hit play and relive the songs that shaped a generation.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-secret-mp3-player-1",
       "songs": [
-        "Alborosie - Rock the dancehall",
-        "Grace Jones - Pull up to the bumper",
-        "Hollie cook - Happy hour",
-        "Easy star all star - Soul love",
-        "Jeremie Albino - Rolling down the 405",
-        "Cyril Neville - I found joy",
-        "Aretha Franklin - Rock steady",
-        "James Brown - Talking loud and saying nothing (remix)",
-        "Nubiyan Twist - So mi stay",
-        "Professor Wouassa - Fallou Fall",
-        "Jarabe de Palo - La Flaca"
+        "Sean Paul - Get Busy",
+        "Blink-182 - I Miss You",
+        "Black Eyed Peas - My Humps",
+        "Britney Spears - Toxic"
       ],
       "music-genres": [
-        "Reggae",
-        "Funk",
-        "Soul",
-        "Afrobeat",
-        "Latin Rock",
-        "New Wave"
+        "Dancehall",
+        "Pop Punk",
+        "Pop",
+        "Dance-Pop"
       ]
     },
-    "match_reason": "A railroad that collapsed distances and set a continent \"on the move\" aligns with a high‑energy travel‑themed mix built for motion, fresh starts, and long journeys."
+    "match_reason": "A pioneering home‑video format that changed how we consume media pairs with an episode about early‑2000s MP3 nostalgia, both tracing how technology reshaped our private entertainment rituals."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "On May 10, 1975, Sony introduced the Betamax videocassette recorder, bringing high‑quality home video recording to consumers for the first time. Although Betamax would ultimately lose the famous \"format war\" to VHS, it helped launch the entire era of time‑shifting TV, home taping, and a new kind of media control by ordinary viewers.",
-      "fact_year": 1975,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Betamax",
-      "episode": {
-        "id": 13,
-        "title": "Morning Drops #03 - secret_mp3_player_1",
-        "description": "Inspired by a throwback MP3 player on Instagram, Yasmin and Gaia take you on a nostalgic journey to the early 2000s. LimeWire, eMule, guilty-pleasure playlists — remember those? Hit play and relive the songs that shaped a generation.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-secret-mp3-player-1",
-        "songs": [
-          "Sean Paul - Get Busy",
-          "Blink-182 - I Miss You",
-          "Black Eyed Peas - My Humps",
-          "Britney Spears - Toxic"
-        ],
-        "music-genres": [
-          "Dancehall",
-          "Pop Punk",
-          "Pop",
-          "Dance-Pop"
-        ]
-      },
-      "match_reason": "A pioneering home‑video format that changed how we consume media pairs with an episode about early‑2000s MP3 nostalgia, both tracing how technology reshaped our private entertainment rituals."
-    },
     {
       "hour": 6,
       "fact_text": "On May 10, 1922, the United States formally annexed Kingman Reef, a remote, largely submerged coral atoll in the central Pacific Ocean. Though tiny and uninhabited, the reef later gained strategic and ecological importance as a navigational waypoint and as a protected marine area brimming with ocean life.",
@@ -639,9 +605,34 @@
         ]
       },
       "match_reason": "A railroad that collapsed distances and set a continent \"on the move\" aligns with a high‑energy travel‑themed mix built for motion, fresh starts, and long journeys."
+    },
+    {
+      "hour": 5,
+      "fact_text": "On May 10, 1975, Sony introduced the Betamax videocassette recorder, bringing high‑quality home video recording to consumers for the first time. Although Betamax would ultimately lose the famous \"format war\" to VHS, it helped launch the entire era of time‑shifting TV, home taping, and a new kind of media control by ordinary viewers.",
+      "fact_year": 1975,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Betamax",
+      "episode": {
+        "id": 13,
+        "title": "Morning Drops #03 - secret_mp3_player_1",
+        "description": "Inspired by a throwback MP3 player on Instagram, Yasmin and Gaia take you on a nostalgic journey to the early 2000s. LimeWire, eMule, guilty-pleasure playlists — remember those? Hit play and relive the songs that shaped a generation.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-secret-mp3-player-1",
+        "songs": [
+          "Sean Paul - Get Busy",
+          "Blink-182 - I Miss You",
+          "Black Eyed Peas - My Humps",
+          "Britney Spears - Toxic"
+        ],
+        "music-genres": [
+          "Dancehall",
+          "Pop Punk",
+          "Pop",
+          "Dance-Pop"
+        ]
+      },
+      "match_reason": "A pioneering home‑video format that changed how we consume media pairs with an episode about early‑2000s MP3 nostalgia, both tracing how technology reshaped our private entertainment rituals."
     }
   ],
   "generated_at": "2026-05-10T00:00:00.025386+00:00",
   "date": "2026-05-10",
-  "updated_at": "2026-05-10T04:00:01.448685+00:00"
+  "updated_at": "2026-05-10T05:00:01.662582+00:00"
 }
