@@ -1,59 +1,31 @@
 {
-  "current_hour": 2,
+  "current_hour": 3,
   "current_fact": {
-    "hour": 2,
-    "fact_text": "On May 10, 1916, Ernest Shackleton completed an 800‑nautical‑mile voyage in a tiny lifeboat, the James Caird, landing on South Georgia after navigating some of the roughest seas on Earth. The improbable journey, guided by dead reckoning and a sextant in sub‑Antarctic storms, became one of history’s most celebrated feats of survival and navigation.",
-    "fact_year": 1916,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Voyage_of_the_James_Caird",
+    "hour": 3,
+    "fact_text": "On May 10, 1996, a sudden blizzard struck Mount Everest, trapping multiple climbing teams high on the mountain and leading to the deaths of eight climbers by the next day. The tragedy, later chronicled in memoirs and films, forced the mountaineering world to rethink the commercialization of Everest and the razor‑thin margin for error in extreme-altitude climbing.",
+    "fact_year": 1996,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1996_Mount_Everest_disaster",
     "episode": {
-      "id": 37,
-      "title": "Morning Drops #31 - Sailing With Germans",
-      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "Billy Talent - Dead Silence",
-        "Ben Howard - Keep Your Head Up",
-        "Ziggy Alberts - Simple Things",
-        "Vitor Kley - O Sol",
-        "Enya - Orinoco Flow",
-        "Paveier - Leev Marie"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Punk Rock",
-        "Indie Folk",
-        "Surf Pop",
-        "New Age",
-        "German Folk"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "A legendary open‑boat crossing through hostile seas resonates with an episode literally recorded on a sailing boat, celebrating resilience, companionship, and life on the water."
+    "match_reason": "A deadly Himalayan storm and an Arctic orca expedition share cold, remote extremes and the thin line between awe and danger, reflected in the episode’s cinematic, winter‑lit mood."
   },
   "queue": [
-    {
-      "hour": 3,
-      "fact_text": "On May 10, 1996, a sudden blizzard struck Mount Everest, trapping multiple climbing teams high on the mountain and leading to the deaths of eight climbers by the next day. The tragedy, later chronicled in memoirs and films, forced the mountaineering world to rethink the commercialization of Everest and the razor‑thin margin for error in extreme-altitude climbing.",
-      "fact_year": 1996,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1996_Mount_Everest_disaster",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "A deadly Himalayan storm and an Arctic orca expedition share cold, remote extremes and the thin line between awe and danger, reflected in the episode’s cinematic, winter‑lit mood."
-    },
     {
       "hour": 4,
       "fact_text": "On May 10, 1869, the First Transcontinental Railroad in the United States was completed at Promontory Summit, Utah Territory, when a ceremonial golden spike was driven to join the eastern and western lines. In just six years, rail had shrunk a months‑long overland journey into about a week, rewiring trade, migration, and the very sense of distance across a continent.",
@@ -633,9 +605,34 @@
         ]
       },
       "match_reason": "A legendary open‑boat crossing through hostile seas resonates with an episode literally recorded on a sailing boat, celebrating resilience, companionship, and life on the water."
+    },
+    {
+      "hour": 3,
+      "fact_text": "On May 10, 1996, a sudden blizzard struck Mount Everest, trapping multiple climbing teams high on the mountain and leading to the deaths of eight climbers by the next day. The tragedy, later chronicled in memoirs and films, forced the mountaineering world to rethink the commercialization of Everest and the razor‑thin margin for error in extreme-altitude climbing.",
+      "fact_year": 1996,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1996_Mount_Everest_disaster",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "A deadly Himalayan storm and an Arctic orca expedition share cold, remote extremes and the thin line between awe and danger, reflected in the episode’s cinematic, winter‑lit mood."
     }
   ],
   "generated_at": "2026-05-10T00:00:00.025386+00:00",
   "date": "2026-05-10",
-  "updated_at": "2026-05-10T02:00:01.545755+00:00"
+  "updated_at": "2026-05-10T03:00:01.456882+00:00"
 }
