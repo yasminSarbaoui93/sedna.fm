@@ -1,56 +1,31 @@
 {
-  "current_hour": 7,
+  "current_hour": 8,
   "current_fact": {
-    "hour": 7,
-    "fact_text": "On May 10, 1503, Christopher Columbus reached the Cayman Islands on his fourth voyage and named them \"Las Tortugas\" because of the abundance of sea turtles he encountered. The moment captures how early European explorers often used wildlife as their first language for naming and understanding new lands.",
-    "fact_year": 1503,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cayman_Islands",
+    "hour": 8,
+    "fact_text": "On May 10, 1497, Amerigo Vespucci is believed to have departed from Cádiz on a voyage that would contribute to the realization that the Americas were not Asia but a \"New World.\" His accounts, though debated, helped inspire cartographers to eventually name two continents after him: America.",
+    "fact_year": 1497,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Amerigo_Vespucci",
     "episode": {
-      "id": 46,
-      "title": "Morning Drops #40 - Diving With Orcas",
-      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+      "id": 17,
+      "title": "Morning Drops #11 - Mediterranean Boat",
+      "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
       "songs": [
-        "Ludovico Einaudi - Experience",
-        "The Temper Trap - Sweet Disposition",
-        "Alex Warren - Ordinary",
-        "Piero Umiliani - Il tuo volto"
+        "Arleta - Bar To Navagio",
+        "Baba Zula - Tavla",
+        "Mylène Farmer - Désenchantée",
+        "Fabrizio De André - Crêuza de mä"
       ],
       "music-genres": [
-        "Neo-Classical",
-        "Indie Rock",
-        "Pop",
-        "Italian Film Score"
+        "Greek Folk",
+        "Turkish Psychedelic",
+        "French Pop",
+        "Italian Singer-Songwriter"
       ]
     },
-    "match_reason": "Columbus naming islands after turtles and a modern diver seeking orcas both tell of first encounters with marine megafauna, mirrored by the episode’s ocean‑swept, cinematic mood."
+    "match_reason": "Vespucci’s departure from a Mediterranean port toward unknown coasts aligns with a sun‑drenched episode about boat journeys and cross‑sea musical currents."
   },
   "queue": [
-    {
-      "hour": 8,
-      "fact_text": "On May 10, 1497, Amerigo Vespucci is believed to have departed from Cádiz on a voyage that would contribute to the realization that the Americas were not Asia but a \"New World.\" His accounts, though debated, helped inspire cartographers to eventually name two continents after him: America.",
-      "fact_year": 1497,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Amerigo_Vespucci",
-      "episode": {
-        "id": 17,
-        "title": "Morning Drops #11 - Mediterranean Boat",
-        "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
-        "songs": [
-          "Arleta - Bar To Navagio",
-          "Baba Zula - Tavla",
-          "Mylène Farmer - Désenchantée",
-          "Fabrizio De André - Crêuza de mä"
-        ],
-        "music-genres": [
-          "Greek Folk",
-          "Turkish Psychedelic",
-          "French Pop",
-          "Italian Singer-Songwriter"
-        ]
-      },
-      "match_reason": "Vespucci’s departure from a Mediterranean port toward unknown coasts aligns with a sun‑drenched episode about boat journeys and cross‑sea musical currents."
-    },
     {
       "hour": 9,
       "fact_text": "On May 10, 1775, a small force of American colonial militia led by Ethan Allen and Benedict Arnold captured Fort Ticonderoga from the British in a pre‑dawn raid. The lightly defended fort yielded badly needed artillery that would later be dragged across winter snows to help break the British siege of Boston.",
@@ -630,9 +605,34 @@
         ]
       },
       "match_reason": "Columbus naming islands after turtles and a modern diver seeking orcas both tell of first encounters with marine megafauna, mirrored by the episode’s ocean‑swept, cinematic mood."
+    },
+    {
+      "hour": 8,
+      "fact_text": "On May 10, 1497, Amerigo Vespucci is believed to have departed from Cádiz on a voyage that would contribute to the realization that the Americas were not Asia but a \"New World.\" His accounts, though debated, helped inspire cartographers to eventually name two continents after him: America.",
+      "fact_year": 1497,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Amerigo_Vespucci",
+      "episode": {
+        "id": 17,
+        "title": "Morning Drops #11 - Mediterranean Boat",
+        "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
+        "songs": [
+          "Arleta - Bar To Navagio",
+          "Baba Zula - Tavla",
+          "Mylène Farmer - Désenchantée",
+          "Fabrizio De André - Crêuza de mä"
+        ],
+        "music-genres": [
+          "Greek Folk",
+          "Turkish Psychedelic",
+          "French Pop",
+          "Italian Singer-Songwriter"
+        ]
+      },
+      "match_reason": "Vespucci’s departure from a Mediterranean port toward unknown coasts aligns with a sun‑drenched episode about boat journeys and cross‑sea musical currents."
     }
   ],
   "generated_at": "2026-05-10T00:00:00.025386+00:00",
   "date": "2026-05-10",
-  "updated_at": "2026-05-10T07:00:01.748991+00:00"
+  "updated_at": "2026-05-10T08:00:01.472101+00:00"
 }
