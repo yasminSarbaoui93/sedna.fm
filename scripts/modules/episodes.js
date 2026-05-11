@@ -62,5 +62,6 @@ export const EPISODES = [
   "https://soundcloud.com/sednafm/morning-drops-tyler-the-creator",
   "https://soundcloud.com/sednafm/morning-drops-think-again",
   "https://soundcloud.com/sednafm/morning-drops-jomo",
-  "https://soundcloud.com/sednafm/morning-drops-intentional-listening"
+  "https://soundcloud.com/sednafm/morning-drops-intentional-listening",
+  "https://soundcloud.com/sednafm/on-the-go-the-adventures-of-a-guitar"
 ];
