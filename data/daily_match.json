@@ -1,61 +1,36 @@
 {
-  "current_hour": 20,
+  "current_hour": 21,
   "current_fact": {
-    "hour": 20,
-    "fact_text": "On May 11, 2014, the Burmese military executes at least 37 villagers during the Mon Taing Pin massacre in Sagaing, Myanmar.",
-    "fact_year": 2022,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Sagaing_Region",
+    "hour": 21,
+    "fact_text": "On May 11, 2011, the Istanbul Convention is signed in Istanbul, Turkey.",
+    "fact_year": 2011,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Istanbul",
     "episode": {
-      "id": 31,
-      "title": "Morning Drops #31 - A Trip-Hop Journey",
-      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+      "id": 48,
+      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
       "songs": [
-        "Massive Attack - Unfinished Sympathy",
-        "Tricky - Hell Is Round the Corner",
-        "DJ Shadow - Midnight in a Perfect World",
-        "Thievery Corporation - Lebanese Blonde",
-        "Smoke City - Underwater Love"
+        "Stive Morgan - Solar Wind, Pt. 3",
+        "David Visan & Carlos Campos - Crystal Heart",
+        "Evan Mars - Ya Zareef Al Tool",
+        "Gerardo Frisina - Cuiabá",
+        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+        "The Busy Twist - Friday Night"
       ],
       "music-genres": [
-        "Trip-Hop",
-        "Downtempo",
+        "Ambient",
+        "Deep House",
+        "World Music",
+        "Nu Jazz",
+        "Afrobeat",
+        "Funk",
         "Electronic"
       ]
     },
-    "match_reason": "The deep, shadowy textures of trip-hop have often scored stories of conflict, injustice, and uneasy calm; this cinematic, boundary-blurring episode suits a grim event that sits in the gray zones of power and violence."
+    "match_reason": "Connecting the convention to its host city, this episode’s Arabic melodies and medina atmospheres evoke the cultural world around Istanbul while its gradual crescendo hints at the slow, hopeful build of social change."
   },
   "queue": [
-    {
-      "hour": 21,
-      "fact_text": "On May 11, 2011, the Istanbul Convention is signed in Istanbul, Turkey.",
-      "fact_year": 2011,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Istanbul",
-      "episode": {
-        "id": 48,
-        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
-        "songs": [
-          "Stive Morgan - Solar Wind, Pt. 3",
-          "David Visan & Carlos Campos - Crystal Heart",
-          "Evan Mars - Ya Zareef Al Tool",
-          "Gerardo Frisina - Cuiabá",
-          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-          "The Busy Twist - Friday Night"
-        ],
-        "music-genres": [
-          "Ambient",
-          "Deep House",
-          "World Music",
-          "Nu Jazz",
-          "Afrobeat",
-          "Funk",
-          "Electronic"
-        ]
-      },
-      "match_reason": "Connecting the convention to its host city, this episode’s Arabic melodies and medina atmospheres evoke the cultural world around Istanbul while its gradual crescendo hints at the slow, hopeful build of social change."
-    },
     {
       "hour": 22,
       "fact_text": "The 68th edition of the Eurovision Song Contest is held in Malmö, Sweden. Nemo from Switzerland wins with their song \"The Code\", making them the contest's first non-binary winner.",
@@ -612,9 +587,39 @@
         ]
       },
       "match_reason": "The deep, shadowy textures of trip-hop have often scored stories of conflict, injustice, and uneasy calm; this cinematic, boundary-blurring episode suits a grim event that sits in the gray zones of power and violence."
+    },
+    {
+      "hour": 21,
+      "fact_text": "On May 11, 2011, the Istanbul Convention is signed in Istanbul, Turkey.",
+      "fact_year": 2011,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Istanbul",
+      "episode": {
+        "id": 48,
+        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+        "songs": [
+          "Stive Morgan - Solar Wind, Pt. 3",
+          "David Visan & Carlos Campos - Crystal Heart",
+          "Evan Mars - Ya Zareef Al Tool",
+          "Gerardo Frisina - Cuiabá",
+          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+          "The Busy Twist - Friday Night"
+        ],
+        "music-genres": [
+          "Ambient",
+          "Deep House",
+          "World Music",
+          "Nu Jazz",
+          "Afrobeat",
+          "Funk",
+          "Electronic"
+        ]
+      },
+      "match_reason": "Connecting the convention to its host city, this episode’s Arabic melodies and medina atmospheres evoke the cultural world around Istanbul while its gradual crescendo hints at the slow, hopeful build of social change."
     }
   ],
   "generated_at": "2026-05-11T00:00:00.010758+00:00",
   "date": "2026-05-11",
-  "updated_at": "2026-05-11T20:00:02.156630+00:00"
+  "updated_at": "2026-05-11T21:00:01.889805+00:00"
 }
