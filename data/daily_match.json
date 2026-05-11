@@ -1,57 +1,31 @@
 {
-  "current_hour": 22,
+  "current_hour": 23,
   "current_fact": {
-    "hour": 22,
-    "fact_text": "The 68th edition of the Eurovision Song Contest is held in Malmö, Sweden. Nemo from Switzerland wins with their song \"The Code\", making them the contest's first non-binary winner.",
-    "fact_year": 2024,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Nemo_(singer)",
+    "hour": 23,
+    "fact_text": "Space Shuttle Atlantis is launched on the final mission to service the Hubble Space Telescope.",
+    "fact_year": 2009,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope",
     "episode": {
-      "id": 18,
-      "title": "Morning Drops #12 - 80's Club",
-      "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "Donna Summer - I Feel Love",
-        "Depeche Mode - Just Can't Get Enough",
-        "Ken Laszlo - Hey Hey Guy",
-        "Mylène Farmer - Sans Contrefaçon"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Disco",
-        "Synthpop",
-        "Italo Disco",
-        "French Pop"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "Eurovision is Europe’s maximalist pop playground, and Nemo’s theatrical, electronic performance fits sonically and emotionally with an 80s-club journey through synths, queer-coded anthems, and dance-floor drama."
+    "match_reason": "Both Hubble servicing and Arctic whale dives are about entering extreme, hostile environments—space and icy oceans—to get closer to awe; the episode’s cinematic calm mirrors the quiet, meticulous wonder of orbiting above Earth to tune a telescope."
   },
-  "queue": [
-    {
-      "hour": 23,
-      "fact_text": "Space Shuttle Atlantis is launched on the final mission to service the Hubble Space Telescope.",
-      "fact_year": 2009,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "Both Hubble servicing and Arctic whale dives are about entering extreme, hostile environments—space and icy oceans—to get closer to awe; the episode’s cinematic calm mirrors the quiet, meticulous wonder of orbiting above Earth to tune a telescope."
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "hour": 0,
@@ -612,9 +586,34 @@
         ]
       },
       "match_reason": "Eurovision is Europe’s maximalist pop playground, and Nemo’s theatrical, electronic performance fits sonically and emotionally with an 80s-club journey through synths, queer-coded anthems, and dance-floor drama."
+    },
+    {
+      "hour": 23,
+      "fact_text": "Space Shuttle Atlantis is launched on the final mission to service the Hubble Space Telescope.",
+      "fact_year": 2009,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "Both Hubble servicing and Arctic whale dives are about entering extreme, hostile environments—space and icy oceans—to get closer to awe; the episode’s cinematic calm mirrors the quiet, meticulous wonder of orbiting above Earth to tune a telescope."
     }
   ],
   "generated_at": "2026-05-11T00:00:00.010758+00:00",
   "date": "2026-05-11",
-  "updated_at": "2026-05-11T22:00:01.703844+00:00"
+  "updated_at": "2026-05-11T23:00:01.564551+00:00"
 }
