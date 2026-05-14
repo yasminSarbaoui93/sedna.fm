@@ -1,56 +1,31 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "On May 14, 1951, the Talyllyn Railway in Wales ran its first trains entirely under volunteer management, becoming the world’s first preserved railway operated by enthusiasts. Their efforts not only saved a narrow-gauge line from closure but also sparked a global heritage railway movement.",
-    "fact_year": 1951,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Talyllyn_Railway",
+    "hour": 6,
+    "fact_text": "On May 14, 1878, Salem, Massachusetts hosted the last witchcraft-related trial in the United States, when Lucretia Brown accused Daniel Spofford of harming her through \"mental malpractice\" under Christian Science beliefs. The case, echoing the city’s infamous past, showed how fears of unseen forces can resurface in new spiritual languages.",
+    "fact_year": 1878,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Salem_witchcraft_trial_(1878)",
     "episode": {
-      "id": 41,
-      "title": "Morning Drops #35 - Thailand",
-      "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
+      "id": 44,
+      "title": "Morning Drops #38 - History of Flamenco",
+      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
       "songs": [
-        "Salin - Egungun",
-        "Justin Bieber - Love Yourself",
-        "Khun Narin - Phua Kao",
-        "Burna Boy - Cheat on Me (feat. Dave)"
+        "La Niña de los Peines - Al Gurugú",
+        "Lola Flores - Pena, penita, pena",
+        "Paco de Lucía - Entre dos aguas",
+        "Camarón de la Isla - La leyenda del tiempo",
+        "Rosalía - Pienso en tu mirá"
       ],
       "music-genres": [
-        "Afrobeat",
-        "Pop",
-        "Thai Funk",
-        "Afro-Fusion"
+        "Flamenco",
+        "Spanish Folk",
+        "Nuevo Flamenco"
       ]
     },
-    "match_reason": "A volunteer-run railway and a disciplined training retreat both celebrate everyday people dedicating time and energy to keep beloved practices moving."
+    "match_reason": "A witchcraft trial rooted in fear and folklore connects to an episode about Flamenco, a tradition steeped in superstition, duende, and intense emotional mysticism."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "On May 14, 1878, Salem, Massachusetts hosted the last witchcraft-related trial in the United States, when Lucretia Brown accused Daniel Spofford of harming her through \"mental malpractice\" under Christian Science beliefs. The case, echoing the city’s infamous past, showed how fears of unseen forces can resurface in new spiritual languages.",
-      "fact_year": 1878,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Salem_witchcraft_trial_(1878)",
-      "episode": {
-        "id": 44,
-        "title": "Morning Drops #38 - History of Flamenco",
-        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
-        "songs": [
-          "La Niña de los Peines - Al Gurugú",
-          "Lola Flores - Pena, penita, pena",
-          "Paco de Lucía - Entre dos aguas",
-          "Camarón de la Isla - La leyenda del tiempo",
-          "Rosalía - Pienso en tu mirá"
-        ],
-        "music-genres": [
-          "Flamenco",
-          "Spanish Folk",
-          "Nuevo Flamenco"
-        ]
-      },
-      "match_reason": "A witchcraft trial rooted in fear and folklore connects to an episode about Flamenco, a tradition steeped in superstition, duende, and intense emotional mysticism."
-    },
     {
       "hour": 7,
       "fact_text": "On May 14, 1879, the ship Leonidas arrived in Fiji carrying the first group of 463 Indian indentured laborers, inaugurating a system that would profoundly reshape Fiji’s demographics and culture. Their descendants now form a significant part of the country’s population, blending Indian and Pacific traditions into a unique Indo-Fijian identity.",
@@ -626,9 +601,34 @@
         ]
       },
       "match_reason": "A volunteer-run railway and a disciplined training retreat both celebrate everyday people dedicating time and energy to keep beloved practices moving."
+    },
+    {
+      "hour": 6,
+      "fact_text": "On May 14, 1878, Salem, Massachusetts hosted the last witchcraft-related trial in the United States, when Lucretia Brown accused Daniel Spofford of harming her through \"mental malpractice\" under Christian Science beliefs. The case, echoing the city’s infamous past, showed how fears of unseen forces can resurface in new spiritual languages.",
+      "fact_year": 1878,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Salem_witchcraft_trial_(1878)",
+      "episode": {
+        "id": 44,
+        "title": "Morning Drops #38 - History of Flamenco",
+        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+        "songs": [
+          "La Niña de los Peines - Al Gurugú",
+          "Lola Flores - Pena, penita, pena",
+          "Paco de Lucía - Entre dos aguas",
+          "Camarón de la Isla - La leyenda del tiempo",
+          "Rosalía - Pienso en tu mirá"
+        ],
+        "music-genres": [
+          "Flamenco",
+          "Spanish Folk",
+          "Nuevo Flamenco"
+        ]
+      },
+      "match_reason": "A witchcraft trial rooted in fear and folklore connects to an episode about Flamenco, a tradition steeped in superstition, duende, and intense emotional mysticism."
     }
   ],
   "generated_at": "2026-05-14T00:00:00.012577+00:00",
   "date": "2026-05-14",
-  "updated_at": "2026-05-14T05:00:01.557970+00:00"
+  "updated_at": "2026-05-14T06:00:01.565343+00:00"
 }
