@@ -1,55 +1,31 @@
 {
-  "current_hour": 17,
+  "current_hour": 18,
   "current_fact": {
-    "hour": 17,
-    "fact_text": "On May 14, 1980, during the Salvadoran Civil War, the Sumpul River massacre unfolded as Salvadoran and Honduran forces attacked civilians trying to flee across the river, killing hundreds. Survivors’ testimonies turned a remote river crossing into a symbol of wartime brutality and contested memory.",
-    "fact_year": 1980,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Sumpul_River_massacre",
+    "hour": 18,
+    "fact_text": "On May 14, 2004, Rico Linhas Aéreas Flight 4815 crashed into Brazil’s Amazon rainforest during approach to Manaus, killing all 33 people on board. The accident emphasized how even short regional flights can be vulnerable to weather, terrain, and the vast, unforgiving canopy of the world’s largest rainforest.",
+    "fact_year": 2004,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Rico_Linhas_A%C3%A9reas_Flight_4815",
     "episode": {
-      "id": 22,
-      "title": "Morning Drops #16 - The Sound of Tuareg",
-      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "Les Filles de Illighadad - Imigradan",
-        "Tinariwen - Amassakoul ’N’ Ténéré",
-        "Liya Ag Ablil - Awa Adounia",
-        "Tinariwen - Sastanàqqàm"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Desert Blues",
-        "Tuareg",
-        "World Music"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "A river massacre entwined with displacement and survival is paired with an episode about Tuareg music, itself born from exile, memory, and resistance in harsh landscapes."
+    "match_reason": "An air disaster over dense rainforest contrasts with a contemplative ocean episode, yet both explore how powerful ecosystems—canopy or Arctic sea—can be beautiful and utterly unforgiving."
   },
   "queue": [
-    {
-      "hour": 18,
-      "fact_text": "On May 14, 2004, Rico Linhas Aéreas Flight 4815 crashed into Brazil’s Amazon rainforest during approach to Manaus, killing all 33 people on board. The accident emphasized how even short regional flights can be vulnerable to weather, terrain, and the vast, unforgiving canopy of the world’s largest rainforest.",
-      "fact_year": 2004,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Rico_Linhas_A%C3%A9reas_Flight_4815",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "An air disaster over dense rainforest contrasts with a contemplative ocean episode, yet both explore how powerful ecosystems—canopy or Arctic sea—can be beautiful and utterly unforgiving."
-    },
     {
       "hour": 19,
       "fact_text": "On May 14, 2008, Manchester’s Piccadilly Gardens became the center of pitched street battles when Zenit St Petersburg and Rangers supporters clashed with each other and police around the UEFA Cup final. The riots injured dozens of officers and exposed how football fandom can suddenly spill into urban chaos.",
@@ -625,9 +601,34 @@
         ]
       },
       "match_reason": "A river massacre entwined with displacement and survival is paired with an episode about Tuareg music, itself born from exile, memory, and resistance in harsh landscapes."
+    },
+    {
+      "hour": 18,
+      "fact_text": "On May 14, 2004, Rico Linhas Aéreas Flight 4815 crashed into Brazil’s Amazon rainforest during approach to Manaus, killing all 33 people on board. The accident emphasized how even short regional flights can be vulnerable to weather, terrain, and the vast, unforgiving canopy of the world’s largest rainforest.",
+      "fact_year": 2004,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Rico_Linhas_A%C3%A9reas_Flight_4815",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "An air disaster over dense rainforest contrasts with a contemplative ocean episode, yet both explore how powerful ecosystems—canopy or Arctic sea—can be beautiful and utterly unforgiving."
     }
   ],
   "generated_at": "2026-05-14T00:00:00.012577+00:00",
   "date": "2026-05-14",
-  "updated_at": "2026-05-14T17:00:02.015241+00:00"
+  "updated_at": "2026-05-14T18:00:01.679349+00:00"
 }
