@@ -1,57 +1,34 @@
 {
-  "current_hour": 8,
+  "current_hour": 9,
   "current_fact": {
-    "hour": 8,
-    "fact_text": "On this day in 1725, Johann Sebastian Bach led the first performance of his cantata 'Ich bin ein guter Hirt' (BWV 85), a contemplative piece about Jesus as the Good Shepherd. The work weaves intimate vocal lines and gentle instrumentation into a musical meditation on care, guidance, and trust.",
-    "fact_year": 1725,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ich_bin_ein_guter_Hirt,_BWV_85",
+    "hour": 9,
+    "fact_text": "In 1602, English navigator Bartholomew Gosnold became one of the first Europeans to sight and name Cape Cod, reportedly inspired by the abundance of codfish in its waters. His short exploratory voyage helped map the New England coastline, laying quiet groundwork for later colonization.",
+    "fact_year": 1602,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cape_Cod",
     "episode": {
-      "id": 7,
-      "title": "Morning Drops #01 - Timeless Legacy",
-      "description": "Gaia guides us through timeless music to start the morning with the right foot! The first episode of the Morning Drops series — classic sounds that never fade.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-timeless-legacy",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "Roberta Flack - Killing me softly with his song",
-        "Stone, Angie & Raphael Saadiq - Brotha",
-        "Roy Ayers - Running Away (Extended)"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Soul",
-        "R&B",
-        "Jazz-Funk"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "A baroque cantata that has outlived centuries belongs with an episode celebrating 'timeless' music and the long legacy of soulful sound."
+    "match_reason": "An early Atlantic coastal voyage fits neatly with an episode literally recorded at sea, full of stories from life aboard a sailing boat."
   },
   "queue": [
-    {
-      "hour": 9,
-      "fact_text": "In 1602, English navigator Bartholomew Gosnold became one of the first Europeans to sight and name Cape Cod, reportedly inspired by the abundance of codfish in its waters. His short exploratory voyage helped map the New England coastline, laying quiet groundwork for later colonization.",
-      "fact_year": 1602,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cape_Cod",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "An early Atlantic coastal voyage fits neatly with an episode literally recorded at sea, full of stories from life aboard a sailing boat."
-    },
     {
       "hour": 10,
       "fact_text": "In 2010, Australian teenager Jessica Watson sailed back into Sydney Harbour after spending 210 days alone at sea, becoming the youngest person to complete a solo, non-stop, unassisted circumnavigation of the globe. She weathered storms, equipment failures, and long stretches of isolation, turning the open ocean into both classroom and home.",
@@ -644,9 +621,37 @@
         ]
       },
       "match_reason": "A baroque cantata that has outlived centuries belongs with an episode celebrating 'timeless' music and the long legacy of soulful sound."
+    },
+    {
+      "hour": 9,
+      "fact_text": "In 1602, English navigator Bartholomew Gosnold became one of the first Europeans to sight and name Cape Cod, reportedly inspired by the abundance of codfish in its waters. His short exploratory voyage helped map the New England coastline, laying quiet groundwork for later colonization.",
+      "fact_year": 1602,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cape_Cod",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "An early Atlantic coastal voyage fits neatly with an episode literally recorded at sea, full of stories from life aboard a sailing boat."
     }
   ],
   "generated_at": "2026-05-15T00:00:00.010825+00:00",
   "date": "2026-05-15",
-  "updated_at": "2026-05-15T08:00:01.738507+00:00"
+  "updated_at": "2026-05-15T09:00:01.806070+00:00"
 }
