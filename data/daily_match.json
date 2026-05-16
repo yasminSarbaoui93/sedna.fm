@@ -1,46 +1,31 @@
 {
-  "current_hour": 8,
+  "current_hour": 9,
   "current_fact": {
-    "hour": 8,
-    "fact_text": "In 1888, Nikola Tesla delivered a landmark lecture revealing his vision for alternating current systems, including polyphase motors and transformers that would enable efficient long‑distance power transmission. His ideas directly challenged Edison’s direct current empire and laid the groundwork for the electrified world most of us now take for granted.",
-    "fact_year": 1888,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Nikola_Tesla",
+    "hour": 9,
+    "fact_text": "In 1925, Paris hosted the first modern performance of Claudio Monteverdi’s \"Il ritorno d’Ulisse in patria,\" an early Baroque opera that had been largely forgotten for centuries. The revival helped reshape how 20th‑century musicians understood opera’s origins, revealing a work that felt startlingly human and emotionally direct despite its 17th‑century roots.",
+    "fact_year": 1925,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Il_ritorno_d%27Ulisse_in_patria",
     "episode": {
-      "id": 62,
-      "title": "Morning Drops #54 - Intentional Listening",
-      "description": "Do you remember what it felt like to listen to music without a streaming platform?\nIn this Morning Drops episode, Gaia reflects on a recent experiment: stepping away from algorithmic listening and going back to an iPod. \n\nWhat starts as a small personal choice opens into a wider meditation on attention, presence, and what happens when music is no longer treated as something infinite, but as something we choose with care.\n\nTracklist:\nScientist - Drum Song Dub\nThe Other People Place - Let Me Be Me\nA Forest Mighty Black - Fresh In My Mind\nCymande - Bra",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-intentional-listening",
-      "songs": [],
-      "music-genres": []
+      "id": 44,
+      "title": "Morning Drops #38 - History of Flamenco",
+      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+      "songs": [
+        "La Niña de los Peines - Al Gurugú",
+        "Lola Flores - Pena, penita, pena",
+        "Paco de Lucía - Entre dos aguas",
+        "Camarón de la Isla - La leyenda del tiempo",
+        "Rosalía - Pienso en tu mirá"
+      ],
+      "music-genres": [
+        "Flamenco",
+        "Spanish Folk",
+        "Nuevo Flamenco"
+      ]
     },
-    "match_reason": "Tesla’s deliberate rethinking of how electricity should flow echoes an episode about rethinking how music flows into our lives, both advocating more intentional, efficient systems over brute force."
+    "match_reason": "The rediscovery of a centuries‑old opera aligns with an episode that traces the deep history and modern evolution of Flamenco—both are acts of musical archaeology and revival."
   },
   "queue": [
-    {
-      "hour": 9,
-      "fact_text": "In 1925, Paris hosted the first modern performance of Claudio Monteverdi’s \"Il ritorno d’Ulisse in patria,\" an early Baroque opera that had been largely forgotten for centuries. The revival helped reshape how 20th‑century musicians understood opera’s origins, revealing a work that felt startlingly human and emotionally direct despite its 17th‑century roots.",
-      "fact_year": 1925,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Il_ritorno_d%27Ulisse_in_patria",
-      "episode": {
-        "id": 44,
-        "title": "Morning Drops #38 - History of Flamenco",
-        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
-        "songs": [
-          "La Niña de los Peines - Al Gurugú",
-          "Lola Flores - Pena, penita, pena",
-          "Paco de Lucía - Entre dos aguas",
-          "Camarón de la Isla - La leyenda del tiempo",
-          "Rosalía - Pienso en tu mirá"
-        ],
-        "music-genres": [
-          "Flamenco",
-          "Spanish Folk",
-          "Nuevo Flamenco"
-        ]
-      },
-      "match_reason": "The rediscovery of a centuries‑old opera aligns with an episode that traces the deep history and modern evolution of Flamenco—both are acts of musical archaeology and revival."
-    },
     {
       "hour": 10,
       "fact_text": "In 1988, U.S. Surgeon General C. Everett Koop released a report stating that nicotine’s addictive properties rival those of heroin and cocaine. The stark comparison shocked the public and reframed cigarettes not as a mere habit but as a powerful chemical dependency engineered into everyday life.",
@@ -627,9 +612,34 @@
         "music-genres": []
       },
       "match_reason": "Tesla’s deliberate rethinking of how electricity should flow echoes an episode about rethinking how music flows into our lives, both advocating more intentional, efficient systems over brute force."
+    },
+    {
+      "hour": 9,
+      "fact_text": "In 1925, Paris hosted the first modern performance of Claudio Monteverdi’s \"Il ritorno d’Ulisse in patria,\" an early Baroque opera that had been largely forgotten for centuries. The revival helped reshape how 20th‑century musicians understood opera’s origins, revealing a work that felt startlingly human and emotionally direct despite its 17th‑century roots.",
+      "fact_year": 1925,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Il_ritorno_d%27Ulisse_in_patria",
+      "episode": {
+        "id": 44,
+        "title": "Morning Drops #38 - History of Flamenco",
+        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+        "songs": [
+          "La Niña de los Peines - Al Gurugú",
+          "Lola Flores - Pena, penita, pena",
+          "Paco de Lucía - Entre dos aguas",
+          "Camarón de la Isla - La leyenda del tiempo",
+          "Rosalía - Pienso en tu mirá"
+        ],
+        "music-genres": [
+          "Flamenco",
+          "Spanish Folk",
+          "Nuevo Flamenco"
+        ]
+      },
+      "match_reason": "The rediscovery of a centuries‑old opera aligns with an episode that traces the deep history and modern evolution of Flamenco—both are acts of musical archaeology and revival."
     }
   ],
   "generated_at": "2026-05-16T00:00:00.015705+00:00",
   "date": "2026-05-16",
-  "updated_at": "2026-05-16T08:00:01.551051+00:00"
+  "updated_at": "2026-05-16T09:00:01.589213+00:00"
 }
