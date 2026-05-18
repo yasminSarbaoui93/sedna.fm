@@ -1,56 +1,31 @@
 {
-  "current_hour": 12,
+  "current_hour": 13,
   "current_fact": {
-    "hour": 12,
-    "fact_text": "On this day in 1944, German paratroopers finally evacuated Monte Cassino after months of ferocious fighting and four major Allied offensives. The battle left a historic monastery in ruins but opened the road to Rome for the Allies.",
-    "fact_year": 1944,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Monte_Cassino",
+    "hour": 13,
+    "fact_text": "In 1980, Mount St. Helens erupted catastrophically in Washington State, blowing off its summit, triggering massive landslides, and sending ash across the continent. The eruption reshaped the volcano, the surrounding ecosystems, and the way scientists monitor restless mountains.",
+    "fact_year": 1980,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1980_eruption_of_Mount_St._Helens",
     "episode": {
-      "id": 27,
-      "title": "Morning Drops #21 - Endless Summer",
-      "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "Nik Bärtsch - Modul 14",
-        "Mama Terra - Chameleon (Single Edit)",
-        "Spyro Gyra - Morning Dance",
-        "Yussef Kamaal - Black Focus"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Minimal Jazz",
-        "Nu Jazz",
-        "Jazz Fusion",
-        "UK Jazz"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "The end of a grinding mountain battle and the opening of a path south contrasts sharply with calm Adriatic summers; the gentle jazz and coastal reflections offer a meditative counter-image to wartime destruction in Italy."
+    "match_reason": "A violent volcanic eruption and serene Arctic seas both show Earth’s raw power; this cinematic, nature-focused episode offers a contemplative way to feel the planet’s dramatic forces and recoveries."
   },
   "queue": [
-    {
-      "hour": 13,
-      "fact_text": "In 1980, Mount St. Helens erupted catastrophically in Washington State, blowing off its summit, triggering massive landslides, and sending ash across the continent. The eruption reshaped the volcano, the surrounding ecosystems, and the way scientists monitor restless mountains.",
-      "fact_year": 1980,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1980_eruption_of_Mount_St._Helens",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "A violent volcanic eruption and serene Arctic seas both show Earth’s raw power; this cinematic, nature-focused episode offers a contemplative way to feel the planet’s dramatic forces and recoveries."
-    },
     {
       "hour": 14,
       "fact_text": "On this day in 1974, India carried out its first nuclear test under the code name \"Smiling Buddha\" in the Rajasthan desert. The paradoxical name masked a seismic political shift: India had quietly joined the club of nuclear-armed states.",
@@ -645,9 +620,34 @@
         ]
       },
       "match_reason": "The end of a grinding mountain battle and the opening of a path south contrasts sharply with calm Adriatic summers; the gentle jazz and coastal reflections offer a meditative counter-image to wartime destruction in Italy."
+    },
+    {
+      "hour": 13,
+      "fact_text": "In 1980, Mount St. Helens erupted catastrophically in Washington State, blowing off its summit, triggering massive landslides, and sending ash across the continent. The eruption reshaped the volcano, the surrounding ecosystems, and the way scientists monitor restless mountains.",
+      "fact_year": 1980,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1980_eruption_of_Mount_St._Helens",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "A violent volcanic eruption and serene Arctic seas both show Earth’s raw power; this cinematic, nature-focused episode offers a contemplative way to feel the planet’s dramatic forces and recoveries."
     }
   ],
   "generated_at": "2026-05-18T00:00:00.010644+00:00",
   "date": "2026-05-18",
-  "updated_at": "2026-05-18T12:00:02.000412+00:00"
+  "updated_at": "2026-05-18T13:00:01.786186+00:00"
 }
