@@ -1,46 +1,31 @@
 {
-  "current_hour": 21,
+  "current_hour": 22,
   "current_fact": {
-    "hour": 21,
-    "fact_text": "On May 18, 1990, while the TGV tore across rails, another kind of speed record was emerging in information: within that same era, the world’s first commercial internet backbone was taking shape, quietly laying tracks for data at light speed. Rail’s physical velocity now had a digital counterpart racing through fiber.",
-    "fact_year": 1990,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/TGV",
+    "hour": 22,
+    "fact_text": "On May 18, 2005, Hubble’s view of Pluto’s moons was possible thanks to a telescope orbiting far above Earth’s own atmospheric turbulence. This same clarity has revealed galaxies colliding, stars being born, and even the spectral fingerprints of alien worlds’ atmospheres.",
+    "fact_year": 2005,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope",
     "episode": {
-      "id": 63,
-      "title": "Morning Drops #54 - Intentional Listening",
-      "description": "Do you remember what it felt like to listen to music without a streaming platform?\nIn this Morning Drops episode, Gaia reflects on a recent experiment: stepping away from algorithmic listening and going back to an iPod. \n\nWhat starts as a small personal choice opens into a wider meditation on attention, presence, and what happens when music is no longer treated as something infinite, but as something we choose with care.\n\nTracklist:\nScientist - Drum Song Dub\nThe Other People Place - Let Me Be Me\nA Forest Mighty Black - Fresh In My Mind\nCymande - Bra",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-intentional-listening",
-      "songs": [],
-      "music-genres": []
+      "id": 31,
+      "title": "Morning Drops #31 - A Trip-Hop Journey",
+      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+      "songs": [
+        "Massive Attack - Unfinished Sympathy",
+        "Tricky - Hell Is Round the Corner",
+        "DJ Shadow - Midnight in a Perfect World",
+        "Thievery Corporation - Lebanese Blonde",
+        "Smoke City - Underwater Love"
+      ],
+      "music-genres": [
+        "Trip-Hop",
+        "Downtempo",
+        "Electronic"
+      ]
     },
-    "match_reason": "Even as trains and networks chased speed, this episode asks us to slow down and choose how we move through information and sound, turning high-speed eras into intentional experiences."
+    "match_reason": "Hubble’s deep, cinematic glimpses of the universe pair well with the atmospheric, boundary-blurring textures of trip-hop, both inviting listeners to drift through layered, distant vistas."
   },
   "queue": [
-    {
-      "hour": 22,
-      "fact_text": "On May 18, 2005, Hubble’s view of Pluto’s moons was possible thanks to a telescope orbiting far above Earth’s own atmospheric turbulence. This same clarity has revealed galaxies colliding, stars being born, and even the spectral fingerprints of alien worlds’ atmospheres.",
-      "fact_year": 2005,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #31 - A Trip-Hop Journey",
-        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
-        "songs": [
-          "Massive Attack - Unfinished Sympathy",
-          "Tricky - Hell Is Round the Corner",
-          "DJ Shadow - Midnight in a Perfect World",
-          "Thievery Corporation - Lebanese Blonde",
-          "Smoke City - Underwater Love"
-        ],
-        "music-genres": [
-          "Trip-Hop",
-          "Downtempo",
-          "Electronic"
-        ]
-      },
-      "match_reason": "Hubble’s deep, cinematic glimpses of the universe pair well with the atmospheric, boundary-blurring textures of trip-hop, both inviting listeners to drift through layered, distant vistas."
-    },
     {
       "hour": 23,
       "fact_text": "By May 18, 1991, the newly proclaimed Republic of Somaliland was not just a political declaration but also a quieter cultural experiment. Without broad recognition, its artists, poets, and musicians have helped stitch together a sense of identity in a space that officially does not exist on most maps.",
@@ -605,9 +590,34 @@
         "music-genres": []
       },
       "match_reason": "Even as trains and networks chased speed, this episode asks us to slow down and choose how we move through information and sound, turning high-speed eras into intentional experiences."
+    },
+    {
+      "hour": 22,
+      "fact_text": "On May 18, 2005, Hubble’s view of Pluto’s moons was possible thanks to a telescope orbiting far above Earth’s own atmospheric turbulence. This same clarity has revealed galaxies colliding, stars being born, and even the spectral fingerprints of alien worlds’ atmospheres.",
+      "fact_year": 2005,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #31 - A Trip-Hop Journey",
+        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+        "songs": [
+          "Massive Attack - Unfinished Sympathy",
+          "Tricky - Hell Is Round the Corner",
+          "DJ Shadow - Midnight in a Perfect World",
+          "Thievery Corporation - Lebanese Blonde",
+          "Smoke City - Underwater Love"
+        ],
+        "music-genres": [
+          "Trip-Hop",
+          "Downtempo",
+          "Electronic"
+        ]
+      },
+      "match_reason": "Hubble’s deep, cinematic glimpses of the universe pair well with the atmospheric, boundary-blurring textures of trip-hop, both inviting listeners to drift through layered, distant vistas."
     }
   ],
   "generated_at": "2026-05-18T00:00:00.016001+00:00",
   "date": "2026-05-18",
-  "updated_at": "2026-05-18T21:00:01.569685+00:00"
+  "updated_at": "2026-05-18T22:00:01.638284+00:00"
 }
