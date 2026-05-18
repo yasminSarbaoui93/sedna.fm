@@ -1,55 +1,31 @@
 {
-  "current_hour": 9,
+  "current_hour": 10,
   "current_fact": {
-    "hour": 9,
-    "fact_text": "On May 18, 1991, northern Somalia broke away and declared itself the Republic of Somaliland. Though still largely unrecognized internationally, it has since built its own institutions, elections, and a distinct sense of nationhood in the Horn of Africa.",
-    "fact_year": 1991,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Somaliland",
+    "hour": 10,
+    "fact_text": "On May 18, 2018, Cubana de Aviación Flight 972 crashed shortly after takeoff from Havana, killing 112 of the 113 people on board. The tragedy raised deep questions about aviation safety, aging aircraft, and the fragility of lives linked by a single short flight.",
+    "fact_year": 2018,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cubana_de_Aviación_Flight_972",
     "episode": {
-      "id": 22,
-      "title": "Morning Drops #16 - The Sound of Tuareg",
-      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "Les Filles de Illighadad - Imigradan",
-        "Tinariwen - Amassakoul ’N’ Ténéré",
-        "Liya Ag Ablil - Awa Adounia",
-        "Tinariwen - Sastanàqqàm"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Desert Blues",
-        "Tuareg",
-        "World Music"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "Somaliland’s self-declared independence and resilience in a harsh environment echoes an episode about desert peoples whose music channels survival, identity, and resistance."
+    "match_reason": "A somber aviation disaster pairs with a reflective, cinematic episode about risk, awe, and confronting the thin line between danger and wonder in remote journeys."
   },
   "queue": [
-    {
-      "hour": 10,
-      "fact_text": "On May 18, 2018, Cubana de Aviación Flight 972 crashed shortly after takeoff from Havana, killing 112 of the 113 people on board. The tragedy raised deep questions about aviation safety, aging aircraft, and the fragility of lives linked by a single short flight.",
-      "fact_year": 2018,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cubana_de_Aviación_Flight_972",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "A somber aviation disaster pairs with a reflective, cinematic episode about risk, awe, and confronting the thin line between danger and wonder in remote journeys."
-    },
     {
       "hour": 11,
       "fact_text": "On May 18, 2006, after the Loktantra Andolan uprising, Nepal’s new government passed a landmark bill stripping the king of most powers and declaring the country secular. It was a dramatic turning point for a Himalayan kingdom long defined by its monarchy and Hindu state identity.",
@@ -614,9 +590,34 @@
         ]
       },
       "match_reason": "Somaliland’s self-declared independence and resilience in a harsh environment echoes an episode about desert peoples whose music channels survival, identity, and resistance."
+    },
+    {
+      "hour": 10,
+      "fact_text": "On May 18, 2018, Cubana de Aviación Flight 972 crashed shortly after takeoff from Havana, killing 112 of the 113 people on board. The tragedy raised deep questions about aviation safety, aging aircraft, and the fragility of lives linked by a single short flight.",
+      "fact_year": 2018,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cubana_de_Aviación_Flight_972",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "A somber aviation disaster pairs with a reflective, cinematic episode about risk, awe, and confronting the thin line between danger and wonder in remote journeys."
     }
   ],
   "generated_at": "2026-05-18T00:00:00.016001+00:00",
   "date": "2026-05-18",
-  "updated_at": "2026-05-18T09:00:01.912868+00:00"
+  "updated_at": "2026-05-18T10:00:02.367287+00:00"
 }
