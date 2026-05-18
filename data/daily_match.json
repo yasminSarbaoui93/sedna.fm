@@ -1,64 +1,30 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On May 18, 1969, NASA launched Apollo 10, a full dress rehearsal for the first Moon landing. Its lunar module skimmed just 14.4 km above the surface, giving humanity a near-touch of the Moon before Apollo 11’s historic descent.",
-    "fact_year": 1969,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Apollo_10",
+    "hour": 2,
+    "fact_text": "In 1953, pilot Jacqueline Cochran became the first woman to break the sound barrier, flying an F-86 Sabre at more than 1,050 km/h. Her flight shattered not just air resistance but expectations about what women could do in aviation.",
+    "fact_year": 1953,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Jacqueline_Cochran",
     "episode": {
-      "id": 2,
-      "title": "Sedna FM #02 - Destination Sedna",
-      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+      "id": 42,
+      "title": "Morning Drops #36 - Women of Rock",
+      "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
       "songs": [
-        "Pink Floyd - Breathe",
-        "The fountain DC - Starburster",
-        "Laura Cahen - La Poussiere",
-        "Taxi Kebab - Lmchi w rjou3",
-        "Odion Iruoje - Identify With Your Roots",
-        "Depeche mode - world in my eyes (Oil Tank Mix)",
-        "Massive attack - Dissolved girl",
-        "Kokoroko - Three piece suite",
-        "Salin - Egungun",
-        "E.S.P. - It's You"
+        "Suzi Quatro - Can the Can",
+        "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
+        "Laura Cox - Hard Blues Shot",
+        "Jackie Venson - Always Free (Live)"
       ],
       "music-genres": [
-        "Progressive Rock",
-        "Post-Punk",
-        "French Pop",
-        "Maghreb",
-        "Afrobeat",
-        "Synthpop",
-        "Trip-Hop"
+        "Glam Rock",
+        "Hard Rock",
+        "Blues Rock"
       ]
     },
-    "match_reason": "A mission that was literally a rehearsal for a lunar destination aligns with an episode themed around voyaging to Sedna and exploring new territories."
+    "match_reason": "Cochran’s boundary-breaking flight resonates with an episode celebrating women who defied expectations in rock music and carved out loud, powerful spaces."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "In 1953, pilot Jacqueline Cochran became the first woman to break the sound barrier, flying an F-86 Sabre at more than 1,050 km/h. Her flight shattered not just air resistance but expectations about what women could do in aviation.",
-      "fact_year": 1953,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Jacqueline_Cochran",
-      "episode": {
-        "id": 42,
-        "title": "Morning Drops #36 - Women of Rock",
-        "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
-        "songs": [
-          "Suzi Quatro - Can the Can",
-          "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
-          "Laura Cox - Hard Blues Shot",
-          "Jackie Venson - Always Free (Live)"
-        ],
-        "music-genres": [
-          "Glam Rock",
-          "Hard Rock",
-          "Blues Rock"
-        ]
-      },
-      "match_reason": "Cochran’s boundary-breaking flight resonates with an episode celebrating women who defied expectations in rock music and carved out loud, powerful spaces."
-    },
     {
       "hour": 3,
       "fact_text": "On May 18, 1912, Shree Pundalik, directed by Dadasaheb Torne, premiered in Mumbai and is often cited as the first Indian film. Shot on a single reel, it helped ignite a massive cinematic tradition that would grow into one of the world’s largest film industries.",
@@ -624,9 +590,33 @@
         ]
       },
       "match_reason": "A mission that was literally a rehearsal for a lunar destination aligns with an episode themed around voyaging to Sedna and exploring new territories."
+    },
+    {
+      "hour": 2,
+      "fact_text": "In 1953, pilot Jacqueline Cochran became the first woman to break the sound barrier, flying an F-86 Sabre at more than 1,050 km/h. Her flight shattered not just air resistance but expectations about what women could do in aviation.",
+      "fact_year": 1953,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Jacqueline_Cochran",
+      "episode": {
+        "id": 42,
+        "title": "Morning Drops #36 - Women of Rock",
+        "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
+        "songs": [
+          "Suzi Quatro - Can the Can",
+          "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
+          "Laura Cox - Hard Blues Shot",
+          "Jackie Venson - Always Free (Live)"
+        ],
+        "music-genres": [
+          "Glam Rock",
+          "Hard Rock",
+          "Blues Rock"
+        ]
+      },
+      "match_reason": "Cochran’s boundary-breaking flight resonates with an episode celebrating women who defied expectations in rock music and carved out loud, powerful spaces."
     }
   ],
   "generated_at": "2026-05-18T00:00:00.016001+00:00",
   "date": "2026-05-18",
-  "updated_at": "2026-05-18T01:00:01.437789+00:00"
+  "updated_at": "2026-05-18T02:00:01.624790+00:00"
 }
