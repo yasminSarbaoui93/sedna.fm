@@ -1,64 +1,40 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "On this day in 1302, the Bruges Matins saw Flemish militiamen launch a nocturnal surprise attack that massacred the French garrison in Bruges. The brutal uprising became a symbol of local resistance against foreign rule in medieval Flanders.",
-    "fact_year": 1302,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Matins_of_Bruges",
+    "hour": 11,
+    "fact_text": "In 1926, famed evangelist Aimee Semple McPherson mysteriously disappeared from a California beach, sparking nationwide headlines and wild speculation. Weeks later she reappeared with a kidnapping tale that many believed—and others loudly doubted.",
+    "fact_year": 1926,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Aimee_Semple_McPherson",
     "episode": {
-      "id": 22,
-      "title": "Morning Drops #16 - The Sound of Tuareg",
-      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+      "id": 6,
+      "title": "Sedna FM #06 - Alters of an Ego",
+      "description": "What if you could step outside yourself and become someone freer, bolder, or completely unexpected? Exploring the artistry of musicians who craft alter-egos and parallel realities to experiment with new dimensions of their identity. It's not about hiding who they are — it's about expanding who they can be.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/alters-of-an-ego",
       "songs": [
-        "Les Filles de Illighadad - Imigradan",
-        "Tinariwen - Amassakoul ’N’ Ténéré",
-        "Liya Ag Ablil - Awa Adounia",
-        "Tinariwen - Sastanàqqàm"
+        "The Thin White Duke - Stay",
+        "Mac Miller - Dang (feat. Anderson .Paak)",
+        "Larry Lovestein - Love Affair",
+        "The Fireman - Strawberries Oceans Ships Forest",
+        "Paul McCartney - Oh! Darling",
+        "Prince - Kiss",
+        "Camille - Rebirth of the Flash",
+        "MF DOOM - Deep Fried Frenz",
+        "Gorillaz - Dirty Harry",
+        "Gorillaz - Andromeda"
       ],
       "music-genres": [
-        "Desert Blues",
-        "Tuareg",
-        "World Music"
+        "Glam Rock",
+        "Hip-Hop",
+        "Jazz",
+        "Ambient",
+        "Classic Rock",
+        "Funk",
+        "Electronic"
       ]
     },
-    "match_reason": "The Flemish uprising and Tuareg music both channel resistance to domination; this episode’s focus on exile and struggle echoes the rebellious spirit of the Bruges Matins."
+    "match_reason": "McPherson’s disappearance and contested narrative blur the line between reality and performance; an episode about alter-egos and parallel identities complements the mystery around who she really was in that missing time."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "In 1926, famed evangelist Aimee Semple McPherson mysteriously disappeared from a California beach, sparking nationwide headlines and wild speculation. Weeks later she reappeared with a kidnapping tale that many believed—and others loudly doubted.",
-      "fact_year": 1926,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Aimee_Semple_McPherson",
-      "episode": {
-        "id": 6,
-        "title": "Sedna FM #06 - Alters of an Ego",
-        "description": "What if you could step outside yourself and become someone freer, bolder, or completely unexpected? Exploring the artistry of musicians who craft alter-egos and parallel realities to experiment with new dimensions of their identity. It's not about hiding who they are — it's about expanding who they can be.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/alters-of-an-ego",
-        "songs": [
-          "The Thin White Duke - Stay",
-          "Mac Miller - Dang (feat. Anderson .Paak)",
-          "Larry Lovestein - Love Affair",
-          "The Fireman - Strawberries Oceans Ships Forest",
-          "Paul McCartney - Oh! Darling",
-          "Prince - Kiss",
-          "Camille - Rebirth of the Flash",
-          "MF DOOM - Deep Fried Frenz",
-          "Gorillaz - Dirty Harry",
-          "Gorillaz - Andromeda"
-        ],
-        "music-genres": [
-          "Glam Rock",
-          "Hip-Hop",
-          "Jazz",
-          "Ambient",
-          "Classic Rock",
-          "Funk",
-          "Electronic"
-        ]
-      },
-      "match_reason": "McPherson’s disappearance and contested narrative blur the line between reality and performance; an episode about alter-egos and parallel identities complements the mystery around who she really was in that missing time."
-    },
     {
       "hour": 12,
       "fact_text": "On this day in 1944, German paratroopers finally evacuated Monte Cassino after months of ferocious fighting and four major Allied offensives. The battle left a historic monastery in ruins but opened the road to Rome for the Allies.",
@@ -644,9 +620,43 @@
         ]
       },
       "match_reason": "The Flemish uprising and Tuareg music both channel resistance to domination; this episode’s focus on exile and struggle echoes the rebellious spirit of the Bruges Matins."
+    },
+    {
+      "hour": 11,
+      "fact_text": "In 1926, famed evangelist Aimee Semple McPherson mysteriously disappeared from a California beach, sparking nationwide headlines and wild speculation. Weeks later she reappeared with a kidnapping tale that many believed—and others loudly doubted.",
+      "fact_year": 1926,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Aimee_Semple_McPherson",
+      "episode": {
+        "id": 6,
+        "title": "Sedna FM #06 - Alters of an Ego",
+        "description": "What if you could step outside yourself and become someone freer, bolder, or completely unexpected? Exploring the artistry of musicians who craft alter-egos and parallel realities to experiment with new dimensions of their identity. It's not about hiding who they are — it's about expanding who they can be.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/alters-of-an-ego",
+        "songs": [
+          "The Thin White Duke - Stay",
+          "Mac Miller - Dang (feat. Anderson .Paak)",
+          "Larry Lovestein - Love Affair",
+          "The Fireman - Strawberries Oceans Ships Forest",
+          "Paul McCartney - Oh! Darling",
+          "Prince - Kiss",
+          "Camille - Rebirth of the Flash",
+          "MF DOOM - Deep Fried Frenz",
+          "Gorillaz - Dirty Harry",
+          "Gorillaz - Andromeda"
+        ],
+        "music-genres": [
+          "Glam Rock",
+          "Hip-Hop",
+          "Jazz",
+          "Ambient",
+          "Classic Rock",
+          "Funk",
+          "Electronic"
+        ]
+      },
+      "match_reason": "McPherson’s disappearance and contested narrative blur the line between reality and performance; an episode about alter-egos and parallel identities complements the mystery around who she really was in that missing time."
     }
   ],
   "generated_at": "2026-05-18T00:00:00.010644+00:00",
   "date": "2026-05-18",
-  "updated_at": "2026-05-18T10:00:02.006285+00:00"
+  "updated_at": "2026-05-18T11:00:01.681536+00:00"
 }
