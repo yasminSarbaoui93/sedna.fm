@@ -1,59 +1,34 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "On 19 May 1776, a Continental Army garrison surrendered at the Battle of The Cedars near Montreal after a series of skirmishes and miscommunications. The small conflict became a cautionary tale about overextension and the fragile logistics of a revolutionary army far from home.",
-    "fact_year": 1776,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_the_Cedars",
+    "hour": 11,
+    "fact_text": "In 1900, Great Britain formally annexed New Zealand’s tiny Tonga Island, a remote speck in Tasman Bay surrounded by clear waters and marine life. Though politically minor, it reflects how even the smallest islands became entangled in global imperial maps.",
+    "fact_year": 1900,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tonga_Island",
     "episode": {
-      "id": 56,
-      "title": "Morning Drops #49 - Rage Against The Machine",
-      "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "Rage Against the Machine - Bombtrack",
-        "Rage Against the Machine - Killing in the Name",
-        "Rage Against the Machine - Without a Face",
-        "Rage Against the Machine - Guerrilla Radio",
-        "Rage Against the Machine - Sleep Now in the Fire"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Rap Metal",
-        "Political Rock",
-        "Alternative Metal"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "A Revolutionary War defeat rooted in resistance and miscalculation fits with an episode about political rage, protest, and the high cost of fighting power."
+    "match_reason": "An unassuming island absorbed into an empire pairs with an episode literally at sea, navigating small landfalls, maritime maps, and the quiet power of ocean journeys."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "In 1900, Great Britain formally annexed New Zealand’s tiny Tonga Island, a remote speck in Tasman Bay surrounded by clear waters and marine life. Though politically minor, it reflects how even the smallest islands became entangled in global imperial maps.",
-      "fact_year": 1900,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tonga_Island",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "An unassuming island absorbed into an empire pairs with an episode literally at sea, navigating small landfalls, maritime maps, and the quiet power of ocean journeys."
-    },
     {
       "hour": 12,
       "fact_text": "New England’s \"Dark Day\" of 1780 brought an eerie midday twilight over parts of the U.S. and Canada, so intense that people lit candles at noon. The cause—likely massive forest fires—was unknown at the time, fueling superstitions, doomsday fears, and whispered talk of the apocalypse.",
@@ -629,9 +604,37 @@
         ]
       },
       "match_reason": "A Revolutionary War defeat rooted in resistance and miscalculation fits with an episode about political rage, protest, and the high cost of fighting power."
+    },
+    {
+      "hour": 11,
+      "fact_text": "In 1900, Great Britain formally annexed New Zealand’s tiny Tonga Island, a remote speck in Tasman Bay surrounded by clear waters and marine life. Though politically minor, it reflects how even the smallest islands became entangled in global imperial maps.",
+      "fact_year": 1900,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tonga_Island",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "An unassuming island absorbed into an empire pairs with an episode literally at sea, navigating small landfalls, maritime maps, and the quiet power of ocean journeys."
     }
   ],
   "generated_at": "2026-05-19T00:00:00.020316+00:00",
   "date": "2026-05-19",
-  "updated_at": "2026-05-19T10:00:01.732864+00:00"
+  "updated_at": "2026-05-19T11:00:01.783605+00:00"
 }
