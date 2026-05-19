@@ -1,59 +1,34 @@
 {
-  "current_hour": 6,
+  "current_hour": 7,
   "current_fact": {
-    "hour": 6,
-    "fact_text": "On May 19, 1997, Mexico’s Sierra Gorda region was officially declared a biosphere reserve, protecting one of the country’s most ecologically diverse landscapes. The designation emerged from decades of grassroots activism, proving that local communities can safeguard entire ecosystems.",
-    "fact_year": 1997,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Sierra_Gorda",
+    "hour": 7,
+    "fact_text": "On May 19, 1535, Jacques Cartier set sail on his second voyage to North America, bringing three ships, 110 men, and two Iroquois brothers he had previously taken to France. The journey mixed exploration with abduction, leaving a complicated legacy of first contact and cultural collision along the St. Lawrence River.",
+    "fact_year": 1535,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Jacques_Cartier",
     "episode": {
-      "id": 27,
-      "title": "Morning Drops #21 - Endless Summer",
-      "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "Nik Bärtsch - Modul 14",
-        "Mama Terra - Chameleon (Single Edit)",
-        "Spyro Gyra - Morning Dance",
-        "Yussef Kamaal - Black Focus"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Minimal Jazz",
-        "Nu Jazz",
-        "Jazz Fusion",
-        "UK Jazz"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "The protection of lush, living landscapes through community effort mirrors this episode’s slow, sunlit immersion in nature, family, and the rhythms that make an ‘endless summer’ of the Earth feel tangible."
+    "match_reason": "Both stories unfold on ships at sea, where crews from different cultures share cramped decks, long journeys, and the complex mix of curiosity and power that defines ocean voyages."
   },
   "queue": [
-    {
-      "hour": 7,
-      "fact_text": "On May 19, 1535, Jacques Cartier set sail on his second voyage to North America, bringing three ships, 110 men, and two Iroquois brothers he had previously taken to France. The journey mixed exploration with abduction, leaving a complicated legacy of first contact and cultural collision along the St. Lawrence River.",
-      "fact_year": 1535,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Jacques_Cartier",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "Both stories unfold on ships at sea, where crews from different cultures share cramped decks, long journeys, and the complex mix of curiosity and power that defines ocean voyages."
-    },
     {
       "hour": 8,
       "fact_text": "On May 19, 1798, Napoleon Bonaparte and his expeditionary force set sail from France to invade Egypt, bringing not only soldiers but also scholars and scientists. The campaign left a controversial military legacy but also sparked a wave of scientific and archaeological discovery, including the famous Rosetta Stone.",
@@ -620,9 +595,37 @@
         ]
       },
       "match_reason": "The protection of lush, living landscapes through community effort mirrors this episode’s slow, sunlit immersion in nature, family, and the rhythms that make an ‘endless summer’ of the Earth feel tangible."
+    },
+    {
+      "hour": 7,
+      "fact_text": "On May 19, 1535, Jacques Cartier set sail on his second voyage to North America, bringing three ships, 110 men, and two Iroquois brothers he had previously taken to France. The journey mixed exploration with abduction, leaving a complicated legacy of first contact and cultural collision along the St. Lawrence River.",
+      "fact_year": 1535,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Jacques_Cartier",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "Both stories unfold on ships at sea, where crews from different cultures share cramped decks, long journeys, and the complex mix of curiosity and power that defines ocean voyages."
     }
   ],
   "generated_at": "2026-05-19T00:00:00.027018+00:00",
   "date": "2026-05-19",
-  "updated_at": "2026-05-19T06:00:01.874472+00:00"
+  "updated_at": "2026-05-19T07:00:01.960361+00:00"
 }
