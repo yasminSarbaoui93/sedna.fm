@@ -1,59 +1,31 @@
 {
-  "current_hour": 7,
+  "current_hour": 8,
   "current_fact": {
-    "hour": 7,
-    "fact_text": "On May 19, 1535, Jacques Cartier set sail on his second voyage to North America, bringing three ships, 110 men, and two Iroquois brothers he had previously taken to France. The journey mixed exploration with abduction, leaving a complicated legacy of first contact and cultural collision along the St. Lawrence River.",
-    "fact_year": 1535,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Jacques_Cartier",
+    "hour": 8,
+    "fact_text": "On May 19, 1798, Napoleon Bonaparte and his expeditionary force set sail from France to invade Egypt, bringing not only soldiers but also scholars and scientists. The campaign left a controversial military legacy but also sparked a wave of scientific and archaeological discovery, including the famous Rosetta Stone.",
+    "fact_year": 1798,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/French_invasion_of_Egypt_and_Syria",
     "episode": {
-      "id": 37,
-      "title": "Morning Drops #31 - Sailing With Germans",
-      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+      "id": 45,
+      "title": "Morning Drops #39 - Moving Meditation",
+      "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
       "songs": [
-        "Billy Talent - Dead Silence",
-        "Ben Howard - Keep Your Head Up",
-        "Ziggy Alberts - Simple Things",
-        "Vitor Kley - O Sol",
-        "Enya - Orinoco Flow",
-        "Paveier - Leev Marie"
+        "Stella & The Longos - La Flamme",
+        "España Circo Este - Dormo poco e sogno molto",
+        "Mystic Jungle - Sunset Breaker",
+        "Talking Heads - This Must Be the Place (Naive Melody)"
       ],
       "music-genres": [
-        "Punk Rock",
-        "Indie Folk",
-        "Surf Pop",
-        "New Age",
-        "German Folk"
+        "Balearic",
+        "Italian Folk Rock",
+        "World Music",
+        "New Wave"
       ]
     },
-    "match_reason": "Both stories unfold on ships at sea, where crews from different cultures share cramped decks, long journeys, and the complex mix of curiosity and power that defines ocean voyages."
+    "match_reason": "A grand, unsettling expedition that uprooted armies and scholars across cultures echoes the episode’s theme of travel as perspective-shift—though this time through a critical lens on conquest and the ‘moving meditation’ of world-changing journeys."
   },
   "queue": [
-    {
-      "hour": 8,
-      "fact_text": "On May 19, 1798, Napoleon Bonaparte and his expeditionary force set sail from France to invade Egypt, bringing not only soldiers but also scholars and scientists. The campaign left a controversial military legacy but also sparked a wave of scientific and archaeological discovery, including the famous Rosetta Stone.",
-      "fact_year": 1798,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/French_invasion_of_Egypt_and_Syria",
-      "episode": {
-        "id": 45,
-        "title": "Morning Drops #39 - Moving Meditation",
-        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
-        "songs": [
-          "Stella & The Longos - La Flamme",
-          "España Circo Este - Dormo poco e sogno molto",
-          "Mystic Jungle - Sunset Breaker",
-          "Talking Heads - This Must Be the Place (Naive Melody)"
-        ],
-        "music-genres": [
-          "Balearic",
-          "Italian Folk Rock",
-          "World Music",
-          "New Wave"
-        ]
-      },
-      "match_reason": "A grand, unsettling expedition that uprooted armies and scholars across cultures echoes the episode’s theme of travel as perspective-shift—though this time through a critical lens on conquest and the ‘moving meditation’ of world-changing journeys."
-    },
     {
       "hour": 9,
       "fact_text": "On May 19, 1942, in the aftermath of the Battle of the Coral Sea, the U.S. Navy’s Task Force 16 headed back to Pearl Harbor for crucial repairs. In a war defined by constant motion, this retreat to port was a rare moment of enforced pause, patching steel and nerves before the next Pacific clash.",
@@ -623,9 +595,34 @@
         ]
       },
       "match_reason": "Both stories unfold on ships at sea, where crews from different cultures share cramped decks, long journeys, and the complex mix of curiosity and power that defines ocean voyages."
+    },
+    {
+      "hour": 8,
+      "fact_text": "On May 19, 1798, Napoleon Bonaparte and his expeditionary force set sail from France to invade Egypt, bringing not only soldiers but also scholars and scientists. The campaign left a controversial military legacy but also sparked a wave of scientific and archaeological discovery, including the famous Rosetta Stone.",
+      "fact_year": 1798,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/French_invasion_of_Egypt_and_Syria",
+      "episode": {
+        "id": 45,
+        "title": "Morning Drops #39 - Moving Meditation",
+        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
+        "songs": [
+          "Stella & The Longos - La Flamme",
+          "España Circo Este - Dormo poco e sogno molto",
+          "Mystic Jungle - Sunset Breaker",
+          "Talking Heads - This Must Be the Place (Naive Melody)"
+        ],
+        "music-genres": [
+          "Balearic",
+          "Italian Folk Rock",
+          "World Music",
+          "New Wave"
+        ]
+      },
+      "match_reason": "A grand, unsettling expedition that uprooted armies and scholars across cultures echoes the episode’s theme of travel as perspective-shift—though this time through a critical lens on conquest and the ‘moving meditation’ of world-changing journeys."
     }
   ],
   "generated_at": "2026-05-19T00:00:00.027018+00:00",
   "date": "2026-05-19",
-  "updated_at": "2026-05-19T07:00:01.960361+00:00"
+  "updated_at": "2026-05-19T08:00:01.900819+00:00"
 }
