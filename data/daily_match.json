@@ -1,46 +1,31 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On May 20, 1891, a small group in Thomas Edison's laboratory unveiled the kinetoscope, a peephole device that let one viewer at a time watch a moving film loop. This modest wooden box was the spark that would grow into cinema, transforming light and motion into a new global art form.",
-    "fact_year": 1891,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Kinetoscope",
+    "hour": 2,
+    "fact_text": "On May 20, 1714, Johann Sebastian Bach premiered his Pentecost cantata \"Erschallet, ihr Lieder\" in the chapel of Schloss Weimar. The piece weaves trumpets, strings, and choir into a soaring celebration of spirit, an early glimpse of how Bach would bend complex structures into raw, emotional devotion.",
+    "fact_year": 1714,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Erschallet,_ihr_Lieder,_erklinget,_ihr_Saiten!_BWV_172",
     "episode": {
-      "id": 58,
-      "title": "Evening Flows #00 - Introduction to evening flows",
-      "description": "Sedna FM introduces a new format: Evening Flow, where you can enjoy curated music sets from selectors, DJs, and artists.\n\nEach mix is an invitation to drift beyond the expected. A space where hidden gems from personal archives come to light, where sound speaks its own language. There are no rules here, no patterns to follow. Just the steady unfolding of a mood, a texture, a journey shaped by feeling.\n\nLet the music lead the way - enjoy the trip!",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-introduction-to-evening-flows",
-      "songs": [],
-      "music-genres": []
+      "id": 40,
+      "title": "Morning Drops #34 - Soul Sisters",
+      "description": "A tribute to four iconic voices — women who have shaped the way we listen, feel, and move. Each track carries a different kind of presence: one that holds you, one that questions, one that grounds, and one that lets go. An energy that is soulful, raw, and unapologetically feminine.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-soul-sisters",
+      "songs": [
+        "Grace Jones - Walking in the Rain",
+        "Lauryn Hill - Lost Ones",
+        "Aretha Franklin - A Rose Is Still a Rose",
+        "Loredana Bertè - In Alto Mare"
+      ],
+      "music-genres": [
+        "New Wave",
+        "Neo-Soul",
+        "R&B",
+        "Italian Pop"
+      ]
     },
-    "match_reason": "The first flickering films opened a new way to experience time and mood, just as Evening Flows introduces a new format for immersive, cinematic listening."
+    "match_reason": "Bach’s sacred cantata and the episode’s focus on powerful vocal presence both center music as spiritual expression that moves hearts beyond time and genre."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "On May 20, 1714, Johann Sebastian Bach premiered his Pentecost cantata \"Erschallet, ihr Lieder\" in the chapel of Schloss Weimar. The piece weaves trumpets, strings, and choir into a soaring celebration of spirit, an early glimpse of how Bach would bend complex structures into raw, emotional devotion.",
-      "fact_year": 1714,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Erschallet,_ihr_Lieder,_erklinget,_ihr_Saiten!_BWV_172",
-      "episode": {
-        "id": 40,
-        "title": "Morning Drops #34 - Soul Sisters",
-        "description": "A tribute to four iconic voices — women who have shaped the way we listen, feel, and move. Each track carries a different kind of presence: one that holds you, one that questions, one that grounds, and one that lets go. An energy that is soulful, raw, and unapologetically feminine.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-soul-sisters",
-        "songs": [
-          "Grace Jones - Walking in the Rain",
-          "Lauryn Hill - Lost Ones",
-          "Aretha Franklin - A Rose Is Still a Rose",
-          "Loredana Bertè - In Alto Mare"
-        ],
-        "music-genres": [
-          "New Wave",
-          "Neo-Soul",
-          "R&B",
-          "Italian Pop"
-        ]
-      },
-      "match_reason": "Bach’s sacred cantata and the episode’s focus on powerful vocal presence both center music as spiritual expression that moves hearts beyond time and genre."
-    },
     {
       "hour": 3,
       "fact_text": "On May 20, 1498, Vasco da Gama’s fleet dropped anchor at Kozhikode on India’s Malabar Coast, proving there was a direct sea route from Europe to India. His arrival stitched together distant oceans and trade worlds, carrying spices, stories, and new forms of cultural exchange across the water.",
@@ -620,9 +605,34 @@
         "music-genres": []
       },
       "match_reason": "The first flickering films opened a new way to experience time and mood, just as Evening Flows introduces a new format for immersive, cinematic listening."
+    },
+    {
+      "hour": 2,
+      "fact_text": "On May 20, 1714, Johann Sebastian Bach premiered his Pentecost cantata \"Erschallet, ihr Lieder\" in the chapel of Schloss Weimar. The piece weaves trumpets, strings, and choir into a soaring celebration of spirit, an early glimpse of how Bach would bend complex structures into raw, emotional devotion.",
+      "fact_year": 1714,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Erschallet,_ihr_Lieder,_erklinget,_ihr_Saiten!_BWV_172",
+      "episode": {
+        "id": 40,
+        "title": "Morning Drops #34 - Soul Sisters",
+        "description": "A tribute to four iconic voices — women who have shaped the way we listen, feel, and move. Each track carries a different kind of presence: one that holds you, one that questions, one that grounds, and one that lets go. An energy that is soulful, raw, and unapologetically feminine.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-soul-sisters",
+        "songs": [
+          "Grace Jones - Walking in the Rain",
+          "Lauryn Hill - Lost Ones",
+          "Aretha Franklin - A Rose Is Still a Rose",
+          "Loredana Bertè - In Alto Mare"
+        ],
+        "music-genres": [
+          "New Wave",
+          "Neo-Soul",
+          "R&B",
+          "Italian Pop"
+        ]
+      },
+      "match_reason": "Bach’s sacred cantata and the episode’s focus on powerful vocal presence both center music as spiritual expression that moves hearts beyond time and genre."
     }
   ],
   "generated_at": "2026-05-20T00:00:00.014767+00:00",
   "date": "2026-05-20",
-  "updated_at": "2026-05-20T01:00:01.477999+00:00"
+  "updated_at": "2026-05-20T02:00:01.705654+00:00"
 }
