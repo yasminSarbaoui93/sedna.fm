@@ -1,46 +1,31 @@
 {
-  "current_hour": 15,
+  "current_hour": 16,
   "current_fact": {
-    "hour": 15,
-    "fact_text": "On May 20, 1985, Radio Martí, part of the U.S. government’s Voice of America, began broadcasting to Cuba. The station blasted news, music, and political commentary across the Florida Straits, turning radio waves into contested territory.",
-    "fact_year": 1985,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Radio_y_Televisi%C3%B3n_Mart%C3%AD",
+    "hour": 16,
+    "fact_text": "On May 20, 2002, Portugal formally recognized the independence of East Timor, ending 23 years of Indonesian rule and three years of UN administration. For Timor-Leste, it was the official closing of a long chapter of occupation, conflict, and hard-fought self-determination.",
+    "fact_year": 2002,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Timor-Leste",
     "episode": {
-      "id": 59,
-      "title": "Morning Drops #51 - The Dancefloor",
-      "description": "For International Women’s Day, this Morning Drop turns its focus to women on the dancefloor, not as a trend, but as a cultural force.\n\nAcross five tracks, Gaia follows a line from disco closers to hip hop club classics, tracing how the dancefloor became a place where women could take space, build confidence, and create connection, sometimes with friends, sometimes alone, always with music at the centre.\n\nThis episode isn’t about pointing fingers. It’s a gentle reminder that spaces like the dancefloor still matter: places where people can express themselves, meet each other with respect, and feel part of something bigger than a night out.\n\nTracklist:\nDonna Summer - Last Dance (1978)\nThe Sequence  - Funk you up\nSalt-N-Pepa - Push It\nQueen Latifah - Ladies First\nAlicia Bridges - I Love the Nightlife",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-dancefloor",
-      "songs": [],
-      "music-genres": []
+      "id": 45,
+      "title": "Morning Drops #39 - Moving Meditation",
+      "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
+      "songs": [
+        "Stella & The Longos - La Flamme",
+        "España Circo Este - Dormo poco e sogno molto",
+        "Mystic Jungle - Sunset Breaker",
+        "Talking Heads - This Must Be the Place (Naive Melody)"
+      ],
+      "music-genres": [
+        "Balearic",
+        "Italian Folk Rock",
+        "World Music",
+        "New Wave"
+      ]
     },
-    "match_reason": "A radio station designed to project culture and narrative across borders pairs with an episode about the dancefloor as a cultural space where voices claim territory and visibility."
+    "match_reason": "The reflective, transitional nature of a country finally recognized as independent mirrors an episode about slow shifts, movement, and finding a new sense of place."
   },
   "queue": [
-    {
-      "hour": 16,
-      "fact_text": "On May 20, 2002, Portugal formally recognized the independence of East Timor, ending 23 years of Indonesian rule and three years of UN administration. For Timor-Leste, it was the official closing of a long chapter of occupation, conflict, and hard-fought self-determination.",
-      "fact_year": 2002,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Timor-Leste",
-      "episode": {
-        "id": 45,
-        "title": "Morning Drops #39 - Moving Meditation",
-        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
-        "songs": [
-          "Stella & The Longos - La Flamme",
-          "España Circo Este - Dormo poco e sogno molto",
-          "Mystic Jungle - Sunset Breaker",
-          "Talking Heads - This Must Be the Place (Naive Melody)"
-        ],
-        "music-genres": [
-          "Balearic",
-          "Italian Folk Rock",
-          "World Music",
-          "New Wave"
-        ]
-      },
-      "match_reason": "The reflective, transitional nature of a country finally recognized as independent mirrors an episode about slow shifts, movement, and finding a new sense of place."
-    },
     {
       "hour": 17,
       "fact_text": "On May 20, 2016, Singapore carried out the execution of Kho Jabing despite international appeals for clemency from groups like Amnesty International and the UN. His case sparked renewed debate in Singapore and beyond about capital punishment, mercy, and the limits of justice.",
@@ -597,9 +582,34 @@
         "music-genres": []
       },
       "match_reason": "A radio station designed to project culture and narrative across borders pairs with an episode about the dancefloor as a cultural space where voices claim territory and visibility."
+    },
+    {
+      "hour": 16,
+      "fact_text": "On May 20, 2002, Portugal formally recognized the independence of East Timor, ending 23 years of Indonesian rule and three years of UN administration. For Timor-Leste, it was the official closing of a long chapter of occupation, conflict, and hard-fought self-determination.",
+      "fact_year": 2002,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Timor-Leste",
+      "episode": {
+        "id": 45,
+        "title": "Morning Drops #39 - Moving Meditation",
+        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
+        "songs": [
+          "Stella & The Longos - La Flamme",
+          "España Circo Este - Dormo poco e sogno molto",
+          "Mystic Jungle - Sunset Breaker",
+          "Talking Heads - This Must Be the Place (Naive Melody)"
+        ],
+        "music-genres": [
+          "Balearic",
+          "Italian Folk Rock",
+          "World Music",
+          "New Wave"
+        ]
+      },
+      "match_reason": "The reflective, transitional nature of a country finally recognized as independent mirrors an episode about slow shifts, movement, and finding a new sense of place."
     }
   ],
   "generated_at": "2026-05-20T00:00:00.006187+00:00",
   "date": "2026-05-20",
-  "updated_at": "2026-05-20T15:00:01.871035+00:00"
+  "updated_at": "2026-05-20T16:00:02.010486+00:00"
 }
