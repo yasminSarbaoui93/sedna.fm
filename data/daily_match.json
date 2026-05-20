@@ -1,45 +1,30 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "On May 20, 1570, cartographer Abraham Ortelius published the \"Theatrum Orbis Terrarum,\" often called the first modern atlas. For the first time, people could flip through a bound book and watch the world take shape in ink, continent by continent, like an early paper interface to the planet.",
-    "fact_year": 1570,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Theatrum_Orbis_Terrarum",
+    "hour": 6,
+    "fact_text": "On May 20, 1932, Amelia Earhart lifted off from Newfoundland in a single‑engine Lockheed Vega, determined to cross the Atlantic alone. Fourteen hours of icing, storms, and exhaustion later, she landed in a farmer’s field in Ireland, becoming the first woman to complete a solo nonstop transatlantic flight.",
+    "fact_year": 1932,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Amelia_Earhart",
     "episode": {
-      "id": 62,
-      "title": "Morning Drops #54 - Intentional Listening",
-      "description": "Do you remember what it felt like to listen to music without a streaming platform?\nIn this Morning Drops episode, Gaia reflects on a recent experiment: stepping away from algorithmic listening and going back to an iPod. \n\nWhat starts as a small personal choice opens into a wider meditation on attention, presence, and what happens when music is no longer treated as something infinite, but as something we choose with care.\n\nTracklist:\nScientist - Drum Song Dub\nThe Other People Place - Let Me Be Me\nA Forest Mighty Black - Fresh In My Mind\nCymande - Bra",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-intentional-listening",
-      "songs": [],
-      "music-genres": []
+      "id": 42,
+      "title": "Morning Drops #36 - Women of Rock",
+      "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
+      "songs": [
+        "Suzi Quatro - Can the Can",
+        "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
+        "Laura Cox - Hard Blues Shot",
+        "Jackie Venson - Always Free (Live)"
+      ],
+      "music-genres": [
+        "Glam Rock",
+        "Hard Rock",
+        "Blues Rock"
+      ]
     },
-    "match_reason": "Ortelius bound the world into curated pages much like an iPod playlist; both invite a slower, intentional way of navigating vast information instead of getting lost in endless scrolls."
+    "match_reason": "Earhart’s solo leap across the Atlantic mirrors the episode’s celebration of women who step into male‑dominated spaces with loud, unapologetic presence."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "On May 20, 1932, Amelia Earhart lifted off from Newfoundland in a single‑engine Lockheed Vega, determined to cross the Atlantic alone. Fourteen hours of icing, storms, and exhaustion later, she landed in a farmer’s field in Ireland, becoming the first woman to complete a solo nonstop transatlantic flight.",
-      "fact_year": 1932,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Amelia_Earhart",
-      "episode": {
-        "id": 42,
-        "title": "Morning Drops #36 - Women of Rock",
-        "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
-        "songs": [
-          "Suzi Quatro - Can the Can",
-          "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
-          "Laura Cox - Hard Blues Shot",
-          "Jackie Venson - Always Free (Live)"
-        ],
-        "music-genres": [
-          "Glam Rock",
-          "Hard Rock",
-          "Blues Rock"
-        ]
-      },
-      "match_reason": "Earhart’s solo leap across the Atlantic mirrors the episode’s celebration of women who step into male‑dominated spaces with loud, unapologetic presence."
-    },
     {
       "hour": 7,
       "fact_text": "On May 20, 1983, a French research team led by Françoise Barré-Sinoussi published the first scientific papers identifying a new retrovirus—later named HIV—as the cause of AIDS. At a time of fear and stigma, their work opened the door to blood tests, antiretroviral therapies, and a new understanding of how a tiny strand of genetic code could reshape societies.",
@@ -620,9 +605,33 @@
         "music-genres": []
       },
       "match_reason": "Ortelius bound the world into curated pages much like an iPod playlist; both invite a slower, intentional way of navigating vast information instead of getting lost in endless scrolls."
+    },
+    {
+      "hour": 6,
+      "fact_text": "On May 20, 1932, Amelia Earhart lifted off from Newfoundland in a single‑engine Lockheed Vega, determined to cross the Atlantic alone. Fourteen hours of icing, storms, and exhaustion later, she landed in a farmer’s field in Ireland, becoming the first woman to complete a solo nonstop transatlantic flight.",
+      "fact_year": 1932,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Amelia_Earhart",
+      "episode": {
+        "id": 42,
+        "title": "Morning Drops #36 - Women of Rock",
+        "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
+        "songs": [
+          "Suzi Quatro - Can the Can",
+          "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
+          "Laura Cox - Hard Blues Shot",
+          "Jackie Venson - Always Free (Live)"
+        ],
+        "music-genres": [
+          "Glam Rock",
+          "Hard Rock",
+          "Blues Rock"
+        ]
+      },
+      "match_reason": "Earhart’s solo leap across the Atlantic mirrors the episode’s celebration of women who step into male‑dominated spaces with loud, unapologetic presence."
     }
   ],
   "generated_at": "2026-05-20T00:00:00.014767+00:00",
   "date": "2026-05-20",
-  "updated_at": "2026-05-20T05:00:01.491305+00:00"
+  "updated_at": "2026-05-20T06:00:01.698022+00:00"
 }
