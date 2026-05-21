@@ -1,56 +1,31 @@
 {
-  "current_hour": 8,
+  "current_hour": 9,
   "current_fact": {
-    "hour": 8,
-    "fact_text": "On May 21, 1992, Johnny Carson hosted his last Tonight Show with guests, wrapping three decades of late-night television with Robin Williams’ manic improvisation and Bette Midler’s emotional farewell. It was the end of an era when one man’s monologue shaped how millions ended their day.",
-    "fact_year": 1992,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Johnny_Carson",
+    "hour": 9,
+    "fact_text": "On May 21, 1809, Napoleon’s army attempted a bold crossing of the Danube at the Battle of Aspern–Essling, only to be checked and pushed back by Archduke Charles of Austria. It was one of Napoleon’s first major defeats, proof that even seemingly invincible empires can be stopped mid-river.",
+    "fact_year": 1809,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Aspern%E2%80%93Essling",
     "episode": {
-      "id": 43,
-      "title": "Morning Drops #37 - Happy Birthday Gaia",
-      "description": "A special Morning Drop to celebrate Gaia's birthday and the first anniversary of Sedna FM. A journey through friendship, music, and voice messages from the people who've known her longest. From street dance classes in Milan to creative adventures in London, a tribute to growing up together and showing up for each other.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-happy-birthday-gaia",
+      "id": 56,
+      "title": "Morning Drops #49 - Rage Against The Machine",
+      "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
       "songs": [
-        "Little Simz - Woman",
-        "FHT - Mappa",
-        "The Mighty Tiny & The Many Few - Good Foot",
-        "Alzate - Maldita Traición"
+        "Rage Against the Machine - Bombtrack",
+        "Rage Against the Machine - Killing in the Name",
+        "Rage Against the Machine - Without a Face",
+        "Rage Against the Machine - Guerrilla Radio",
+        "Rage Against the Machine - Sleep Now in the Fire"
       ],
       "music-genres": [
-        "UK Hip-Hop",
-        "Italian Indie",
-        "Funk",
-        "Latin Pop"
+        "Rap Metal",
+        "Political Rock",
+        "Alternative Metal"
       ]
     },
-    "match_reason": "A milestone farewell in broadcasting pairs with a celebratory, anniversary-themed episode that also honors long-term journeys, friendship, and shared memories."
+    "match_reason": "A clash that challenged imperial power resonates with an episode centered on musical resistance, protest, and confronting entrenched systems."
   },
   "queue": [
-    {
-      "hour": 9,
-      "fact_text": "On May 21, 1809, Napoleon’s army attempted a bold crossing of the Danube at the Battle of Aspern–Essling, only to be checked and pushed back by Archduke Charles of Austria. It was one of Napoleon’s first major defeats, proof that even seemingly invincible empires can be stopped mid-river.",
-      "fact_year": 1809,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Aspern%E2%80%93Essling",
-      "episode": {
-        "id": 56,
-        "title": "Morning Drops #49 - Rage Against The Machine",
-        "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
-        "songs": [
-          "Rage Against the Machine - Bombtrack",
-          "Rage Against the Machine - Killing in the Name",
-          "Rage Against the Machine - Without a Face",
-          "Rage Against the Machine - Guerrilla Radio",
-          "Rage Against the Machine - Sleep Now in the Fire"
-        ],
-        "music-genres": [
-          "Rap Metal",
-          "Political Rock",
-          "Alternative Metal"
-        ]
-      },
-      "match_reason": "A clash that challenged imperial power resonates with an episode centered on musical resistance, protest, and confronting entrenched systems."
-    },
     {
       "hour": 10,
       "fact_text": "On May 21, 1792, part of Mount Unzen in Japan collapsed in a catastrophic volcanic landslide, plunging into the sea and generating a massive tsunami. The waves ricocheted across nearby bays, annihilating coastal communities and killing nearly 15,000 people in a chain of fire, rock, and water.",
@@ -611,9 +586,34 @@
         ]
       },
       "match_reason": "A milestone farewell in broadcasting pairs with a celebratory, anniversary-themed episode that also honors long-term journeys, friendship, and shared memories."
+    },
+    {
+      "hour": 9,
+      "fact_text": "On May 21, 1809, Napoleon’s army attempted a bold crossing of the Danube at the Battle of Aspern–Essling, only to be checked and pushed back by Archduke Charles of Austria. It was one of Napoleon’s first major defeats, proof that even seemingly invincible empires can be stopped mid-river.",
+      "fact_year": 1809,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Aspern%E2%80%93Essling",
+      "episode": {
+        "id": 56,
+        "title": "Morning Drops #49 - Rage Against The Machine",
+        "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
+        "songs": [
+          "Rage Against the Machine - Bombtrack",
+          "Rage Against the Machine - Killing in the Name",
+          "Rage Against the Machine - Without a Face",
+          "Rage Against the Machine - Guerrilla Radio",
+          "Rage Against the Machine - Sleep Now in the Fire"
+        ],
+        "music-genres": [
+          "Rap Metal",
+          "Political Rock",
+          "Alternative Metal"
+        ]
+      },
+      "match_reason": "A clash that challenged imperial power resonates with an episode centered on musical resistance, protest, and confronting entrenched systems."
     }
   ],
   "generated_at": "2026-05-21T00:00:00.010157+00:00",
   "date": "2026-05-21",
-  "updated_at": "2026-05-21T08:00:01.737726+00:00"
+  "updated_at": "2026-05-21T09:00:02.028109+00:00"
 }
