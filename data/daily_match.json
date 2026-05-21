@@ -1,56 +1,31 @@
 {
-  "current_hour": 22,
+  "current_hour": 23,
   "current_fact": {
-    "hour": 22,
-    "fact_text": "On 21 May 2010, IKAROS’s solar sail deployment also tested reflective panels that doubled as rudders, proving that sunlight could not only push but steer a spacecraft. It was a delicate dance of photons and fabric, turning what looks like empty space into a sea with currents.",
-    "fact_year": 2010,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/JAXA",
+    "hour": 23,
+    "fact_text": "On 21 May 2003, the Boumerdès earthquake also highlighted how locally destructive events can ripple globally: tidal gauges around the Mediterranean recorded its small tsunami hours after the ground had stopped shaking. In an interconnected Earth system, even regional jolts leave subtle signatures on distant shores.",
+    "fact_year": 2003,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Modified_Mercalli_intensity_scale",
     "episode": {
-      "id": 55,
-      "title": "Morning Drops #48 - Cosmic Monday",
-      "description": "Cosmic Monday is a Morning Drops episode built around four Italian dance records, tracing how disco rhythms slowly became electronic language.\nGaia moves through four tracks like chapters: groove first, then machines, then that bright, futuristic feeling you only get when the bassline is doing the talking. It's not nostalgia, exactly. It's more like returning to a sound that still works — especially on mornings when you need a little extra energy, but you don't want anything aggressive.\nTake it as a slow transmission. Let it carry you into the day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-cosmic-monday",
+      "id": 39,
+      "title": "Morning Drops #33 - Immerse",
+      "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
       "songs": [
-        "Giovanotti Mondani Meccanici - Don't Ask Me Why",
-        "Azoto - Sal Salvador",
-        "Capricorn - I Need Love",
-        "Cosmic Disco - Cosmic Sprint"
+        "Pino D'Angiò - Un Po' d'Uva e un Liquore",
+        "Midlife - The Magnificent Moon",
+        "Tornado Wallace - Today",
+        "Nu Genea - Marechià (feat. Celia Kameni)"
       ],
       "music-genres": [
         "Italo Disco",
-        "Disco",
-        "Electronic"
+        "Indie",
+        "Balearic",
+        "Nu Disco"
       ]
     },
-    "match_reason": "A Japanese experiment in cosmic sailing aligns beautifully with an episode steeped in \"cosmic\" disco, where machines and rhythm turn space into something you can move through and steer by."
+    "match_reason": "A quake‑born wave traveling quietly across seas fits an episode about immersion, water, and the unseen currents that move beneath the surface of what we notice."
   },
-  "queue": [
-    {
-      "hour": 23,
-      "fact_text": "On 21 May 2003, the Boumerdès earthquake also highlighted how locally destructive events can ripple globally: tidal gauges around the Mediterranean recorded its small tsunami hours after the ground had stopped shaking. In an interconnected Earth system, even regional jolts leave subtle signatures on distant shores.",
-      "fact_year": 2003,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Modified_Mercalli_intensity_scale",
-      "episode": {
-        "id": 39,
-        "title": "Morning Drops #33 - Immerse",
-        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
-        "songs": [
-          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
-          "Midlife - The Magnificent Moon",
-          "Tornado Wallace - Today",
-          "Nu Genea - Marechià (feat. Celia Kameni)"
-        ],
-        "music-genres": [
-          "Italo Disco",
-          "Indie",
-          "Balearic",
-          "Nu Disco"
-        ]
-      },
-      "match_reason": "A quake‑born wave traveling quietly across seas fits an episode about immersion, water, and the unseen currents that move beneath the surface of what we notice."
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "hour": 0,
@@ -611,9 +586,34 @@
         ]
       },
       "match_reason": "A Japanese experiment in cosmic sailing aligns beautifully with an episode steeped in \"cosmic\" disco, where machines and rhythm turn space into something you can move through and steer by."
+    },
+    {
+      "hour": 23,
+      "fact_text": "On 21 May 2003, the Boumerdès earthquake also highlighted how locally destructive events can ripple globally: tidal gauges around the Mediterranean recorded its small tsunami hours after the ground had stopped shaking. In an interconnected Earth system, even regional jolts leave subtle signatures on distant shores.",
+      "fact_year": 2003,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Modified_Mercalli_intensity_scale",
+      "episode": {
+        "id": 39,
+        "title": "Morning Drops #33 - Immerse",
+        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
+        "songs": [
+          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
+          "Midlife - The Magnificent Moon",
+          "Tornado Wallace - Today",
+          "Nu Genea - Marechià (feat. Celia Kameni)"
+        ],
+        "music-genres": [
+          "Italo Disco",
+          "Indie",
+          "Balearic",
+          "Nu Disco"
+        ]
+      },
+      "match_reason": "A quake‑born wave traveling quietly across seas fits an episode about immersion, water, and the unseen currents that move beneath the surface of what we notice."
     }
   ],
   "generated_at": "2026-05-21T00:00:00.012466+00:00",
   "date": "2026-05-21",
-  "updated_at": "2026-05-21T22:00:01.462056+00:00"
+  "updated_at": "2026-05-21T23:00:01.618977+00:00"
 }
