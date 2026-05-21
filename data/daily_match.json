@@ -1,56 +1,31 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "On 21 May 1792, a lava dome collapse on Japan’s Mount Unzen triggered a massive landslide that plunged into the sea, generating a tsunami which killed nearly 15,000 people around Shimabara Bay. It remains one of Japan’s deadliest volcanic disasters, a reminder of how quickly a quiet mountain can turn catastrophic.",
-    "fact_year": 1792,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mount_Unzen",
+    "hour": 4,
+    "fact_text": "On 21 May 2003, a magnitude 6.8 earthquake struck near Boumerdès in northern Algeria, reaching extreme intensity on the Mercalli scale. The shaking toppled buildings, killed more than 2,200 people, and even generated a tsunami strong enough to sink boats in Spain’s Balearic Islands.",
+    "fact_year": 2003,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2003_Boumerd%C3%A8s_earthquake",
     "episode": {
-      "id": 11,
-      "title": "Morning Drops #05 - Electric Shock",
-      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+      "id": 45,
+      "title": "Morning Drops #39 - Moving Meditation",
+      "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
       "songs": [
-        "Johnny Winter - Highway 61 Revisited",
-        "Joan Armatrading - Sleight of Hand",
-        "Joan Armatrading - Russian Roulette",
-        "Jimi Hendrix - Freedom",
-        "Jeff Beck - Scatterbrain"
+        "Stella & The Longos - La Flamme",
+        "España Circo Este - Dormo poco e sogno molto",
+        "Mystic Jungle - Sunset Breaker",
+        "Talking Heads - This Must Be the Place (Naive Melody)"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Rock",
-        "Electric Blues"
+        "Balearic",
+        "Italian Folk Rock",
+        "World Music",
+        "New Wave"
       ]
     },
-    "match_reason": "The sudden, explosive release of energy from a collapsing lava dome parallels the episode’s jolt-of-electricity theme and its surging rock guitars."
+    "match_reason": "The Boumerdès quake sent waves all the way to the Balearic coast, making a Balearic-tinged episode a poetic echo of how distant tremors can reshape faraway shores and perspectives."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "On 21 May 2003, a magnitude 6.8 earthquake struck near Boumerdès in northern Algeria, reaching extreme intensity on the Mercalli scale. The shaking toppled buildings, killed more than 2,200 people, and even generated a tsunami strong enough to sink boats in Spain’s Balearic Islands.",
-      "fact_year": 2003,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2003_Boumerd%C3%A8s_earthquake",
-      "episode": {
-        "id": 45,
-        "title": "Morning Drops #39 - Moving Meditation",
-        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
-        "songs": [
-          "Stella & The Longos - La Flamme",
-          "España Circo Este - Dormo poco e sogno molto",
-          "Mystic Jungle - Sunset Breaker",
-          "Talking Heads - This Must Be the Place (Naive Melody)"
-        ],
-        "music-genres": [
-          "Balearic",
-          "Italian Folk Rock",
-          "World Music",
-          "New Wave"
-        ]
-      },
-      "match_reason": "The Boumerdès quake sent waves all the way to the Balearic coast, making a Balearic-tinged episode a poetic echo of how distant tremors can reshape faraway shores and perspectives."
-    },
     {
       "hour": 5,
       "fact_text": "On 21 May 1799, after two brutal months, Napoleon abandoned his siege of the Ottoman city of Acre, suffering one of the first major defeats of his career. Disease, supply troubles, and stubborn defenders turned his eastward dreams into a forced retreat back to Egypt.",
@@ -612,9 +587,34 @@
         ]
       },
       "match_reason": "The sudden, explosive release of energy from a collapsing lava dome parallels the episode’s jolt-of-electricity theme and its surging rock guitars."
+    },
+    {
+      "hour": 4,
+      "fact_text": "On 21 May 2003, a magnitude 6.8 earthquake struck near Boumerdès in northern Algeria, reaching extreme intensity on the Mercalli scale. The shaking toppled buildings, killed more than 2,200 people, and even generated a tsunami strong enough to sink boats in Spain’s Balearic Islands.",
+      "fact_year": 2003,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2003_Boumerd%C3%A8s_earthquake",
+      "episode": {
+        "id": 45,
+        "title": "Morning Drops #39 - Moving Meditation",
+        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
+        "songs": [
+          "Stella & The Longos - La Flamme",
+          "España Circo Este - Dormo poco e sogno molto",
+          "Mystic Jungle - Sunset Breaker",
+          "Talking Heads - This Must Be the Place (Naive Melody)"
+        ],
+        "music-genres": [
+          "Balearic",
+          "Italian Folk Rock",
+          "World Music",
+          "New Wave"
+        ]
+      },
+      "match_reason": "The Boumerdès quake sent waves all the way to the Balearic coast, making a Balearic-tinged episode a poetic echo of how distant tremors can reshape faraway shores and perspectives."
     }
   ],
   "generated_at": "2026-05-21T00:00:00.012466+00:00",
   "date": "2026-05-21",
-  "updated_at": "2026-05-21T03:00:01.476003+00:00"
+  "updated_at": "2026-05-21T04:00:01.574826+00:00"
 }
