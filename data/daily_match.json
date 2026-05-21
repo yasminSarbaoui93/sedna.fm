@@ -1,56 +1,31 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "On 21 May 1799, after two brutal months, Napoleon abandoned his siege of the Ottoman city of Acre, suffering one of the first major defeats of his career. Disease, supply troubles, and stubborn defenders turned his eastward dreams into a forced retreat back to Egypt.",
-    "fact_year": 1799,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Siege_of_Acre_(1799)",
+    "hour": 6,
+    "fact_text": "On 21 May 1809, the Battle of Aspern–Essling opened with Napoleon’s army trying to push across the Danube, only to be held and eventually beaten back by Archduke Charles of Austria. It was the first time a major European commander decisively defeated Napoleon in the field.",
+    "fact_year": 1809,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Aspern%E2%80%93Essling",
     "episode": {
-      "id": 52,
-      "title": "Morning Drops #45 - It Can't Rain Forever",
-      "description": "In this first broadcast of 2026, Gaia returns from the vivid landscapes of Morocco to open a space for reflection. This episode navigates the delicate transition between closing a significant chapter and stepping into the new year. It explores the concept of constancy amidst change, celebrating the grounding force of friendship and the creative sanctuary that is Sedna FM.\n\nThe musical selection mirrors this journey, moving from the orchestral depth of changing seasons into the golden warmth of psychedelic soul. It recalls memories of Swiss mountains and unexpected downpours, reminding us that shared optimism can weather any storm.\n\nTake a moment to breathe in the new morning and listen deeply.\n\nMood: Reflective, Warm, Transitional, Hopeful\nMusic genre: Classic Rock, Psychedelic Soul, Pop Rock, Soft Rock",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-it-cant-rain-forever",
+      "id": 56,
+      "title": "Morning Drops #49 - Rage Against The Machine",
+      "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
       "songs": [
-        "Led Zeppelin - The Rain Song",
-        "Khruangbin & Leon Bridges - Texas Sun",
-        "Dragon - Rain",
-        "Fleetwood Mac - Don't Stop"
+        "Rage Against the Machine - Bombtrack",
+        "Rage Against the Machine - Killing in the Name",
+        "Rage Against the Machine - Without a Face",
+        "Rage Against the Machine - Guerrilla Radio",
+        "Rage Against the Machine - Sleep Now in the Fire"
       ],
       "music-genres": [
-        "Classic Rock",
-        "Psychedelic Soul",
-        "Pop Rock",
-        "Soft Rock"
+        "Rap Metal",
+        "Political Rock",
+        "Alternative Metal"
       ]
     },
-    "match_reason": "Napoleon’s retreat from Acre is a story of forcing an ending and starting again, fitting an episode about weathering storms, accepting defeat, and trusting that it won’t rain forever."
+    "match_reason": "A rare, defiant stand against an unstoppable empire pairs with an episode steeped in resistance, rupture, and the sound of power being challenged."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "On 21 May 1809, the Battle of Aspern–Essling opened with Napoleon’s army trying to push across the Danube, only to be held and eventually beaten back by Archduke Charles of Austria. It was the first time a major European commander decisively defeated Napoleon in the field.",
-      "fact_year": 1809,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Aspern%E2%80%93Essling",
-      "episode": {
-        "id": 56,
-        "title": "Morning Drops #49 - Rage Against The Machine",
-        "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
-        "songs": [
-          "Rage Against the Machine - Bombtrack",
-          "Rage Against the Machine - Killing in the Name",
-          "Rage Against the Machine - Without a Face",
-          "Rage Against the Machine - Guerrilla Radio",
-          "Rage Against the Machine - Sleep Now in the Fire"
-        ],
-        "music-genres": [
-          "Rap Metal",
-          "Political Rock",
-          "Alternative Metal"
-        ]
-      },
-      "match_reason": "A rare, defiant stand against an unstoppable empire pairs with an episode steeped in resistance, rupture, and the sound of power being challenged."
-    },
     {
       "hour": 7,
       "fact_text": "On 21 May 293, Roman emperors Diocletian and Maximian appointed Galerius as Caesar, helping to create the Tetrarchy, a system where four rulers shared control of the vast empire. It was a bold experiment in power-sharing meant to prevent chaos by dividing authority.",
@@ -612,9 +587,34 @@
         ]
       },
       "match_reason": "Napoleon’s retreat from Acre is a story of forcing an ending and starting again, fitting an episode about weathering storms, accepting defeat, and trusting that it won’t rain forever."
+    },
+    {
+      "hour": 6,
+      "fact_text": "On 21 May 1809, the Battle of Aspern–Essling opened with Napoleon’s army trying to push across the Danube, only to be held and eventually beaten back by Archduke Charles of Austria. It was the first time a major European commander decisively defeated Napoleon in the field.",
+      "fact_year": 1809,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Aspern%E2%80%93Essling",
+      "episode": {
+        "id": 56,
+        "title": "Morning Drops #49 - Rage Against The Machine",
+        "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
+        "songs": [
+          "Rage Against the Machine - Bombtrack",
+          "Rage Against the Machine - Killing in the Name",
+          "Rage Against the Machine - Without a Face",
+          "Rage Against the Machine - Guerrilla Radio",
+          "Rage Against the Machine - Sleep Now in the Fire"
+        ],
+        "music-genres": [
+          "Rap Metal",
+          "Political Rock",
+          "Alternative Metal"
+        ]
+      },
+      "match_reason": "A rare, defiant stand against an unstoppable empire pairs with an episode steeped in resistance, rupture, and the sound of power being challenged."
     }
   ],
   "generated_at": "2026-05-21T00:00:00.012466+00:00",
   "date": "2026-05-21",
-  "updated_at": "2026-05-21T05:00:01.598950+00:00"
+  "updated_at": "2026-05-21T06:00:01.604776+00:00"
 }
