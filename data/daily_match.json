@@ -1,64 +1,34 @@
 {
-  "current_hour": 7,
+  "current_hour": 8,
   "current_fact": {
-    "hour": 7,
-    "fact_text": "The perihelion passage of Halley’s Comet recorded in the year 760 is one of the earliest documented appearances of this famous visitor. Long before anyone knew it was the same object returning every 76 years, different civilizations inscribed it in chronicles, omens, and sky stories.",
-    "fact_year": 760,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Halley's_Comet",
+    "hour": 8,
+    "fact_text": "In 1819, the hybrid sailing–steamship SS Savannah left Georgia to attempt the first transatlantic crossing by a vessel using steam power. Though it relied mostly on sails, its intermittent use of paddle-wheel steam engines announced a new era where oceans would shrink under mechanical propulsion.",
+    "fact_year": 1819,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/SS_Savannah",
     "episode": {
-      "id": 48,
-      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "Stive Morgan - Solar Wind, Pt. 3",
-        "David Visan & Carlos Campos - Crystal Heart",
-        "Evan Mars - Ya Zareef Al Tool",
-        "Gerardo Frisina - Cuiabá",
-        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-        "The Busy Twist - Friday Night"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Ambient",
-        "Deep House",
-        "World Music",
-        "Nu Jazz",
-        "Afrobeat",
-        "Funk",
-        "Electronic"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "A mysterious, recurring comet woven into ancient skies fits the slow, cosmic-to-earthly ‘crescendo’ of an Evening Flow that drifts like a celestial visitor over cities and deserts."
+    "match_reason": "The first steam-assisted ocean voyage pairs with an episode literally recorded at sea, celebrating boats, waves, and shared journeys under changing technologies."
   },
   "queue": [
-    {
-      "hour": 8,
-      "fact_text": "In 1819, the hybrid sailing–steamship SS Savannah left Georgia to attempt the first transatlantic crossing by a vessel using steam power. Though it relied mostly on sails, its intermittent use of paddle-wheel steam engines announced a new era where oceans would shrink under mechanical propulsion.",
-      "fact_year": 1819,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/SS_Savannah",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "The first steam-assisted ocean voyage pairs with an episode literally recorded at sea, celebrating boats, waves, and shared journeys under changing technologies."
-    },
     {
       "hour": 9,
       "fact_text": "A powerful earthquake struck Istanbul and the Marmara region in 1766, heavily damaging the city’s iconic skyline of domes and minarets. The disaster underscored how a metropolis built at the crossroads of continents sits precariously atop an active fault system.",
@@ -643,9 +613,37 @@
         ]
       },
       "match_reason": "A mysterious, recurring comet woven into ancient skies fits the slow, cosmic-to-earthly ‘crescendo’ of an Evening Flow that drifts like a celestial visitor over cities and deserts."
+    },
+    {
+      "hour": 8,
+      "fact_text": "In 1819, the hybrid sailing–steamship SS Savannah left Georgia to attempt the first transatlantic crossing by a vessel using steam power. Though it relied mostly on sails, its intermittent use of paddle-wheel steam engines announced a new era where oceans would shrink under mechanical propulsion.",
+      "fact_year": 1819,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/SS_Savannah",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "The first steam-assisted ocean voyage pairs with an episode literally recorded at sea, celebrating boats, waves, and shared journeys under changing technologies."
     }
   ],
   "generated_at": "2026-05-22T00:00:00.012712+00:00",
   "date": "2026-05-22",
-  "updated_at": "2026-05-22T07:00:02.009270+00:00"
+  "updated_at": "2026-05-22T08:00:01.756731+00:00"
 }
