@@ -1,56 +1,31 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "On May 22, 1915, Lassen Peak in California erupted with explosive force, sending ash clouds and pyroclastic flows down its slopes. It became, along with Mount St. Helens, one of only two major volcanoes to erupt in the contiguous United States during the 20th century.",
-    "fact_year": 1915,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Lassen_Peak",
+    "hour": 11,
+    "fact_text": "Tokyo Skytree opened to the public on May 22, 2012, rising 634 meters over the city as the world’s tallest tower. Designed to be both a broadcasting hub and a seismic-resilient landmark, it offers a futuristic vantage point over one of Earth’s densest urban landscapes.",
+    "fact_year": 2012,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tokyo_Skytree",
     "episode": {
-      "id": 52,
-      "title": "Morning Drops #45 - It Can't Rain Forever",
-      "description": "In this first broadcast of 2026, Gaia returns from the vivid landscapes of Morocco to open a space for reflection. This episode navigates the delicate transition between closing a significant chapter and stepping into the new year. It explores the concept of constancy amidst change, celebrating the grounding force of friendship and the creative sanctuary that is Sedna FM.\n\nThe musical selection mirrors this journey, moving from the orchestral depth of changing seasons into the golden warmth of psychedelic soul. It recalls memories of Swiss mountains and unexpected downpours, reminding us that shared optimism can weather any storm.\n\nTake a moment to breathe in the new morning and listen deeply.\n\nMood: Reflective, Warm, Transitional, Hopeful\nMusic genre: Classic Rock, Psychedelic Soul, Pop Rock, Soft Rock",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-it-cant-rain-forever",
+      "id": 18,
+      "title": "Morning Drops #12 - 80's Club",
+      "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
       "songs": [
-        "Led Zeppelin - The Rain Song",
-        "Khruangbin & Leon Bridges - Texas Sun",
-        "Dragon - Rain",
-        "Fleetwood Mac - Don't Stop"
+        "Donna Summer - I Feel Love",
+        "Depeche Mode - Just Can't Get Enough",
+        "Ken Laszlo - Hey Hey Guy",
+        "Mylène Farmer - Sans Contrefaçon"
       ],
       "music-genres": [
-        "Classic Rock",
-        "Psychedelic Soul",
-        "Pop Rock",
-        "Soft Rock"
+        "Disco",
+        "Synthpop",
+        "Italo Disco",
+        "French Pop"
       ]
     },
-    "match_reason": "A fiery volcanic eruption and an episode about weathering storms both explore nature’s dramatic cycles and the hope that follows destruction."
+    "match_reason": "A hyper-modern broadcast tower and a set about machine-driven dance music both celebrate tall architectures of technology: one in steel and glass, the other in synths and drum machines."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "Tokyo Skytree opened to the public on May 22, 2012, rising 634 meters over the city as the world’s tallest tower. Designed to be both a broadcasting hub and a seismic-resilient landmark, it offers a futuristic vantage point over one of Earth’s densest urban landscapes.",
-      "fact_year": 2012,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tokyo_Skytree",
-      "episode": {
-        "id": 18,
-        "title": "Morning Drops #12 - 80's Club",
-        "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
-        "songs": [
-          "Donna Summer - I Feel Love",
-          "Depeche Mode - Just Can't Get Enough",
-          "Ken Laszlo - Hey Hey Guy",
-          "Mylène Farmer - Sans Contrefaçon"
-        ],
-        "music-genres": [
-          "Disco",
-          "Synthpop",
-          "Italo Disco",
-          "French Pop"
-        ]
-      },
-      "match_reason": "A hyper-modern broadcast tower and a set about machine-driven dance music both celebrate tall architectures of technology: one in steel and glass, the other in synths and drum machines."
-    },
     {
       "hour": 12,
       "fact_text": "In 1992, Bosnia and Herzegovina, Croatia, and Slovenia joined the United Nations as newly independent states, formalizing their emergence from the breakup of Yugoslavia. Their admission symbolized both the end of a shared federation and the hope of international recognition amid ongoing conflict.",
@@ -638,9 +613,34 @@
         ]
       },
       "match_reason": "A fiery volcanic eruption and an episode about weathering storms both explore nature’s dramatic cycles and the hope that follows destruction."
+    },
+    {
+      "hour": 11,
+      "fact_text": "Tokyo Skytree opened to the public on May 22, 2012, rising 634 meters over the city as the world’s tallest tower. Designed to be both a broadcasting hub and a seismic-resilient landmark, it offers a futuristic vantage point over one of Earth’s densest urban landscapes.",
+      "fact_year": 2012,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tokyo_Skytree",
+      "episode": {
+        "id": 18,
+        "title": "Morning Drops #12 - 80's Club",
+        "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
+        "songs": [
+          "Donna Summer - I Feel Love",
+          "Depeche Mode - Just Can't Get Enough",
+          "Ken Laszlo - Hey Hey Guy",
+          "Mylène Farmer - Sans Contrefaçon"
+        ],
+        "music-genres": [
+          "Disco",
+          "Synthpop",
+          "Italo Disco",
+          "French Pop"
+        ]
+      },
+      "match_reason": "A hyper-modern broadcast tower and a set about machine-driven dance music both celebrate tall architectures of technology: one in steel and glass, the other in synths and drum machines."
     }
   ],
   "generated_at": "2026-05-22T00:00:00.012712+00:00",
   "date": "2026-05-22",
-  "updated_at": "2026-05-22T10:00:01.648310+00:00"
+  "updated_at": "2026-05-22T11:00:01.773892+00:00"
 }
