@@ -1,56 +1,31 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On May 22, 1969, Apollo 10’s Lunar Module skimmed just 16 kilometers above the Moon’s surface, performing a full dress rehearsal for the first lunar landing. The crew flew so low they could clearly see their future landing sites, yet had to resist the temptation to actually touch down.",
-    "fact_year": 1969,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Apollo_10",
+    "hour": 2,
+    "fact_text": "In 1960, the Great Chilean earthquake near Valdivia reached a moment magnitude of about 9.5, the largest ever instrumentally recorded. Its shockwaves triggered tsunamis that crossed the Pacific, reshaping coastlines and our scientific understanding of plate tectonics.",
+    "fact_year": 1960,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1960_Valdivia_earthquake",
     "episode": {
-      "id": 46,
-      "title": "Morning Drops #40 - Diving With Orcas",
-      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+      "id": 11,
+      "title": "Morning Drops #05 - Electric Shock",
+      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
       "songs": [
-        "Ludovico Einaudi - Experience",
-        "The Temper Trap - Sweet Disposition",
-        "Alex Warren - Ordinary",
-        "Piero Umiliani - Il tuo volto"
+        "Johnny Winter - Highway 61 Revisited",
+        "Joan Armatrading - Sleight of Hand",
+        "Joan Armatrading - Russian Roulette",
+        "Jimi Hendrix - Freedom",
+        "Jeff Beck - Scatterbrain"
       ],
       "music-genres": [
-        "Neo-Classical",
-        "Indie Rock",
-        "Pop",
-        "Italian Film Score"
+        "Blues Rock",
+        "Rock",
+        "Electric Blues"
       ]
     },
-    "match_reason": "Both the lunar low pass and Arctic dives involve skimming just above another world’s surface, balancing danger with awe in a quiet, cinematic way."
+    "match_reason": "The most powerful earthquake ever recorded mirrors the explosive, high-voltage energy of an ‘Electric Shock’ rock set."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "In 1960, the Great Chilean earthquake near Valdivia reached a moment magnitude of about 9.5, the largest ever instrumentally recorded. Its shockwaves triggered tsunamis that crossed the Pacific, reshaping coastlines and our scientific understanding of plate tectonics.",
-      "fact_year": 1960,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1960_Valdivia_earthquake",
-      "episode": {
-        "id": 11,
-        "title": "Morning Drops #05 - Electric Shock",
-        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
-        "songs": [
-          "Johnny Winter - Highway 61 Revisited",
-          "Joan Armatrading - Sleight of Hand",
-          "Joan Armatrading - Russian Roulette",
-          "Jimi Hendrix - Freedom",
-          "Jeff Beck - Scatterbrain"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Rock",
-          "Electric Blues"
-        ]
-      },
-      "match_reason": "The most powerful earthquake ever recorded mirrors the explosive, high-voltage energy of an ‘Electric Shock’ rock set."
-    },
     {
       "hour": 3,
       "fact_text": "On May 22, 1968, the nuclear-powered submarine USS Scorpion mysteriously sank in the Atlantic with 99 crew members aboard. Its loss, still partly unexplained, sparked decades of investigation into deep-sea accidents and the hidden risks of the Cold War beneath the waves.",
@@ -638,9 +613,34 @@
         ]
       },
       "match_reason": "Both the lunar low pass and Arctic dives involve skimming just above another world’s surface, balancing danger with awe in a quiet, cinematic way."
+    },
+    {
+      "hour": 2,
+      "fact_text": "In 1960, the Great Chilean earthquake near Valdivia reached a moment magnitude of about 9.5, the largest ever instrumentally recorded. Its shockwaves triggered tsunamis that crossed the Pacific, reshaping coastlines and our scientific understanding of plate tectonics.",
+      "fact_year": 1960,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1960_Valdivia_earthquake",
+      "episode": {
+        "id": 11,
+        "title": "Morning Drops #05 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "songs": [
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
+        ]
+      },
+      "match_reason": "The most powerful earthquake ever recorded mirrors the explosive, high-voltage energy of an ‘Electric Shock’ rock set."
     }
   ],
   "generated_at": "2026-05-22T00:00:00.012712+00:00",
   "date": "2026-05-22",
-  "updated_at": "2026-05-22T01:00:01.601227+00:00"
+  "updated_at": "2026-05-22T02:00:01.621602+00:00"
 }
