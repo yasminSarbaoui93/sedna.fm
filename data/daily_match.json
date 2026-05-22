@@ -1,55 +1,31 @@
 {
-  "current_hour": 21,
+  "current_hour": 22,
   "current_fact": {
-    "hour": 21,
-    "fact_text": "The 2012 opening of Tokyo Skytree cemented Japan’s long fascination with towers, from ancient pagodas to high-tech broadcast spires. Its designers incorporated subtle curves inspired by traditional architecture and earthquake engineering, blending old aesthetics with cutting-edge science.",
-    "fact_year": 2012,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tokyo_Skytree",
+    "hour": 22,
+    "fact_text": "The Halley’s Comet passage of 760, like others before telescopes, was interpreted through myth and symbolism rather than orbital mechanics. Observers wrote it into history as a portent, unaware they were watching a disciplined celestial traveler looping predictably through the solar system.",
+    "fact_year": 760,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Halley's_Comet",
     "episode": {
-      "id": 55,
-      "title": "Morning Drops #48 - Cosmic Monday",
-      "description": "Cosmic Monday is a Morning Drops episode built around four Italian dance records, tracing how disco rhythms slowly became electronic language.\nGaia moves through four tracks like chapters: groove first, then machines, then that bright, futuristic feeling you only get when the bassline is doing the talking. It's not nostalgia, exactly. It's more like returning to a sound that still works — especially on mornings when you need a little extra energy, but you don't want anything aggressive.\nTake it as a slow transmission. Let it carry you into the day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-cosmic-monday",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "Giovanotti Mondani Meccanici - Don't Ask Me Why",
-        "Azoto - Sal Salvador",
-        "Capricorn - I Need Love",
-        "Cosmic Disco - Cosmic Sprint"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Italo Disco",
-        "Disco",
-        "Electronic"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "A soaring, futuristic structure built for signals pairs neatly with a ‘cosmic’ dance selection that traces the rise of electronic language and broadcasted rhythm."
+    "match_reason": "Ancient interpretations of a recurring comet mirror our modern attempts to understand invisible digital orbits in our lives; both invite rethinking how we relate to recurring ‘signals’ overhead and in our pockets."
   },
   "queue": [
-    {
-      "hour": 22,
-      "fact_text": "The Halley’s Comet passage of 760, like others before telescopes, was interpreted through myth and symbolism rather than orbital mechanics. Observers wrote it into history as a portent, unaware they were watching a disciplined celestial traveler looping predictably through the solar system.",
-      "fact_year": 760,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Halley's_Comet",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "Ancient interpretations of a recurring comet mirror our modern attempts to understand invisible digital orbits in our lives; both invite rethinking how we relate to recurring ‘signals’ overhead and in our pockets."
-    },
     {
       "hour": 23,
       "fact_text": "The Wright brothers’ 1906 patent didn’t just cover a single aircraft; it protected a method of controlling flight using roll, pitch, and yaw. This concept, now standard in aviation and spacecraft, turned the art of balancing in mid-air into an engineerable system.",
@@ -637,9 +613,34 @@
         ]
       },
       "match_reason": "A soaring, futuristic structure built for signals pairs neatly with a ‘cosmic’ dance selection that traces the rise of electronic language and broadcasted rhythm."
+    },
+    {
+      "hour": 22,
+      "fact_text": "The Halley’s Comet passage of 760, like others before telescopes, was interpreted through myth and symbolism rather than orbital mechanics. Observers wrote it into history as a portent, unaware they were watching a disciplined celestial traveler looping predictably through the solar system.",
+      "fact_year": 760,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Halley's_Comet",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "Ancient interpretations of a recurring comet mirror our modern attempts to understand invisible digital orbits in our lives; both invite rethinking how we relate to recurring ‘signals’ overhead and in our pockets."
     }
   ],
   "generated_at": "2026-05-22T00:00:00.012712+00:00",
   "date": "2026-05-22",
-  "updated_at": "2026-05-22T21:00:01.644703+00:00"
+  "updated_at": "2026-05-22T22:00:01.616839+00:00"
 }
