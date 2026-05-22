@@ -1,61 +1,36 @@
 {
-  "current_hour": 6,
+  "current_hour": 7,
   "current_fact": {
-    "hour": 6,
-    "fact_text": "On May 22, 2017, a suicide bomber attacked the end of an Ariana Grande concert at Manchester Arena, killing 22 people and injuring hundreds more. The tragedy sparked a global outpouring of grief and solidarity, culminating in a major benefit concert that turned mourning into a collective stand against fear.",
-    "fact_year": 2017,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Manchester_Arena_bombing",
+    "hour": 7,
+    "fact_text": "The perihelion passage of Halley’s Comet recorded in the year 760 is one of the earliest documented appearances of this famous visitor. Long before anyone knew it was the same object returning every 76 years, different civilizations inscribed it in chronicles, omens, and sky stories.",
+    "fact_year": 760,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Halley's_Comet",
     "episode": {
-      "id": 40,
-      "title": "Morning Drops #34 - Soul Sisters",
-      "description": "A tribute to four iconic voices — women who have shaped the way we listen, feel, and move. Each track carries a different kind of presence: one that holds you, one that questions, one that grounds, and one that lets go. An energy that is soulful, raw, and unapologetically feminine.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-soul-sisters",
+      "id": 48,
+      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
       "songs": [
-        "Grace Jones - Walking in the Rain",
-        "Lauryn Hill - Lost Ones",
-        "Aretha Franklin - A Rose Is Still a Rose",
-        "Loredana Bertè - In Alto Mare"
+        "Stive Morgan - Solar Wind, Pt. 3",
+        "David Visan & Carlos Campos - Crystal Heart",
+        "Evan Mars - Ya Zareef Al Tool",
+        "Gerardo Frisina - Cuiabá",
+        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+        "The Busy Twist - Friday Night"
       ],
       "music-genres": [
-        "New Wave",
-        "Neo-Soul",
-        "R&B",
-        "Italian Pop"
+        "Ambient",
+        "Deep House",
+        "World Music",
+        "Nu Jazz",
+        "Afrobeat",
+        "Funk",
+        "Electronic"
       ]
     },
-    "match_reason": "An attack targeting a young female pop star and her fans resonates with a tribute to powerful women in music, honoring resilience and shared healing through song."
+    "match_reason": "A mysterious, recurring comet woven into ancient skies fits the slow, cosmic-to-earthly ‘crescendo’ of an Evening Flow that drifts like a celestial visitor over cities and deserts."
   },
   "queue": [
-    {
-      "hour": 7,
-      "fact_text": "The perihelion passage of Halley’s Comet recorded in the year 760 is one of the earliest documented appearances of this famous visitor. Long before anyone knew it was the same object returning every 76 years, different civilizations inscribed it in chronicles, omens, and sky stories.",
-      "fact_year": 760,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Halley's_Comet",
-      "episode": {
-        "id": 48,
-        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
-        "songs": [
-          "Stive Morgan - Solar Wind, Pt. 3",
-          "David Visan & Carlos Campos - Crystal Heart",
-          "Evan Mars - Ya Zareef Al Tool",
-          "Gerardo Frisina - Cuiabá",
-          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-          "The Busy Twist - Friday Night"
-        ],
-        "music-genres": [
-          "Ambient",
-          "Deep House",
-          "World Music",
-          "Nu Jazz",
-          "Afrobeat",
-          "Funk",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A mysterious, recurring comet woven into ancient skies fits the slow, cosmic-to-earthly ‘crescendo’ of an Evening Flow that drifts like a celestial visitor over cities and deserts."
-    },
     {
       "hour": 8,
       "fact_text": "In 1819, the hybrid sailing–steamship SS Savannah left Georgia to attempt the first transatlantic crossing by a vessel using steam power. Though it relied mostly on sails, its intermittent use of paddle-wheel steam engines announced a new era where oceans would shrink under mechanical propulsion.",
@@ -638,9 +613,39 @@
         ]
       },
       "match_reason": "An attack targeting a young female pop star and her fans resonates with a tribute to powerful women in music, honoring resilience and shared healing through song."
+    },
+    {
+      "hour": 7,
+      "fact_text": "The perihelion passage of Halley’s Comet recorded in the year 760 is one of the earliest documented appearances of this famous visitor. Long before anyone knew it was the same object returning every 76 years, different civilizations inscribed it in chronicles, omens, and sky stories.",
+      "fact_year": 760,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Halley's_Comet",
+      "episode": {
+        "id": 48,
+        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+        "songs": [
+          "Stive Morgan - Solar Wind, Pt. 3",
+          "David Visan & Carlos Campos - Crystal Heart",
+          "Evan Mars - Ya Zareef Al Tool",
+          "Gerardo Frisina - Cuiabá",
+          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+          "The Busy Twist - Friday Night"
+        ],
+        "music-genres": [
+          "Ambient",
+          "Deep House",
+          "World Music",
+          "Nu Jazz",
+          "Afrobeat",
+          "Funk",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A mysterious, recurring comet woven into ancient skies fits the slow, cosmic-to-earthly ‘crescendo’ of an Evening Flow that drifts like a celestial visitor over cities and deserts."
     }
   ],
   "generated_at": "2026-05-22T00:00:00.012712+00:00",
   "date": "2026-05-22",
-  "updated_at": "2026-05-22T06:00:02.189131+00:00"
+  "updated_at": "2026-05-22T07:00:02.009270+00:00"
 }
