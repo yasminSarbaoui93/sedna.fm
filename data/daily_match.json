@@ -1,55 +1,30 @@
 {
-  "current_hour": 11,
+  "current_hour": 12,
   "current_fact": {
-    "hour": 11,
-    "fact_text": "On May 23, 1706, John Churchill, 1st Duke of Marlborough, defeated a French army at the Battle of Ramillies during the War of the Spanish Succession, using a daring feint to draw enemy troops out of position. His maneuvers were studied for centuries as an example of how strategy and deception can outweigh sheer numbers.",
-    "fact_year": 1706,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/John_Churchill,_1st_Duke_of_Marlborough",
+    "hour": 12,
+    "fact_text": "On May 23, 1793, allied forces and revolutionary France clashed at the Battle of Famars during the Flanders Campaign, with soldiers marching into combat to the tune of revolutionary songs like “Ça Ira.” The battle showed how music and morale could travel alongside muskets, turning political anthems into literal marching orders.",
+    "fact_year": 1793,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Famars",
     "episode": {
-      "id": 56,
-      "title": "Morning Drops #49 - Rage Against The Machine",
-      "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
+      "id": 30,
+      "title": "Morning Drops #24 - The Rise Of Afrobeat",
+      "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
       "songs": [
-        "Rage Against the Machine - Bombtrack",
-        "Rage Against the Machine - Killing in the Name",
-        "Rage Against the Machine - Without a Face",
-        "Rage Against the Machine - Guerrilla Radio",
-        "Rage Against the Machine - Sleep Now in the Fire"
+        "E.T. Mensah - Ghana Freedom",
+        "I.K. Dairo - Salome",
+        "Fela Kuti - Great Kids",
+        "Fela Kuti - Expensive Shit"
       ],
       "music-genres": [
-        "Rap Metal",
-        "Political Rock",
-        "Alternative Metal"
+        "Highlife",
+        "Jùjú",
+        "Afrobeat"
       ]
     },
-    "match_reason": "An 18th‑century battlefield and a modern band of sonic insurgents both explore conflict, strategy, and power struggles—one with cavalry, one with amplifiers."
+    "match_reason": "A battle remembered for its revolutionary marching songs pairs with an episode focused on another politically charged, rhythm‑driven music that rallies people: Afrobeat."
   },
   "queue": [
-    {
-      "hour": 12,
-      "fact_text": "On May 23, 1793, allied forces and revolutionary France clashed at the Battle of Famars during the Flanders Campaign, with soldiers marching into combat to the tune of revolutionary songs like “Ça Ira.” The battle showed how music and morale could travel alongside muskets, turning political anthems into literal marching orders.",
-      "fact_year": 1793,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Famars",
-      "episode": {
-        "id": 30,
-        "title": "Morning Drops #24 - The Rise Of Afrobeat",
-        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
-        "songs": [
-          "E.T. Mensah - Ghana Freedom",
-          "I.K. Dairo - Salome",
-          "Fela Kuti - Great Kids",
-          "Fela Kuti - Expensive Shit"
-        ],
-        "music-genres": [
-          "Highlife",
-          "Jùjú",
-          "Afrobeat"
-        ]
-      },
-      "match_reason": "A battle remembered for its revolutionary marching songs pairs with an episode focused on another politically charged, rhythm‑driven music that rallies people: Afrobeat."
-    },
     {
       "hour": 13,
       "fact_text": "On May 23, 1941, during the Battle of Crete, German paratroopers began mass executions of Greek civilians in Missiria as reprisals for local resistance. These events, carried out in villages among olive groves and stone houses, left scars that would shape how Cretans remembered the war for generations.",
@@ -611,9 +586,33 @@
         ]
       },
       "match_reason": "An 18th‑century battlefield and a modern band of sonic insurgents both explore conflict, strategy, and power struggles—one with cavalry, one with amplifiers."
+    },
+    {
+      "hour": 12,
+      "fact_text": "On May 23, 1793, allied forces and revolutionary France clashed at the Battle of Famars during the Flanders Campaign, with soldiers marching into combat to the tune of revolutionary songs like “Ça Ira.” The battle showed how music and morale could travel alongside muskets, turning political anthems into literal marching orders.",
+      "fact_year": 1793,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Famars",
+      "episode": {
+        "id": 30,
+        "title": "Morning Drops #24 - The Rise Of Afrobeat",
+        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
+        "songs": [
+          "E.T. Mensah - Ghana Freedom",
+          "I.K. Dairo - Salome",
+          "Fela Kuti - Great Kids",
+          "Fela Kuti - Expensive Shit"
+        ],
+        "music-genres": [
+          "Highlife",
+          "Jùjú",
+          "Afrobeat"
+        ]
+      },
+      "match_reason": "A battle remembered for its revolutionary marching songs pairs with an episode focused on another politically charged, rhythm‑driven music that rallies people: Afrobeat."
     }
   ],
   "generated_at": "2026-05-23T00:00:00.012637+00:00",
   "date": "2026-05-23",
-  "updated_at": "2026-05-23T11:00:01.789267+00:00"
+  "updated_at": "2026-05-23T12:00:04.803444+00:00"
 }
