@@ -1,46 +1,31 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "On May 23, 1829, Armenian-Austrian inventor Cyrill Demian received the first known patent for the accordion in Vienna, describing it as a small, portable instrument that could play chords with the press of a single key. His compact design helped turn bellows-driven reeds into the soundtrack of traveling musicians, village dances, and eventually whole folk traditions across Europe and Latin America.",
-    "fact_year": 1829,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Accordion",
+    "hour": 1,
+    "fact_text": "On May 23, 1960, waves from the colossal Valdivia megathrust earthquake in Chile traveled across the Pacific and struck Hilo, Hawaii, killing 61 people. The tsunami crossed an entire ocean, revealing how a single rupture in Earth’s crust can send invisible energy thousands of kilometers before suddenly rising into walls of water.",
+    "fact_year": 1960,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1960_Valdivia_earthquake",
     "episode": {
-      "id": 64,
-      "title": "Sedna On The Go #02 - The Adventures of A Guitar by Ricardo Fiel",
-      "description": "In this Sedna on the Go, Yasmin sits down with Ricardo Fiel in a small café in front of the beach in Lisbon. A spontaneous conversation, recorded with waves, coffee cups, and the occasional passer-by in the background.\n\nRicardo, born and raised, in portugal, leads a life worth discovering. By day, he moves through the world of tech. But there is another side. A side of a rockstar, of full stadiums and after parties! A side we are happy to share with you in this episode\n\nListen slowly, and let the place come through with him.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-the-adventures-of-a-guitar",
-      "songs": [],
-      "music-genres": []
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+      "songs": [
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
+      ],
+      "music-genres": [
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
+      ]
     },
-    "match_reason": "A wandering, portable instrument that reshaped folk music pairs well with an on-the-road conversation about a guitarist’s double life, both celebrating how small instruments carry big traveling stories."
+    "match_reason": "Both the tsunami story and the orca dives take place on the ocean’s surface and below, mixing awe with respect for water’s power and mystery."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On May 23, 1960, waves from the colossal Valdivia megathrust earthquake in Chile traveled across the Pacific and struck Hilo, Hawaii, killing 61 people. The tsunami crossed an entire ocean, revealing how a single rupture in Earth’s crust can send invisible energy thousands of kilometers before suddenly rising into walls of water.",
-      "fact_year": 1960,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1960_Valdivia_earthquake",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "Both the tsunami story and the orca dives take place on the ocean’s surface and below, mixing awe with respect for water’s power and mystery."
-    },
     {
       "hour": 2,
       "fact_text": "On May 23, 2006, Alaska’s Mount Cleveland, a steep stratovolcano rising from a remote island in the Bering Sea, erupted with explosive bursts of ash and gas. Its isolation means many of its eruptions have only been caught by satellites, making it a reminder that some of Earth’s most dramatic events happen far from human eyes.",
@@ -601,9 +586,34 @@
         "music-genres": []
       },
       "match_reason": "A wandering, portable instrument that reshaped folk music pairs well with an on-the-road conversation about a guitarist’s double life, both celebrating how small instruments carry big traveling stories."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On May 23, 1960, waves from the colossal Valdivia megathrust earthquake in Chile traveled across the Pacific and struck Hilo, Hawaii, killing 61 people. The tsunami crossed an entire ocean, revealing how a single rupture in Earth’s crust can send invisible energy thousands of kilometers before suddenly rising into walls of water.",
+      "fact_year": 1960,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1960_Valdivia_earthquake",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "Both the tsunami story and the orca dives take place on the ocean’s surface and below, mixing awe with respect for water’s power and mystery."
     }
   ],
   "generated_at": "2026-05-23T00:00:00.012637+00:00",
   "date": "2026-05-23",
-  "updated_at": "2026-05-23T00:00:58.723679+00:00"
+  "updated_at": "2026-05-23T01:00:01.509972+00:00"
 }
