@@ -1,55 +1,30 @@
 {
-  "current_hour": 7,
+  "current_hour": 8,
   "current_fact": {
-    "hour": 7,
-    "fact_text": "On May 23, 1939, the U.S. submarine USS Squalus sank during a test dive when a valve failure flooded its aft compartments, trapping dozens of sailors on the seafloor. In a first-of-its-kind rescue, divers used a new diving bell to shuttle 33 survivors to the surface, turning near-certain doom into a pioneering undersea save.",
-    "fact_year": 1939,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/USS_Sailfish_(SS-192)",
+    "hour": 8,
+    "fact_text": "On May 23, 1978, a Tupolev Tu-144—the Soviet Union’s supersonic airliner—crashed near Yegoryevsk during a test flight, killing two crew members. The Tu-144’s brief, troubled career still feels like a science-fiction chapter in aviation, when engineers pushed passenger planes beyond the speed of sound at great technical and human cost.",
+    "fact_year": 1978,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1978_Yegoryevsk_Tupolev_Tu-144_crash",
     "episode": {
-      "id": 39,
-      "title": "Morning Drops #33 - Immerse",
-      "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
+      "id": 55,
+      "title": "Morning Drops #48 - Cosmic Monday",
+      "description": "Cosmic Monday is a Morning Drops episode built around four Italian dance records, tracing how disco rhythms slowly became electronic language.\nGaia moves through four tracks like chapters: groove first, then machines, then that bright, futuristic feeling you only get when the bassline is doing the talking. It's not nostalgia, exactly. It's more like returning to a sound that still works — especially on mornings when you need a little extra energy, but you don't want anything aggressive.\nTake it as a slow transmission. Let it carry you into the day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-cosmic-monday",
       "songs": [
-        "Pino D'Angiò - Un Po' d'Uva e un Liquore",
-        "Midlife - The Magnificent Moon",
-        "Tornado Wallace - Today",
-        "Nu Genea - Marechià (feat. Celia Kameni)"
+        "Giovanotti Mondani Meccanici - Don't Ask Me Why",
+        "Azoto - Sal Salvador",
+        "Capricorn - I Need Love",
+        "Cosmic Disco - Cosmic Sprint"
       ],
       "music-genres": [
         "Italo Disco",
-        "Indie",
-        "Balearic",
-        "Nu Disco"
+        "Disco",
+        "Electronic"
       ]
     },
-    "match_reason": "A dramatic submarine rescue from the ocean floor resonates with a water-driven episode about diving, immersion, and what happens beneath the surface."
+    "match_reason": "A story of futuristic supersonic travel fits the cosmic, machine-driven, forward-looking feel of an electronic ‘Cosmic Monday’ set."
   },
   "queue": [
-    {
-      "hour": 8,
-      "fact_text": "On May 23, 1978, a Tupolev Tu-144—the Soviet Union’s supersonic airliner—crashed near Yegoryevsk during a test flight, killing two crew members. The Tu-144’s brief, troubled career still feels like a science-fiction chapter in aviation, when engineers pushed passenger planes beyond the speed of sound at great technical and human cost.",
-      "fact_year": 1978,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1978_Yegoryevsk_Tupolev_Tu-144_crash",
-      "episode": {
-        "id": 55,
-        "title": "Morning Drops #48 - Cosmic Monday",
-        "description": "Cosmic Monday is a Morning Drops episode built around four Italian dance records, tracing how disco rhythms slowly became electronic language.\nGaia moves through four tracks like chapters: groove first, then machines, then that bright, futuristic feeling you only get when the bassline is doing the talking. It's not nostalgia, exactly. It's more like returning to a sound that still works — especially on mornings when you need a little extra energy, but you don't want anything aggressive.\nTake it as a slow transmission. Let it carry you into the day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-cosmic-monday",
-        "songs": [
-          "Giovanotti Mondani Meccanici - Don't Ask Me Why",
-          "Azoto - Sal Salvador",
-          "Capricorn - I Need Love",
-          "Cosmic Disco - Cosmic Sprint"
-        ],
-        "music-genres": [
-          "Italo Disco",
-          "Disco",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A story of futuristic supersonic travel fits the cosmic, machine-driven, forward-looking feel of an electronic ‘Cosmic Monday’ set."
-    },
     {
       "hour": 9,
       "fact_text": "On May 23, 1971, the Intercontinental Hotel opened in Bucharest, instantly becoming one of the city’s tallest buildings and a modernist landmark on its skyline. Built during communist rule, it stood as both a watchful tower for visiting foreigners and a rare window to the outside world for locals below.",
@@ -611,9 +586,33 @@
         ]
       },
       "match_reason": "A dramatic submarine rescue from the ocean floor resonates with a water-driven episode about diving, immersion, and what happens beneath the surface."
+    },
+    {
+      "hour": 8,
+      "fact_text": "On May 23, 1978, a Tupolev Tu-144—the Soviet Union’s supersonic airliner—crashed near Yegoryevsk during a test flight, killing two crew members. The Tu-144’s brief, troubled career still feels like a science-fiction chapter in aviation, when engineers pushed passenger planes beyond the speed of sound at great technical and human cost.",
+      "fact_year": 1978,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1978_Yegoryevsk_Tupolev_Tu-144_crash",
+      "episode": {
+        "id": 55,
+        "title": "Morning Drops #48 - Cosmic Monday",
+        "description": "Cosmic Monday is a Morning Drops episode built around four Italian dance records, tracing how disco rhythms slowly became electronic language.\nGaia moves through four tracks like chapters: groove first, then machines, then that bright, futuristic feeling you only get when the bassline is doing the talking. It's not nostalgia, exactly. It's more like returning to a sound that still works — especially on mornings when you need a little extra energy, but you don't want anything aggressive.\nTake it as a slow transmission. Let it carry you into the day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-cosmic-monday",
+        "songs": [
+          "Giovanotti Mondani Meccanici - Don't Ask Me Why",
+          "Azoto - Sal Salvador",
+          "Capricorn - I Need Love",
+          "Cosmic Disco - Cosmic Sprint"
+        ],
+        "music-genres": [
+          "Italo Disco",
+          "Disco",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A story of futuristic supersonic travel fits the cosmic, machine-driven, forward-looking feel of an electronic ‘Cosmic Monday’ set."
     }
   ],
   "generated_at": "2026-05-23T00:00:00.012637+00:00",
   "date": "2026-05-23",
-  "updated_at": "2026-05-23T07:00:01.893763+00:00"
+  "updated_at": "2026-05-23T08:00:01.690457+00:00"
 }
