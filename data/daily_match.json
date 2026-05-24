@@ -1,74 +1,39 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "Luis Buñuel’s film \"Belle de Jour,\" released in 1967, turned a seemingly polite Parisian housewife’s double life into a surreal exploration of desire and fantasy. Shot with cool elegance, its dream sequences are so ambiguous that decades later viewers still argue over what in the film actually 'really' happens.",
-    "fact_year": 1967,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Belle_de_Jour_(film)",
+    "hour": 5,
+    "fact_text": "The very first Eurovision Song Contest in 1956 was so small that only seven countries took part, and each submitted not one but two songs. The show was broadcast live on radio and a fledgling TV network, planting the seed for what would grow into one of the world’s most-watched musical events.",
+    "fact_year": 1956,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Eurovision_Song_Contest",
     "episode": {
-      "id": 4,
-      "title": "Sedna FM #04 - Queen of Spades",
-      "description": "Tuning in from the planet of irrational love. Exploring love's most vulnerable side — the kind that awakens the child within us. A diverse music selection ranging from electric blues to downtempo, soul, and jazz. A tribute to the feeling that has moved artists to create the most beautiful works. Love makes us vulnerable, and there is no art without vulnerability.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/queen-of-spades",
+      "id": 1,
+      "title": "Sedna FM #01 - November Bomb",
+      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
       "songs": [
-        "Alabama Shakes - Gimme All Your Love",
-        "Queens of the stone age - Make it wit chu",
-        "Rosa Passos - Fusion",
-        "Sade - Mr Wrong",
-        "Daft Punk - Something About Us",
-        "10cc - I'm Not in Love",
-        "Jonny Nash - Theories",
-        "Etta James - I'd Rather Go Blind",
-        "Adriano Celentano - Storia D'amore",
-        "Eric Clapton - Have you ever loved a woman",
-        "Arctic Monkey - The Bakery"
+        "berlioz - Open this wall",
+        "Nas - One Mic",
+        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+        "Frankie Knuckles - Your Love",
+        "Notorious B.I.G. - 17 Ten Crack Commandments",
+        "Liloca - Utani Xuva",
+        "Fela Kuti - Zombie",
+        "Neffa - Aspettando il sole",
+        "Childish Gambino - No Excuses",
+        "Modjo - Music takes you back"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Stoner Rock",
-        "Bossa Nova",
-        "Soul",
-        "Electronic",
-        "Soft Rock",
-        "Blues"
+        "Hip-Hop",
+        "Afrobeat",
+        "House",
+        "Italian Pop",
+        "R&B",
+        "Latin Rap"
       ]
     },
-    "match_reason": "A surreal film dissecting love, desire, and secret lives fits an episode dedicated to irrational, vulnerable love and its artistic echoes."
+    "match_reason": "The birth of Eurovision as a pan‑continental music experiment pairs with Sedna FM’s own first 'where it all began' episode, both inaugurating long-running sonic journeys."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "The very first Eurovision Song Contest in 1956 was so small that only seven countries took part, and each submitted not one but two songs. The show was broadcast live on radio and a fledgling TV network, planting the seed for what would grow into one of the world’s most-watched musical events.",
-      "fact_year": 1956,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Eurovision_Song_Contest",
-      "episode": {
-        "id": 1,
-        "title": "Sedna FM #01 - November Bomb",
-        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
-        "songs": [
-          "berlioz - Open this wall",
-          "Nas - One Mic",
-          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-          "Frankie Knuckles - Your Love",
-          "Notorious B.I.G. - 17 Ten Crack Commandments",
-          "Liloca - Utani Xuva",
-          "Fela Kuti - Zombie",
-          "Neffa - Aspettando il sole",
-          "Childish Gambino - No Excuses",
-          "Modjo - Music takes you back"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Afrobeat",
-          "House",
-          "Italian Pop",
-          "R&B",
-          "Latin Rap"
-        ]
-      },
-      "match_reason": "The birth of Eurovision as a pan‑continental music experiment pairs with Sedna FM’s own first 'where it all began' episode, both inaugurating long-running sonic journeys."
-    },
     {
       "hour": 6,
       "fact_text": "In 1667, the French Royal Army crossed into the Spanish Netherlands to start the War of Devolution, justified by an obscure inheritance law claiming that French queen Maria Theresa deserved parts of Spain’s territory. The conflict hinged not just on cannon fire but on the legal meaning of a single word about who gets what when a king dies.",
@@ -637,9 +602,42 @@
         ]
       },
       "match_reason": "A surreal film dissecting love, desire, and secret lives fits an episode dedicated to irrational, vulnerable love and its artistic echoes."
+    },
+    {
+      "hour": 5,
+      "fact_text": "The very first Eurovision Song Contest in 1956 was so small that only seven countries took part, and each submitted not one but two songs. The show was broadcast live on radio and a fledgling TV network, planting the seed for what would grow into one of the world’s most-watched musical events.",
+      "fact_year": 1956,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Eurovision_Song_Contest",
+      "episode": {
+        "id": 1,
+        "title": "Sedna FM #01 - November Bomb",
+        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+        "songs": [
+          "berlioz - Open this wall",
+          "Nas - One Mic",
+          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+          "Frankie Knuckles - Your Love",
+          "Notorious B.I.G. - 17 Ten Crack Commandments",
+          "Liloca - Utani Xuva",
+          "Fela Kuti - Zombie",
+          "Neffa - Aspettando il sole",
+          "Childish Gambino - No Excuses",
+          "Modjo - Music takes you back"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Afrobeat",
+          "House",
+          "Italian Pop",
+          "R&B",
+          "Latin Rap"
+        ]
+      },
+      "match_reason": "The birth of Eurovision as a pan‑continental music experiment pairs with Sedna FM’s own first 'where it all began' episode, both inaugurating long-running sonic journeys."
     }
   ],
   "generated_at": "2026-05-24T00:00:00.015030+00:00",
   "date": "2026-05-24",
-  "updated_at": "2026-05-24T04:00:01.435064+00:00"
+  "updated_at": "2026-05-24T05:00:01.752144+00:00"
 }
