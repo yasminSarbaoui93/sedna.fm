@@ -1,46 +1,31 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "Long before telescopes, the first recorded perihelion passage of Halley’s Comet was noted in 240 BCE, centuries before Edmond Halley realized it was the same visitor returning again and again. Ancient skywatchers unknowingly logged data points for a cosmic time capsule on a 76‑year loop.",
-    "fact_year": -240,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Halley's_Comet",
+    "hour": 4,
+    "fact_text": "In 1966, NASA’s Explorer 32 satellite was launched to study Earth’s upper atmosphere right where it fades into space. By tracking how it was dragged and buffeted, scientists learned how density and composition in this thin, invisible shell fluctuate with geomagnetic storms and solar activity.",
+    "fact_year": 1966,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Explorer_32",
     "episode": {
-      "id": 58,
-      "title": "Evening Flows #00 - Introduction to evening flows",
-      "description": "Sedna FM introduces a new format: Evening Flow, where you can enjoy curated music sets from selectors, DJs, and artists.\n\nEach mix is an invitation to drift beyond the expected. A space where hidden gems from personal archives come to light, where sound speaks its own language. There are no rules here, no patterns to follow. Just the steady unfolding of a mood, a texture, a journey shaped by feeling.\n\nLet the music lead the way - enjoy the trip!",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-introduction-to-evening-flows",
-      "songs": [],
-      "music-genres": []
+      "id": 31,
+      "title": "Morning Drops #25 - A Trip-Hop Journey",
+      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+      "songs": [
+        "Massive Attack - Unfinished Sympathy",
+        "Tricky - Hell Is Round the Corner",
+        "DJ Shadow - Midnight in a Perfect World",
+        "Thievery Corporation - Lebanese Blonde",
+        "Smoke City - Underwater Love"
+      ],
+      "music-genres": [
+        "Trip-Hop",
+        "Downtempo",
+        "Electronic"
+      ]
     },
-    "match_reason": "A comet that periodically returns to reshape the night sky mirrors a recurring, drifting musical format that orbits back with new textures each time."
+    "match_reason": "A satellite exploring the blurred boundary between atmosphere and space aligns with a genre that blurs lines between hip hop, ambient, and electronic soundscapes."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "In 1966, NASA’s Explorer 32 satellite was launched to study Earth’s upper atmosphere right where it fades into space. By tracking how it was dragged and buffeted, scientists learned how density and composition in this thin, invisible shell fluctuate with geomagnetic storms and solar activity.",
-      "fact_year": 1966,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Explorer_32",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #25 - A Trip-Hop Journey",
-        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
-        "songs": [
-          "Massive Attack - Unfinished Sympathy",
-          "Tricky - Hell Is Round the Corner",
-          "DJ Shadow - Midnight in a Perfect World",
-          "Thievery Corporation - Lebanese Blonde",
-          "Smoke City - Underwater Love"
-        ],
-        "music-genres": [
-          "Trip-Hop",
-          "Downtempo",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A satellite exploring the blurred boundary between atmosphere and space aligns with a genre that blurs lines between hip hop, ambient, and electronic soundscapes."
-    },
     {
       "hour": 5,
       "fact_text": "On May 25, 1955, Joe Brown and George Band became the first climbers to stand atop Kangchenjunga, the world’s third‑highest mountain. Out of respect for local belief that the summit is sacred, they stopped just short of the absolute highest snow, leaving a few untouched inches to the mountain itself.",
@@ -615,9 +600,34 @@
         "music-genres": []
       },
       "match_reason": "A comet that periodically returns to reshape the night sky mirrors a recurring, drifting musical format that orbits back with new textures each time."
+    },
+    {
+      "hour": 4,
+      "fact_text": "In 1966, NASA’s Explorer 32 satellite was launched to study Earth’s upper atmosphere right where it fades into space. By tracking how it was dragged and buffeted, scientists learned how density and composition in this thin, invisible shell fluctuate with geomagnetic storms and solar activity.",
+      "fact_year": 1966,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Explorer_32",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #25 - A Trip-Hop Journey",
+        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+        "songs": [
+          "Massive Attack - Unfinished Sympathy",
+          "Tricky - Hell Is Round the Corner",
+          "DJ Shadow - Midnight in a Perfect World",
+          "Thievery Corporation - Lebanese Blonde",
+          "Smoke City - Underwater Love"
+        ],
+        "music-genres": [
+          "Trip-Hop",
+          "Downtempo",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A satellite exploring the blurred boundary between atmosphere and space aligns with a genre that blurs lines between hip hop, ambient, and electronic soundscapes."
     }
   ],
   "generated_at": "2026-05-25T00:00:00.014107+00:00",
   "date": "2026-05-25",
-  "updated_at": "2026-05-25T03:00:01.736909+00:00"
+  "updated_at": "2026-05-25T04:00:02.045654+00:00"
 }
