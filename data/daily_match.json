@@ -1,63 +1,31 @@
 {
-  "current_hour": 19,
+  "current_hour": 20,
   "current_fact": {
-    "hour": 19,
-    "fact_text": "On May 25, 2011, \"The Oprah Winfrey Show\" aired its final episode after 25 years, ending one of television’s most influential talk shows. Across more than 4,500 episodes, Oprah turned intimate conversations into a kind of communal therapy, reshaping how daytime TV could talk about trauma, joy, and self‑growth.",
-    "fact_year": 2011,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/The_Oprah_Winfrey_Show",
+    "hour": 20,
+    "fact_text": "On May 25, 1953, the U.S. fired \"Grable\" from a 280 mm cannon—history’s only live nuclear artillery test—illustrating how far technology could push the idea of a portable apocalypse. Soldiers watched the blast from trenches, witnessing the surreal fusion of familiar artillery drills with an atomic sun on the horizon.",
+    "fact_year": 1953,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Nuclear_weapons_testing",
     "episode": {
-      "id": 3,
-      "title": "Sedna FM #03 - Beautiful as You Feel",
-      "description": "An episode about self-acceptance and inner beauty. Music that reminds us we are beautiful as we feel, embracing our authentic selves. Warm, uplifting sounds that celebrate individuality.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/beautiful-as-you-feel",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "Radiohead - Lotus Flower",
-        "Andrea Lazslo de Simone - Vivo",
-        "The The - this is the day",
-        "Steve Monite - Only You",
-        "DCTL - Deep Tannin f(eat Rafael Leafar)",
-        "Soufiane Sa3idi - El Njoum",
-        "Area - La mela di odessa",
-        "Carol King - Beautiful",
-        "Mannarino - Vivere la vita"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Alternative Rock",
-        "Italian Singer-Songwriter",
-        "New Wave",
-        "Afro-Funk",
-        "Maghreb",
-        "Progressive Rock"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "Oprah’s finale closed a long chapter of televised self‑reflection and empowerment, aligning with an episode centered on self‑acceptance and inner beauty."
+    "match_reason": "A weapon that miniaturized nuclear power reflects our uneasy relationship with powerful, compact tech—mirrored in an episode about phones, overload, and rethinking devices."
   },
   "queue": [
-    {
-      "hour": 20,
-      "fact_text": "On May 25, 1953, the U.S. fired \"Grable\" from a 280 mm cannon—history’s only live nuclear artillery test—illustrating how far technology could push the idea of a portable apocalypse. Soldiers watched the blast from trenches, witnessing the surreal fusion of familiar artillery drills with an atomic sun on the horizon.",
-      "fact_year": 1953,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Nuclear_weapons_testing",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "A weapon that miniaturized nuclear power reflects our uneasy relationship with powerful, compact tech—mirrored in an episode about phones, overload, and rethinking devices."
-    },
     {
       "hour": 21,
       "fact_text": "On May 25, 1966, Explorer 32 headed into the ionosphere to study the delicate boundary where Earth’s air thins into space, tracking how drag changed its orbit. Its measurements helped refine how we model satellite lifetimes and how solar storms tug at our technological shell.",
@@ -632,9 +600,34 @@
         ]
       },
       "match_reason": "Oprah’s finale closed a long chapter of televised self‑reflection and empowerment, aligning with an episode centered on self‑acceptance and inner beauty."
+    },
+    {
+      "hour": 20,
+      "fact_text": "On May 25, 1953, the U.S. fired \"Grable\" from a 280 mm cannon—history’s only live nuclear artillery test—illustrating how far technology could push the idea of a portable apocalypse. Soldiers watched the blast from trenches, witnessing the surreal fusion of familiar artillery drills with an atomic sun on the horizon.",
+      "fact_year": 1953,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Nuclear_weapons_testing",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "A weapon that miniaturized nuclear power reflects our uneasy relationship with powerful, compact tech—mirrored in an episode about phones, overload, and rethinking devices."
     }
   ],
   "generated_at": "2026-05-25T00:00:00.014107+00:00",
   "date": "2026-05-25",
-  "updated_at": "2026-05-25T19:00:02.042672+00:00"
+  "updated_at": "2026-05-25T20:00:01.593096+00:00"
 }
