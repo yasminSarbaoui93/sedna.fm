@@ -1,64 +1,30 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "In 2012, the uncrewed SpaceX Dragon 1 capsule became the first commercial spacecraft to rendezvous and berth with the International Space Station. This quietly marked a turning point in spaceflight, as access to orbit began shifting from the realm of nation-states to collaborations between agencies and private innovators.",
-    "fact_year": 2012,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/SpaceX_COTS_Demo_Flight_2",
+    "hour": 2,
+    "fact_text": "On May 25, 1961, John F. Kennedy stood before the U.S. Congress and proposed a goal that sounded almost impossible: landing a human on the Moon and returning them safely to Earth before the decade ended. This single speech lit the fuse for the Apollo program and compressed an era of experimentation, risk, and engineering brilliance into less than ten years.",
+    "fact_year": 1961,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Apollo_program",
     "episode": {
-      "id": 2,
-      "title": "Sedna FM #02 - Destination Sedna",
-      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+      "id": 55,
+      "title": "Morning Drops #48 - Cosmic Monday",
+      "description": "Cosmic Monday is a Morning Drops episode built around four Italian dance records, tracing how disco rhythms slowly became electronic language.\nGaia moves through four tracks like chapters: groove first, then machines, then that bright, futuristic feeling you only get when the bassline is doing the talking. It's not nostalgia, exactly. It's more like returning to a sound that still works — especially on mornings when you need a little extra energy, but you don't want anything aggressive.\nTake it as a slow transmission. Let it carry you into the day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-cosmic-monday",
       "songs": [
-        "Pink Floyd - Breathe",
-        "The fountain DC - Starburster",
-        "Laura Cahen - La Poussiere",
-        "Taxi Kebab - Lmchi w rjou3",
-        "Odion Iruoje - Identify With Your Roots",
-        "Depeche mode - world in my eyes (Oil Tank Mix)",
-        "Massive attack - Dissolved girl",
-        "Kokoroko - Three piece suite",
-        "Salin - Egungun",
-        "E.S.P. - It's You"
+        "Giovanotti Mondani Meccanici - Don't Ask Me Why",
+        "Azoto - Sal Salvador",
+        "Capricorn - I Need Love",
+        "Cosmic Disco - Cosmic Sprint"
       ],
       "music-genres": [
-        "Progressive Rock",
-        "Post-Punk",
-        "French Pop",
-        "Maghreb",
-        "Afrobeat",
-        "Synthpop",
-        "Trip-Hop"
+        "Italo Disco",
+        "Disco",
+        "Electronic"
       ]
     },
-    "match_reason": "Dragon’s historic trip to the ISS is a literal 'destination' beyond Earth, fitting an episode framed as a collective voyage into new territories."
+    "match_reason": "A moonshot speech that launched humans toward the cosmos pairs with an episode steeped in 'cosmic' dance energy and futuristic electronic textures."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "On May 25, 1961, John F. Kennedy stood before the U.S. Congress and proposed a goal that sounded almost impossible: landing a human on the Moon and returning them safely to Earth before the decade ended. This single speech lit the fuse for the Apollo program and compressed an era of experimentation, risk, and engineering brilliance into less than ten years.",
-      "fact_year": 1961,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Apollo_program",
-      "episode": {
-        "id": 55,
-        "title": "Morning Drops #48 - Cosmic Monday",
-        "description": "Cosmic Monday is a Morning Drops episode built around four Italian dance records, tracing how disco rhythms slowly became electronic language.\nGaia moves through four tracks like chapters: groove first, then machines, then that bright, futuristic feeling you only get when the bassline is doing the talking. It's not nostalgia, exactly. It's more like returning to a sound that still works — especially on mornings when you need a little extra energy, but you don't want anything aggressive.\nTake it as a slow transmission. Let it carry you into the day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-cosmic-monday",
-        "songs": [
-          "Giovanotti Mondani Meccanici - Don't Ask Me Why",
-          "Azoto - Sal Salvador",
-          "Capricorn - I Need Love",
-          "Cosmic Disco - Cosmic Sprint"
-        ],
-        "music-genres": [
-          "Italo Disco",
-          "Disco",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A moonshot speech that launched humans toward the cosmos pairs with an episode steeped in 'cosmic' dance energy and futuristic electronic textures."
-    },
     {
       "hour": 3,
       "fact_text": "The first recorded perihelion passage of Halley’s Comet was noted in 240 BCE, centuries before anyone knew it was the same visitor returning again and again. Only much later did astronomers recognize its pattern, turning ghostly omens into a predictable, clocklike traveler in the night sky.",
@@ -627,9 +593,33 @@
         ]
       },
       "match_reason": "Dragon’s historic trip to the ISS is a literal 'destination' beyond Earth, fitting an episode framed as a collective voyage into new territories."
+    },
+    {
+      "hour": 2,
+      "fact_text": "On May 25, 1961, John F. Kennedy stood before the U.S. Congress and proposed a goal that sounded almost impossible: landing a human on the Moon and returning them safely to Earth before the decade ended. This single speech lit the fuse for the Apollo program and compressed an era of experimentation, risk, and engineering brilliance into less than ten years.",
+      "fact_year": 1961,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Apollo_program",
+      "episode": {
+        "id": 55,
+        "title": "Morning Drops #48 - Cosmic Monday",
+        "description": "Cosmic Monday is a Morning Drops episode built around four Italian dance records, tracing how disco rhythms slowly became electronic language.\nGaia moves through four tracks like chapters: groove first, then machines, then that bright, futuristic feeling you only get when the bassline is doing the talking. It's not nostalgia, exactly. It's more like returning to a sound that still works — especially on mornings when you need a little extra energy, but you don't want anything aggressive.\nTake it as a slow transmission. Let it carry you into the day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-cosmic-monday",
+        "songs": [
+          "Giovanotti Mondani Meccanici - Don't Ask Me Why",
+          "Azoto - Sal Salvador",
+          "Capricorn - I Need Love",
+          "Cosmic Disco - Cosmic Sprint"
+        ],
+        "music-genres": [
+          "Italo Disco",
+          "Disco",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A moonshot speech that launched humans toward the cosmos pairs with an episode steeped in 'cosmic' dance energy and futuristic electronic textures."
     }
   ],
   "generated_at": "2026-05-25T00:00:00.016101+00:00",
   "date": "2026-05-25",
-  "updated_at": "2026-05-25T01:00:01.583997+00:00"
+  "updated_at": "2026-05-25T02:00:01.910982+00:00"
 }
