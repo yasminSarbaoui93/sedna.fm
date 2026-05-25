@@ -1,63 +1,40 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "On May 25, 2008, NASA’s Phoenix lander touched down in the Martian region known as Green Valley and gently scooped into alien soil in search of ice and possible habitats for microscopic life. Designed to operate in the frigid Martian arctic, Phoenix confirmed the presence of water ice just below the surface, turning a patch of red desert into one of the most scientifically important gardens in the Solar System.",
-    "fact_year": 2008,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Phoenix_(spacecraft)",
+    "hour": 1,
+    "fact_text": "In 2012, the uncrewed SpaceX Dragon 1 capsule became the first commercial spacecraft to rendezvous and berth with the International Space Station. This quietly marked a turning point in spaceflight, as access to orbit began shifting from the realm of nation-states to collaborations between agencies and private innovators.",
+    "fact_year": 2012,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/SpaceX_COTS_Demo_Flight_2",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 2,
+      "title": "Sedna FM #02 - Destination Sedna",
+      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Pink Floyd - Breathe",
+        "The fountain DC - Starburster",
+        "Laura Cahen - La Poussiere",
+        "Taxi Kebab - Lmchi w rjou3",
+        "Odion Iruoje - Identify With Your Roots",
+        "Depeche mode - world in my eyes (Oil Tank Mix)",
+        "Massive attack - Dissolved girl",
+        "Kokoroko - Three piece suite",
+        "Salin - Egungun",
+        "E.S.P. - It's You"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Progressive Rock",
+        "Post-Punk",
+        "French Pop",
+        "Maghreb",
+        "Afrobeat",
+        "Synthpop",
+        "Trip-Hop"
       ]
     },
-    "match_reason": "Phoenix turned the 'emptiness' of Martian arctic plains into a space for discovery, echoing the episode’s theme of reimagining emptiness as room to create and explore."
+    "match_reason": "Dragon’s historic trip to the ISS is a literal 'destination' beyond Earth, fitting an episode framed as a collective voyage into new territories."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "In 2012, the uncrewed SpaceX Dragon 1 capsule became the first commercial spacecraft to rendezvous and berth with the International Space Station. This quietly marked a turning point in spaceflight, as access to orbit began shifting from the realm of nation-states to collaborations between agencies and private innovators.",
-      "fact_year": 2012,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/SpaceX_COTS_Demo_Flight_2",
-      "episode": {
-        "id": 2,
-        "title": "Sedna FM #02 - Destination Sedna",
-        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
-        "songs": [
-          "Pink Floyd - Breathe",
-          "The fountain DC - Starburster",
-          "Laura Cahen - La Poussiere",
-          "Taxi Kebab - Lmchi w rjou3",
-          "Odion Iruoje - Identify With Your Roots",
-          "Depeche mode - world in my eyes (Oil Tank Mix)",
-          "Massive attack - Dissolved girl",
-          "Kokoroko - Three piece suite",
-          "Salin - Egungun",
-          "E.S.P. - It's You"
-        ],
-        "music-genres": [
-          "Progressive Rock",
-          "Post-Punk",
-          "French Pop",
-          "Maghreb",
-          "Afrobeat",
-          "Synthpop",
-          "Trip-Hop"
-        ]
-      },
-      "match_reason": "Dragon’s historic trip to the ISS is a literal 'destination' beyond Earth, fitting an episode framed as a collective voyage into new territories."
-    },
     {
       "hour": 2,
       "fact_text": "On May 25, 1961, John F. Kennedy stood before the U.S. Congress and proposed a goal that sounded almost impossible: landing a human on the Moon and returning them safely to Earth before the decade ended. This single speech lit the fuse for the Apollo program and compressed an era of experimentation, risk, and engineering brilliance into less than ten years.",
@@ -616,9 +593,43 @@
         ]
       },
       "match_reason": "Phoenix turned the 'emptiness' of Martian arctic plains into a space for discovery, echoing the episode’s theme of reimagining emptiness as room to create and explore."
+    },
+    {
+      "hour": 1,
+      "fact_text": "In 2012, the uncrewed SpaceX Dragon 1 capsule became the first commercial spacecraft to rendezvous and berth with the International Space Station. This quietly marked a turning point in spaceflight, as access to orbit began shifting from the realm of nation-states to collaborations between agencies and private innovators.",
+      "fact_year": 2012,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/SpaceX_COTS_Demo_Flight_2",
+      "episode": {
+        "id": 2,
+        "title": "Sedna FM #02 - Destination Sedna",
+        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+        "songs": [
+          "Pink Floyd - Breathe",
+          "The fountain DC - Starburster",
+          "Laura Cahen - La Poussiere",
+          "Taxi Kebab - Lmchi w rjou3",
+          "Odion Iruoje - Identify With Your Roots",
+          "Depeche mode - world in my eyes (Oil Tank Mix)",
+          "Massive attack - Dissolved girl",
+          "Kokoroko - Three piece suite",
+          "Salin - Egungun",
+          "E.S.P. - It's You"
+        ],
+        "music-genres": [
+          "Progressive Rock",
+          "Post-Punk",
+          "French Pop",
+          "Maghreb",
+          "Afrobeat",
+          "Synthpop",
+          "Trip-Hop"
+        ]
+      },
+      "match_reason": "Dragon’s historic trip to the ISS is a literal 'destination' beyond Earth, fitting an episode framed as a collective voyage into new territories."
     }
   ],
   "generated_at": "2026-05-25T00:00:00.016101+00:00",
   "date": "2026-05-25",
-  "updated_at": "2026-05-25T00:01:05.408540+00:00"
+  "updated_at": "2026-05-25T01:00:01.583997+00:00"
 }
