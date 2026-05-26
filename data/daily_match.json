@@ -1,50 +1,25 @@
 {
-  "current_hour": 9,
+  "current_hour": 10,
   "current_fact": {
-    "hour": 9,
-    "fact_text": "On May 26, 1983, a magnitude 7.8 earthquake struck the Sea of Japan, shaking northern Honshu with severe intensity and unleashing a tsunami that killed around 100 people. The disaster showed how offshore quakes can quietly generate waves that travel silently toward shorelines, turning a distant tremor into a local catastrophe.",
-    "fact_year": 1983,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1983_Sea_of_Japan_earthquake",
+    "hour": 10,
+    "fact_text": "Back in 1293, a powerful earthquake struck near Kamakura in Japan, causing a tsunami and killing an estimated 23,000 people. In an era long before seismology, the event still left traces in chronicles and temple records, reminding us how deeply natural disasters can carve themselves into cultural memory.",
+    "fact_year": 1293,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1293_Kamakura_earthquake",
     "episode": {
-      "id": 46,
-      "title": "Morning Drops #40 - Diving With Orcas",
-      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+      "id": 25,
+      "title": "Morning Drops #19 - Wabi Sabi",
+      "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
       "songs": [
-        "Ludovico Einaudi - Experience",
-        "The Temper Trap - Sweet Disposition",
-        "Alex Warren - Ordinary",
-        "Piero Umiliani - Il tuo volto"
+        "song 1"
       ],
       "music-genres": [
-        "Neo-Classical",
-        "Indie Rock",
-        "Pop",
-        "Italian Film Score"
+        "genre 1"
       ]
     },
-    "match_reason": "A seaquake-triggered tsunami connects to an oceanic, cinematic episode that dwells on the power and unpredictability of water and coasts."
+    "match_reason": "A devastating quake that reshaped a city’s story pairs with an episode about accepting impermanence and the fragile, imperfect nature of the world."
   },
   "queue": [
-    {
-      "hour": 10,
-      "fact_text": "Back in 1293, a powerful earthquake struck near Kamakura in Japan, causing a tsunami and killing an estimated 23,000 people. In an era long before seismology, the event still left traces in chronicles and temple records, reminding us how deeply natural disasters can carve themselves into cultural memory.",
-      "fact_year": 1293,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1293_Kamakura_earthquake",
-      "episode": {
-        "id": 25,
-        "title": "Morning Drops #19 - Wabi Sabi",
-        "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
-        "songs": [
-          "song 1"
-        ],
-        "music-genres": [
-          "genre 1"
-        ]
-      },
-      "match_reason": "A devastating quake that reshaped a city’s story pairs with an episode about accepting impermanence and the fragile, imperfect nature of the world."
-    },
     {
       "hour": 11,
       "fact_text": "On May 26, 17 CE, the Roman general Germanicus celebrated a triumph in Rome for his campaigns against Germanic tribes west of the Elbe. The spectacle, filled with captives, spoils, and elaborate processions, was as much about political theatre as military success, reinforcing Rome’s image of invincibility.",
@@ -625,9 +600,28 @@
         ]
       },
       "match_reason": "A seaquake-triggered tsunami connects to an oceanic, cinematic episode that dwells on the power and unpredictability of water and coasts."
+    },
+    {
+      "hour": 10,
+      "fact_text": "Back in 1293, a powerful earthquake struck near Kamakura in Japan, causing a tsunami and killing an estimated 23,000 people. In an era long before seismology, the event still left traces in chronicles and temple records, reminding us how deeply natural disasters can carve themselves into cultural memory.",
+      "fact_year": 1293,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1293_Kamakura_earthquake",
+      "episode": {
+        "id": 25,
+        "title": "Morning Drops #19 - Wabi Sabi",
+        "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
+        "songs": [
+          "song 1"
+        ],
+        "music-genres": [
+          "genre 1"
+        ]
+      },
+      "match_reason": "A devastating quake that reshaped a city’s story pairs with an episode about accepting impermanence and the fragile, imperfect nature of the world."
     }
   ],
   "generated_at": "2026-05-26T00:00:00.014202+00:00",
   "date": "2026-05-26",
-  "updated_at": "2026-05-26T09:00:03.116294+00:00"
+  "updated_at": "2026-05-26T10:00:01.947033+00:00"
 }
