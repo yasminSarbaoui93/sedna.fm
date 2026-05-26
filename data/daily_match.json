@@ -1,53 +1,31 @@
 {
-  "current_hour": 8,
+  "current_hour": 9,
   "current_fact": {
-    "hour": 8,
-    "fact_text": "On May 26, 2020, protests sparked by the murder of George Floyd in Minneapolis–Saint Paul quickly spread across the United States and then the world. The demonstrations, fueled by smartphones and social media, became one of the largest protest movements in modern U.S. history, forcing a global reckoning with racism and police brutality.",
-    "fact_year": 2020,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/George_Floyd_protests",
+    "hour": 9,
+    "fact_text": "On May 26, 1983, a magnitude 7.8 earthquake struck the Sea of Japan, shaking northern Honshu with severe intensity and unleashing a tsunami that killed around 100 people. The disaster showed how offshore quakes can quietly generate waves that travel silently toward shorelines, turning a distant tremor into a local catastrophe.",
+    "fact_year": 1983,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1983_Sea_of_Japan_earthquake",
     "episode": {
-      "id": 14,
-      "title": "Morning Drops #08 - (un)Boxing",
-      "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "Kendrick Lamar - Feel",
-        "Kendrick Lamar - The Blacker the Berry",
-        "Kendrick Lamar - Mirror"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Conscious Rap"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "An uprising against systemic racism aligns with an episode centered on unboxing identity, with politically charged hip-hop that echoes protest themes."
+    "match_reason": "A seaquake-triggered tsunami connects to an oceanic, cinematic episode that dwells on the power and unpredictability of water and coasts."
   },
   "queue": [
-    {
-      "hour": 9,
-      "fact_text": "On May 26, 1983, a magnitude 7.8 earthquake struck the Sea of Japan, shaking northern Honshu with severe intensity and unleashing a tsunami that killed around 100 people. The disaster showed how offshore quakes can quietly generate waves that travel silently toward shorelines, turning a distant tremor into a local catastrophe.",
-      "fact_year": 1983,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1983_Sea_of_Japan_earthquake",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "A seaquake-triggered tsunami connects to an oceanic, cinematic episode that dwells on the power and unpredictability of water and coasts."
-    },
     {
       "hour": 10,
       "fact_text": "Back in 1293, a powerful earthquake struck near Kamakura in Japan, causing a tsunami and killing an estimated 23,000 people. In an era long before seismology, the event still left traces in chronicles and temple records, reminding us how deeply natural disasters can carve themselves into cultural memory.",
@@ -622,9 +600,34 @@
         ]
       },
       "match_reason": "An uprising against systemic racism aligns with an episode centered on unboxing identity, with politically charged hip-hop that echoes protest themes."
+    },
+    {
+      "hour": 9,
+      "fact_text": "On May 26, 1983, a magnitude 7.8 earthquake struck the Sea of Japan, shaking northern Honshu with severe intensity and unleashing a tsunami that killed around 100 people. The disaster showed how offshore quakes can quietly generate waves that travel silently toward shorelines, turning a distant tremor into a local catastrophe.",
+      "fact_year": 1983,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1983_Sea_of_Japan_earthquake",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "A seaquake-triggered tsunami connects to an oceanic, cinematic episode that dwells on the power and unpredictability of water and coasts."
     }
   ],
   "generated_at": "2026-05-26T00:00:00.014202+00:00",
   "date": "2026-05-26",
-  "updated_at": "2026-05-26T08:00:02.208209+00:00"
+  "updated_at": "2026-05-26T09:00:03.116294+00:00"
 }
