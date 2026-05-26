@@ -1,63 +1,40 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 1969, Apollo 10 completed a daring dress rehearsal for the first Moon landing, taking a lunar module to just 15.6 kilometers above the Moon's surface before safely returning to Earth after eight days in space. Every component of the mission — command module, lunar module, navigation, and re-entry — was tested in real conditions, leaving only the final step of actually touching down to Apollo 11.",
-    "fact_year": 1969,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Apollo_10",
+    "hour": 1,
+    "fact_text": "On May 26, 1967, The Beatles released 'Sgt. Pepper's Lonely Hearts Club Band', a concept album that blurred the line between rock record and self-contained theatrical world. With its collage of sounds, unusual instrumentation, and iconic cover filled with cultural figures, it helped redefine what a studio album could be.",
+    "fact_year": 1967,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Sgt._Pepper%27s_Lonely_Hearts_Club_Band",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 6,
+      "title": "Sedna FM #06 - Alters of an Ego",
+      "description": "What if you could step outside yourself and become someone freer, bolder, or completely unexpected? Exploring the artistry of musicians who craft alter-egos and parallel realities to experiment with new dimensions of their identity. It's not about hiding who they are — it's about expanding who they can be.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/alters-of-an-ego",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "The Thin White Duke - Stay",
+        "Mac Miller - Dang (feat. Anderson .Paak)",
+        "Larry Lovestein - Love Affair",
+        "The Fireman - Strawberries Oceans Ships Forest",
+        "Paul McCartney - Oh! Darling",
+        "Prince - Kiss",
+        "Camille - Rebirth of the Flash",
+        "MF DOOM - Deep Fried Frenz",
+        "Gorillaz - Dirty Harry",
+        "Gorillaz - Andromeda"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Glam Rock",
+        "Hip-Hop",
+        "Jazz",
+        "Ambient",
+        "Classic Rock",
+        "Funk",
+        "Electronic"
       ]
     },
-    "match_reason": "A near‑landing lunar rehearsal fits the episode’s theme of seeing 'emptiness' as creative space and taking a bold shift in perspective."
+    "match_reason": "The album’s fictional band and playful identities resonate with an episode dedicated to alter-egos and invented musical personas."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On May 26, 1967, The Beatles released 'Sgt. Pepper's Lonely Hearts Club Band', a concept album that blurred the line between rock record and self-contained theatrical world. With its collage of sounds, unusual instrumentation, and iconic cover filled with cultural figures, it helped redefine what a studio album could be.",
-      "fact_year": 1967,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Sgt._Pepper%27s_Lonely_Hearts_Club_Band",
-      "episode": {
-        "id": 6,
-        "title": "Sedna FM #06 - Alters of an Ego",
-        "description": "What if you could step outside yourself and become someone freer, bolder, or completely unexpected? Exploring the artistry of musicians who craft alter-egos and parallel realities to experiment with new dimensions of their identity. It's not about hiding who they are — it's about expanding who they can be.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/alters-of-an-ego",
-        "songs": [
-          "The Thin White Duke - Stay",
-          "Mac Miller - Dang (feat. Anderson .Paak)",
-          "Larry Lovestein - Love Affair",
-          "The Fireman - Strawberries Oceans Ships Forest",
-          "Paul McCartney - Oh! Darling",
-          "Prince - Kiss",
-          "Camille - Rebirth of the Flash",
-          "MF DOOM - Deep Fried Frenz",
-          "Gorillaz - Dirty Harry",
-          "Gorillaz - Andromeda"
-        ],
-        "music-genres": [
-          "Glam Rock",
-          "Hip-Hop",
-          "Jazz",
-          "Ambient",
-          "Classic Rock",
-          "Funk",
-          "Electronic"
-        ]
-      },
-      "match_reason": "The album’s fictional band and playful identities resonate with an episode dedicated to alter-egos and invented musical personas."
-    },
     {
       "hour": 2,
       "fact_text": "In 1970, the Soviet-built Tupolev Tu‑144 became the first commercial transport aircraft to exceed twice the speed of sound, reaching beyond Mach 2. This sleek, experimental airliner briefly turned the idea of supersonic passenger travel into reality, racing the Concorde in a high-stakes engineering contest of the Cold War era.",
@@ -623,9 +600,43 @@
         ]
       },
       "match_reason": "A near‑landing lunar rehearsal fits the episode’s theme of seeing 'emptiness' as creative space and taking a bold shift in perspective."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On May 26, 1967, The Beatles released 'Sgt. Pepper's Lonely Hearts Club Band', a concept album that blurred the line between rock record and self-contained theatrical world. With its collage of sounds, unusual instrumentation, and iconic cover filled with cultural figures, it helped redefine what a studio album could be.",
+      "fact_year": 1967,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Sgt._Pepper%27s_Lonely_Hearts_Club_Band",
+      "episode": {
+        "id": 6,
+        "title": "Sedna FM #06 - Alters of an Ego",
+        "description": "What if you could step outside yourself and become someone freer, bolder, or completely unexpected? Exploring the artistry of musicians who craft alter-egos and parallel realities to experiment with new dimensions of their identity. It's not about hiding who they are — it's about expanding who they can be.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/alters-of-an-ego",
+        "songs": [
+          "The Thin White Duke - Stay",
+          "Mac Miller - Dang (feat. Anderson .Paak)",
+          "Larry Lovestein - Love Affair",
+          "The Fireman - Strawberries Oceans Ships Forest",
+          "Paul McCartney - Oh! Darling",
+          "Prince - Kiss",
+          "Camille - Rebirth of the Flash",
+          "MF DOOM - Deep Fried Frenz",
+          "Gorillaz - Dirty Harry",
+          "Gorillaz - Andromeda"
+        ],
+        "music-genres": [
+          "Glam Rock",
+          "Hip-Hop",
+          "Jazz",
+          "Ambient",
+          "Classic Rock",
+          "Funk",
+          "Electronic"
+        ]
+      },
+      "match_reason": "The album’s fictional band and playful identities resonate with an episode dedicated to alter-egos and invented musical personas."
     }
   ],
   "generated_at": "2026-05-26T00:00:00.014202+00:00",
   "date": "2026-05-26",
-  "updated_at": "2026-05-26T00:02:12.340853+00:00"
+  "updated_at": "2026-05-26T01:00:01.599161+00:00"
 }
