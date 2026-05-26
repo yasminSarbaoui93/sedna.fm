@@ -1,65 +1,31 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On May 26, 1967, The Beatles released 'Sgt. Pepper's Lonely Hearts Club Band', a concept album that blurred the line between rock record and self-contained theatrical world. With its collage of sounds, unusual instrumentation, and iconic cover filled with cultural figures, it helped redefine what a studio album could be.",
-    "fact_year": 1967,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Sgt._Pepper%27s_Lonely_Hearts_Club_Band",
+    "hour": 2,
+    "fact_text": "In 1970, the Soviet-built Tupolev Tu‑144 became the first commercial transport aircraft to exceed twice the speed of sound, reaching beyond Mach 2. This sleek, experimental airliner briefly turned the idea of supersonic passenger travel into reality, racing the Concorde in a high-stakes engineering contest of the Cold War era.",
+    "fact_year": 1970,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tupolev_Tu-144",
     "episode": {
-      "id": 6,
-      "title": "Sedna FM #06 - Alters of an Ego",
-      "description": "What if you could step outside yourself and become someone freer, bolder, or completely unexpected? Exploring the artistry of musicians who craft alter-egos and parallel realities to experiment with new dimensions of their identity. It's not about hiding who they are — it's about expanding who they can be.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/alters-of-an-ego",
+      "id": 11,
+      "title": "Morning Drops #05 - Electric Shock",
+      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
       "songs": [
-        "The Thin White Duke - Stay",
-        "Mac Miller - Dang (feat. Anderson .Paak)",
-        "Larry Lovestein - Love Affair",
-        "The Fireman - Strawberries Oceans Ships Forest",
-        "Paul McCartney - Oh! Darling",
-        "Prince - Kiss",
-        "Camille - Rebirth of the Flash",
-        "MF DOOM - Deep Fried Frenz",
-        "Gorillaz - Dirty Harry",
-        "Gorillaz - Andromeda"
+        "Johnny Winter - Highway 61 Revisited",
+        "Joan Armatrading - Sleight of Hand",
+        "Joan Armatrading - Russian Roulette",
+        "Jimi Hendrix - Freedom",
+        "Jeff Beck - Scatterbrain"
       ],
       "music-genres": [
-        "Glam Rock",
-        "Hip-Hop",
-        "Jazz",
-        "Ambient",
-        "Classic Rock",
-        "Funk",
-        "Electronic"
+        "Blues Rock",
+        "Rock",
+        "Electric Blues"
       ]
     },
-    "match_reason": "The album’s fictional band and playful identities resonate with an episode dedicated to alter-egos and invented musical personas."
+    "match_reason": "A supersonic airliner breaking Mach 2 mirrors the episode’s high-voltage, speed-infused rock energy and sense of technological exhilaration."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "In 1970, the Soviet-built Tupolev Tu‑144 became the first commercial transport aircraft to exceed twice the speed of sound, reaching beyond Mach 2. This sleek, experimental airliner briefly turned the idea of supersonic passenger travel into reality, racing the Concorde in a high-stakes engineering contest of the Cold War era.",
-      "fact_year": 1970,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tupolev_Tu-144",
-      "episode": {
-        "id": 11,
-        "title": "Morning Drops #05 - Electric Shock",
-        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
-        "songs": [
-          "Johnny Winter - Highway 61 Revisited",
-          "Joan Armatrading - Sleight of Hand",
-          "Joan Armatrading - Russian Roulette",
-          "Jimi Hendrix - Freedom",
-          "Jeff Beck - Scatterbrain"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Rock",
-          "Electric Blues"
-        ]
-      },
-      "match_reason": "A supersonic airliner breaking Mach 2 mirrors the episode’s high-voltage, speed-infused rock energy and sense of technological exhilaration."
-    },
     {
       "hour": 3,
       "fact_text": "On May 26, 1940, Operation Dynamo began as hundreds of naval and civilian vessels converged on Dunkirk to evacuate Allied troops trapped by advancing German forces. Under constant air attack and with little time, they rescued over 300,000 soldiers in what became known as the 'Miracle of Dunkirk'.",
@@ -634,9 +600,34 @@
         ]
       },
       "match_reason": "The album’s fictional band and playful identities resonate with an episode dedicated to alter-egos and invented musical personas."
+    },
+    {
+      "hour": 2,
+      "fact_text": "In 1970, the Soviet-built Tupolev Tu‑144 became the first commercial transport aircraft to exceed twice the speed of sound, reaching beyond Mach 2. This sleek, experimental airliner briefly turned the idea of supersonic passenger travel into reality, racing the Concorde in a high-stakes engineering contest of the Cold War era.",
+      "fact_year": 1970,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tupolev_Tu-144",
+      "episode": {
+        "id": 11,
+        "title": "Morning Drops #05 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "songs": [
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
+        ]
+      },
+      "match_reason": "A supersonic airliner breaking Mach 2 mirrors the episode’s high-voltage, speed-infused rock energy and sense of technological exhilaration."
     }
   ],
   "generated_at": "2026-05-26T00:00:00.014202+00:00",
   "date": "2026-05-26",
-  "updated_at": "2026-05-26T01:00:01.599161+00:00"
+  "updated_at": "2026-05-26T02:00:01.501687+00:00"
 }
