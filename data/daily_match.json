@@ -1,54 +1,30 @@
 {
-  "current_hour": 7,
+  "current_hour": 8,
   "current_fact": {
-    "hour": 7,
-    "fact_text": "On May 27, 2001, militants from the Abu Sayyaf group raided a luxury resort on the Philippine island of Palawan, abducting twenty people. The hostage crisis dragged on for more than a year, highlighting the complex tangle of insurgency, piracy, and tourism in the southern Philippines.",
-    "fact_year": 2001,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Dos_Palmas_kidnappings",
+    "hour": 8,
+    "fact_text": "On May 27, 1988, the Somali National Movement launched a major offensive against government forces in Hargeisa and Burao, the second- and third-largest cities in Somalia. Their uprising marked a turning point in the Somaliland War of Independence and left deep scars on urban landscapes and collective memory.",
+    "fact_year": 1988,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Somaliland_War_of_Independence",
     "episode": {
-      "id": 35,
-      "title": "Morning Drops #29 - Berber France Meets Arabic Italy",
-      "description": "Yasmin takes us back to her university years, where she met Abdel - an Algerian-French friend with a big heart and endless optimism. Their friendship grew around music, identity, and playful arguments about whether a song was originally Italian or French. Music that exists in both versions, alongside stories of finding a home, boxing training, and car rides filled with music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-berber-france-meets-arabic-italy",
+      "id": 22,
+      "title": "Morning Drops #16 - The Sound of Tuareg",
+      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
       "songs": [
-        "Georges Moustaki - Le Métèque",
-        "Georges Brassens - Les Passants",
-        "Dalida - Bambino (Guaglione)",
-        "Biga*Ranx - My Face"
+        "Les Filles de Illighadad - Imigradan",
+        "Tinariwen - Amassakoul ’N’ Ténéré",
+        "Liya Ag Ablil - Awa Adounia",
+        "Tinariwen - Sastanàqqàm"
       ],
       "music-genres": [
-        "French Chanson",
-        "Italian Pop",
-        "Reggae"
+        "Desert Blues",
+        "Tuareg",
+        "World Music"
       ]
     },
-    "match_reason": "A kidnapping at a resort on contested territory contrasts sharply with an episode about cross-cultural friendship and shared identity, underlining how borders can breed either connection or conflict."
+    "match_reason": "A rebellion in the Horn of Africa fits with a set dedicated to desert peoples and music of exile and resistance, both telling stories of marginalized groups fighting for autonomy."
   },
   "queue": [
-    {
-      "hour": 8,
-      "fact_text": "On May 27, 1988, the Somali National Movement launched a major offensive against government forces in Hargeisa and Burao, the second- and third-largest cities in Somalia. Their uprising marked a turning point in the Somaliland War of Independence and left deep scars on urban landscapes and collective memory.",
-      "fact_year": 1988,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Somaliland_War_of_Independence",
-      "episode": {
-        "id": 22,
-        "title": "Morning Drops #16 - The Sound of Tuareg",
-        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
-        "songs": [
-          "Les Filles de Illighadad - Imigradan",
-          "Tinariwen - Amassakoul ’N’ Ténéré",
-          "Liya Ag Ablil - Awa Adounia",
-          "Tinariwen - Sastanàqqàm"
-        ],
-        "music-genres": [
-          "Desert Blues",
-          "Tuareg",
-          "World Music"
-        ]
-      },
-      "match_reason": "A rebellion in the Horn of Africa fits with a set dedicated to desert peoples and music of exile and resistance, both telling stories of marginalized groups fighting for autonomy."
-    },
     {
       "hour": 9,
       "fact_text": "On May 27, 1958, the McDonnell Douglas F-4 Phantom II made its first flight, testing the skies above St. Louis. This twin-engine, all-weather fighter became a Cold War icon, serving in multiple roles from interceptor to bomber and even setting world speed and altitude records.",
@@ -588,9 +564,33 @@
         ]
       },
       "match_reason": "A kidnapping at a resort on contested territory contrasts sharply with an episode about cross-cultural friendship and shared identity, underlining how borders can breed either connection or conflict."
+    },
+    {
+      "hour": 8,
+      "fact_text": "On May 27, 1988, the Somali National Movement launched a major offensive against government forces in Hargeisa and Burao, the second- and third-largest cities in Somalia. Their uprising marked a turning point in the Somaliland War of Independence and left deep scars on urban landscapes and collective memory.",
+      "fact_year": 1988,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Somaliland_War_of_Independence",
+      "episode": {
+        "id": 22,
+        "title": "Morning Drops #16 - The Sound of Tuareg",
+        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+        "songs": [
+          "Les Filles de Illighadad - Imigradan",
+          "Tinariwen - Amassakoul ’N’ Ténéré",
+          "Liya Ag Ablil - Awa Adounia",
+          "Tinariwen - Sastanàqqàm"
+        ],
+        "music-genres": [
+          "Desert Blues",
+          "Tuareg",
+          "World Music"
+        ]
+      },
+      "match_reason": "A rebellion in the Horn of Africa fits with a set dedicated to desert peoples and music of exile and resistance, both telling stories of marginalized groups fighting for autonomy."
     }
   ],
   "generated_at": "2026-05-27T00:00:00.022110+00:00",
   "date": "2026-05-27",
-  "updated_at": "2026-05-27T07:00:02.065437+00:00"
+  "updated_at": "2026-05-27T08:00:02.085984+00:00"
 }
