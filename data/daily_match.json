@@ -1,46 +1,31 @@
 {
-  "current_hour": 13,
+  "current_hour": 14,
   "current_fact": {
-    "hour": 12,
-    "fact_text": "On May 27, 1977, Aeroflot Flight 331 crashed while attempting to land at José Martí International Airport in Havana, Cuba, killing 67 people. The disaster unfolded near a city famed for its music and nightlife, a stark reminder of how fragile journeys can be.",
-    "fact_year": 1977,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Aeroflot_Flight_331",
+    "hour": 13,
+    "fact_text": "On May 27, 1967, Australians voted overwhelmingly in a referendum to give the federal government power to make laws for Indigenous Australians and to include them in the national census. The result didn’t solve all injustices, but it marked a historic step towards recognizing people who had been statistically invisible in their own country.",
+    "fact_year": 1967,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1967_Australian_referendum_(Aboriginals)",
     "episode": {
-      "id": 57,
-      "title": "Morning Drops #50 - Postcards from Earth-London",
-      "description": "Postcards from Earth-London is a Morning Drops walk through the city Gaia has called home for the past ten years, a place made of sound, memory, and late-night streets. \n\nFour tracks guide the journey: from iconic landmarks to quieter corners, from romance to reality checks, and back to the reason the city still feels alive: music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-postcards-from-earth-london",
-      "songs": [],
-      "music-genres": []
+      "id": 40,
+      "title": "Morning Drops #34 - Soul Sisters",
+      "description": "A tribute to four iconic voices — women who have shaped the way we listen, feel, and move. Each track carries a different kind of presence: one that holds you, one that questions, one that grounds, and one that lets go. An energy that is soulful, raw, and unapologetically feminine.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-soul-sisters",
+      "songs": [
+        "Grace Jones - Walking in the Rain",
+        "Lauryn Hill - Lost Ones",
+        "Aretha Franklin - A Rose Is Still a Rose",
+        "Loredana Bertè - In Alto Mare"
+      ],
+      "music-genres": [
+        "New Wave",
+        "Neo-Soul",
+        "R&B",
+        "Italian Pop"
+      ]
     },
-    "match_reason": "A fatal arrival in Havana contrasts with an episode that treats a city as a living postcard, highlighting how every urban skyline holds both joyous arrivals and tragic landings."
+    "match_reason": "A referendum about civil rights and recognition fits an episode honoring powerful voices that demand respect, visibility, and dignity."
   },
   "queue": [
-    {
-      "hour": 13,
-      "fact_text": "On May 27, 1967, Australians voted overwhelmingly in a referendum to give the federal government power to make laws for Indigenous Australians and to include them in the national census. The result didn’t solve all injustices, but it marked a historic step towards recognizing people who had been statistically invisible in their own country.",
-      "fact_year": 1967,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1967_Australian_referendum_(Aboriginals)",
-      "episode": {
-        "id": 40,
-        "title": "Morning Drops #34 - Soul Sisters",
-        "description": "A tribute to four iconic voices — women who have shaped the way we listen, feel, and move. Each track carries a different kind of presence: one that holds you, one that questions, one that grounds, and one that lets go. An energy that is soulful, raw, and unapologetically feminine.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-soul-sisters",
-        "songs": [
-          "Grace Jones - Walking in the Rain",
-          "Lauryn Hill - Lost Ones",
-          "Aretha Franklin - A Rose Is Still a Rose",
-          "Loredana Bertè - In Alto Mare"
-        ],
-        "music-genres": [
-          "New Wave",
-          "Neo-Soul",
-          "R&B",
-          "Italian Pop"
-        ]
-      },
-      "match_reason": "A referendum about civil rights and recognition fits an episode honoring powerful voices that demand respect, visibility, and dignity."
-    },
     {
       "hour": 14,
       "fact_text": "Also on May 27, 1967, the U.S. Navy launched the aircraft carrier USS John F. Kennedy, with Jacqueline Kennedy and her daughter Caroline christening the ship. The massive carrier became a floating symbol of Cold War power, carrying aircraft and thousands of crew across the world's oceans.",
@@ -583,9 +568,34 @@
         "music-genres": []
       },
       "match_reason": "A fatal arrival in Havana contrasts with an episode that treats a city as a living postcard, highlighting how every urban skyline holds both joyous arrivals and tragic landings."
+    },
+    {
+      "hour": 13,
+      "fact_text": "On May 27, 1967, Australians voted overwhelmingly in a referendum to give the federal government power to make laws for Indigenous Australians and to include them in the national census. The result didn’t solve all injustices, but it marked a historic step towards recognizing people who had been statistically invisible in their own country.",
+      "fact_year": 1967,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1967_Australian_referendum_(Aboriginals)",
+      "episode": {
+        "id": 40,
+        "title": "Morning Drops #34 - Soul Sisters",
+        "description": "A tribute to four iconic voices — women who have shaped the way we listen, feel, and move. Each track carries a different kind of presence: one that holds you, one that questions, one that grounds, and one that lets go. An energy that is soulful, raw, and unapologetically feminine.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-soul-sisters",
+        "songs": [
+          "Grace Jones - Walking in the Rain",
+          "Lauryn Hill - Lost Ones",
+          "Aretha Franklin - A Rose Is Still a Rose",
+          "Loredana Bertè - In Alto Mare"
+        ],
+        "music-genres": [
+          "New Wave",
+          "Neo-Soul",
+          "R&B",
+          "Italian Pop"
+        ]
+      },
+      "match_reason": "A referendum about civil rights and recognition fits an episode honoring powerful voices that demand respect, visibility, and dignity."
     }
   ],
   "generated_at": "2026-05-27T00:00:00.012596+00:00",
   "date": "2026-05-27",
-  "updated_at": "2026-05-27T13:00:01.974470+00:00"
+  "updated_at": "2026-05-27T14:00:01.974520+00:00"
 }
