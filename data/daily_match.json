@@ -1,46 +1,31 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "On May 27, 1933, the United States enacted the Securities Act of 1933 as part of the New Deal, requiring companies to register securities and fully disclose financial information. It was a direct response to the stock market excesses that preceded the Great Depression, essentially inventing modern securities regulation.",
-    "fact_year": 1933,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Securities_Act_of_1933",
+    "hour": 11,
+    "fact_text": "On May 27, 1915, the munitions-laden ship HMS Princess Irene exploded and sank off Sheerness, Kent. The blast was so powerful that debris rained down miles away, and 352 people lost their lives in one of Britain’s worst non-combat naval disasters.",
+    "fact_year": 1915,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/HMS_Princess_Irene",
     "episode": {
-      "id": 63,
-      "title": "Morning Drops #54 - Intentional Listening",
-      "description": "Do you remember what it felt like to listen to music without a streaming platform?\nIn this Morning Drops episode, Gaia reflects on a recent experiment: stepping away from algorithmic listening and going back to an iPod. \n\nWhat starts as a small personal choice opens into a wider meditation on attention, presence, and what happens when music is no longer treated as something infinite, but as something we choose with care.\n\nTracklist:\nScientist - Drum Song Dub\nThe Other People Place - Let Me Be Me\nA Forest Mighty Black - Fresh In My Mind\nCymande - Bra",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-intentional-listening",
-      "songs": [],
-      "music-genres": []
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+      "songs": [
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
+      ],
+      "music-genres": [
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
+      ]
     },
-    "match_reason": "A law forcing transparency and intentional disclosure mirrors the episode’s call for intentional listening—both push back against blind, uncontrolled systems by asking us to slow down and choose carefully."
+    "match_reason": "A ship’s catastrophic end in cold waters contrasts with the serene yet powerful imagery of diving with whales, inviting reflection on the sea as both graveyard and sanctuary."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "On May 27, 1915, the munitions-laden ship HMS Princess Irene exploded and sank off Sheerness, Kent. The blast was so powerful that debris rained down miles away, and 352 people lost their lives in one of Britain’s worst non-combat naval disasters.",
-      "fact_year": 1915,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/HMS_Princess_Irene",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "A ship’s catastrophic end in cold waters contrasts with the serene yet powerful imagery of diving with whales, inviting reflection on the sea as both graveyard and sanctuary."
-    },
     {
       "hour": 12,
       "fact_text": "On May 27, 1977, Aeroflot Flight 331 crashed during landing at José Martí International Airport in Havana, killing 67 people. The accident occurred in poor weather and underscored the challenges of operating complex international flights in the Cold War era.",
@@ -579,9 +564,34 @@
         "music-genres": []
       },
       "match_reason": "A law forcing transparency and intentional disclosure mirrors the episode’s call for intentional listening—both push back against blind, uncontrolled systems by asking us to slow down and choose carefully."
+    },
+    {
+      "hour": 11,
+      "fact_text": "On May 27, 1915, the munitions-laden ship HMS Princess Irene exploded and sank off Sheerness, Kent. The blast was so powerful that debris rained down miles away, and 352 people lost their lives in one of Britain’s worst non-combat naval disasters.",
+      "fact_year": 1915,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/HMS_Princess_Irene",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "A ship’s catastrophic end in cold waters contrasts with the serene yet powerful imagery of diving with whales, inviting reflection on the sea as both graveyard and sanctuary."
     }
   ],
   "generated_at": "2026-05-27T00:00:00.022110+00:00",
   "date": "2026-05-27",
-  "updated_at": "2026-05-27T10:00:02.011306+00:00"
+  "updated_at": "2026-05-27T11:00:01.800744+00:00"
 }
