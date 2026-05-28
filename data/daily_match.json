@@ -1,56 +1,31 @@
 {
-  "current_hour": 16,
+  "current_hour": 17,
   "current_fact": {
-    "hour": 16,
-    "fact_text": "On May 28, 1588, the Spanish Armada—around 130 ships carrying some 30,000 men—set sail from Lisbon toward the English Channel. The massive fleet was part religious crusade, part geopolitical gamble, and its fate would shape the balance of power in Europe.",
-    "fact_year": 1588,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Spanish_Armada",
+    "hour": 17,
+    "fact_text": "On May 28, 1987, 18‑year‑old Mathias Rust flew a small Cessna from Finland, slipped through Soviet air defenses, and landed near Red Square in Moscow. His unauthorized flight humiliated the Soviet military and led to significant shake‑ups in the Soviet command.",
+    "fact_year": 1987,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mathias_Rust",
     "episode": {
-      "id": 18,
-      "title": "Morning Drops #12 - 80's Club",
-      "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
+      "id": 26,
+      "title": "Morning Drops #20 - Hitchhiking Poland",
+      "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
       "songs": [
-        "Donna Summer - I Feel Love",
-        "Depeche Mode - Just Can't Get Enough",
-        "Ken Laszlo - Hey Hey Guy",
-        "Mylène Farmer - Sans Contrefaçon"
+        "Pidżama Porno - Ezoteryczny Poznań",
+        "Seev, Masswo - Primal Scream",
+        "Antoha MC - Ритм сердца",
+        "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
       ],
       "music-genres": [
-        "Disco",
-        "Synthpop",
-        "Italo Disco",
-        "French Pop"
+        "Polish Rock",
+        "Electronic",
+        "Russian Rap",
+        "Slavic Folk Rock"
       ]
     },
-    "match_reason": "A colossal European fleet heading into the unknown mirrors an 80s dancefloor armada of disco and synthpop, with both stories driven by coordination, momentum, and shared rhythm."
+    "match_reason": "Rust’s audacious solo flight across borders to the Soviet heartland mirrors the episode’s cross-border journey through Central and Eastern Europe, with Polish and Russian sounds tracing unconventional travel routes."
   },
   "queue": [
-    {
-      "hour": 17,
-      "fact_text": "On May 28, 1987, 18‑year‑old Mathias Rust flew a small Cessna from Finland, slipped through Soviet air defenses, and landed near Red Square in Moscow. His unauthorized flight humiliated the Soviet military and led to significant shake‑ups in the Soviet command.",
-      "fact_year": 1987,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mathias_Rust",
-      "episode": {
-        "id": 26,
-        "title": "Morning Drops #20 - Hitchhiking Poland",
-        "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
-        "songs": [
-          "Pidżama Porno - Ezoteryczny Poznań",
-          "Seev, Masswo - Primal Scream",
-          "Antoha MC - Ритм сердца",
-          "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
-        ],
-        "music-genres": [
-          "Polish Rock",
-          "Electronic",
-          "Russian Rap",
-          "Slavic Folk Rock"
-        ]
-      },
-      "match_reason": "Rust’s audacious solo flight across borders to the Soviet heartland mirrors the episode’s cross-border journey through Central and Eastern Europe, with Polish and Russian sounds tracing unconventional travel routes."
-    },
     {
       "hour": 18,
       "fact_text": "On May 28, 1991, the Ethiopian People's Revolutionary Democratic Front captured Addis Ababa, toppling the Derg regime and effectively ending the Ethiopian Civil War. The event marked a profound political transition after years of conflict, famine, and authoritarian rule.",
@@ -645,9 +620,34 @@
         ]
       },
       "match_reason": "A colossal European fleet heading into the unknown mirrors an 80s dancefloor armada of disco and synthpop, with both stories driven by coordination, momentum, and shared rhythm."
+    },
+    {
+      "hour": 17,
+      "fact_text": "On May 28, 1987, 18‑year‑old Mathias Rust flew a small Cessna from Finland, slipped through Soviet air defenses, and landed near Red Square in Moscow. His unauthorized flight humiliated the Soviet military and led to significant shake‑ups in the Soviet command.",
+      "fact_year": 1987,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mathias_Rust",
+      "episode": {
+        "id": 26,
+        "title": "Morning Drops #20 - Hitchhiking Poland",
+        "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
+        "songs": [
+          "Pidżama Porno - Ezoteryczny Poznań",
+          "Seev, Masswo - Primal Scream",
+          "Antoha MC - Ритм сердца",
+          "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
+        ],
+        "music-genres": [
+          "Polish Rock",
+          "Electronic",
+          "Russian Rap",
+          "Slavic Folk Rock"
+        ]
+      },
+      "match_reason": "Rust’s audacious solo flight across borders to the Soviet heartland mirrors the episode’s cross-border journey through Central and Eastern Europe, with Polish and Russian sounds tracing unconventional travel routes."
     }
   ],
   "generated_at": "2026-05-28T00:00:00.020135+00:00",
   "date": "2026-05-28",
-  "updated_at": "2026-05-28T16:00:02.271510+00:00"
+  "updated_at": "2026-05-28T17:00:02.137929+00:00"
 }
