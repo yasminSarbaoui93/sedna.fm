@@ -1,61 +1,31 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On May 28, 1962, the Soviet Union launched Kosmos 5, an early scientific satellite designed to study the Earth's radiation environment. Its mission helped refine understanding of space weather and the conditions confronting spacecraft in low Earth orbit.",
-    "fact_year": 1962,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Kosmos_5",
+    "hour": 2,
+    "fact_text": "On May 28, 1936, Alan Turing submitted his paper \"On Computable Numbers,\" introducing the abstract 'Turing machine' and laying the foundations of modern computer science. The work showed that there are well-posed problems no algorithm can solve, forever changing how humans think about logic and computation.",
+    "fact_year": 1936,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Alan_Turing",
     "episode": {
-      "id": 48,
-      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "Stive Morgan - Solar Wind, Pt. 3",
-        "David Visan & Carlos Campos - Crystal Heart",
-        "Evan Mars - Ya Zareef Al Tool",
-        "Gerardo Frisina - Cuiabá",
-        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-        "The Busy Twist - Friday Night"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Ambient",
-        "Deep House",
-        "World Music",
-        "Nu Jazz",
-        "Afrobeat",
-        "Funk",
-        "Electronic"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "A satellite studying 'solar wind' and orbital space pairs nicely with an episode opening on ambient cosmic textures and a track literally titled 'Solar Wind'."
+    "match_reason": "Turing’s theoretical machines underpin modern computers and smartphones, while this episode reflects on our digital dependence with tracks like 'Internet' and 'Computer Love'."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "On May 28, 1936, Alan Turing submitted his paper \"On Computable Numbers,\" introducing the abstract 'Turing machine' and laying the foundations of modern computer science. The work showed that there are well-posed problems no algorithm can solve, forever changing how humans think about logic and computation.",
-      "fact_year": 1936,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Alan_Turing",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "Turing’s theoretical machines underpin modern computers and smartphones, while this episode reflects on our digital dependence with tracks like 'Internet' and 'Computer Love'."
-    },
     {
       "hour": 3,
       "fact_text": "On May 28, 1892, naturalist John Muir founded the Sierra Club in San Francisco, creating one of the first major grassroots organizations devoted to protecting wild landscapes. The club became a driving force behind national parks and a symbol of the modern environmental movement.",
@@ -650,9 +620,34 @@
         ]
       },
       "match_reason": "A satellite studying 'solar wind' and orbital space pairs nicely with an episode opening on ambient cosmic textures and a track literally titled 'Solar Wind'."
+    },
+    {
+      "hour": 2,
+      "fact_text": "On May 28, 1936, Alan Turing submitted his paper \"On Computable Numbers,\" introducing the abstract 'Turing machine' and laying the foundations of modern computer science. The work showed that there are well-posed problems no algorithm can solve, forever changing how humans think about logic and computation.",
+      "fact_year": 1936,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Alan_Turing",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "Turing’s theoretical machines underpin modern computers and smartphones, while this episode reflects on our digital dependence with tracks like 'Internet' and 'Computer Love'."
     }
   ],
   "generated_at": "2026-05-28T00:00:00.020135+00:00",
   "date": "2026-05-28",
-  "updated_at": "2026-05-28T01:00:01.500843+00:00"
+  "updated_at": "2026-05-28T02:00:01.652585+00:00"
 }
