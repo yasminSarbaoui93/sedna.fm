@@ -1,46 +1,31 @@
 {
-  "current_hour": 14,
+  "current_hour": 15,
   "current_fact": {
-    "hour": 14,
-    "fact_text": "On 29 May 1780, during the American Revolutionary War, the Battle of Waxhaws descended into what Patriots called a massacre when British dragoons continued attacking many Continental soldiers after they tried to surrender. The brutal episode fueled propaganda, hardened colonial resolve, and helped give British officer Banastre Tarleton a notorious reputation.",
-    "fact_year": 1780,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Waxhaws",
+    "hour": 15,
+    "fact_text": "On 29 May 363, the Roman emperor Julian led his forces to victory over the Sasanian army outside their capital Ctesiphon but failed to capture the city itself. The partial success left his army deep in enemy territory without a clear path forward, foreshadowing the campaign’s eventual collapse and his own death soon after.",
+    "fact_year": 363,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Julian_(emperor)",
     "episode": {
-      "id": 59,
-      "title": "Morning Drops #51 - The Dancefloor",
-      "description": "For International Women’s Day, this Morning Drop turns its focus to women on the dancefloor, not as a trend, but as a cultural force.\n\nAcross five tracks, Gaia follows a line from disco closers to hip hop club classics, tracing how the dancefloor became a place where women could take space, build confidence, and create connection, sometimes with friends, sometimes alone, always with music at the centre.\n\nThis episode isn’t about pointing fingers. It’s a gentle reminder that spaces like the dancefloor still matter: places where people can express themselves, meet each other with respect, and feel part of something bigger than a night out.\n\nTracklist:\nDonna Summer - Last Dance (1978)\nThe Sequence  - Funk you up\nSalt-N-Pepa - Push It\nQueen Latifah - Ladies First\nAlicia Bridges - I Love the Nightlife",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-dancefloor",
-      "songs": [],
-      "music-genres": []
+      "id": 53,
+      "title": "Morning Drops #46 - Fog and Fire",
+      "description": "In today’s Morning Drops, Gaia brings us on a passport-free trip between two Italian energies: the foggy stillness of the North and the volcanic pulse of the South. Throughout the journey, Gaia shares four of her favourite Italian songwriters. Grab your coffee and tune into the radio show from another planet!",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-fog-and-fire",
+      "songs": [
+        "Edoardo Bennato - La Torre Di Babele",
+        "Zucchero - Diavolo in Me",
+        "Lucio Dalla - Com'è Profondo il Mare",
+        "Pino Daniele - Tutta N'ata Storia"
+      ],
+      "music-genres": [
+        "Blues",
+        "indie",
+        "Italian",
+        "Soft Rock"
+      ]
     },
-    "match_reason": "The contrast between a battlefield where surrender wasn’t respected and a dancefloor episode centered on respect and shared space sharpens the moral arc, turning Waxhaws into a reminder of why safe communal spaces matter."
+    "match_reason": "The theme of \"Fog and Fire\" mirrors Julian’s campaign: fog for the uncertainty after a half‑victory at Ctesiphon, fire for the intense, volatile battles fought under the walls of a capital he could not take."
   },
   "queue": [
-    {
-      "hour": 15,
-      "fact_text": "On 29 May 363, the Roman emperor Julian led his forces to victory over the Sasanian army outside their capital Ctesiphon but failed to capture the city itself. The partial success left his army deep in enemy territory without a clear path forward, foreshadowing the campaign’s eventual collapse and his own death soon after.",
-      "fact_year": 363,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Julian_(emperor)",
-      "episode": {
-        "id": 53,
-        "title": "Morning Drops #46 - Fog and Fire",
-        "description": "In today’s Morning Drops, Gaia brings us on a passport-free trip between two Italian energies: the foggy stillness of the North and the volcanic pulse of the South. Throughout the journey, Gaia shares four of her favourite Italian songwriters. Grab your coffee and tune into the radio show from another planet!",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-fog-and-fire",
-        "songs": [
-          "Edoardo Bennato - La Torre Di Babele",
-          "Zucchero - Diavolo in Me",
-          "Lucio Dalla - Com'è Profondo il Mare",
-          "Pino Daniele - Tutta N'ata Storia"
-        ],
-        "music-genres": [
-          "Blues",
-          "indie",
-          "Italian",
-          "Soft Rock"
-        ]
-      },
-      "match_reason": "The theme of \"Fog and Fire\" mirrors Julian’s campaign: fog for the uncertainty after a half‑victory at Ctesiphon, fire for the intense, volatile battles fought under the walls of a capital he could not take."
-    },
     {
       "hour": 16,
       "fact_text": "On 29 May 1945, the Consolidated B‑32 Dominator heavy bomber flew its first combat mission in the closing months of World War II. Designed as a backup to the B‑29, it arrived so late that only a handful of missions were flown before the war ended, making it a rare, almost experimental footnote in aviation history.",
@@ -617,9 +602,34 @@
         "music-genres": []
       },
       "match_reason": "The contrast between a battlefield where surrender wasn’t respected and a dancefloor episode centered on respect and shared space sharpens the moral arc, turning Waxhaws into a reminder of why safe communal spaces matter."
+    },
+    {
+      "hour": 15,
+      "fact_text": "On 29 May 363, the Roman emperor Julian led his forces to victory over the Sasanian army outside their capital Ctesiphon but failed to capture the city itself. The partial success left his army deep in enemy territory without a clear path forward, foreshadowing the campaign’s eventual collapse and his own death soon after.",
+      "fact_year": 363,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Julian_(emperor)",
+      "episode": {
+        "id": 53,
+        "title": "Morning Drops #46 - Fog and Fire",
+        "description": "In today’s Morning Drops, Gaia brings us on a passport-free trip between two Italian energies: the foggy stillness of the North and the volcanic pulse of the South. Throughout the journey, Gaia shares four of her favourite Italian songwriters. Grab your coffee and tune into the radio show from another planet!",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-fog-and-fire",
+        "songs": [
+          "Edoardo Bennato - La Torre Di Babele",
+          "Zucchero - Diavolo in Me",
+          "Lucio Dalla - Com'è Profondo il Mare",
+          "Pino Daniele - Tutta N'ata Storia"
+        ],
+        "music-genres": [
+          "Blues",
+          "indie",
+          "Italian",
+          "Soft Rock"
+        ]
+      },
+      "match_reason": "The theme of \"Fog and Fire\" mirrors Julian’s campaign: fog for the uncertainty after a half‑victory at Ctesiphon, fire for the intense, volatile battles fought under the walls of a capital he could not take."
     }
   ],
   "generated_at": "2026-05-29T00:00:00.018437+00:00",
   "date": "2026-05-29",
-  "updated_at": "2026-05-29T14:00:01.820882+00:00"
+  "updated_at": "2026-05-29T15:00:01.737542+00:00"
 }
