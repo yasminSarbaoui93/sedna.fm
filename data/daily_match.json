@@ -1,56 +1,31 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "On May 30, 1968, French President Charles de Gaulle reappeared in public after a mysterious trip to Baden-Baden, dissolved the National Assembly via radio, and then watched nearly a million supporters march on the Champs-Élysées. This dramatic show of strength marked the turning point that defused the May 1968 uprisings in France.",
-    "fact_year": 1968,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Charles_de_Gaulle",
+    "hour": 11,
+    "fact_text": "On May 30, 1966, former Congolese Prime Minister Évariste Kimba and several politicians were publicly hanged in Kinshasa, on the orders of President Joseph Mobutu. The spectacle was meant as a warning, signaling the consolidation of Mobutu’s authoritarian rule in the newly renamed Democratic Republic of the Congo.",
+    "fact_year": 1966,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/%C3%89variste_Kimba",
     "episode": {
-      "id": 33,
-      "title": "Morning Drops #27 - Nomophobia",
-      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+      "id": 56,
+      "title": "Morning Drops #49 - Rage Against The Machine",
+      "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
       "songs": [
-        "All Them Witches - Internet",
-        "James Blake - The Wilhelm Scream",
-        "Nick Mulvey - Juramidam",
-        "Kraftwerk - Computer Love"
+        "Rage Against the Machine - Bombtrack",
+        "Rage Against the Machine - Killing in the Name",
+        "Rage Against the Machine - Without a Face",
+        "Rage Against the Machine - Guerrilla Radio",
+        "Rage Against the Machine - Sleep Now in the Fire"
       ],
       "music-genres": [
-        "Psychedelic Rock",
-        "Electronic",
-        "Folk",
-        "Synth-Pop"
+        "Rap Metal",
+        "Political Rock",
+        "Alternative Metal"
       ]
     },
-    "match_reason": "A radio appeal that shifts a nation’s mood pairs with an episode questioning modern communication tools—both ask how voices and networks shape collective behavior."
+    "match_reason": "A harsh episode about militant music and state power meshes with a grim moment of political repression and public executions."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "On May 30, 1966, former Congolese Prime Minister Évariste Kimba and several politicians were publicly hanged in Kinshasa, on the orders of President Joseph Mobutu. The spectacle was meant as a warning, signaling the consolidation of Mobutu’s authoritarian rule in the newly renamed Democratic Republic of the Congo.",
-      "fact_year": 1966,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/%C3%89variste_Kimba",
-      "episode": {
-        "id": 56,
-        "title": "Morning Drops #49 - Rage Against The Machine",
-        "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
-        "songs": [
-          "Rage Against the Machine - Bombtrack",
-          "Rage Against the Machine - Killing in the Name",
-          "Rage Against the Machine - Without a Face",
-          "Rage Against the Machine - Guerrilla Radio",
-          "Rage Against the Machine - Sleep Now in the Fire"
-        ],
-        "music-genres": [
-          "Rap Metal",
-          "Political Rock",
-          "Alternative Metal"
-        ]
-      },
-      "match_reason": "A harsh episode about militant music and state power meshes with a grim moment of political repression and public executions."
-    },
     {
       "hour": 12,
       "fact_text": "On May 30, 1967, Nigeria’s Eastern Region declared itself the independent Republic of Biafra, triggering a brutal civil war. The conflict, marked by famine and international controversy, became one of the 20th century’s most haunting examples of how borders, identity, and resources can fracture a young nation.",
@@ -627,9 +602,34 @@
         ]
       },
       "match_reason": "A radio appeal that shifts a nation’s mood pairs with an episode questioning modern communication tools—both ask how voices and networks shape collective behavior."
+    },
+    {
+      "hour": 11,
+      "fact_text": "On May 30, 1966, former Congolese Prime Minister Évariste Kimba and several politicians were publicly hanged in Kinshasa, on the orders of President Joseph Mobutu. The spectacle was meant as a warning, signaling the consolidation of Mobutu’s authoritarian rule in the newly renamed Democratic Republic of the Congo.",
+      "fact_year": 1966,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/%C3%89variste_Kimba",
+      "episode": {
+        "id": 56,
+        "title": "Morning Drops #49 - Rage Against The Machine",
+        "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
+        "songs": [
+          "Rage Against the Machine - Bombtrack",
+          "Rage Against the Machine - Killing in the Name",
+          "Rage Against the Machine - Without a Face",
+          "Rage Against the Machine - Guerrilla Radio",
+          "Rage Against the Machine - Sleep Now in the Fire"
+        ],
+        "music-genres": [
+          "Rap Metal",
+          "Political Rock",
+          "Alternative Metal"
+        ]
+      },
+      "match_reason": "A harsh episode about militant music and state power meshes with a grim moment of political repression and public executions."
     }
   ],
   "generated_at": "2026-05-30T00:00:00.022266+00:00",
   "date": "2026-05-30",
-  "updated_at": "2026-05-30T10:00:01.629553+00:00"
+  "updated_at": "2026-05-30T11:00:01.646776+00:00"
 }
