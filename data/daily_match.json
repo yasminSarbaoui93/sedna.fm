@@ -1,56 +1,31 @@
 {
-  "current_hour": 13,
+  "current_hour": 14,
   "current_fact": {
-    "hour": 13,
-    "fact_text": "On May 30, 1982, Spain formally joined NATO, just seven years after emerging from decades of dictatorship under Franco. The move symbolized a decisive step into Western alliances and reshaped Spain’s role in European and global security.",
-    "fact_year": 1982,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/NATO",
+    "hour": 14,
+    "fact_text": "On May 30, 1588, the last ships of the Spanish Armada departed Lisbon, bound for the English Channel in a grand attempt to invade England. The fleet would soon battle storms as much as enemy ships, and its failure became a turning point in naval history and imperial rivalry.",
+    "fact_year": 1588,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Spanish_Armada",
     "episode": {
-      "id": 44,
-      "title": "Morning Drops #38 - History of Flamenco",
-      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+      "id": 28,
+      "title": "Morning Drops #22 - Sicilians On The Dolomites",
+      "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
       "songs": [
-        "La Niña de los Peines - Al Gurugú",
-        "Lola Flores - Pena, penita, pena",
-        "Paco de Lucía - Entre dos aguas",
-        "Camarón de la Isla - La leyenda del tempo",
-        "Rosalía - Pienso en tu mirá"
+        "Franco Battiato - Haiku",
+        "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
+        "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
+        "Pink Floyd - Fearless"
       ],
       "music-genres": [
-        "Flamenco",
-        "Spanish Folk",
-        "Nuevo Flamenco"
+        "Italian Art Pop",
+        "French Jazz",
+        "Italian Singer-Songwriter",
+        "Progressive Rock"
       ]
     },
-    "match_reason": "A deep dive into Spanish cultural history provides a nuanced backdrop for the political story of Spain joining a military alliance."
+    "match_reason": "The presence of \"Ma come fanno i marinai\" (\"how do sailors do it\") and maritime imagery creates a poetic link to the massive sailing armada leaving Lisbon."
   },
   "queue": [
-    {
-      "hour": 14,
-      "fact_text": "On May 30, 1588, the last ships of the Spanish Armada departed Lisbon, bound for the English Channel in a grand attempt to invade England. The fleet would soon battle storms as much as enemy ships, and its failure became a turning point in naval history and imperial rivalry.",
-      "fact_year": 1588,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Spanish_Armada",
-      "episode": {
-        "id": 28,
-        "title": "Morning Drops #22 - Sicilians On The Dolomites",
-        "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
-        "songs": [
-          "Franco Battiato - Haiku",
-          "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
-          "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
-          "Pink Floyd - Fearless"
-        ],
-        "music-genres": [
-          "Italian Art Pop",
-          "French Jazz",
-          "Italian Singer-Songwriter",
-          "Progressive Rock"
-        ]
-      },
-      "match_reason": "The presence of \"Ma come fanno i marinai\" (\"how do sailors do it\") and maritime imagery creates a poetic link to the massive sailing armada leaving Lisbon."
-    },
     {
       "hour": 15,
       "fact_text": "On May 30, 1796, during the Battle of Borghetto in the War of the First Coalition, Napoleon Bonaparte forced a crossing of the Mincio River against Austrian forces. This maneuver pushed the Austrians out of Lombardy, leaving only the fortress of Mantua as their last stronghold in northern Italy.",
@@ -627,9 +602,34 @@
         ]
       },
       "match_reason": "A deep dive into Spanish cultural history provides a nuanced backdrop for the political story of Spain joining a military alliance."
+    },
+    {
+      "hour": 14,
+      "fact_text": "On May 30, 1588, the last ships of the Spanish Armada departed Lisbon, bound for the English Channel in a grand attempt to invade England. The fleet would soon battle storms as much as enemy ships, and its failure became a turning point in naval history and imperial rivalry.",
+      "fact_year": 1588,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Spanish_Armada",
+      "episode": {
+        "id": 28,
+        "title": "Morning Drops #22 - Sicilians On The Dolomites",
+        "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
+        "songs": [
+          "Franco Battiato - Haiku",
+          "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
+          "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
+          "Pink Floyd - Fearless"
+        ],
+        "music-genres": [
+          "Italian Art Pop",
+          "French Jazz",
+          "Italian Singer-Songwriter",
+          "Progressive Rock"
+        ]
+      },
+      "match_reason": "The presence of \"Ma come fanno i marinai\" (\"how do sailors do it\") and maritime imagery creates a poetic link to the massive sailing armada leaving Lisbon."
     }
   ],
   "generated_at": "2026-05-30T00:00:00.022266+00:00",
   "date": "2026-05-30",
-  "updated_at": "2026-05-30T13:00:01.754161+00:00"
+  "updated_at": "2026-05-30T14:00:01.387218+00:00"
 }
