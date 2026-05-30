@@ -1,59 +1,34 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "On May 30, 1866, Bedřich Smetana’s comic opera \"The Bartered Bride\" premiered in Prague, initially in a modest, partially spoken version. It would later grow into a fully sung, richly orchestrated national treasure, helping to define a distinctly Czech sound in classical music.",
-    "fact_year": 1866,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/The_Bartered_Bride",
+    "hour": 5,
+    "fact_text": "On May 30, 1914, the RMS Aquitania, then the largest Cunard ocean liner at over 45,000 tons, set sail on her maiden voyage from Liverpool to New York. Nicknamed the \"Ship Beautiful,\" she would serve across two world wars and peacetime cruises, outlasting many of her grand contemporaries.",
+    "fact_year": 1914,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/RMS_Aquitania",
     "episode": {
-      "id": 27,
-      "title": "Morning Drops #21 - Endless Summer",
-      "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "Nik Bärtsch - Modul 14",
-        "Mama Terra - Chameleon (Single Edit)",
-        "Spyro Gyra - Morning Dance",
-        "Yussef Kamaal - Black Focus"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Minimal Jazz",
-        "Nu Jazz",
-        "Jazz Fusion",
-        "UK Jazz"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "Smetana’s bright, dance-filled opera connects with an episode built around warm, rhythmic instrumentals and a light, festive atmosphere."
+    "match_reason": "A sea-themed episode recorded on a boat naturally resonates with the majestic first voyage of a legendary ocean liner."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "On May 30, 1914, the RMS Aquitania, then the largest Cunard ocean liner at over 45,000 tons, set sail on her maiden voyage from Liverpool to New York. Nicknamed the \"Ship Beautiful,\" she would serve across two world wars and peacetime cruises, outlasting many of her grand contemporaries.",
-      "fact_year": 1914,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/RMS_Aquitania",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "A sea-themed episode recorded on a boat naturally resonates with the majestic first voyage of a legendary ocean liner."
-    },
     {
       "hour": 6,
       "fact_text": "On May 30, 1815, the East Indiaman Arniston wrecked in a storm near Waenhuiskrans (now Arniston) in present-day South Africa, with 372 lives lost. Navigating without a chronometer, the ship misjudged its position—a tragedy that helped push for safer navigation standards and more widespread use of precise timekeeping at sea.",
@@ -627,9 +602,37 @@
         ]
       },
       "match_reason": "Smetana’s bright, dance-filled opera connects with an episode built around warm, rhythmic instrumentals and a light, festive atmosphere."
+    },
+    {
+      "hour": 5,
+      "fact_text": "On May 30, 1914, the RMS Aquitania, then the largest Cunard ocean liner at over 45,000 tons, set sail on her maiden voyage from Liverpool to New York. Nicknamed the \"Ship Beautiful,\" she would serve across two world wars and peacetime cruises, outlasting many of her grand contemporaries.",
+      "fact_year": 1914,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/RMS_Aquitania",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "A sea-themed episode recorded on a boat naturally resonates with the majestic first voyage of a legendary ocean liner."
     }
   ],
   "generated_at": "2026-05-30T00:00:00.022266+00:00",
   "date": "2026-05-30",
-  "updated_at": "2026-05-30T04:00:01.389410+00:00"
+  "updated_at": "2026-05-30T05:00:01.669417+00:00"
 }
