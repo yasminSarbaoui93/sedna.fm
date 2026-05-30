@@ -1,64 +1,40 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On May 30, 2020, SpaceX’s Crew Dragon Demo-2 launched from Kennedy Space Center, sending astronauts into orbit from U.S. soil for the first time since the Space Shuttle retired in 2011. It also marked the first time a private company flew humans to the International Space Station, signaling a new era of commercial spaceflight.",
-    "fact_year": 2020,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Crew_Dragon_Demo-2",
+    "hour": 2,
+    "fact_text": "On May 30, 1975, European nations officially created the European Space Agency (ESA), pooling their resources to explore space together. What began as a cooperative alternative to superpower space races has since launched missions to comets, Mars, and deep space, making Europe a key player in cosmic exploration.",
+    "fact_year": 1975,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/European_Space_Agency",
     "episode": {
-      "id": 55,
-      "title": "Morning Drops #48 - Cosmic Monday",
-      "description": "Cosmic Monday is a Morning Drops episode built around four Italian dance records, tracing how disco rhythms slowly became electronic language.\nGaia moves through four tracks like chapters: groove first, then machines, then that bright, futuristic feeling you only get when the bassline is doing the talking. It's not nostalgia, exactly. It's more like returning to a sound that still works — especially on mornings when you need a little extra energy, but you don't want anything aggressive.\nTake it as a slow transmission. Let it carry you into the day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-cosmic-monday",
+      "id": 2,
+      "title": "Sedna FM #02 - Destination Sedna",
+      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
       "songs": [
-        "Giovanotti Mondani Meccanici - Don't Ask Me Why",
-        "Azoto - Sal Salvador",
-        "Capricorn - I Need Love",
-        "Cosmic Disco - Cosmic Sprint"
+        "Pink Floyd - Breathe",
+        "The fountain DC - Starburster",
+        "Laura Cahen - La Poussiere",
+        "Taxi Kebab - Lmchi w rjou3",
+        "Odion Iruoje - Identify With Your Roots",
+        "Depeche mode - world in my eyes (Oil Tank Mix)",
+        "Massive attack - Dissolved girl",
+        "Kokoroko - Three piece suite",
+        "Salin - Egungun",
+        "E.S.P. - It's You"
       ],
       "music-genres": [
-        "Italo Disco",
-        "Disco",
-        "Electronic"
+        "Progressive Rock",
+        "Post-Punk",
+        "French Pop",
+        "Maghreb",
+        "Afrobeat",
+        "Synthpop",
+        "Trip-Hop"
       ]
     },
-    "match_reason": "A \"Cosmic\" themed, machine-driven dance episode mirrors the futuristic, technology-heavy leap of the first commercial crewed launch to orbit."
+    "match_reason": "An episode framed as a shared journey to a distant destination echoes ESA’s multinational voyage into space."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "On May 30, 1975, European nations officially created the European Space Agency (ESA), pooling their resources to explore space together. What began as a cooperative alternative to superpower space races has since launched missions to comets, Mars, and deep space, making Europe a key player in cosmic exploration.",
-      "fact_year": 1975,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/European_Space_Agency",
-      "episode": {
-        "id": 2,
-        "title": "Sedna FM #02 - Destination Sedna",
-        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
-        "songs": [
-          "Pink Floyd - Breathe",
-          "The fountain DC - Starburster",
-          "Laura Cahen - La Poussiere",
-          "Taxi Kebab - Lmchi w rjou3",
-          "Odion Iruoje - Identify With Your Roots",
-          "Depeche mode - world in my eyes (Oil Tank Mix)",
-          "Massive attack - Dissolved girl",
-          "Kokoroko - Three piece suite",
-          "Salin - Egungun",
-          "E.S.P. - It's You"
-        ],
-        "music-genres": [
-          "Progressive Rock",
-          "Post-Punk",
-          "French Pop",
-          "Maghreb",
-          "Afrobeat",
-          "Synthpop",
-          "Trip-Hop"
-        ]
-      },
-      "match_reason": "An episode framed as a shared journey to a distant destination echoes ESA’s multinational voyage into space."
-    },
     {
       "hour": 3,
       "fact_text": "On May 30, 1723, Johann Sebastian Bach took up the post of Thomaskantor in Leipzig and premiered his cantata \"Die Elenden sollen essen\" in St. Nicholas Church. Over the following years, this role would push him to compose a staggering sequence of weekly cantatas, turning one city’s church job into a cornerstone of Western music.",
@@ -626,9 +602,43 @@
         ]
       },
       "match_reason": "A \"Cosmic\" themed, machine-driven dance episode mirrors the futuristic, technology-heavy leap of the first commercial crewed launch to orbit."
+    },
+    {
+      "hour": 2,
+      "fact_text": "On May 30, 1975, European nations officially created the European Space Agency (ESA), pooling their resources to explore space together. What began as a cooperative alternative to superpower space races has since launched missions to comets, Mars, and deep space, making Europe a key player in cosmic exploration.",
+      "fact_year": 1975,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/European_Space_Agency",
+      "episode": {
+        "id": 2,
+        "title": "Sedna FM #02 - Destination Sedna",
+        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+        "songs": [
+          "Pink Floyd - Breathe",
+          "The fountain DC - Starburster",
+          "Laura Cahen - La Poussiere",
+          "Taxi Kebab - Lmchi w rjou3",
+          "Odion Iruoje - Identify With Your Roots",
+          "Depeche mode - world in my eyes (Oil Tank Mix)",
+          "Massive attack - Dissolved girl",
+          "Kokoroko - Three piece suite",
+          "Salin - Egungun",
+          "E.S.P. - It's You"
+        ],
+        "music-genres": [
+          "Progressive Rock",
+          "Post-Punk",
+          "French Pop",
+          "Maghreb",
+          "Afrobeat",
+          "Synthpop",
+          "Trip-Hop"
+        ]
+      },
+      "match_reason": "An episode framed as a shared journey to a distant destination echoes ESA’s multinational voyage into space."
     }
   ],
   "generated_at": "2026-05-30T00:00:00.022266+00:00",
   "date": "2026-05-30",
-  "updated_at": "2026-05-30T01:00:01.696953+00:00"
+  "updated_at": "2026-05-30T02:00:01.821155+00:00"
 }
