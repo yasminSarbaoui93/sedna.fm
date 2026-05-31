@@ -1,46 +1,31 @@
 {
-  "current_hour": 9,
+  "current_hour": 10,
   "current_fact": {
-    "hour": 9,
-    "fact_text": "On this day in 1859, the clock tower at the Palace of Westminster—now popularly called Big Ben—began keeping time for London. Its great bell is tuned slightly off perfect pitch, creating a distinctive chime that’s become an unofficial heartbeat for British political life and countless New Year’s celebrations.",
-    "fact_year": 1859,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Big_Ben",
+    "hour": 10,
+    "fact_text": "In 1911, the RMS Titanic slid down the slipway in Belfast and into the water for the first time, cheered by tens of thousands of onlookers. At her launch she was the largest movable man-made object on Earth, a steel cathedral of Edwardian confidence that would sail for less than five days before meeting the iceberg that sealed her legend.",
+    "fact_year": 1911,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Titanic",
     "episode": {
-      "id": 57,
-      "title": "Morning Drops #50 - Postcards from Earth-London",
-      "description": "Postcards from Earth-London is a Morning Drops walk through the city Gaia has called home for the past ten years, a place made of sound, memory, and late-night streets. \n\nFour tracks guide the journey: from iconic landmarks to quieter corners, from romance to reality checks, and back to the reason the city still feels alive: music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-postcards-from-earth-london",
-      "songs": [],
-      "music-genres": []
+      "id": 39,
+      "title": "Morning Drops #33 - Immerse",
+      "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
+      "songs": [
+        "Pino D'Angiò - Un Po' d'Uva e un Liquore",
+        "Midlife - The Magnificent Moon",
+        "Tornado Wallace - Today",
+        "Nu Genea - Marechià (feat. Celia Kameni)"
+      ],
+      "music-genres": [
+        "Italo Disco",
+        "Indie",
+        "Balearic",
+        "Nu Disco"
+      ]
     },
-    "match_reason": "The start of Big Ben’s timekeeping is quintessentially London, making it a natural companion for an episode that’s literally a musical walk through the same city."
+    "match_reason": "A colossal ocean liner and its fateful relationship with the sea pair well with a water-themed episode about immersion, depth, and floating below the surface."
   },
   "queue": [
-    {
-      "hour": 10,
-      "fact_text": "In 1911, the RMS Titanic slid down the slipway in Belfast and into the water for the first time, cheered by tens of thousands of onlookers. At her launch she was the largest movable man-made object on Earth, a steel cathedral of Edwardian confidence that would sail for less than five days before meeting the iceberg that sealed her legend.",
-      "fact_year": 1911,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Titanic",
-      "episode": {
-        "id": 39,
-        "title": "Morning Drops #33 - Immerse",
-        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
-        "songs": [
-          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
-          "Midlife - The Magnificent Moon",
-          "Tornado Wallace - Today",
-          "Nu Genea - Marechià (feat. Celia Kameni)"
-        ],
-        "music-genres": [
-          "Italo Disco",
-          "Indie",
-          "Balearic",
-          "Nu Disco"
-        ]
-      },
-      "match_reason": "A colossal ocean liner and its fateful relationship with the sea pair well with a water-themed episode about immersion, depth, and floating below the surface."
-    },
     {
       "hour": 11,
       "fact_text": "On 31 May 1916, the British Grand Fleet and Germany’s High Seas Fleet clashed off the coast of Denmark in the Battle of Jutland, the largest naval battle of World War I. Despite the thunder of thousands of shells and the loss of over 8,500 lives, the fight ended without a clear victor—yet it quietly cemented British naval dominance for the rest of the war.",
@@ -575,9 +560,34 @@
         "music-genres": []
       },
       "match_reason": "The start of Big Ben’s timekeeping is quintessentially London, making it a natural companion for an episode that’s literally a musical walk through the same city."
+    },
+    {
+      "hour": 10,
+      "fact_text": "In 1911, the RMS Titanic slid down the slipway in Belfast and into the water for the first time, cheered by tens of thousands of onlookers. At her launch she was the largest movable man-made object on Earth, a steel cathedral of Edwardian confidence that would sail for less than five days before meeting the iceberg that sealed her legend.",
+      "fact_year": 1911,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Titanic",
+      "episode": {
+        "id": 39,
+        "title": "Morning Drops #33 - Immerse",
+        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
+        "songs": [
+          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
+          "Midlife - The Magnificent Moon",
+          "Tornado Wallace - Today",
+          "Nu Genea - Marechià (feat. Celia Kameni)"
+        ],
+        "music-genres": [
+          "Italo Disco",
+          "Indie",
+          "Balearic",
+          "Nu Disco"
+        ]
+      },
+      "match_reason": "A colossal ocean liner and its fateful relationship with the sea pair well with a water-themed episode about immersion, depth, and floating below the surface."
     }
   ],
   "generated_at": "2026-05-31T00:00:00.020642+00:00",
   "date": "2026-05-31",
-  "updated_at": "2026-05-31T09:00:01.429385+00:00"
+  "updated_at": "2026-05-31T10:00:01.827527+00:00"
 }
