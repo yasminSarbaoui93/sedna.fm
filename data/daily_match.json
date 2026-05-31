@@ -1,56 +1,31 @@
 {
-  "current_hour": 8,
+  "current_hour": 9,
   "current_fact": {
-    "hour": 8,
-    "fact_text": "On 31 May 1997, Canada opened the Confederation Bridge, a 12.9-kilometer span of concrete across the icy Northumberland Strait. It instantly transformed a once-seasonal ferry crossing into a permanent link, quietly reshaping the economy and daily life of Prince Edward Island.",
-    "fact_year": 1997,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Confederation_Bridge",
+    "hour": 9,
+    "fact_text": "In 1911, thousands gathered in Belfast to watch the launch of RMS Titanic, then the largest moving human-made object on Earth. The colossal hull slipped into the water in under a minute, a moment celebrated as engineering triumph long before the ship’s tragic fate became legend.",
+    "fact_year": 1911,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Titanic",
     "episode": {
-      "id": 17,
-      "title": "Morning Drops #11 - Mediterranean Boat",
-      "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "Arleta - Bar To Navagio",
-        "Baba Zula - Tavla",
-        "Mylène Farmer - Désenchantée",
-        "Fabrizio De André - Crêuza de mä"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Greek Folk",
-        "Turkish Psychedelic",
-        "French Pop",
-        "Italian Singer-Songwriter"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "A long sea bridge connecting shores matches an episode built around boat journeys and coastal connections across a shared sea."
+    "match_reason": "A legendary ship sliding into the sea pairs with an episode focused on the ocean’s depths, cinematic swells, and life beneath the waves."
   },
   "queue": [
-    {
-      "hour": 9,
-      "fact_text": "In 1911, thousands gathered in Belfast to watch the launch of RMS Titanic, then the largest moving human-made object on Earth. The colossal hull slipped into the water in under a minute, a moment celebrated as engineering triumph long before the ship’s tragic fate became legend.",
-      "fact_year": 1911,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Titanic",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "A legendary ship sliding into the sea pairs with an episode focused on the ocean’s depths, cinematic swells, and life beneath the waves."
-    },
     {
       "hour": 10,
       "fact_text": "On this day in 1859, the clock tower at the Palace of Westminster—now iconic as Big Ben—began keeping official time. Its massive clock mechanism was so precise for the era that it became a symbol of punctuality, and slight errors in its chimes are still carefully logged and corrected.",
@@ -634,9 +609,34 @@
         ]
       },
       "match_reason": "A long sea bridge connecting shores matches an episode built around boat journeys and coastal connections across a shared sea."
+    },
+    {
+      "hour": 9,
+      "fact_text": "In 1911, thousands gathered in Belfast to watch the launch of RMS Titanic, then the largest moving human-made object on Earth. The colossal hull slipped into the water in under a minute, a moment celebrated as engineering triumph long before the ship’s tragic fate became legend.",
+      "fact_year": 1911,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Titanic",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "A legendary ship sliding into the sea pairs with an episode focused on the ocean’s depths, cinematic swells, and life beneath the waves."
     }
   ],
   "generated_at": "2026-05-31T00:00:00.012968+00:00",
   "date": "2026-05-31",
-  "updated_at": "2026-05-31T08:00:02.042233+00:00"
+  "updated_at": "2026-05-31T09:00:01.640038+00:00"
 }
