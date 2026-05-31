@@ -1,53 +1,38 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "On this day in 1859, the clock tower at the Palace of Westminster—now iconic as Big Ben—began keeping official time. Its massive clock mechanism was so precise for the era that it became a symbol of punctuality, and slight errors in its chimes are still carefully logged and corrected.",
-    "fact_year": 1859,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Big_Ben",
+    "hour": 11,
+    "fact_text": "In 1669, English civil servant Samuel Pepys ended the diary he had diligently kept for nearly a decade, citing fears that his worsening eyesight would leave him blind. His private, shorthand-filled volumes—never meant for publication—later became one of the most vivid first-person records of 17th-century London life.",
+    "fact_year": 1669,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Samuel_Pepys",
     "episode": {
-      "id": 62,
-      "title": "Morning Drops #54 - Intentional Listening",
-      "description": "Do you remember what it felt like to listen to music without a streaming platform?\nIn this Morning Drops episode, Gaia reflects on a recent experiment: stepping away from algorithmic listening and going back to an iPod. \n\nWhat starts as a small personal choice opens into a wider meditation on attention, presence, and what happens when music is no longer treated as something infinite, but as something we choose with care.\n\nTracklist:\nScientist - Drum Song Dub\nThe Other People Place - Let Me Be Me\nA Forest Mighty Black - Fresh In My Mind\nCymande - Bra",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-intentional-listening",
-      "songs": [],
-      "music-genres": []
+      "id": 3,
+      "title": "Sedna FM #03 - Beautiful as You Feel",
+      "description": "An episode about self-acceptance and inner beauty. Music that reminds us we are beautiful as we feel, embracing our authentic selves. Warm, uplifting sounds that celebrate individuality.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/beautiful-as-you-feel",
+      "songs": [
+        "Radiohead - Lotus Flower",
+        "Andrea Lazslo de Simone - Vivo",
+        "The The - this is the day",
+        "Steve Monite - Only You",
+        "DCTL - Deep Tannin f(eat Rafael Leafar)",
+        "Soufiane Sa3idi - El Njoum",
+        "Area - La mela di odessa",
+        "Carol King - Beautiful",
+        "Mannarino - Vivere la vita"
+      ],
+      "music-genres": [
+        "Alternative Rock",
+        "Italian Singer-Songwriter",
+        "New Wave",
+        "Afro-Funk",
+        "Maghreb",
+        "Progressive Rock"
+      ]
     },
-    "match_reason": "A famously precise clock and the art of timing connect with an episode about paying close attention and choosing every moment of listening with care."
+    "match_reason": "Pepys’ intimate diary and his vulnerability about losing sight fit an episode about inner life, honesty, and the beauty of accepting oneself."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "In 1669, English civil servant Samuel Pepys ended the diary he had diligently kept for nearly a decade, citing fears that his worsening eyesight would leave him blind. His private, shorthand-filled volumes—never meant for publication—later became one of the most vivid first-person records of 17th-century London life.",
-      "fact_year": 1669,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Samuel_Pepys",
-      "episode": {
-        "id": 3,
-        "title": "Sedna FM #03 - Beautiful as You Feel",
-        "description": "An episode about self-acceptance and inner beauty. Music that reminds us we are beautiful as we feel, embracing our authentic selves. Warm, uplifting sounds that celebrate individuality.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/beautiful-as-you-feel",
-        "songs": [
-          "Radiohead - Lotus Flower",
-          "Andrea Lazslo de Simone - Vivo",
-          "The The - this is the day",
-          "Steve Monite - Only You",
-          "DCTL - Deep Tannin f(eat Rafael Leafar)",
-          "Soufiane Sa3idi - El Njoum",
-          "Area - La mela di odessa",
-          "Carol King - Beautiful",
-          "Mannarino - Vivere la vita"
-        ],
-        "music-genres": [
-          "Alternative Rock",
-          "Italian Singer-Songwriter",
-          "New Wave",
-          "Afro-Funk",
-          "Maghreb",
-          "Progressive Rock"
-        ]
-      },
-      "match_reason": "Pepys’ intimate diary and his vulnerability about losing sight fit an episode about inner life, honesty, and the beauty of accepting oneself."
-    },
     {
       "hour": 12,
       "fact_text": "On 31 May 1951, the Uniform Code of Military Justice came into effect, unifying the legal rules for all branches of the U.S. Armed Forces. For the first time, soldiers, sailors, airmen, and marines were governed by a single standardized code, reshaping military discipline and rights.",
@@ -624,9 +609,41 @@
         "music-genres": []
       },
       "match_reason": "A famously precise clock and the art of timing connect with an episode about paying close attention and choosing every moment of listening with care."
+    },
+    {
+      "hour": 11,
+      "fact_text": "In 1669, English civil servant Samuel Pepys ended the diary he had diligently kept for nearly a decade, citing fears that his worsening eyesight would leave him blind. His private, shorthand-filled volumes—never meant for publication—later became one of the most vivid first-person records of 17th-century London life.",
+      "fact_year": 1669,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Samuel_Pepys",
+      "episode": {
+        "id": 3,
+        "title": "Sedna FM #03 - Beautiful as You Feel",
+        "description": "An episode about self-acceptance and inner beauty. Music that reminds us we are beautiful as we feel, embracing our authentic selves. Warm, uplifting sounds that celebrate individuality.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/beautiful-as-you-feel",
+        "songs": [
+          "Radiohead - Lotus Flower",
+          "Andrea Lazslo de Simone - Vivo",
+          "The The - this is the day",
+          "Steve Monite - Only You",
+          "DCTL - Deep Tannin f(eat Rafael Leafar)",
+          "Soufiane Sa3idi - El Njoum",
+          "Area - La mela di odessa",
+          "Carol King - Beautiful",
+          "Mannarino - Vivere la vita"
+        ],
+        "music-genres": [
+          "Alternative Rock",
+          "Italian Singer-Songwriter",
+          "New Wave",
+          "Afro-Funk",
+          "Maghreb",
+          "Progressive Rock"
+        ]
+      },
+      "match_reason": "Pepys’ intimate diary and his vulnerability about losing sight fit an episode about inner life, honesty, and the beauty of accepting oneself."
     }
   ],
   "generated_at": "2026-05-31T00:00:00.012968+00:00",
   "date": "2026-05-31",
-  "updated_at": "2026-05-31T10:00:01.589919+00:00"
+  "updated_at": "2026-05-31T11:00:01.426529+00:00"
 }
