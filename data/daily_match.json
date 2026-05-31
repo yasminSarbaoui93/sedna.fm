@@ -1,59 +1,34 @@
 {
-  "current_hour": 6,
+  "current_hour": 7,
   "current_fact": {
-    "hour": 6,
-    "fact_text": "On this day in 1790, Manuel Quimper sailed into the foggy Strait of Juan de Fuca, charting inlets and bays that European maps still showed as guesswork. Navigating strong currents and swirling mists, his expedition helped transform a mythic passageway into a precisely measured gateway between what are now Canada and the United States.",
-    "fact_year": 1790,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Manuel_Quimper",
+    "hour": 7,
+    "fact_text": "In 1813, William Lawson, Gregory Blaxland, and William Wentworth reached Mount Blaxland, completing the first documented European crossing of Australia’s Blue Mountains. Their route, painstakingly hacked through rugged sandstone and eucalyptus forest, opened the interior plains to colonial expansion and permanently altered the continent’s human geography.",
+    "fact_year": 1813,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Gregory_Blaxland",
     "episode": {
-      "id": 39,
-      "title": "Morning Drops #33 - Immerse",
-      "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Orcas",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "Pino D'Angiò - Un Po' d'Uva e un Liquore",
-        "Midlife - The Magnificent Moon",
-        "Tornado Wallace - Today",
-        "Nu Genea - Marechià (feat. Celia Kameni)"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Italo Disco",
-        "Indie",
-        "Balearic",
-        "Nu Disco"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "A maritime exploration of a cold strait resonates with an aquatic-themed episode about immersion, water, and drifting through fluid soundscapes."
+    "match_reason": "An overland expedition into unknown mountains aligns with an episode built around travel, shared journeys, and the challenges and joys of moving through landscapes together."
   },
   "queue": [
-    {
-      "hour": 7,
-      "fact_text": "In 1813, William Lawson, Gregory Blaxland, and William Wentworth reached Mount Blaxland, completing the first documented European crossing of Australia’s Blue Mountains. Their route, painstakingly hacked through rugged sandstone and eucalyptus forest, opened the interior plains to colonial expansion and permanently altered the continent’s human geography.",
-      "fact_year": 1813,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Gregory_Blaxland",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Orcas",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "An overland expedition into unknown mountains aligns with an episode built around travel, shared journeys, and the challenges and joys of moving through landscapes together."
-    },
     {
       "hour": 8,
       "fact_text": "On 31 May 1790, British diarist Samuel Pepys wrote the final entry in the journal that would later become a cornerstone of historical research into 17th‑century London. He stopped not because his life grew less interesting, but because he feared his worsening eyesight—and the candlelight he needed to write by—would leave him blind.",
@@ -585,9 +560,37 @@
         ]
       },
       "match_reason": "A maritime exploration of a cold strait resonates with an aquatic-themed episode about immersion, water, and drifting through fluid soundscapes."
+    },
+    {
+      "hour": 7,
+      "fact_text": "In 1813, William Lawson, Gregory Blaxland, and William Wentworth reached Mount Blaxland, completing the first documented European crossing of Australia’s Blue Mountains. Their route, painstakingly hacked through rugged sandstone and eucalyptus forest, opened the interior plains to colonial expansion and permanently altered the continent’s human geography.",
+      "fact_year": 1813,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Gregory_Blaxland",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Orcas",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "An overland expedition into unknown mountains aligns with an episode built around travel, shared journeys, and the challenges and joys of moving through landscapes together."
     }
   ],
   "generated_at": "2026-05-31T00:00:00.020642+00:00",
   "date": "2026-05-31",
-  "updated_at": "2026-05-31T06:00:01.743475+00:00"
+  "updated_at": "2026-05-31T07:00:01.950353+00:00"
 }
