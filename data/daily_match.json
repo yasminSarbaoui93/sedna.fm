@@ -1,64 +1,39 @@
 {
-  "current_hour": 2,
+  "current_hour": 3,
   "current_fact": {
-    "hour": 2,
-    "fact_text": "In 2007, Cyclone Gonu spun up from a patch of thunderstorms in the Arabian Sea and grew into one of the most intense cyclones ever recorded in the region. When it struck Oman and Iran, it brought rare, catastrophic flooding to normally arid landscapes and became Oman’s worst recorded natural disaster.",
-    "fact_year": 2007,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cyclone_Gonu",
+    "hour": 3,
+    "fact_text": "When CNN began broadcasting on June 1, 1980, it was a risky experiment: a 24-hour news channel in an era when news lived in brief, scheduled bulletins. It helped invent the modern rolling-news cycle, changing how global events are covered and how quickly stories circle the planet.",
+    "fact_year": 1980,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/CNN",
     "episode": {
-      "id": 52,
-      "title": "Morning Drops #45 - It Can't Rain Forever",
-      "description": "In this first broadcast of 2026, Gaia returns from the vivid landscapes of Morocco to open a space for reflection. This episode navigates the delicate transition between closing a significant chapter and stepping into the new year. It explores the concept of constancy amidst change, celebrating the grounding force of friendship and the creative sanctuary that is Sedna FM.\n\nThe musical selection mirrors this journey, moving from the orchestral depth of changing seasons into the golden warmth of psychedelic soul. It recalls memories of Swiss mountains and unexpected downpours, reminding us that shared optimism can weather any storm.\n\nTake a moment to breathe in the new morning and listen deeply.\n\nMood: Reflective, Warm, Transitional, Hopeful\nMusic genre: Classic Rock, Psychedelic Soul, Pop Rock, Soft Rock",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-it-cant-rain-forever",
+      "id": 1,
+      "title": "Sedna FM #01 - November Bomb",
+      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
       "songs": [
-        "Led Zeppelin - The Rain Song",
-        "Khruangbin & Leon Bridges - Texas Sun",
-        "Dragon - Rain",
-        "Fleetwood Mac - Don't Stop"
+        "berlioz - Open this wall",
+        "Nas - One Mic",
+        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+        "Frankie Knuckles - Your Love",
+        "Notorious B.I.G. - 17 Ten Crack Commandments",
+        "Liloca - Utani Xuva",
+        "Fela Kuti - Zombie",
+        "Neffa - Aspettando il sole",
+        "Childish Gambino - No Excuses",
+        "Modjo - Music takes you back"
       ],
       "music-genres": [
-        "Classic Rock",
-        "Psychedelic Soul",
-        "Pop Rock",
-        "Soft Rock"
+        "Hip-Hop",
+        "Afrobeat",
+        "House",
+        "Italian Pop",
+        "R&B",
+        "Latin Rap"
       ]
     },
-    "match_reason": "The storm-drenched story of Gonu fits with an episode built around rain, changing seasons, and finding hope after downpours."
+    "match_reason": "CNN’s launch as a new broadcast format parallels Sedna FM’s own first episode: both are beginnings that reshape how stories and sounds reach their audiences."
   },
   "queue": [
-    {
-      "hour": 3,
-      "fact_text": "When CNN began broadcasting on June 1, 1980, it was a risky experiment: a 24-hour news channel in an era when news lived in brief, scheduled bulletins. It helped invent the modern rolling-news cycle, changing how global events are covered and how quickly stories circle the planet.",
-      "fact_year": 1980,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/CNN",
-      "episode": {
-        "id": 1,
-        "title": "Sedna FM #01 - November Bomb",
-        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
-        "songs": [
-          "berlioz - Open this wall",
-          "Nas - One Mic",
-          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-          "Frankie Knuckles - Your Love",
-          "Notorious B.I.G. - 17 Ten Crack Commandments",
-          "Liloca - Utani Xuva",
-          "Fela Kuti - Zombie",
-          "Neffa - Aspettando il sole",
-          "Childish Gambino - No Excuses",
-          "Modjo - Music takes you back"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Afrobeat",
-          "House",
-          "Italian Pop",
-          "R&B",
-          "Latin Rap"
-        ]
-      },
-      "match_reason": "CNN’s launch as a new broadcast format parallels Sedna FM’s own first episode: both are beginnings that reshape how stories and sounds reach their audiences."
-    },
     {
       "hour": 4,
       "fact_text": "The Chinchaga fire, ignited in Canada on June 1, 1950, burned for months and became the largest single forest fire ever recorded in North America. Its smoke drifted across the continent and even darkened midday skies in Europe, creating an eerie “Great Smoke Pall.”",
@@ -657,9 +632,42 @@
         ]
       },
       "match_reason": "The storm-drenched story of Gonu fits with an episode built around rain, changing seasons, and finding hope after downpours."
+    },
+    {
+      "hour": 3,
+      "fact_text": "When CNN began broadcasting on June 1, 1980, it was a risky experiment: a 24-hour news channel in an era when news lived in brief, scheduled bulletins. It helped invent the modern rolling-news cycle, changing how global events are covered and how quickly stories circle the planet.",
+      "fact_year": 1980,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/CNN",
+      "episode": {
+        "id": 1,
+        "title": "Sedna FM #01 - November Bomb",
+        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+        "songs": [
+          "berlioz - Open this wall",
+          "Nas - One Mic",
+          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+          "Frankie Knuckles - Your Love",
+          "Notorious B.I.G. - 17 Ten Crack Commandments",
+          "Liloca - Utani Xuva",
+          "Fela Kuti - Zombie",
+          "Neffa - Aspettando il sole",
+          "Childish Gambino - No Excuses",
+          "Modjo - Music takes you back"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Afrobeat",
+          "House",
+          "Italian Pop",
+          "R&B",
+          "Latin Rap"
+        ]
+      },
+      "match_reason": "CNN’s launch as a new broadcast format parallels Sedna FM’s own first episode: both are beginnings that reshape how stories and sounds reach their audiences."
     }
   ],
   "generated_at": "2026-06-01T00:00:00.023620+00:00",
   "date": "2026-06-01",
-  "updated_at": "2026-06-01T02:00:01.866224+00:00"
+  "updated_at": "2026-06-01T03:00:01.804065+00:00"
 }
