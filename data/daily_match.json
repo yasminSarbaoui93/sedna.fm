@@ -1,73 +1,39 @@
 {
-  "current_hour": 20,
+  "current_hour": 21,
   "current_fact": {
-    "hour": 20,
-    "fact_text": "On June 1, 2011, when Endeavour touched down for the last time, it closed a chapter not just for a spacecraft but for a generation that had grown up with reusable shuttles as icons of possibility. Hidden in that landing was a shift toward a new orbit: private rockets, international cooperation, and a different way of dreaming about leaving Earth.",
-    "fact_year": 2011,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Space_Shuttle_program",
+    "hour": 21,
+    "fact_text": "On that same date in 1980, CNN's 24-hour news experiment began as a relatively modest cable channel, not yet the global brand it would become. Few viewers that first day could have guessed that continuous televised news would one day shape politics, emergencies, and even how we experience time itself.",
+    "fact_year": 1980,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Broadcasting",
     "episode": {
-      "id": 2,
-      "title": "Sedna FM #02 - Destination Sedna",
-      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+      "id": 1,
+      "title": "Sedna FM #01 - November Bomb",
+      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
       "songs": [
-        "Pink Floyd - Breathe",
-        "The fountain DC - Starburster",
-        "Laura Cahen - La Poussiere",
-        "Taxi Kebab - Lmchi w rjou3",
-        "Odion Iruoje - Identify With Your Roots",
-        "Depeche mode - world in my eyes (Oil Tank Mix)",
-        "Massive attack - Dissolved girl",
-        "Kokoroko - Three piece suite",
-        "Salin - Egungun",
-        "E.S.P. - It's You"
+        "berlioz - Open this wall",
+        "Nas - One Mic",
+        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+        "Frankie Knuckles - Your Love",
+        "Notorious B.I.G. - 17 Ten Crack Commandments",
+        "Liloca - Utani Xuva",
+        "Fela Kuti - Zombie",
+        "Neffa - Aspettando il sole",
+        "Childish Gambino - No Excuses",
+        "Modjo - Music takes you back"
       ],
       "music-genres": [
-        "Progressive Rock",
-        "Post-Punk",
-        "French Pop",
-        "Maghreb",
+        "Hip-Hop",
         "Afrobeat",
-        "Synthpop",
-        "Trip-Hop"
+        "House",
+        "Italian Pop",
+        "R&B",
+        "Latin Rap"
       ]
     },
-    "match_reason": "The end of a shuttle era and the start of a new spacefaring journey harmonize with an episode explicitly framed as a voyage to Sedna, exploring new territories through sound."
+    "match_reason": "CNN's first broadcast and Sedna FM's first main episode are both origin points where a channel's voice and future influence quietly ignite."
   },
   "queue": [
-    {
-      "hour": 21,
-      "fact_text": "On that same date in 1980, CNN's 24-hour news experiment began as a relatively modest cable channel, not yet the global brand it would become. Few viewers that first day could have guessed that continuous televised news would one day shape politics, emergencies, and even how we experience time itself.",
-      "fact_year": 1980,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Broadcasting",
-      "episode": {
-        "id": 1,
-        "title": "Sedna FM #01 - November Bomb",
-        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
-        "songs": [
-          "berlioz - Open this wall",
-          "Nas - One Mic",
-          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-          "Frankie Knuckles - Your Love",
-          "Notorious B.I.G. - 17 Ten Crack Commandments",
-          "Liloca - Utani Xuva",
-          "Fela Kuti - Zombie",
-          "Neffa - Aspettando il sole",
-          "Childish Gambino - No Excuses",
-          "Modjo - Music takes you back"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Afrobeat",
-          "House",
-          "Italian Pop",
-          "R&B",
-          "Latin Rap"
-        ]
-      },
-      "match_reason": "CNN's first broadcast and Sedna FM's first main episode are both origin points where a channel's voice and future influence quietly ignite."
-    },
     {
       "hour": 22,
       "fact_text": "On June 1, 2007, Cyclone Gonu’s track across the Arabian Sea stunned meteorologists because storms of that strength are extremely rare there. Its unusual intensity raised fresh questions about how warming oceans might be reshaping the geography of the planet’s most violent weather.",
@@ -643,9 +609,42 @@
         ]
       },
       "match_reason": "The end of a shuttle era and the start of a new spacefaring journey harmonize with an episode explicitly framed as a voyage to Sedna, exploring new territories through sound."
+    },
+    {
+      "hour": 21,
+      "fact_text": "On that same date in 1980, CNN's 24-hour news experiment began as a relatively modest cable channel, not yet the global brand it would become. Few viewers that first day could have guessed that continuous televised news would one day shape politics, emergencies, and even how we experience time itself.",
+      "fact_year": 1980,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Broadcasting",
+      "episode": {
+        "id": 1,
+        "title": "Sedna FM #01 - November Bomb",
+        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+        "songs": [
+          "berlioz - Open this wall",
+          "Nas - One Mic",
+          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+          "Frankie Knuckles - Your Love",
+          "Notorious B.I.G. - 17 Ten Crack Commandments",
+          "Liloca - Utani Xuva",
+          "Fela Kuti - Zombie",
+          "Neffa - Aspettando il sole",
+          "Childish Gambino - No Excuses",
+          "Modjo - Music takes you back"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Afrobeat",
+          "House",
+          "Italian Pop",
+          "R&B",
+          "Latin Rap"
+        ]
+      },
+      "match_reason": "CNN's first broadcast and Sedna FM's first main episode are both origin points where a channel's voice and future influence quietly ignite."
     }
   ],
   "generated_at": "2026-06-01T00:00:00.012792+00:00",
   "date": "2026-06-01",
-  "updated_at": "2026-06-01T20:00:02.082221+00:00"
+  "updated_at": "2026-06-01T21:00:01.864897+00:00"
 }
