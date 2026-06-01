@@ -1,59 +1,31 @@
 {
-  "current_hour": 15,
+  "current_hour": 16,
   "current_fact": {
-    "hour": 15,
-    "fact_text": "On June 1, 1854, during the Åland War theater of the Crimean conflict, the British navy attacked the Finnish port of Oulu and burned merchant ships along with around 16,000 barrels of tar. The raid not only disrupted trade but also set ablaze the very material that waterproofed wooden ships, a fiery blow to the region's maritime economy.",
-    "fact_year": 1854,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/%C3%85land_War",
+    "hour": 16,
+    "fact_text": "In 1855, American adventurer and mercenary William Walker seized control of Nicaragua with a small band of filibusters, briefly installing himself as de facto ruler. His short-lived private conquest turned Central America into a stage for one man’s imperial fantasy and helped trigger regional resistance to foreign interference.",
+    "fact_year": 1855,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/William_Walker_(filibuster)",
     "episode": {
-      "id": 37,
-      "title": "Morning Drops #31 - Sailing With Germans",
-      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+      "id": 45,
+      "title": "Morning Drops #39 - Moving Meditation",
+      "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
       "songs": [
-        "Billy Talent - Dead Silence",
-        "Ben Howard - Keep Your Head Up",
-        "Ziggy Alberts - Simple Things",
-        "Vitor Kley - O Sol",
-        "Enya - Orinoco Flow",
-        "Paveier - Leev Marie"
+        "Stella & The Longos - La Flamme",
+        "España Circo Este - Dormo poco e sogno molto",
+        "Mystic Jungle - Sunset Breaker",
+        "Talking Heads - This Must Be the Place (Naive Melody)"
       ],
       "music-genres": [
-        "Punk Rock",
-        "Indie Folk",
-        "Surf Pop",
-        "New Age",
-        "German Folk"
+        "Balearic",
+        "Italian Folk Rock",
+        "World Music",
+        "New Wave"
       ]
     },
-    "match_reason": "A naval raid destroying merchant ships connects naturally with an episode recorded on a sailing boat, both anchored in life shaped by the sea."
+    "match_reason": "Walker’s extreme, colonialist “adventure” through Central America is a dark mirror of travel, contrasted with an episode that reframes movement and new places as chances for humble introspection rather than conquest."
   },
   "queue": [
-    {
-      "hour": 16,
-      "fact_text": "In 1855, American adventurer and mercenary William Walker seized control of Nicaragua with a small band of filibusters, briefly installing himself as de facto ruler. His short-lived private conquest turned Central America into a stage for one man’s imperial fantasy and helped trigger regional resistance to foreign interference.",
-      "fact_year": 1855,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/William_Walker_(filibuster)",
-      "episode": {
-        "id": 45,
-        "title": "Morning Drops #39 - Moving Meditation",
-        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
-        "songs": [
-          "Stella & The Longos - La Flamme",
-          "España Circo Este - Dormo poco e sogno molto",
-          "Mystic Jungle - Sunset Breaker",
-          "Talking Heads - This Must Be the Place (Naive Melody)"
-        ],
-        "music-genres": [
-          "Balearic",
-          "Italian Folk Rock",
-          "World Music",
-          "New Wave"
-        ]
-      },
-      "match_reason": "Walker’s extreme, colonialist “adventure” through Central America is a dark mirror of travel, contrasted with an episode that reframes movement and new places as chances for humble introspection rather than conquest."
-    },
     {
       "hour": 17,
       "fact_text": "On June 1, 1813, during the War of 1812, the USS Chesapeake was captured by the British frigate HMS Shannon after a brief but devastating battle off Boston. The American captain's dying words, \"Don't give up the ship,\" became a naval rallying cry even as the captured vessel was towed away under a different flag.",
@@ -637,9 +609,34 @@
         ]
       },
       "match_reason": "A naval raid destroying merchant ships connects naturally with an episode recorded on a sailing boat, both anchored in life shaped by the sea."
+    },
+    {
+      "hour": 16,
+      "fact_text": "In 1855, American adventurer and mercenary William Walker seized control of Nicaragua with a small band of filibusters, briefly installing himself as de facto ruler. His short-lived private conquest turned Central America into a stage for one man’s imperial fantasy and helped trigger regional resistance to foreign interference.",
+      "fact_year": 1855,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/William_Walker_(filibuster)",
+      "episode": {
+        "id": 45,
+        "title": "Morning Drops #39 - Moving Meditation",
+        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
+        "songs": [
+          "Stella & The Longos - La Flamme",
+          "España Circo Este - Dormo poco e sogno molto",
+          "Mystic Jungle - Sunset Breaker",
+          "Talking Heads - This Must Be the Place (Naive Melody)"
+        ],
+        "music-genres": [
+          "Balearic",
+          "Italian Folk Rock",
+          "World Music",
+          "New Wave"
+        ]
+      },
+      "match_reason": "Walker’s extreme, colonialist “adventure” through Central America is a dark mirror of travel, contrasted with an episode that reframes movement and new places as chances for humble introspection rather than conquest."
     }
   ],
   "generated_at": "2026-06-01T00:00:00.012792+00:00",
   "date": "2026-06-01",
-  "updated_at": "2026-06-01T15:00:01.620825+00:00"
+  "updated_at": "2026-06-01T16:00:02.101191+00:00"
 }
