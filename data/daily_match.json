@@ -1,70 +1,36 @@
 {
-  "current_hour": 21,
+  "current_hour": 22,
   "current_fact": {
-    "hour": 21,
-    "fact_text": "CNN’s 1980 launch didn’t just extend news hours; it opened a door to live coverage of wars, disasters, and revolutions as they unfolded. Viewers suddenly watched history in real time, from space shuttle launches to protests on distant streets.",
-    "fact_year": 1980,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Broadcasting",
+    "hour": 22,
+    "fact_text": "As Cyclone Gonu intensified over the Arabian Sea in early June 2007, satellites watched a rare phenomenon: a near–Category 5 storm in a basin usually too dry and cool for such monsters. Its formation forced scientists to rethink how the North Indian Ocean might respond to a warming climate.",
+    "fact_year": 2007,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cyclone_Gonu",
     "episode": {
-      "id": 2,
-      "title": "Sedna FM #02 - Destination Sedna",
-      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+      "id": 48,
+      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
       "songs": [
-        "Pink Floyd - Breathe",
-        "The fountain DC - Starburster",
-        "Laura Cahen - La Poussiere",
-        "Taxi Kebab - Lmchi w rjou3",
-        "Odion Iruoje - Identify With Your Roots",
-        "Depeche mode - world in my eyes (Oil Tank Mix)",
-        "Massive attack - Dissolved girl",
-        "Kokoroko - Three piece suite",
-        "Salin - Egungun",
-        "E.S.P. - It's You"
+        "Stive Morgan - Solar Wind, Pt. 3",
+        "David Visan & Carlos Campos - Crystal Heart",
+        "Evan Mars - Ya Zareef Al Tool",
+        "Gerardo Frisina - Cuiabá",
+        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+        "The Busy Twist - Friday Night"
       ],
       "music-genres": [
-        "Progressive Rock",
-        "Post-Punk",
-        "French Pop",
-        "Maghreb",
+        "Ambient",
+        "Deep House",
+        "World Music",
+        "Nu Jazz",
         "Afrobeat",
-        "Synthpop",
-        "Trip-Hop"
+        "Funk",
+        "Electronic"
       ]
     },
-    "match_reason": "A channel that turned the world into a continuous live feed pairs with an episode that frames listening as a shared journey across places and stories."
+    "match_reason": "A rare super-cyclone swirling over the Arabian Sea aligns with an evening mix that starts in Arabic soundscapes and builds like a storm into dancing energy."
   },
   "queue": [
-    {
-      "hour": 22,
-      "fact_text": "As Cyclone Gonu intensified over the Arabian Sea in early June 2007, satellites watched a rare phenomenon: a near–Category 5 storm in a basin usually too dry and cool for such monsters. Its formation forced scientists to rethink how the North Indian Ocean might respond to a warming climate.",
-      "fact_year": 2007,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cyclone_Gonu",
-      "episode": {
-        "id": 48,
-        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
-        "songs": [
-          "Stive Morgan - Solar Wind, Pt. 3",
-          "David Visan & Carlos Campos - Crystal Heart",
-          "Evan Mars - Ya Zareef Al Tool",
-          "Gerardo Frisina - Cuiabá",
-          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-          "The Busy Twist - Friday Night"
-        ],
-        "music-genres": [
-          "Ambient",
-          "Deep House",
-          "World Music",
-          "Nu Jazz",
-          "Afrobeat",
-          "Funk",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A rare super-cyclone swirling over the Arabian Sea aligns with an evening mix that starts in Arabic soundscapes and builds like a storm into dancing energy."
-    },
     {
       "hour": 23,
       "fact_text": "When Air France 447 went missing in 2009, search teams spent nearly two years combing the Atlantic depths before finally finding the wreck and flight recorders. The investigation combined oceanography, robotics, and forensic engineering to reconstruct the final minutes of a vanished plane.",
@@ -666,9 +632,39 @@
         ]
       },
       "match_reason": "A channel that turned the world into a continuous live feed pairs with an episode that frames listening as a shared journey across places and stories."
+    },
+    {
+      "hour": 22,
+      "fact_text": "As Cyclone Gonu intensified over the Arabian Sea in early June 2007, satellites watched a rare phenomenon: a near–Category 5 storm in a basin usually too dry and cool for such monsters. Its formation forced scientists to rethink how the North Indian Ocean might respond to a warming climate.",
+      "fact_year": 2007,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cyclone_Gonu",
+      "episode": {
+        "id": 48,
+        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+        "songs": [
+          "Stive Morgan - Solar Wind, Pt. 3",
+          "David Visan & Carlos Campos - Crystal Heart",
+          "Evan Mars - Ya Zareef Al Tool",
+          "Gerardo Frisina - Cuiabá",
+          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+          "The Busy Twist - Friday Night"
+        ],
+        "music-genres": [
+          "Ambient",
+          "Deep House",
+          "World Music",
+          "Nu Jazz",
+          "Afrobeat",
+          "Funk",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A rare super-cyclone swirling over the Arabian Sea aligns with an evening mix that starts in Arabic soundscapes and builds like a storm into dancing energy."
     }
   ],
   "generated_at": "2026-06-01T00:00:00.023620+00:00",
   "date": "2026-06-01",
-  "updated_at": "2026-06-01T21:00:01.709255+00:00"
+  "updated_at": "2026-06-01T22:00:01.537350+00:00"
 }
