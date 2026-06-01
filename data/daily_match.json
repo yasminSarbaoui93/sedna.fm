@@ -1,65 +1,40 @@
 {
-  "current_hour": 20,
+  "current_hour": 21,
   "current_fact": {
-    "hour": 20,
-    "fact_text": "The start of the Chinchaga fire on June 1, 1950, not only reshaped forests but also generated one of the most extensive smoke events ever recorded, dimming sunlight across vast regions. For many, the sudden, smoky twilight in midday felt almost otherworldly.",
-    "fact_year": 1950,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Chinchaga_fire",
+    "hour": 21,
+    "fact_text": "CNN’s 1980 launch didn’t just extend news hours; it opened a door to live coverage of wars, disasters, and revolutions as they unfolded. Viewers suddenly watched history in real time, from space shuttle launches to protests on distant streets.",
+    "fact_year": 1980,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Broadcasting",
     "episode": {
-      "id": 45,
-      "title": "Morning Drops #39 - Moving Meditation",
-      "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
+      "id": 2,
+      "title": "Sedna FM #02 - Destination Sedna",
+      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
       "songs": [
-        "Stella & The Longos - La Flamme",
-        "España Circo Este - Dormo poco e sogno molto",
-        "Mystic Jungle - Sunset Breaker",
-        "Talking Heads - This Must Be the Place (Naive Melody)"
+        "Pink Floyd - Breathe",
+        "The fountain DC - Starburster",
+        "Laura Cahen - La Poussiere",
+        "Taxi Kebab - Lmchi w rjou3",
+        "Odion Iruoje - Identify With Your Roots",
+        "Depeche mode - world in my eyes (Oil Tank Mix)",
+        "Massive attack - Dissolved girl",
+        "Kokoroko - Three piece suite",
+        "Salin - Egungun",
+        "E.S.P. - It's You"
       ],
       "music-genres": [
-        "Balearic",
-        "Italian Folk Rock",
-        "World Music",
-        "New Wave"
+        "Progressive Rock",
+        "Post-Punk",
+        "French Pop",
+        "Maghreb",
+        "Afrobeat",
+        "Synthpop",
+        "Trip-Hop"
       ]
     },
-    "match_reason": "The surreal, smoke-altered light over continents echoes an episode about subtle shifts in perception and how the atmosphere around us can quietly change what we see and feel."
+    "match_reason": "A channel that turned the world into a continuous live feed pairs with an episode that frames listening as a shared journey across places and stories."
   },
   "queue": [
-    {
-      "hour": 21,
-      "fact_text": "CNN’s 1980 launch didn’t just extend news hours; it opened a door to live coverage of wars, disasters, and revolutions as they unfolded. Viewers suddenly watched history in real time, from space shuttle launches to protests on distant streets.",
-      "fact_year": 1980,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Broadcasting",
-      "episode": {
-        "id": 2,
-        "title": "Sedna FM #02 - Destination Sedna",
-        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
-        "songs": [
-          "Pink Floyd - Breathe",
-          "The fountain DC - Starburster",
-          "Laura Cahen - La Poussiere",
-          "Taxi Kebab - Lmchi w rjou3",
-          "Odion Iruoje - Identify With Your Roots",
-          "Depeche mode - world in my eyes (Oil Tank Mix)",
-          "Massive attack - Dissolved girl",
-          "Kokoroko - Three piece suite",
-          "Salin - Egungun",
-          "E.S.P. - It's You"
-        ],
-        "music-genres": [
-          "Progressive Rock",
-          "Post-Punk",
-          "French Pop",
-          "Maghreb",
-          "Afrobeat",
-          "Synthpop",
-          "Trip-Hop"
-        ]
-      },
-      "match_reason": "A channel that turned the world into a continuous live feed pairs with an episode that frames listening as a shared journey across places and stories."
-    },
     {
       "hour": 22,
       "fact_text": "As Cyclone Gonu intensified over the Arabian Sea in early June 2007, satellites watched a rare phenomenon: a near–Category 5 storm in a basin usually too dry and cool for such monsters. Its formation forced scientists to rethink how the North Indian Ocean might respond to a warming climate.",
@@ -657,9 +632,43 @@
         ]
       },
       "match_reason": "The surreal, smoke-altered light over continents echoes an episode about subtle shifts in perception and how the atmosphere around us can quietly change what we see and feel."
+    },
+    {
+      "hour": 21,
+      "fact_text": "CNN’s 1980 launch didn’t just extend news hours; it opened a door to live coverage of wars, disasters, and revolutions as they unfolded. Viewers suddenly watched history in real time, from space shuttle launches to protests on distant streets.",
+      "fact_year": 1980,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Broadcasting",
+      "episode": {
+        "id": 2,
+        "title": "Sedna FM #02 - Destination Sedna",
+        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+        "songs": [
+          "Pink Floyd - Breathe",
+          "The fountain DC - Starburster",
+          "Laura Cahen - La Poussiere",
+          "Taxi Kebab - Lmchi w rjou3",
+          "Odion Iruoje - Identify With Your Roots",
+          "Depeche mode - world in my eyes (Oil Tank Mix)",
+          "Massive attack - Dissolved girl",
+          "Kokoroko - Three piece suite",
+          "Salin - Egungun",
+          "E.S.P. - It's You"
+        ],
+        "music-genres": [
+          "Progressive Rock",
+          "Post-Punk",
+          "French Pop",
+          "Maghreb",
+          "Afrobeat",
+          "Synthpop",
+          "Trip-Hop"
+        ]
+      },
+      "match_reason": "A channel that turned the world into a continuous live feed pairs with an episode that frames listening as a shared journey across places and stories."
     }
   ],
   "generated_at": "2026-06-01T00:00:00.023620+00:00",
   "date": "2026-06-01",
-  "updated_at": "2026-06-01T20:00:01.734344+00:00"
+  "updated_at": "2026-06-01T21:00:01.709255+00:00"
 }
