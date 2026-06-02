@@ -1,63 +1,40 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "On 2 June 1966, NASA's Surveyor 1 achieved the first successful U.S. soft landing on another world, touching down in the Moon’s Oceanus Procellarum. The lander transmitted over 11,000 images, giving scientists their first close-up look at the lunar surface and helping engineers plan the Apollo landings.",
-    "fact_year": 1966,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Surveyor_1",
+    "hour": 1,
+    "fact_text": "On 2 June 2003, the European Space Agency launched Mars Express, its first interplanetary mission, from Baikonur Cosmodrome toward Mars. The spacecraft has orbited the Red Planet for years, mapping its surface, probing its atmosphere, and even detecting hints of subsurface water ice.",
+    "fact_year": 2003,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mars_Express",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 2,
+      "title": "Sedna FM #02 - Destination Sedna",
+      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Pink Floyd - Breathe",
+        "The fountain DC - Starburster",
+        "Laura Cahen - La Poussiere",
+        "Taxi Kebab - Lmchi w rjou3",
+        "Odion Iruoje - Identify With Your Roots",
+        "Depeche mode - world in my eyes (Oil Tank Mix)",
+        "Massive attack - Dissolved girl",
+        "Kokoroko - Three piece suite",
+        "Salin - Egungun",
+        "E.S.P. - It's You"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Progressive Rock",
+        "Post-Punk",
+        "French Pop",
+        "Maghreb",
+        "Afrobeat",
+        "Synthpop",
+        "Trip-Hop"
       ]
     },
-    "match_reason": "A lunar lander turning the void of space into a place of discovery fits the episode’s theme of reimagining emptiness as creative space and forward motion."
+    "match_reason": "A pioneering European voyage to Mars pairs with an episode themed as a collective cosmic journey to a distant destination."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On 2 June 2003, the European Space Agency launched Mars Express, its first interplanetary mission, from Baikonur Cosmodrome toward Mars. The spacecraft has orbited the Red Planet for years, mapping its surface, probing its atmosphere, and even detecting hints of subsurface water ice.",
-      "fact_year": 2003,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mars_Express",
-      "episode": {
-        "id": 2,
-        "title": "Sedna FM #02 - Destination Sedna",
-        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
-        "songs": [
-          "Pink Floyd - Breathe",
-          "The fountain DC - Starburster",
-          "Laura Cahen - La Poussiere",
-          "Taxi Kebab - Lmchi w rjou3",
-          "Odion Iruoje - Identify With Your Roots",
-          "Depeche mode - world in my eyes (Oil Tank Mix)",
-          "Massive attack - Dissolved girl",
-          "Kokoroko - Three piece suite",
-          "Salin - Egungun",
-          "E.S.P. - It's You"
-        ],
-        "music-genres": [
-          "Progressive Rock",
-          "Post-Punk",
-          "French Pop",
-          "Maghreb",
-          "Afrobeat",
-          "Synthpop",
-          "Trip-Hop"
-        ]
-      },
-      "match_reason": "A pioneering European voyage to Mars pairs with an episode themed as a collective cosmic journey to a distant destination."
-    },
     {
       "hour": 2,
       "fact_text": "On 2 June 1998, Space Shuttle Discovery launched on STS-91, the final mission of the Shuttle–Mir program that had bridged American and Russian spaceflight after the Cold War. The flight marked the last shuttle docking with the Mir space station, closing a remarkable chapter of orbital cooperation.",
@@ -651,9 +628,43 @@
         ]
       },
       "match_reason": "A lunar lander turning the void of space into a place of discovery fits the episode’s theme of reimagining emptiness as creative space and forward motion."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On 2 June 2003, the European Space Agency launched Mars Express, its first interplanetary mission, from Baikonur Cosmodrome toward Mars. The spacecraft has orbited the Red Planet for years, mapping its surface, probing its atmosphere, and even detecting hints of subsurface water ice.",
+      "fact_year": 2003,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mars_Express",
+      "episode": {
+        "id": 2,
+        "title": "Sedna FM #02 - Destination Sedna",
+        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+        "songs": [
+          "Pink Floyd - Breathe",
+          "The fountain DC - Starburster",
+          "Laura Cahen - La Poussiere",
+          "Taxi Kebab - Lmchi w rjou3",
+          "Odion Iruoje - Identify With Your Roots",
+          "Depeche mode - world in my eyes (Oil Tank Mix)",
+          "Massive attack - Dissolved girl",
+          "Kokoroko - Three piece suite",
+          "Salin - Egungun",
+          "E.S.P. - It's You"
+        ],
+        "music-genres": [
+          "Progressive Rock",
+          "Post-Punk",
+          "French Pop",
+          "Maghreb",
+          "Afrobeat",
+          "Synthpop",
+          "Trip-Hop"
+        ]
+      },
+      "match_reason": "A pioneering European voyage to Mars pairs with an episode themed as a collective cosmic journey to a distant destination."
     }
   ],
   "generated_at": "2026-06-02T00:00:00.012607+00:00",
   "date": "2026-06-02",
-  "updated_at": "2026-06-02T00:00:48.886953+00:00"
+  "updated_at": "2026-06-02T01:00:01.587234+00:00"
 }
