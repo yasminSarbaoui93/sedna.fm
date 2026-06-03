@@ -1,56 +1,31 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "In 1973, a Soviet Tupolev Tu‑144 supersonic passenger jet crashed near Goussainville, France, during the Paris Air Show, killing 14 people. The accident was the first crash of a supersonic airliner and cast a long shadow over the dream of routinely flying passengers at faster‑than‑sound speeds.",
-    "fact_year": 1973,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tupolev_Tu-144",
+    "hour": 6,
+    "fact_text": "During World War II’s Battle of France in 1940, the German Luftwaffe bombed Paris, bringing the war directly into the city’s streets and skies. The raids damaged historic neighborhoods and underscored how aerial warfare could turn cultural capitals into front lines overnight.",
+    "fact_year": 1940,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_France",
     "episode": {
-      "id": 18,
-      "title": "Morning Drops #12 - 80's Club",
-      "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
+      "id": 56,
+      "title": "Morning Drops #49 - Rage Against The Machine",
+      "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
       "songs": [
-        "Donna Summer - I Feel Love",
-        "Depeche Mode - Just Can't Get Enough",
-        "Ken Laszlo - Hey Hey Guy",
-        "Mylène Farmer - Sans Contrefaçon"
+        "Rage Against the Machine - Bombtrack",
+        "Rage Against the Machine - Killing in the Name",
+        "Rage Against the Machine - Without a Face",
+        "Rage Against the Machine - Guerrilla Radio",
+        "Rage Against the Machine - Sleep Now in the Fire"
       ],
       "music-genres": [
-        "Disco",
-        "Synthpop",
-        "Italo Disco",
-        "French Pop"
+        "Rap Metal",
+        "Political Rock",
+        "Alternative Metal"
       ]
     },
-    "match_reason": "The Tu‑144 embodied a techno‑utopian future much like early synthpop and disco—machines pushing limits, with this episode echoing both the glamour and fragility of that era."
+    "match_reason": "An episode about politically charged music and systemic violence aligns with the story of a city bombed in war, both highlighting how power and resistance collide."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "During World War II’s Battle of France in 1940, the German Luftwaffe bombed Paris, bringing the war directly into the city’s streets and skies. The raids damaged historic neighborhoods and underscored how aerial warfare could turn cultural capitals into front lines overnight.",
-      "fact_year": 1940,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_France",
-      "episode": {
-        "id": 56,
-        "title": "Morning Drops #49 - Rage Against The Machine",
-        "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
-        "songs": [
-          "Rage Against the Machine - Bombtrack",
-          "Rage Against the Machine - Killing in the Name",
-          "Rage Against the Machine - Without a Face",
-          "Rage Against the Machine - Guerrilla Radio",
-          "Rage Against the Machine - Sleep Now in the Fire"
-        ],
-        "music-genres": [
-          "Rap Metal",
-          "Political Rock",
-          "Alternative Metal"
-        ]
-      },
-      "match_reason": "An episode about politically charged music and systemic violence aligns with the story of a city bombed in war, both highlighting how power and resistance collide."
-    },
     {
       "hour": 7,
       "fact_text": "In 1943, Los Angeles saw five days of violence known as the Zoot Suit Riots, during which white U.S. Navy sailors and Marines attacked Mexican American youths, many of whom wore flamboyant zoot suits. The clashes exposed deep racial tensions and showed how style, music, and dress can become flashpoints for social conflict.",
@@ -625,9 +600,34 @@
         ]
       },
       "match_reason": "The Tu‑144 embodied a techno‑utopian future much like early synthpop and disco—machines pushing limits, with this episode echoing both the glamour and fragility of that era."
+    },
+    {
+      "hour": 6,
+      "fact_text": "During World War II’s Battle of France in 1940, the German Luftwaffe bombed Paris, bringing the war directly into the city’s streets and skies. The raids damaged historic neighborhoods and underscored how aerial warfare could turn cultural capitals into front lines overnight.",
+      "fact_year": 1940,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_France",
+      "episode": {
+        "id": 56,
+        "title": "Morning Drops #49 - Rage Against The Machine",
+        "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
+        "songs": [
+          "Rage Against the Machine - Bombtrack",
+          "Rage Against the Machine - Killing in the Name",
+          "Rage Against the Machine - Without a Face",
+          "Rage Against the Machine - Guerrilla Radio",
+          "Rage Against the Machine - Sleep Now in the Fire"
+        ],
+        "music-genres": [
+          "Rap Metal",
+          "Political Rock",
+          "Alternative Metal"
+        ]
+      },
+      "match_reason": "An episode about politically charged music and systemic violence aligns with the story of a city bombed in war, both highlighting how power and resistance collide."
     }
   ],
   "generated_at": "2026-06-03T00:00:00.019143+00:00",
   "date": "2026-06-03",
-  "updated_at": "2026-06-03T05:00:01.724988+00:00"
+  "updated_at": "2026-06-03T06:00:01.937668+00:00"
 }
