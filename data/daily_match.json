@@ -1,56 +1,31 @@
 {
-  "current_hour": 15,
+  "current_hour": 16,
   "current_fact": {
-    "hour": 15,
-    "fact_text": "On June 3, 2025, the historic Academy of the Distrustful—a baroque literary and musical society originally founded in 1700—was reconstituted in Barcelona’s Sala Dalmases. After centuries, the academy’s revival bridged early modern salons and contemporary creative communities in the same city.",
-    "fact_year": 2025,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Academy_of_the_Distrustful",
+    "hour": 16,
+    "fact_text": "In 1998, a high‑speed ICE train derailed near Eschede, Germany, after a wheel tire failed, causing one of the deadliest high‑speed rail disasters in history with 101 fatalities. The tragedy led to sweeping changes in rail safety standards and highlighted how complex engineering systems can fail catastrophically from a single hidden flaw.",
+    "fact_year": 1998,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Eschede_train_disaster",
     "episode": {
-      "id": 44,
-      "title": "Morning Drops #38 - History of Flamenco",
-      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "La Niña de los Peines - Al Gurugú",
-        "Lola Flores - Pena, penita, pena",
-        "Paco de Lucía - Entre dos aguas",
-        "Camarón de la Isla - La leyenda del tiempo",
-        "Rosalía - Pienso en tu mirá"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Flamenco",
-        "Spanish Folk",
-        "Nuevo Flamenco"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "A revived Spanish baroque academy of letters and music pairs naturally with an episode tracing another Spanish art form’s history across centuries."
+    "match_reason": "A reflection on our dependence on complex technologies and invisible systems complements the story of a subtle mechanical failure causing a catastrophic train crash."
   },
   "queue": [
-    {
-      "hour": 16,
-      "fact_text": "In 1998, a high‑speed ICE train derailed near Eschede, Germany, after a wheel tire failed, causing one of the deadliest high‑speed rail disasters in history with 101 fatalities. The tragedy led to sweeping changes in rail safety standards and highlighted how complex engineering systems can fail catastrophically from a single hidden flaw.",
-      "fact_year": 1998,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Eschede_train_disaster",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "A reflection on our dependence on complex technologies and invisible systems complements the story of a subtle mechanical failure causing a catastrophic train crash."
-    },
     {
       "hour": 17,
       "fact_text": "In 1991, Mount Unzen in Kyūshū, Japan, erupted and triggered a pyroclastic flow that killed 43 people, all of them researchers, photographers, and journalists documenting the volcano. Their deaths underscored the thin line between scientific curiosity and danger when studying Earth’s most powerful forces up close.",
@@ -625,9 +600,34 @@
         ]
       },
       "match_reason": "A revived Spanish baroque academy of letters and music pairs naturally with an episode tracing another Spanish art form’s history across centuries."
+    },
+    {
+      "hour": 16,
+      "fact_text": "In 1998, a high‑speed ICE train derailed near Eschede, Germany, after a wheel tire failed, causing one of the deadliest high‑speed rail disasters in history with 101 fatalities. The tragedy led to sweeping changes in rail safety standards and highlighted how complex engineering systems can fail catastrophically from a single hidden flaw.",
+      "fact_year": 1998,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Eschede_train_disaster",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "A reflection on our dependence on complex technologies and invisible systems complements the story of a subtle mechanical failure causing a catastrophic train crash."
     }
   ],
   "generated_at": "2026-06-03T00:00:00.019143+00:00",
   "date": "2026-06-03",
-  "updated_at": "2026-06-03T15:00:01.896995+00:00"
+  "updated_at": "2026-06-03T16:00:02.561806+00:00"
 }
