@@ -1,65 +1,40 @@
 {
-  "current_hour": 6,
+  "current_hour": 7,
   "current_fact": {
-    "hour": 6,
-    "fact_text": "On June 3, 1973, a Soviet Tupolev Tu-144, one of the world’s first supersonic passenger aircraft, crashed near Goussainville, France during a demonstration flight. It was the first crash of a supersonic airliner and cast a long shadow over the future of commercial supersonic travel.",
-    "fact_year": 1973,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tupolev_Tu-144",
+    "hour": 7,
+    "fact_text": "In 1998, a German high-speed ICE train derailed near Eschede after a wheel fracture, causing carriages to slam into a bridge and collapse it. The disaster killed 101 people and remains one of the deadliest high-speed rail accidents, leading to major design and safety changes worldwide.",
+    "fact_year": 1998,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Eschede_train_disaster",
     "episode": {
-      "id": 18,
-      "title": "Morning Drops #12 - 80's Club",
-      "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
+      "id": 5,
+      "title": "Sedna FM #05 - On The Go - Zero Zero",
+      "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
       "songs": [
-        "Donna Summer - I Feel Love",
-        "Depeche Mode - Just Can't Get Enough",
-        "Ken Laszlo - Hey Hey Guy",
-        "Mylène Farmer - Sans Contrefaçon"
+        "Alborosie - Rock the dancehall",
+        "Grace Jones - Pull up to the bumper",
+        "Hollie cook - Happy hour",
+        "Easy star all star - Soul love",
+        "Jeremie Albino - Rolling down the 405",
+        "Cyril Neville - I found joy",
+        "Aretha Franklin - Rock steady",
+        "James Brown - Talking loud and saying nothing (remix)",
+        "Nubiyan Twist - So mi stay",
+        "Professor Wouassa - Fallou Fall",
+        "Jarabe de Palo - La Flaca"
       ],
       "music-genres": [
-        "Disco",
-        "Synthpop",
-        "Italo Disco",
-        "French Pop"
+        "Reggae",
+        "Funk",
+        "Soul",
+        "Afrobeat",
+        "Latin Rock",
+        "New Wave"
       ]
     },
-    "match_reason": "A futuristic supersonic jet debuting over Europe clicks with an episode about 80s machine-driven music and the technological optimism and risk of that era."
+    "match_reason": "A catastrophic failure of a system built for motion contrasts with a travel-themed episode about movement, inviting a different appreciation of speed and safety."
   },
   "queue": [
-    {
-      "hour": 7,
-      "fact_text": "In 1998, a German high-speed ICE train derailed near Eschede after a wheel fracture, causing carriages to slam into a bridge and collapse it. The disaster killed 101 people and remains one of the deadliest high-speed rail accidents, leading to major design and safety changes worldwide.",
-      "fact_year": 1998,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Eschede_train_disaster",
-      "episode": {
-        "id": 5,
-        "title": "Sedna FM #05 - On The Go - Zero Zero",
-        "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
-        "songs": [
-          "Alborosie - Rock the dancehall",
-          "Grace Jones - Pull up to the bumper",
-          "Hollie cook - Happy hour",
-          "Easy star all star - Soul love",
-          "Jeremie Albino - Rolling down the 405",
-          "Cyril Neville - I found joy",
-          "Aretha Franklin - Rock steady",
-          "James Brown - Talking loud and saying nothing (remix)",
-          "Nubiyan Twist - So mi stay",
-          "Professor Wouassa - Fallou Fall",
-          "Jarabe de Palo - La Flaca"
-        ],
-        "music-genres": [
-          "Reggae",
-          "Funk",
-          "Soul",
-          "Afrobeat",
-          "Latin Rock",
-          "New Wave"
-        ]
-      },
-      "match_reason": "A catastrophic failure of a system built for motion contrasts with a travel-themed episode about movement, inviting a different appreciation of speed and safety."
-    },
     {
       "hour": 8,
       "fact_text": "On June 3, 1969, the Australian aircraft carrier HMAS Melbourne collided with the U.S. destroyer USS Frank E. Evans during night exercises off South Vietnam. The destroyer was cut in half, and 74 sailors lost their lives in one of the most infamous peacetime naval accidents.",
@@ -619,9 +594,43 @@
         ]
       },
       "match_reason": "A futuristic supersonic jet debuting over Europe clicks with an episode about 80s machine-driven music and the technological optimism and risk of that era."
+    },
+    {
+      "hour": 7,
+      "fact_text": "In 1998, a German high-speed ICE train derailed near Eschede after a wheel fracture, causing carriages to slam into a bridge and collapse it. The disaster killed 101 people and remains one of the deadliest high-speed rail accidents, leading to major design and safety changes worldwide.",
+      "fact_year": 1998,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Eschede_train_disaster",
+      "episode": {
+        "id": 5,
+        "title": "Sedna FM #05 - On The Go - Zero Zero",
+        "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
+        "songs": [
+          "Alborosie - Rock the dancehall",
+          "Grace Jones - Pull up to the bumper",
+          "Hollie cook - Happy hour",
+          "Easy star all star - Soul love",
+          "Jeremie Albino - Rolling down the 405",
+          "Cyril Neville - I found joy",
+          "Aretha Franklin - Rock steady",
+          "James Brown - Talking loud and saying nothing (remix)",
+          "Nubiyan Twist - So mi stay",
+          "Professor Wouassa - Fallou Fall",
+          "Jarabe de Palo - La Flaca"
+        ],
+        "music-genres": [
+          "Reggae",
+          "Funk",
+          "Soul",
+          "Afrobeat",
+          "Latin Rock",
+          "New Wave"
+        ]
+      },
+      "match_reason": "A catastrophic failure of a system built for motion contrasts with a travel-themed episode about movement, inviting a different appreciation of speed and safety."
     }
   ],
   "generated_at": "2026-06-03T00:00:00.020739+00:00",
   "date": "2026-06-03",
-  "updated_at": "2026-06-03T06:00:01.883309+00:00"
+  "updated_at": "2026-06-03T07:00:01.596704+00:00"
 }
