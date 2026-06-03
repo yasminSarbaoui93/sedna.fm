@@ -1,59 +1,34 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "In 1984, the Indian government launched Operation Blue Star, a military offensive against militants occupying the Harmandir Sahib, the Golden Temple in Amritsar—Sikhism’s holiest shrine. The assault caused thousands of casualties, most of them civilians, and left a deep wound in the Sikh community that still shapes Indian politics and memory.",
-    "fact_year": 1984,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Blue_Star",
+    "hour": 11,
+    "fact_text": "On June 3, 1969, off the coast of South Vietnam, the Australian aircraft carrier HMAS Melbourne accidentally sliced the U.S. destroyer USS Frank E. Evans in half during a nighttime exercise. The collision killed 74 sailors and sparked debates about training, communication, and how navies share crowded seas.",
+    "fact_year": 1969,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Melbourne%E2%80%93Evans_collision",
     "episode": {
-      "id": 20,
-      "title": "Morning Drops #14 - Slow Planet",
-      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "Air - Cherry Blossom Girl",
-        "Kruder & Dorfmeister - Keep On Believing",
-        "Tosca - Orozco",
-        "Bonobo - Terrapin"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Downtempo",
-        "Trip-Hop",
-        "Electronic",
-        "Chillout"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "A contemplative, slow‑moving selection offers a reflective counterpoint to a tragic event tied to faith, violence, and the need for collective healing."
+    "match_reason": "A sea‑voyage episode, recorded on a boat, mirrors the ocean setting of the Melbourne–Evans collision, highlighting the contrast between peaceful sailing and naval disaster."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "On June 3, 1969, off the coast of South Vietnam, the Australian aircraft carrier HMAS Melbourne accidentally sliced the U.S. destroyer USS Frank E. Evans in half during a nighttime exercise. The collision killed 74 sailors and sparked debates about training, communication, and how navies share crowded seas.",
-      "fact_year": 1969,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Melbourne%E2%80%93Evans_collision",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "A sea‑voyage episode, recorded on a boat, mirrors the ocean setting of the Melbourne–Evans collision, highlighting the contrast between peaceful sailing and naval disaster."
-    },
     {
       "hour": 12,
       "fact_text": "In 1942, Japan launched the Aleutian Islands Campaign by bombing Unalaska Island in Alaska’s Dutch Harbor, one of the few times the continental United States and its territories came under direct attack during World War II. The harsh, fog‑shrouded islands became an unexpected front line in the Pacific war.",
@@ -625,9 +600,37 @@
         ]
       },
       "match_reason": "A contemplative, slow‑moving selection offers a reflective counterpoint to a tragic event tied to faith, violence, and the need for collective healing."
+    },
+    {
+      "hour": 11,
+      "fact_text": "On June 3, 1969, off the coast of South Vietnam, the Australian aircraft carrier HMAS Melbourne accidentally sliced the U.S. destroyer USS Frank E. Evans in half during a nighttime exercise. The collision killed 74 sailors and sparked debates about training, communication, and how navies share crowded seas.",
+      "fact_year": 1969,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Melbourne%E2%80%93Evans_collision",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "A sea‑voyage episode, recorded on a boat, mirrors the ocean setting of the Melbourne–Evans collision, highlighting the contrast between peaceful sailing and naval disaster."
     }
   ],
   "generated_at": "2026-06-03T00:00:00.019143+00:00",
   "date": "2026-06-03",
-  "updated_at": "2026-06-03T10:00:01.731716+00:00"
+  "updated_at": "2026-06-03T11:00:01.735544+00:00"
 }
