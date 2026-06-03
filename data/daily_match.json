@@ -1,57 +1,31 @@
 {
-  "current_hour": 22,
+  "current_hour": 23,
   "current_fact": {
-    "hour": 22,
-    "fact_text": "During World War II, the Luftwaffe's bombing of Paris on June 3, 1940 signaled that even cultural capitals famed for art and fashion were not safe from industrialized war. For Parisians, air raid sirens became an unwanted soundtrack to daily life.",
-    "fact_year": 1940,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Luftwaffe",
+    "hour": 23,
+    "fact_text": "In Los Angeles in 1943, the Zoot Suit Riots showed how clothing and music-linked subcultures could be criminalized when wrapped in xenophobia and wartime anxiety. The baggy suits, jazz clubs, and swing dances that symbolized Mexican American youth pride became excuses for violence.",
+    "fact_year": 1943,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Zoot_Suit_Riots",
     "episode": {
-      "id": 21,
-      "title": "Morning Drops #15 - Unfreezing",
-      "description": "A short, honest Morning Drop with no grand theme — just four tracks, a bit of voice, and the decision to not wait for the 'right' moment. Room to breathe today.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unfreezing",
+      "id": 44,
+      "title": "Morning Drops #38 - History of Flamenco",
+      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
       "songs": [
-        "Jelisa - Friendly Pressure",
-        "Jane Birkin & Serge Gainsbourg - Je t’aime… moi non plus",
-        "Feng Suave - Maybe Another Time",
-        "Bernard Badie - In Love (DJ Quad's at Night Mix)"
+        "La Niña de los Peines - Al Gurugú",
+        "Lola Flores - Pena, penita, pena",
+        "Paco de Lucña - Entre dos aguas",
+        "Camarón de la Isla - La leyenda del tiempo",
+        "Rosalía - Pienso en tu mirá"
       ],
       "music-genres": [
-        "Trip-Hop",
-        "French Pop",
-        "Indie",
-        "Deep House"
+        "Flamenco",
+        "Spanish Folk",
+        "Nuevo Flamenco"
       ]
     },
-    "match_reason": "A French city under bombardment is juxtaposed with an intimate, French-inflected episode offering a different, softer soundtrack to life in and around Paris."
+    "match_reason": "A riot sparked around racialized youth culture is paired with an episode about another historically marginalized musical culture, Flamenco, spotlighting how art forms often become flashpoints for identity and conflict."
   },
-  "queue": [
-    {
-      "hour": 23,
-      "fact_text": "In Los Angeles in 1943, the Zoot Suit Riots showed how clothing and music-linked subcultures could be criminalized when wrapped in xenophobia and wartime anxiety. The baggy suits, jazz clubs, and swing dances that symbolized Mexican American youth pride became excuses for violence.",
-      "fact_year": 1943,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Zoot_Suit_Riots",
-      "episode": {
-        "id": 44,
-        "title": "Morning Drops #38 - History of Flamenco",
-        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
-        "songs": [
-          "La Niña de los Peines - Al Gurugú",
-          "Lola Flores - Pena, penita, pena",
-          "Paco de Lucña - Entre dos aguas",
-          "Camarón de la Isla - La leyenda del tiempo",
-          "Rosalía - Pienso en tu mirá"
-        ],
-        "music-genres": [
-          "Flamenco",
-          "Spanish Folk",
-          "Nuevo Flamenco"
-        ]
-      },
-      "match_reason": "A riot sparked around racialized youth culture is paired with an episode about another historically marginalized musical culture, Flamenco, spotlighting how art forms often become flashpoints for identity and conflict."
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "hour": 0,
@@ -619,9 +593,34 @@
         ]
       },
       "match_reason": "A French city under bombardment is juxtaposed with an intimate, French-inflected episode offering a different, softer soundtrack to life in and around Paris."
+    },
+    {
+      "hour": 23,
+      "fact_text": "In Los Angeles in 1943, the Zoot Suit Riots showed how clothing and music-linked subcultures could be criminalized when wrapped in xenophobia and wartime anxiety. The baggy suits, jazz clubs, and swing dances that symbolized Mexican American youth pride became excuses for violence.",
+      "fact_year": 1943,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Zoot_Suit_Riots",
+      "episode": {
+        "id": 44,
+        "title": "Morning Drops #38 - History of Flamenco",
+        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+        "songs": [
+          "La Niña de los Peines - Al Gurugú",
+          "Lola Flores - Pena, penita, pena",
+          "Paco de Lucña - Entre dos aguas",
+          "Camarón de la Isla - La leyenda del tiempo",
+          "Rosalía - Pienso en tu mirá"
+        ],
+        "music-genres": [
+          "Flamenco",
+          "Spanish Folk",
+          "Nuevo Flamenco"
+        ]
+      },
+      "match_reason": "A riot sparked around racialized youth culture is paired with an episode about another historically marginalized musical culture, Flamenco, spotlighting how art forms often become flashpoints for identity and conflict."
     }
   ],
   "generated_at": "2026-06-03T00:00:00.020739+00:00",
   "date": "2026-06-03",
-  "updated_at": "2026-06-03T22:00:01.697266+00:00"
+  "updated_at": "2026-06-03T23:00:01.789263+00:00"
 }
