@@ -1,59 +1,31 @@
 {
-  "current_hour": 11,
+  "current_hour": 12,
   "current_fact": {
-    "hour": 11,
-    "fact_text": "On June 3, 1969, off the coast of South Vietnam, the Australian aircraft carrier HMAS Melbourne accidentally sliced the U.S. destroyer USS Frank E. Evans in half during a nighttime exercise. The collision killed 74 sailors and sparked debates about training, communication, and how navies share crowded seas.",
-    "fact_year": 1969,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Melbourne%E2%80%93Evans_collision",
+    "hour": 12,
+    "fact_text": "In 1942, Japan launched the Aleutian Islands Campaign by bombing Unalaska Island in Alaska’s Dutch Harbor, one of the few times the continental United States and its territories came under direct attack during World War II. The harsh, fog‑shrouded islands became an unexpected front line in the Pacific war.",
+    "fact_year": 1942,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Aleutian_Islands_campaign",
     "episode": {
-      "id": 37,
-      "title": "Morning Drops #31 - Sailing With Germans",
-      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "Billy Talent - Dead Silence",
-        "Ben Howard - Keep Your Head Up",
-        "Ziggy Alberts - Simple Things",
-        "Vitor Kley - O Sol",
-        "Enya - Orinoco Flow",
-        "Paveier - Leev Marie"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Punk Rock",
-        "Indie Folk",
-        "Surf Pop",
-        "New Age",
-        "German Folk"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "A sea‑voyage episode, recorded on a boat, mirrors the ocean setting of the Melbourne–Evans collision, highlighting the contrast between peaceful sailing and naval disaster."
+    "match_reason": "Both the Aleutian campaign and this episode unfold in cold northern seas, blending stories of military history with modern tales of Arctic waters and wildlife."
   },
   "queue": [
-    {
-      "hour": 12,
-      "fact_text": "In 1942, Japan launched the Aleutian Islands Campaign by bombing Unalaska Island in Alaska’s Dutch Harbor, one of the few times the continental United States and its territories came under direct attack during World War II. The harsh, fog‑shrouded islands became an unexpected front line in the Pacific war.",
-      "fact_year": 1942,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Aleutian_Islands_campaign",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "Both the Aleutian campaign and this episode unfold in cold northern seas, blending stories of military history with modern tales of Arctic waters and wildlife."
-    },
     {
       "hour": 13,
       "fact_text": "In 1602, an English naval force defeated Spanish galleys and captured a large Portuguese carrack in the Battle of Sesimbra Bay, off the coast of Portugal. The clash highlighted a transition in naval warfare, where heavily armed sailing ships began to eclipse traditional oared galleys.",
@@ -628,9 +600,34 @@
         ]
       },
       "match_reason": "A sea‑voyage episode, recorded on a boat, mirrors the ocean setting of the Melbourne–Evans collision, highlighting the contrast between peaceful sailing and naval disaster."
+    },
+    {
+      "hour": 12,
+      "fact_text": "In 1942, Japan launched the Aleutian Islands Campaign by bombing Unalaska Island in Alaska’s Dutch Harbor, one of the few times the continental United States and its territories came under direct attack during World War II. The harsh, fog‑shrouded islands became an unexpected front line in the Pacific war.",
+      "fact_year": 1942,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Aleutian_Islands_campaign",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "Both the Aleutian campaign and this episode unfold in cold northern seas, blending stories of military history with modern tales of Arctic waters and wildlife."
     }
   ],
   "generated_at": "2026-06-03T00:00:00.019143+00:00",
   "date": "2026-06-03",
-  "updated_at": "2026-06-03T11:00:01.735544+00:00"
+  "updated_at": "2026-06-03T12:00:01.968679+00:00"
 }
