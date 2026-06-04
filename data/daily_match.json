@@ -1,57 +1,34 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "On 4 June 2010, SpaceX launched Falcon 9 Flight 1, the maiden flight of its new rocket, from Cape Canaveral. The success of this test paved the way for a new era of commercial spaceflight, proving that a private company could build and fly orbital-class rockets.",
-    "fact_year": 2010,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/SpaceX",
+    "hour": 1,
+    "fact_text": "On 4 June 1996, the very first Ariane 5 rocket exploded just 37 seconds after liftoff, destroying the Cluster scientific mission. The failure was later traced to a software error, becoming a textbook example of how tiny code assumptions can ruin a giant engineering project.",
+    "fact_year": 1996,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ariane_flight_V88",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 54,
+      "title": "Morning Drops #47 - The Rise Of Autotune",
+      "description": "In this Morning Drop, Yasmin explores the explosive rise of Auto-Tune, a tool that quietly changed the sound of music without asking for attention. From fragile, imperfect recordings to voices shaped with precision, this episode follows the moment when correction became standard and sound became controlled.\n\nAlong the way, we discover the curious story of how it was invented, how it moved from the background of studios to the center of debate, and how a few artists turned it into something expressive rather than hidden.\n\nListen slowly, and let us know what you think about Autotune.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-autotune",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Chet Baker – I Fall in Love Too Easily",
+        "Destiny’s Child – Survivor",
+        "T-Pain – I’m Sprung",
+        "Jay-Z – D.O.A. (Death of Auto-Tune)",
+        "Travis Scott feat. Kacy Hill – 90210"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Jazz",
+        "R&B",
+        "Hip-Hop",
+        "Pop",
+        "Trap",
+        "Electronic"
       ]
     },
-    "match_reason": "A literal space milestone pairs with an episode built around the metaphor of \"space\" as creative potential and new beginnings."
+    "match_reason": "A catastrophic software bug in a rocket resonates with an episode about digital tools that correct or distort reality, showing how code can both fail and reshape our world."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On 4 June 1996, the very first Ariane 5 rocket exploded just 37 seconds after liftoff, destroying the Cluster scientific mission. The failure was later traced to a software error, becoming a textbook example of how tiny code assumptions can ruin a giant engineering project.",
-      "fact_year": 1996,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ariane_flight_V88",
-      "episode": {
-        "id": 54,
-        "title": "Morning Drops #47 - The Rise Of Autotune",
-        "description": "In this Morning Drop, Yasmin explores the explosive rise of Auto-Tune, a tool that quietly changed the sound of music without asking for attention. From fragile, imperfect recordings to voices shaped with precision, this episode follows the moment when correction became standard and sound became controlled.\n\nAlong the way, we discover the curious story of how it was invented, how it moved from the background of studios to the center of debate, and how a few artists turned it into something expressive rather than hidden.\n\nListen slowly, and let us know what you think about Autotune.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-autotune",
-        "songs": [
-          "Chet Baker – I Fall in Love Too Easily",
-          "Destiny’s Child – Survivor",
-          "T-Pain – I’m Sprung",
-          "Jay-Z – D.O.A. (Death of Auto-Tune)",
-          "Travis Scott feat. Kacy Hill – 90210"
-        ],
-        "music-genres": [
-          "Jazz",
-          "R&B",
-          "Hip-Hop",
-          "Pop",
-          "Trap",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A catastrophic software bug in a rocket resonates with an episode about digital tools that correct or distort reality, showing how code can both fail and reshape our world."
-    },
     {
       "hour": 2,
       "fact_text": "On 4 June 1977, JVC publicly introduced the VHS videotape system at the Consumer Electronics Show in Chicago. Though it seemed just another gadget at the time, VHS would go on to win a bitter format war with Betamax and quietly transform how people watched movies at home.",
@@ -623,9 +600,37 @@
         ]
       },
       "match_reason": "A literal space milestone pairs with an episode built around the metaphor of \"space\" as creative potential and new beginnings."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On 4 June 1996, the very first Ariane 5 rocket exploded just 37 seconds after liftoff, destroying the Cluster scientific mission. The failure was later traced to a software error, becoming a textbook example of how tiny code assumptions can ruin a giant engineering project.",
+      "fact_year": 1996,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ariane_flight_V88",
+      "episode": {
+        "id": 54,
+        "title": "Morning Drops #47 - The Rise Of Autotune",
+        "description": "In this Morning Drop, Yasmin explores the explosive rise of Auto-Tune, a tool that quietly changed the sound of music without asking for attention. From fragile, imperfect recordings to voices shaped with precision, this episode follows the moment when correction became standard and sound became controlled.\n\nAlong the way, we discover the curious story of how it was invented, how it moved from the background of studios to the center of debate, and how a few artists turned it into something expressive rather than hidden.\n\nListen slowly, and let us know what you think about Autotune.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-autotune",
+        "songs": [
+          "Chet Baker – I Fall in Love Too Easily",
+          "Destiny’s Child – Survivor",
+          "T-Pain – I’m Sprung",
+          "Jay-Z – D.O.A. (Death of Auto-Tune)",
+          "Travis Scott feat. Kacy Hill – 90210"
+        ],
+        "music-genres": [
+          "Jazz",
+          "R&B",
+          "Hip-Hop",
+          "Pop",
+          "Trap",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A catastrophic software bug in a rocket resonates with an episode about digital tools that correct or distort reality, showing how code can both fail and reshape our world."
     }
   ],
   "generated_at": "2026-06-04T00:00:00.012429+00:00",
   "date": "2026-06-04",
-  "updated_at": "2026-06-04T00:01:02.352572+00:00"
+  "updated_at": "2026-06-04T01:00:02.210672+00:00"
 }
