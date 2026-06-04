@@ -1,59 +1,34 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "On 4 June 1942, the Battle of Midway began as Japanese forces launched air strikes on Midway Atoll. Over the next days, a series of risky decisions, codebreaking, and sheer luck turned the engagement into a decisive U.S. victory that shifted the balance in the Pacific War.",
-    "fact_year": 1942,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Midway",
+    "hour": 11,
+    "fact_text": "On 4 June 1944, a U.S. Navy hunter‑killer group captured the German submarine U‑505 off the coast of West Africa. It was the first time since the 19th century that the U.S. Navy had taken an enemy vessel at sea, and the sub’s intact codebooks became an intelligence treasure.",
+    "fact_year": 1944,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/German_submarine_U-505",
     "episode": {
-      "id": 11,
-      "title": "Morning Drops #05 - Electric Shock",
-      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "Johnny Winter - Highway 61 Revisited",
-        "Joan Armatrading - Sleight of Hand",
-        "Joan Armatrading - Russian Roulette",
-        "Jimi Hendrix - Freedom",
-        "Jeff Beck - Scatterbrain"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Rock",
-        "Electric Blues"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "A high‑stakes naval clash full of sudden reversals matches an episode built on electric, high‑tension rock—music that feels like an aerial dogfight translated into sound."
+    "match_reason": "A German submarine dramatically intercepted at sea is paired with a lighthearted sailing journey with German friends, echoing the same maritime setting in a far gentler key."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "On 4 June 1944, a U.S. Navy hunter‑killer group captured the German submarine U‑505 off the coast of West Africa. It was the first time since the 19th century that the U.S. Navy had taken an enemy vessel at sea, and the sub’s intact codebooks became an intelligence treasure.",
-      "fact_year": 1944,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/German_submarine_U-505",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "A German submarine dramatically intercepted at sea is paired with a lighthearted sailing journey with German friends, echoing the same maritime setting in a far gentler key."
-    },
     {
       "hour": 12,
       "fact_text": "On 4 June 1942, Finnish commander Gustaf Mannerheim was granted the title Marshal of Finland on his 75th birthday, the same day Adolf Hitler flew in for a surprise visit. A covert recording of their tense conversation—made in Mannerheim’s train car—remains one of the few candid audio documents of Hitler speaking informally.",
@@ -625,9 +600,37 @@
         ]
       },
       "match_reason": "A high‑stakes naval clash full of sudden reversals matches an episode built on electric, high‑tension rock—music that feels like an aerial dogfight translated into sound."
+    },
+    {
+      "hour": 11,
+      "fact_text": "On 4 June 1944, a U.S. Navy hunter‑killer group captured the German submarine U‑505 off the coast of West Africa. It was the first time since the 19th century that the U.S. Navy had taken an enemy vessel at sea, and the sub’s intact codebooks became an intelligence treasure.",
+      "fact_year": 1944,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/German_submarine_U-505",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "A German submarine dramatically intercepted at sea is paired with a lighthearted sailing journey with German friends, echoing the same maritime setting in a far gentler key."
     }
   ],
   "generated_at": "2026-06-04T00:00:00.012429+00:00",
   "date": "2026-06-04",
-  "updated_at": "2026-06-04T10:00:02.009369+00:00"
+  "updated_at": "2026-06-04T11:00:02.229402+00:00"
 }
