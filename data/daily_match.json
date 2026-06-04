@@ -1,46 +1,31 @@
 {
-  "current_hour": 13,
+  "current_hour": 14,
   "current_fact": {
-    "hour": 13,
-    "fact_text": "On this day in 1944, U.S. Navy forces captured the German submarine U-505 off the coast of West Africa, boarding it while it was still afloat. It was the first time since the 19th century that the U.S. Navy had seized an enemy warship at sea, yielding invaluable codebooks and an intact Enigma machine.",
-    "fact_year": 1944,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/German_submarine_U-505",
+    "hour": 14,
+    "fact_text": "On 4 June 1961, at the Vienna Summit, Soviet leader Nikita Khrushchev warned U.S. President John F. Kennedy that he might sign a separate peace treaty with East Germany, threatening Western access to Berlin. The tense meeting helped set the stage for the Berlin Crisis and the building of the Berlin Wall.",
+    "fact_year": 1961,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Vienna_Summit",
     "episode": {
-      "id": 58,
-      "title": "Evening Flows #00 - Introduction to evening flows",
-      "description": "Sedna FM introduces a new format: Evening Flow, where you can enjoy curated music sets from selectors, DJs, and artists.\n\nEach mix is an invitation to drift beyond the expected. A space where hidden gems from personal archives come to light, where sound speaks its own language. There are no rules here, no patterns to follow. Just the steady unfolding of a mood, a texture, a journey shaped by feeling.\n\nLet the music lead the way - enjoy the trip!",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-introduction-to-evening-flows",
-      "songs": [],
-      "music-genres": []
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+      "songs": [
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
+      ],
+      "music-genres": [
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
+      ]
     },
-    "match_reason": "Boarding a submarine to capture secret codes is like diving into the deep to retrieve hidden data; this open-format, exploratory mix echoes that sense of slipping beneath the surface to find what’s usually unseen."
+    "match_reason": "A summit about borders and access aligns with an episode about invisible digital borders and how we connect; both ask what freedom and restriction mean in an increasingly divided world."
   },
   "queue": [
-    {
-      "hour": 14,
-      "fact_text": "On 4 June 1961, at the Vienna Summit, Soviet leader Nikita Khrushchev warned U.S. President John F. Kennedy that he might sign a separate peace treaty with East Germany, threatening Western access to Berlin. The tense meeting helped set the stage for the Berlin Crisis and the building of the Berlin Wall.",
-      "fact_year": 1961,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Vienna_Summit",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "A summit about borders and access aligns with an episode about invisible digital borders and how we connect; both ask what freedom and restriction mean in an increasingly divided world."
-    },
     {
       "hour": 15,
       "fact_text": "On 4 June 1970, the Pacific island kingdom of Tonga formally gained independence from the British Empire. It retained its own monarchy and cultural traditions, becoming one of the few Polynesian states to navigate decolonization while preserving a continuous royal line.",
@@ -632,9 +617,34 @@
         "music-genres": []
       },
       "match_reason": "Boarding a submarine to capture secret codes is like diving into the deep to retrieve hidden data; this open-format, exploratory mix echoes that sense of slipping beneath the surface to find what’s usually unseen."
+    },
+    {
+      "hour": 14,
+      "fact_text": "On 4 June 1961, at the Vienna Summit, Soviet leader Nikita Khrushchev warned U.S. President John F. Kennedy that he might sign a separate peace treaty with East Germany, threatening Western access to Berlin. The tense meeting helped set the stage for the Berlin Crisis and the building of the Berlin Wall.",
+      "fact_year": 1961,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Vienna_Summit",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "A summit about borders and access aligns with an episode about invisible digital borders and how we connect; both ask what freedom and restriction mean in an increasingly divided world."
     }
   ],
   "generated_at": "2026-06-04T00:00:00.023435+00:00",
   "date": "2026-06-04",
-  "updated_at": "2026-06-04T13:00:02.156076+00:00"
+  "updated_at": "2026-06-04T14:00:01.946757+00:00"
 }
