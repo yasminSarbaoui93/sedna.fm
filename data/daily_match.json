@@ -1,59 +1,31 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On 4 June 1996, the very first Ariane 5 rocket exploded just 37 seconds after liftoff, destroying the Cluster scientific mission. The failure was later traced to a software error, becoming a textbook example of how tiny code assumptions can ruin a giant engineering project.",
-    "fact_year": 1996,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ariane_flight_V88",
+    "hour": 2,
+    "fact_text": "On 4 June 1977, JVC publicly introduced the VHS videotape system at the Consumer Electronics Show in Chicago. Though it seemed just another gadget at the time, VHS would go on to win a bitter format war with Betamax and quietly transform how people watched movies at home.",
+    "fact_year": 1977,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/VHS",
     "episode": {
-      "id": 54,
-      "title": "Morning Drops #47 - The Rise Of Autotune",
-      "description": "In this Morning Drop, Yasmin explores the explosive rise of Auto-Tune, a tool that quietly changed the sound of music without asking for attention. From fragile, imperfect recordings to voices shaped with precision, this episode follows the moment when correction became standard and sound became controlled.\n\nAlong the way, we discover the curious story of how it was invented, how it moved from the background of studios to the center of debate, and how a few artists turned it into something expressive rather than hidden.\n\nListen slowly, and let us know what you think about Autotune.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-autotune",
+      "id": 13,
+      "title": "Morning Drops #03 - secret_mp3_player_1",
+      "description": "Inspired by a throwback MP3 player on Instagram, Yasmin and Gaia take you on a nostalgic journey to the early 2000s. LimeWire, eMule, guilty-pleasure playlists — remember those? Hit play and relive the songs that shaped a generation.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-secret-mp3-player-1",
       "songs": [
-        "Chet Baker – I Fall in Love Too Easily",
-        "Destiny’s Child – Survivor",
-        "T-Pain – I’m Sprung",
-        "Jay-Z – D.O.A. (Death of Auto-Tune)",
-        "Travis Scott feat. Kacy Hill – 90210"
+        "Sean Paul - Get Busy",
+        "Blink-182 - I Miss You",
+        "Black Eyed Peas - My Humps",
+        "Britney Spears - Toxic"
       ],
       "music-genres": [
-        "Jazz",
-        "R&B",
-        "Hip-Hop",
+        "Dancehall",
+        "Pop Punk",
         "Pop",
-        "Trap",
-        "Electronic"
+        "Dance-Pop"
       ]
     },
-    "match_reason": "A catastrophic software bug in a rocket resonates with an episode about digital tools that correct or distort reality, showing how code can both fail and reshape our world."
+    "match_reason": "A format that defined home video pairs with an episode drenched in early-2000s media nostalgia, both celebrating how tech shapes what and how we watch and listen."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "On 4 June 1977, JVC publicly introduced the VHS videotape system at the Consumer Electronics Show in Chicago. Though it seemed just another gadget at the time, VHS would go on to win a bitter format war with Betamax and quietly transform how people watched movies at home.",
-      "fact_year": 1977,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/VHS",
-      "episode": {
-        "id": 13,
-        "title": "Morning Drops #03 - secret_mp3_player_1",
-        "description": "Inspired by a throwback MP3 player on Instagram, Yasmin and Gaia take you on a nostalgic journey to the early 2000s. LimeWire, eMule, guilty-pleasure playlists — remember those? Hit play and relive the songs that shaped a generation.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-secret-mp3-player-1",
-        "songs": [
-          "Sean Paul - Get Busy",
-          "Blink-182 - I Miss You",
-          "Black Eyed Peas - My Humps",
-          "Britney Spears - Toxic"
-        ],
-        "music-genres": [
-          "Dancehall",
-          "Pop Punk",
-          "Pop",
-          "Dance-Pop"
-        ]
-      },
-      "match_reason": "A format that defined home video pairs with an episode drenched in early-2000s media nostalgia, both celebrating how tech shapes what and how we watch and listen."
-    },
     {
       "hour": 3,
       "fact_text": "On 4 June 1855, Major Henry C. Wayne sailed from New York aboard the USS Supply to buy camels for an experimental \"U.S. Camel Corps.\" The idea was to use camels as hardy pack animals in the arid American Southwest, a bold—but ultimately short-lived—attempt to import desert biology into U.S. military logistics.",
@@ -628,9 +600,34 @@
         ]
       },
       "match_reason": "A catastrophic software bug in a rocket resonates with an episode about digital tools that correct or distort reality, showing how code can both fail and reshape our world."
+    },
+    {
+      "hour": 2,
+      "fact_text": "On 4 June 1977, JVC publicly introduced the VHS videotape system at the Consumer Electronics Show in Chicago. Though it seemed just another gadget at the time, VHS would go on to win a bitter format war with Betamax and quietly transform how people watched movies at home.",
+      "fact_year": 1977,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/VHS",
+      "episode": {
+        "id": 13,
+        "title": "Morning Drops #03 - secret_mp3_player_1",
+        "description": "Inspired by a throwback MP3 player on Instagram, Yasmin and Gaia take you on a nostalgic journey to the early 2000s. LimeWire, eMule, guilty-pleasure playlists — remember those? Hit play and relive the songs that shaped a generation.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-secret-mp3-player-1",
+        "songs": [
+          "Sean Paul - Get Busy",
+          "Blink-182 - I Miss You",
+          "Black Eyed Peas - My Humps",
+          "Britney Spears - Toxic"
+        ],
+        "music-genres": [
+          "Dancehall",
+          "Pop Punk",
+          "Pop",
+          "Dance-Pop"
+        ]
+      },
+      "match_reason": "A format that defined home video pairs with an episode drenched in early-2000s media nostalgia, both celebrating how tech shapes what and how we watch and listen."
     }
   ],
   "generated_at": "2026-06-04T00:00:00.012429+00:00",
   "date": "2026-06-04",
-  "updated_at": "2026-06-04T01:00:02.210672+00:00"
+  "updated_at": "2026-06-04T02:00:01.578373+00:00"
 }
