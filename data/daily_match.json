@@ -1,118 +1,117 @@
 {
-  "current_hour": 23,
+  "current_hour": 0,
   "current_fact": {
-    "hour": 23,
-    "fact_text": "In Los Angeles’ 1943 Zoot Suit Riots, the flamboyant zoot suit—wide‑shouldered, long‑jacketed, and baggy‑trousered—became a symbol that some saw as stylish defiance and others as provocation. The clothing, rooted in jazz and swing culture, showed how fashion and music can be used to assert identity in the face of hostility.",
-    "fact_year": 1943,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Zoot_Suit_Riots",
+    "hour": 0,
+    "fact_text": "In 2010, SpaceX’s Falcon 9 made its very first flight from Cape Canaveral, successfully lofting a test version of the Dragon spacecraft into orbit. This maiden launch marked a turning point for private spaceflight, proving that a commercial company could field a powerful, orbital-class rocket.",
+    "fact_year": 2010,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/SpaceX",
     "episode": {
-      "id": 1,
-      "title": "Sedna FM #01 - November Bomb",
-      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+      "id": 9,
+      "title": "Morning Drops #03 - Space Shift",
+      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
       "songs": [
-        "berlioz - Open this wall",
-        "Nas - One Mic",
-        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-        "Frankie Knuckles - Your Love",
-        "Notorious B.I.G. - 17 Ten Crack Commandments",
-        "Liloca - Utani Xuva",
-        "Fela Kuti - Zombie",
-        "Neffa - Aspettando il sole",
-        "Childish Gambino - No Excuses",
-        "Modjo - Music takes you back"
+        "Willy J Healey - Woke Up Smiling",
+        "The Chemical Brothers - Go",
+        "The Strokes - You Only Live Once"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Afrobeat",
-        "House",
-        "Italian Pop",
-        "R&B",
-        "Latin Rap"
+        "Indie Rock",
+        "Electronic",
+        "Garage Rock"
       ]
     },
-    "match_reason": "A genre‑blending, life‑soundtrack episode echoes the cultural fusion behind zoot suits—jazz, dance, and street style as joyful resistance in tense times."
+    "match_reason": "A literal ‘space shift’: a new era of private rocketry pairs naturally with an episode about seeing empty space as room to create, backed by forward-driving, optimistic tracks."
   },
-  "queue": [],
-  "published": [
-    {
-      "hour": 0,
-      "fact_text": "In 1965, NASA's Gemini 4 mission became the first multi-day spaceflight by a U.S. crew, orbiting Earth for four days. During the mission, astronaut Ed White performed the first American spacewalk, floating tethered above Earth with a handheld maneuvering gun and reluctant to return inside the capsule.",
-      "fact_year": 1965,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Gemini_4",
-      "episode": {
-        "id": 9,
-        "title": "Morning Drops #03 - Space Shift",
-        "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
-        "songs": [
-          "Willy J Healey - Woke Up Smiling",
-          "The Chemical Brothers - Go",
-          "The Strokes - You Only Live Once"
-        ],
-        "music-genres": [
-          "Indie Rock",
-          "Electronic",
-          "Garage Rock"
-        ]
-      },
-      "match_reason": "A space-themed mindful reflection pairs naturally with the awe and emptiness Ed White experienced on the first American spacewalk."
-    },
+  "queue": [
     {
       "hour": 1,
-      "fact_text": "On June 3, 1950, French mountaineers Maurice Herzog and Louis Lachenal became the first climbers in history to summit an 8,000‑metre peak by reaching the top of Annapurna I. They did so without modern weather forecasts or detailed maps, turning the climb into a mixture of exploration, improvisation, and survival.",
-      "fact_year": 1950,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1950_French_Annapurna_expedition",
+      "fact_text": "On 4 June 1996, the very first Ariane 5 rocket veered off course and exploded just 37 seconds after liftoff. A tiny software error in its guidance system destroyed years of work in moments, becoming a classic case study in how complex code can bring down giant machines.",
+      "fact_year": 1996,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ariane_flight_V88",
       "episode": {
-        "id": 28,
-        "title": "Morning Drops #28 - Sicilians On The Dolomites",
-        "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
+        "id": 54,
+        "title": "Morning Drops #47 - The Rise Of Autotune",
+        "description": "In this Morning Drop, Yasmin explores the explosive rise of Auto-Tune, a tool that quietly changed the sound of music without asking for attention. From fragile, imperfect recordings to voices shaped with precision, this episode follows the moment when correction became standard and sound became controlled.\n\nAlong the way, we discover the curious story of how it was invented, how it moved from the background of studios to the center of debate, and how a few artists turned it into something expressive rather than hidden.\n\nListen slowly, and let us know what you think about Autotune.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-autotune",
         "songs": [
-          "Franco Battiato - Haiku",
-          "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
-          "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
-          "Pink Floyd - Fearless"
+          "Chet Baker – I Fall in Love Too Easily",
+          "Destiny’s Child – Survivor",
+          "T-Pain – I’m Sprung",
+          "Jay-Z – D.O.A. (Death of Auto-Tune)",
+          "Travis Scott feat. Kacy Hill – 90210"
         ],
         "music-genres": [
-          "Italian Art Pop",
-          "French Jazz",
-          "Italian Singer-Songwriter",
-          "Progressive Rock"
+          "Jazz",
+          "R&B",
+          "Hip-Hop",
+          "Pop",
+          "Trap",
+          "Electronic"
         ]
       },
-      "match_reason": "A mountain-inspired episode mirrors the extremes, storytelling, and quiet danger of the first ascent of an 8,000‑metre peak."
+      "match_reason": "Both the Ariane failure and Auto-Tune’s story revolve around invisible code: one bug destroys a rocket, one algorithm reshapes music, making this tech-focused episode a fitting echo."
     },
     {
       "hour": 2,
-      "fact_text": "In 1889, the United States completed its first long‑distance electric power transmission line, carrying electricity 14 miles from Willamette Falls to downtown Portland, Oregon. At a time when many cities still relied on gas lamps, this line showed that power could be sent far beyond the place where it was generated, reshaping how cities would grow.",
-      "fact_year": 1889,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Electric_power_transmission",
+      "fact_text": "In 1977, JVC unveiled the VHS videocassette system at the Consumer Electronics Show in Chicago. Against the odds, its flexible licensing and longer recording times helped it win a legendary ‘format war’ against Sony’s technically polished but tightly controlled Betamax.",
+      "fact_year": 1977,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/VHS",
       "episode": {
-        "id": 11,
-        "title": "Morning Drops #05 - Electric Shock",
-        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "id": 48,
+        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
         "songs": [
-          "Johnny Winter - Highway 61 Revisited",
-          "Joan Armatrading - Sleight of Hand",
-          "Joan Armatrading - Russian Roulette",
-          "Jimi Hendrix - Freedom",
-          "Jeff Beck - Scatterbrain"
+          "Stive Morgan - Solar Wind, Pt. 3",
+          "David Visan & Carlos Campos - Crystal Heart",
+          "Evan Mars - Ya Zareef Al Tool",
+          "Gerardo Frisina - Cuiabá",
+          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+          "The Busy Twist - Friday Night"
         ],
         "music-genres": [
-          "Blues Rock",
-          "Rock",
-          "Electric Blues"
+          "Ambient",
+          "Deep House",
+          "World Music",
+          "Nu Jazz",
+          "Afrobeat",
+          "Funk",
+          "Electronic"
         ]
       },
-      "match_reason": "A story about electric power finding its way across distance fits an episode themed around electrifying, high‑voltage music."
+      "match_reason": "VHS brought the cinema and late-night movies into living rooms; this flowing, cinematic set mirrors the feeling of pressing play on a videotape and being pulled into faraway worlds."
     },
     {
       "hour": 3,
-      "fact_text": "In 1992, the High Court of Australia issued its landmark decision in Mabo v Queensland (No 2), recognizing that Indigenous land rights existed in Australian law. The ruling overturned the colonial legal fiction of terra nullius—\"land belonging to no one\"—and acknowledged that Aboriginal and Torres Strait Islander peoples had prior ownership and enduring connection to their lands.",
-      "fact_year": 1992,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mabo_v_Queensland_(No_2)",
+      "fact_text": "On 4 June 1939, the German liner MS St. Louis, carrying 973 Jewish refugees fleeing Nazi persecution, was refused entry to the United States after already being turned away from Cuba. Forced to sail back to Europe, many of its passengers later perished in the Holocaust.",
+      "fact_year": 1939,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/MS_St._Louis",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "A story of a ship, the open sea, and human vulnerability pairs with an oceanic, reflective episode that dwells on water, vast distances, and how small we are against them."
+    },
+    {
+      "hour": 4,
+      "fact_text": "In 1855, Major Henry C. Wayne set sail from New York aboard the USS Supply on a strange mission: to buy camels for the experimental U.S. Camel Corps. The idea was to use these hardy animals as living ‘desert vehicles’ in the arid American Southwest.",
+      "fact_year": 1855,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/USS_Supply_(1846)",
       "episode": {
         "id": 22,
         "title": "Morning Drops #16 - The Sound of Tuareg",
@@ -130,188 +129,47 @@
           "World Music"
         ]
       },
-      "match_reason": "Both the Mabo decision and Tuareg desert blues center on land, memory, and the long struggle of Indigenous peoples for recognition and rights."
-    },
-    {
-      "hour": 4,
-      "fact_text": "On June 3, 1979, the Ixtoc I exploratory oil well in the Gulf of Mexico suffered a catastrophic blowout, eventually releasing at least three million barrels of oil into the sea. The months‑long spill coated coastlines, devastated marine life, and became one of the largest accidental oil spills in history.",
-      "fact_year": 1979,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ixtoc_I_oil_spill",
-      "episode": {
-        "id": 39,
-        "title": "Morning Drops #33 - Immerse",
-        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
-        "songs": [
-          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
-          "Midlife - The Magnificent Moon",
-          "Tornado Wallace - Today",
-          "Nu Genea - Marechià (feat. Celia Kameni)"
-        ],
-        "music-genres": [
-          "Italo Disco",
-          "Indie",
-          "Balearic",
-          "Nu Disco"
-        ]
-      },
-      "match_reason": "A water‑and‑immersion themed episode invites listeners to imagine oceans differently, adding emotional contrast to the story of a sea transformed by oil."
+      "match_reason": "An experiment in desert logistics fits beautifully with an episode steeped in desert soundscapes, nomadic life, and the long memory of people who actually mastered those sands."
     },
     {
       "hour": 5,
-      "fact_text": "In 1973, a Soviet Tupolev Tu‑144 supersonic passenger jet crashed near Goussainville, France, during the Paris Air Show, killing 14 people. The accident was the first crash of a supersonic airliner and cast a long shadow over the dream of routinely flying passengers at faster‑than‑sound speeds.",
-      "fact_year": 1973,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tupolev_Tu-144",
+      "fact_text": "On 4 June 1876, the Transcontinental Express roared into San Francisco just 83 hours and 39 minutes after leaving New York City. For the first time, passengers could cross an entire continent by rail in under four days, shrinking the vastness of North America into a single, continuous journey.",
+      "fact_year": 1876,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Transcontinental_Express",
       "episode": {
-        "id": 18,
-        "title": "Morning Drops #12 - 80's Club",
-        "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
+        "id": 5,
+        "title": "Sedna FM #05 - On The Go - Zero Zero",
+        "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
         "songs": [
-          "Donna Summer - I Feel Love",
-          "Depeche Mode - Just Can't Get Enough",
-          "Ken Laszlo - Hey Hey Guy",
-          "Mylène Farmer - Sans Contrefaçon"
+          "Alborosie - Rock the dancehall",
+          "Grace Jones - Pull up to the bumper",
+          "Hollie cook - Happy hour",
+          "Easy star all star - Soul love",
+          "Jeremie Albino - Rolling down the 405",
+          "Cyril Neville - I found joy",
+          "Aretha Franklin - Rock steady",
+          "James Brown - Talking loud and saying nothing (remix)",
+          "Nubiyan Twist - So mi stay",
+          "Professor Wouassa - Fallou Fall",
+          "Jarabe de Palo - La Flaca"
         ],
         "music-genres": [
-          "Disco",
-          "Synthpop",
-          "Italo Disco",
-          "French Pop"
+          "Reggae",
+          "Funk",
+          "Soul",
+          "Afrobeat",
+          "Latin Rock",
+          "New Wave"
         ]
       },
-      "match_reason": "The Tu‑144 embodied a techno‑utopian future much like early synthpop and disco—machines pushing limits, with this episode echoing both the glamour and fragility of that era."
+      "match_reason": "A record-breaking cross-country train ride belongs with an ‘on the go’ episode built for movement, travel, and the thrill of speeding into somewhere new."
     },
     {
       "hour": 6,
-      "fact_text": "During World War II’s Battle of France in 1940, the German Luftwaffe bombed Paris, bringing the war directly into the city’s streets and skies. The raids damaged historic neighborhoods and underscored how aerial warfare could turn cultural capitals into front lines overnight.",
-      "fact_year": 1940,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_France",
-      "episode": {
-        "id": 56,
-        "title": "Morning Drops #49 - Rage Against The Machine",
-        "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
-        "songs": [
-          "Rage Against the Machine - Bombtrack",
-          "Rage Against the Machine - Killing in the Name",
-          "Rage Against the Machine - Without a Face",
-          "Rage Against the Machine - Guerrilla Radio",
-          "Rage Against the Machine - Sleep Now in the Fire"
-        ],
-        "music-genres": [
-          "Rap Metal",
-          "Political Rock",
-          "Alternative Metal"
-        ]
-      },
-      "match_reason": "An episode about politically charged music and systemic violence aligns with the story of a city bombed in war, both highlighting how power and resistance collide."
-    },
-    {
-      "hour": 7,
-      "fact_text": "In 1943, Los Angeles saw five days of violence known as the Zoot Suit Riots, during which white U.S. Navy sailors and Marines attacked Mexican American youths, many of whom wore flamboyant zoot suits. The clashes exposed deep racial tensions and showed how style, music, and dress can become flashpoints for social conflict.",
-      "fact_year": 1943,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Zoot_Suit_Riots",
-      "episode": {
-        "id": 10,
-        "title": "Morning Drops #04 - Bars With Balls",
-        "description": "Yasmin dives into Women's Day through the voices of four incredible female rappers. Morning fire from the magic planet of Sedna FM — move your hands up and down with us. Hip hop culture through a feminine lens.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-bars-with-balls",
-        "songs": [
-          "Ele A - Globo",
-          "Little Simz - Point and Kill (feat. Obongjayar)",
-          "Lil' Kim - Lighters Up",
-          "Queen Latifah - U.N.I.T.Y."
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Afrobeats",
-          "Rap"
-        ]
-      },
-      "match_reason": "An episode about identity, empowerment, and marginalized voices in hip hop resonates with a historical moment when clothing and culture marked youths for violence."
-    },
-    {
-      "hour": 8,
-      "fact_text": "In 1608, French explorer Samuel de Champlain landed at Tadoussac, Quebec, during his third voyage to New France and began constructing fortifications. His efforts laid foundations for a French colonial presence that would shape the linguistic and cultural map of North America for centuries.",
-      "fact_year": 1608,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Samuel_de_Champlain",
-      "episode": {
-        "id": 17,
-        "title": "Morning Drops #11 - Mediterranean Boat",
-        "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
-        "songs": [
-          "Arleta - Bar To Navagio",
-          "Baba Zula - Tavla",
-          "Mylène Farmer - Désenchantée",
-          "Fabrizio De André - Crêuza de mä"
-        ],
-        "music-genres": [
-          "Greek Folk",
-          "Turkish Psychedelic",
-          "French Pop",
-          "Italian Singer-Songwriter"
-        ]
-      },
-      "match_reason": "A seafaring musical trip pairs well with Champlain’s Atlantic voyages and the idea of cultures meeting along coasts and harbors."
-    },
-    {
-      "hour": 9,
-      "fact_text": "On June 3, 2019, Sudanese security forces and allied Janjaweed militiamen opened fire on a peaceful sit‑in in Khartoum, killing over 100 people in what became known as the Khartoum massacre. The attack shocked the world and galvanized calls for civilian rule, reminding many that transitions from dictatorship can be brutally contested.",
-      "fact_year": 2019,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Khartoum_massacre",
-      "episode": {
-        "id": 51,
-        "title": "Morning Drops #44 - Residente",
-        "description": "In this edition of Morning Drops, Yasmin navigates the complex geography of René Pérez Joglar, known to the world as Residente. His story is not just a musical evolution; it is a timeline marked by resistance, lyrical obsession, and a relentless search for identity.\n\nFrom the gated streets of Trujillo Alto to the global stage, we explore how a restless mind transformed into the voice of a generation. The selection moves through the textures of his life: hearing the raw energy of his early rebellion, the sharp precision of his political critique, and finally, the fragile silence of his most personal confessions.\n\nIt is a study in duality. We witness the rapper who dismantles giants and the son who misses his mother. It is a soundscape that proves that sometimes, the loudest revolution happens inside.\n\nMood: Raw, Revolutionary, Introspective, Honest\nMusic genre: Latin Alternative, Hip Hop, Urban, World",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-residente",
-        "songs": [
-          "Calle 13 - La Jirafa",
-          "Calle 13 - Adentro",
-          "Residente - René",
-          "Calle 13 - La Vuelta al Mundo"
-        ],
-        "music-genres": [
-          "Latin Alternative",
-          "Hip Hop",
-          "Urban",
-          "Rap",
-          "World"
-        ]
-      },
-      "match_reason": "Residente’s politically charged storytelling about protest and state violence parallels the courage and trauma of Sudanese protesters facing a military crackdown."
-    },
-    {
-      "hour": 10,
-      "fact_text": "In 1984, the Indian government launched Operation Blue Star, a military offensive against militants occupying the Harmandir Sahib, the Golden Temple in Amritsar—Sikhism’s holiest shrine. The assault caused thousands of casualties, most of them civilians, and left a deep wound in the Sikh community that still shapes Indian politics and memory.",
-      "fact_year": 1984,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Blue_Star",
-      "episode": {
-        "id": 20,
-        "title": "Morning Drops #14 - Slow Planet",
-        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
-        "songs": [
-          "Air - Cherry Blossom Girl",
-          "Kruder & Dorfmeister - Keep On Believing",
-          "Tosca - Orozco",
-          "Bonobo - Terrapin"
-        ],
-        "music-genres": [
-          "Downtempo",
-          "Trip-Hop",
-          "Electronic",
-          "Chillout"
-        ]
-      },
-      "match_reason": "A contemplative, slow‑moving selection offers a reflective counterpoint to a tragic event tied to faith, violence, and the need for collective healing."
-    },
-    {
-      "hour": 11,
-      "fact_text": "On June 3, 1969, off the coast of South Vietnam, the Australian aircraft carrier HMAS Melbourne accidentally sliced the U.S. destroyer USS Frank E. Evans in half during a nighttime exercise. The collision killed 74 sailors and sparked debates about training, communication, and how navies share crowded seas.",
-      "fact_year": 1969,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Melbourne%E2%80%93Evans_collision",
+      "fact_text": "In 1792, British explorer George Vancouver sailed into the intricate inlets of what is now Washington State and claimed Puget Sound for the British Crown. He meticulously mapped its island-dotted waterways, turning an unknown coastal maze into navigable lines on a chart.",
+      "fact_year": 1792,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/George_Vancouver",
       "episode": {
         "id": 37,
         "title": "Morning Drops #31 - Sailing With Germans",
@@ -333,202 +191,63 @@
           "German Folk"
         ]
       },
-      "match_reason": "A sea‑voyage episode, recorded on a boat, mirrors the ocean setting of the Melbourne–Evans collision, highlighting the contrast between peaceful sailing and naval disaster."
+      "match_reason": "A naval explorer charting a complex coastline mirrors a modern sailing journey; both are about reading the sea, sharing a boat, and letting water define the day’s rhythm."
     },
     {
-      "hour": 12,
-      "fact_text": "In 1942, Japan launched the Aleutian Islands Campaign by bombing Unalaska Island in Alaska’s Dutch Harbor, one of the few times the continental United States and its territories came under direct attack during World War II. The harsh, fog‑shrouded islands became an unexpected front line in the Pacific war.",
-      "fact_year": 1942,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Aleutian_Islands_campaign",
+      "hour": 7,
+      "fact_text": "On 4 June 1796, Napoleon Bonaparte began the siege of Mantua, the last major Austrian stronghold in northern Italy. For eight grueling months it became the pivot of his Italian campaign, a long chess game of marches, feints, and encirclements that helped forge his legend.",
+      "fact_year": 1796,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Siege_of_Mantua_(1796%E2%80%931797)",
       "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "id": 53,
+        "title": "Morning Drops #46 - Fog and Fire",
+        "description": "In today’s Morning Drops, Gaia brings us on a passport-free trip between two Italian energies: the foggy stillness of the North and the volcanic pulse of the South. Throughout the journey, Gaia shares four of her favourite Italian songwriters. Grab your coffee and tune into the radio show from another planet!",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-fog-and-fire",
         "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
+          "Edoardo Bennato - La Torre Di Babele",
+          "Zucchero - Diavolo in Me",
+          "Lucio Dalla - Com'é Profondo il Mare",
+          "Pino Daniele - Tutta N'ata Storia"
         ],
         "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
+          "Blues",
+          "indie",
+          "Italian",
+          "Soft Rock"
         ]
       },
-      "match_reason": "Both the Aleutian campaign and this episode unfold in cold northern seas, blending stories of military history with modern tales of Arctic waters and wildlife."
+      "match_reason": "An epic Italian siege in the Po Valley pairs with an episode about Italy’s contrasting moods—northern fog, southern fire—set to the soundtrack of Italian songwriters."
     },
     {
-      "hour": 13,
-      "fact_text": "In 1602, an English naval force defeated Spanish galleys and captured a large Portuguese carrack in the Battle of Sesimbra Bay, off the coast of Portugal. The clash highlighted a transition in naval warfare, where heavily armed sailing ships began to eclipse traditional oared galleys.",
-      "fact_year": 1602,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Sesimbra_Bay",
+      "hour": 8,
+      "fact_text": "On this day in 1859, at the Battle of Magenta, French forces under Napoleon III defeated the Austrians in northern Italy. The victory opened the road to Milan and became a key step toward Italian unification—so influential that the color “magenta” was later named after it.",
+      "fact_year": 1859,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Magenta",
       "episode": {
-        "id": 64,
-        "title": "Sedna On The Go #02 - The Adventures of A Guitar by Ricardo Fiel",
-        "description": "In this Sedna on the Go, Yasmin sits down with Ricardo Fiel in a small café in front of the beach in Lisbon. A spontaneous conversation, recorded with waves, coffee cups, and the occasional passer-by in the background.\n\nRicardo, born and raised, in portugal, leads a life worth discovering. By day, he moves through the world of tech. But there is another side. A side of a rockstar, of full stadiums and after parties! A side we are happy to share with you in this episode\n\nListen slowly, and let the place come through with him.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-the-adventures-of-a-guitar",
-        "songs": [],
-        "music-genres": []
-      },
-      "match_reason": "A coastal battle off Portugal connects nicely with a beachside conversation in Lisbon, both anchored in the Atlantic and Portuguese maritime stories."
-    },
-    {
-      "hour": 14,
-      "fact_text": "In 350 CE, Nepotianus, a member of the Constantinian dynasty, marched into Rome at the head of a band of gladiators and proclaimed himself emperor. His coup lasted only a few weeks before he was killed, but the image of a would‑be emperor entering the city with gladiators feels like something between history and cinema.",
-      "fact_year": 350,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Nepotianus",
-      "episode": {
-        "id": 34,
-        "title": "Morning Drops #28 - Under Scottish Skies",
-        "description": "Gaia shares a personal moment of transition — a shift in seasons, in rhythm, and in life. From this space of quiet change comes a musical journey through Scotland: not the usual names, but voices that speak from the edges. A personal ritual and a small act of curiosity: an invitation to notice what grounds us when everything moves.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-under-scottish-skies",
+        "id": 28,
+        "title": "Morning Drops #28 - Sicilians On The Dolomites",
+        "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
         "songs": [
-          "Paolo Nutini - Pencil Full of Lead",
-          "Lapse - Lady Bug",
-          "Joesef - Let's Stay Together",
-          "Vital Spark - Stone of Destiny"
+          "Franco Battiato - Haiku",
+          "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
+          "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
+          "Pink Floyd - Fearless"
         ],
         "music-genres": [
-          "Indie Rock",
-          "Scottish Folk",
-          "Soul",
-          "Celtic Rock"
+          "Italian Art Pop",
+          "French Jazz",
+          "Italian Singer-Songwriter",
+          "Progressive Rock"
         ]
       },
-      "match_reason": "An introspective episode about shifting seasons and power balances pairs with a brief, almost theatrical Roman usurpation that flickered and disappeared."
+      "match_reason": "A Franco-Italian victory that changed the map of northern Italy resonates with an episode blending Italian landscapes and a touch of French jazz—a softer reflection on shared history and terrain."
     },
     {
-      "hour": 15,
-      "fact_text": "On June 3, 2025, the historic Academy of the Distrustful—a baroque literary and musical society originally founded in 1700—was reconstituted in Barcelona’s Sala Dalmases. After centuries, the academy’s revival bridged early modern salons and contemporary creative communities in the same city.",
-      "fact_year": 2025,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Academy_of_the_Distrustful",
-      "episode": {
-        "id": 44,
-        "title": "Morning Drops #38 - History of Flamenco",
-        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
-        "songs": [
-          "La Niña de los Peines - Al Gurugú",
-          "Lola Flores - Pena, penita, pena",
-          "Paco de Lucía - Entre dos aguas",
-          "Camarón de la Isla - La leyenda del tiempo",
-          "Rosalía - Pienso en tu mirá"
-        ],
-        "music-genres": [
-          "Flamenco",
-          "Spanish Folk",
-          "Nuevo Flamenco"
-        ]
-      },
-      "match_reason": "A revived Spanish baroque academy of letters and music pairs naturally with an episode tracing another Spanish art form’s history across centuries."
-    },
-    {
-      "hour": 16,
-      "fact_text": "In 1998, a high‑speed ICE train derailed near Eschede, Germany, after a wheel tire failed, causing one of the deadliest high‑speed rail disasters in history with 101 fatalities. The tragedy led to sweeping changes in rail safety standards and highlighted how complex engineering systems can fail catastrophically from a single hidden flaw.",
-      "fact_year": 1998,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Eschede_train_disaster",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "A reflection on our dependence on complex technologies and invisible systems complements the story of a subtle mechanical failure causing a catastrophic train crash."
-    },
-    {
-      "hour": 17,
-      "fact_text": "In 1991, Mount Unzen in Kyūshū, Japan, erupted and triggered a pyroclastic flow that killed 43 people, all of them researchers, photographers, and journalists documenting the volcano. Their deaths underscored the thin line between scientific curiosity and danger when studying Earth’s most powerful forces up close.",
-      "fact_year": 1991,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1991_Mount_Unzen_eruption",
-      "episode": {
-        "id": 41,
-        "title": "Morning Drops #35 - Thailand",
-        "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
-        "songs": [
-          "Salin - Egungun",
-          "Justin Bieber - Love Yourself",
-          "Khun Narin - Phua Kao",
-          "Burna Boy - Cheat on Me (feat. Dave)"
-        ],
-        "music-genres": [
-          "Afrobeat",
-          "Pop",
-          "Thai Funk",
-          "Afro-Fusion"
-        ]
-      },
-      "match_reason": "The Unzen eruption’s location in Japan and its themes of discipline and risk resonate with an episode about intense physical training in another part of Asia’s Ring of Fire region."
-    },
-    {
-      "hour": 18,
-      "fact_text": "In 1940, Nazi official Franz Rademacher advanced the so‑called Madagascar Plan, proposing the forced relocation of Europe’s Jews to the island of Madagascar. Though never implemented, the plan revealed early genocidal thinking within the regime and foreshadowed the more horrific policies that followed.",
+      "hour": 9,
+      "fact_text": "On 4 June 1940, the Dunkirk evacuation ended after rescuing about 338,000 Allied troops from encirclement in France. That same day, Winston Churchill delivered his “We shall fight on the beaches” speech, a radio-era rallying cry that turned a retreat into a story of defiant endurance.",
       "fact_year": 1940,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Madagascar_Plan",
-      "episode": {
-        "id": 32,
-        "title": "Morning Drops #26 - Canserbero",
-        "description": "Yasmin guides us through the story of Canserbero, the Venezuelan rapper who reshaped Latin American hip hop with his raw voice and deeply reflective lyrics. A journey into his music, his vision, and the legacy of an artist who transformed personal and social struggles into powerful storytelling.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-canserbero",
-        "songs": [
-          "Canserbero - Mañana será otro día",
-          "Canserbero - Querer Querernos",
-          "Canserbero - Jeremías",
-          "Canserbero - De la vida como una película y su tragedia, comedia y ficción"
-        ],
-        "music-genres": [
-          "Latin Rap",
-          "Hip-Hop",
-          "Conscious Rap"
-        ]
-      },
-      "match_reason": "A conscious-rap episode confronting injustice and human suffering offers a modern, critical lens through which to reflect on the dehumanizing logic of the Madagascar Plan."
-    },
-    {
-      "hour": 19,
-      "fact_text": "On June 3, 1539, Spanish explorer Hernando de Soto formally claimed Florida for Spain during his expedition through the southeast of what is now the United States. His journey mixed ambitious exploration, myth‑driven searches for riches, and brutal encounters with Indigenous nations.",
-      "fact_year": 1539,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Hernando_de_Soto",
-      "episode": {
-        "id": 45,
-        "title": "Morning Drops #39 - Moving Meditation",
-        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
-        "songs": [
-          "Stella & The Longos - La Flamme",
-          "España Circo Este - Dormo poco e sogno molto",
-          "Mystic Jungle - Sunset Breaker",
-          "Talking Heads - This Must Be the Place (Naive Melody)"
-        ],
-        "music-genres": [
-          "Balearic",
-          "Italian Folk Rock",
-          "World Music",
-          "New Wave"
-        ]
-      },
-      "match_reason": "A travel‑as‑reflection journey contrasts with de Soto’s conquest‑driven expedition, inviting listeners to rethink what it means to move through other people’s lands."
-    },
-    {
-      "hour": 20,
-      "fact_text": "In 2019, over 100 protesters were killed in the Khartoum massacre in Sudan when security forces violently cleared a sit‑in demanding democratic rule. The event became a defining moment in Sudan’s revolution, showing both the fragility of political transitions and the resilience of civic movements.",
-      "fact_year": 2019,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Khartoum_massacre",
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Dunkirk_evacuation",
       "episode": {
         "id": 52,
         "title": "Morning Drops #45 - It Can't Rain Forever",
@@ -547,38 +266,227 @@
           "Soft Rock"
         ]
       },
-      "match_reason": "A reflective, hopeful episode about weathering storms and transitions resonates with a painful chapter in Sudan’s revolution and the long arc toward justice."
+      "match_reason": "A dark, rainy chapter lifted by a speech of stubborn hope suits an episode about storms passing, resilience, and refusing to give up on brighter days."
     },
     {
-      "hour": 21,
-      "fact_text": "On June 3, 1940, the Luftwaffe bombed Paris, bringing the terrifying sound of air‑raid sirens and explosions to a city famous for its art and cafés. For Parisians, war ceased to be an abstract front and became a daily reality of shelters, blackout curtains, and uncertainty.",
-      "fact_year": 1940,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Luftwaffe",
+      "hour": 10,
+      "fact_text": "On 4 June 1942, the Battle of Midway began as Japanese carrier aircraft attacked the tiny U.S. outpost on Midway Atoll. Within days, the United States had sunk four Japanese aircraft carriers, flipping the balance of naval power in the Pacific in what some historians call the most decisive naval battle of the 20th century.",
+      "fact_year": 1942,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Midway",
       "episode": {
-        "id": 23,
-        "title": "Morning Drops #17 - Steel City",
-        "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
+        "id": 11,
+        "title": "Morning Drops #05 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
         "songs": [
-          "The Human League - The Sound Of The Crowd",
-          "Cabaret Voltaire - Deep Time",
-          "Pulp - Common People",
-          "Arctic Monkeys - A Certain Romance"
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
         ],
         "music-genres": [
-          "Synthpop",
-          "Industrial",
-          "Britpop",
-          "Indie Rock"
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
         ]
       },
-      "match_reason": "An episode about the industrial grit and stories of a modern city mirrors how war reshaped the daily soundtrack and identity of 1940s Paris."
+      "match_reason": "A sudden, high-stakes naval clash with carrier decks and dive-bombers feels like an ‘electric shock’ moment, well matched by roaring guitars and intense, charged rock energy."
     },
     {
-      "hour": 22,
-      "fact_text": "In 2019’s Khartoum massacre, security forces not only attacked protesters but also reportedly threw bodies into the Nile to hide the scale of the killings. Despite attempts to erase evidence, citizen videos, testimonies, and online organizing kept the memory of the event alive and fueled international pressure.",
-      "fact_year": 2019,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Sudan",
+      "hour": 11,
+      "fact_text": "Also in 1942, on his 75th birthday, Finnish commander Gustaf Mannerheim was granted the unique title of Marshal of Finland, the country’s highest military honor. On the same day, Adolf Hitler made a rare and secretly recorded visit to Finland to meet him, resulting in the only known candid audio of Hitler’s normal speaking voice.",
+      "fact_year": 1942,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Carl_Gustaf_Emil_Mannerheim",
+      "episode": {
+        "id": 42,
+        "title": "Morning Drops #36 - Women of Rock",
+        "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
+        "songs": [
+          "Suzi Quatro - Can the Can",
+          "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
+          "Laura Cox - Hard Blues Shot",
+          "Jackie Venson - Always Free (Live)"
+        ],
+        "music-genres": [
+          "Glam Rock",
+          "Hard Rock",
+          "Blues Rock"
+        ]
+      },
+      "match_reason": "A rare meeting of powerful, authoritarian figures contrasts sharply with an episode celebrating people who pick up instruments without asking permission; it reframes power from military rank to self-made, amplified voices."
+    },
+    {
+      "hour": 12,
+      "fact_text": "On 4 June 1943, a military coup in Argentina forced President Ramón Castillo from office. The so-called ‘Revolution of 1943’ shattered the existing political order and opened the path for the later rise of Juan Perón and a new era in Argentine politics.",
+      "fact_year": 1943,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1943_Argentine_Revolution",
+      "episode": {
+        "id": 51,
+        "title": "Morning Drops #44 - Residente",
+        "description": "In this edition of Morning Drops, Yasmin navigates the complex geography of René Pérez Joglar, known to the world as Residente. His story is not just a musical evolution; it is a timeline marked by resistance, lyrical obsession, and a relentless search for identity.\n\nFrom the gated streets of Trujillo Alto to the global stage, we explore how a restless mind transformed into the voice of a generation. The selection moves through the textures of his life: hearing the raw energy of his early rebellion, the sharp precision of his political critique, and finally, the fragile silence of his most personal confessions.\n\nIt is a study in duality. We witness the rapper who dismantles giants and the son who misses his mother. It is a soundscape that proves that sometimes, the loudest revolution happens inside.\n\nMood: Raw, Revolutionary, Introspective, Honest\nMusic genre: Latin Alternative, Hip Hop, Urban, World",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-residente",
+        "songs": [
+          "Calle 13 - La Jirafa",
+          "Calle 13 - Adentro",
+          "Residente - René",
+          "Calle 13 - La Vuelta al Mundo"
+        ],
+        "music-genres": [
+          "Latin Alternative",
+          "Hip Hop",
+          "Urban",
+          "Rap",
+          "World"
+        ]
+      },
+      "match_reason": "A Latin American military coup that rewired a nation’s politics matches a profile of Residente, whose work tears into power structures and tells Latin American stories of resistance."
+    },
+    {
+      "hour": 13,
+      "fact_text": "On this day in 1944, U.S. Navy forces captured the German submarine U-505 off the coast of West Africa, boarding it while it was still afloat. It was the first time since the 19th century that the U.S. Navy had seized an enemy warship at sea, yielding invaluable codebooks and an intact Enigma machine.",
+      "fact_year": 1944,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/German_submarine_U-505",
+      "episode": {
+        "id": 58,
+        "title": "Evening Flows #00 - Introduction to evening flows",
+        "description": "Sedna FM introduces a new format: Evening Flow, where you can enjoy curated music sets from selectors, DJs, and artists.\n\nEach mix is an invitation to drift beyond the expected. A space where hidden gems from personal archives come to light, where sound speaks its own language. There are no rules here, no patterns to follow. Just the steady unfolding of a mood, a texture, a journey shaped by feeling.\n\nLet the music lead the way - enjoy the trip!",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-introduction-to-evening-flows",
+        "songs": [],
+        "music-genres": []
+      },
+      "match_reason": "Boarding a submarine to capture secret codes is like diving into the deep to retrieve hidden data; this open-format, exploratory mix echoes that sense of slipping beneath the surface to find what’s usually unseen."
+    },
+    {
+      "hour": 14,
+      "fact_text": "On 4 June 1961, at the Vienna Summit, Soviet leader Nikita Khrushchev warned U.S. President John F. Kennedy that he might sign a separate peace treaty with East Germany, threatening Western access to Berlin. The tense meeting helped set the stage for the Berlin Crisis and the building of the Berlin Wall.",
+      "fact_year": 1961,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Vienna_Summit",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "A summit about borders and access aligns with an episode about invisible digital borders and how we connect; both ask what freedom and restriction mean in an increasingly divided world."
+    },
+    {
+      "hour": 15,
+      "fact_text": "On 4 June 1970, the Pacific island kingdom of Tonga formally gained independence from the British Empire. It retained its own monarchy and cultural traditions, becoming one of the few Polynesian states to navigate decolonization while preserving a continuous royal line.",
+      "fact_year": 1970,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tonga",
+      "episode": {
+        "id": 41,
+        "title": "Morning Drops #35 - Thailand",
+        "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
+        "songs": [
+          "Salin - Egungun",
+          "Justin Bieber - Love Yourself",
+          "Khun Narin - Phua Kao",
+          "Burna Boy - Cheat on Me (feat. Dave)"
+        ],
+        "music-genres": [
+          "Afrobeat",
+          "Pop",
+          "Thai Funk",
+          "Afro-Fusion"
+        ]
+      },
+      "match_reason": "An island nation in the Pacific stepping into independence pairs with a coastal, Southeast Asian episode about training, sea air, and local sound—both small places with strong identities far from old empires."
+    },
+    {
+      "hour": 16,
+      "fact_text": "On 4 June 1979, Flight Lieutenant Jerry Rawlings led a coup that overthrew General Fred Akuffo in Ghana. Rawlings, who had previously been jailed for an attempted coup, briefly took power and later returned as a key figure in Ghanaian politics for decades.",
+      "fact_year": 1979,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Jerry_Rawlings",
+      "episode": {
+        "id": 30,
+        "title": "Morning Drops #24 - The Rise Of Afrobeat",
+        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
+        "songs": [
+          "E.T. Mensah - Ghana Freedom",
+          "I.K. Dairo - Salome",
+          "Fela Kuti - Great Kids",
+          "Fela Kuti - Expensive Shit"
+        ],
+        "music-genres": [
+          "Highlife",
+          "Jùjú",
+          "Afrobeat"
+        ]
+      },
+      "match_reason": "A Ghanaian coup leader taking power is perfectly matched with an episode about Ghanaian highlife and Afrobeat, where “Ghana Freedom” plays directly into the country’s political soundtrack."
+    },
+    {
+      "hour": 17,
+      "fact_text": "On 4 June 1983, Gordon Kahl, a tax protester who had killed two U.S. Marshals months earlier, died in a violent shootout with law enforcement in Arkansas. His case became a rallying point for parts of the American far right and a cautionary tale of radicalization and state response.",
+      "fact_year": 1983,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Gordon_Kahl",
+      "episode": {
+        "id": 56,
+        "title": "Morning Drops #49 - Rage Against The Machine",
+        "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
+        "songs": [
+          "Rage Against the Machine - Bombtrack",
+          "Rage Against the Machine - Killing in the Name",
+          "Rage Against the Machine - Without a Face",
+          "Rage Against the Machine - Guerrilla Radio",
+          "Rage Against the Machine - Sleep Now in the Fire"
+        ],
+        "music-genres": [
+          "Rap Metal",
+          "Political Rock",
+          "Alternative Metal"
+        ]
+      },
+      "match_reason": "A story of violent anti-government resistance in the U.S. rhymes uncomfortably with Rage Against the Machine’s fierce critique of state power, corruption, and systemic abuse."
+    },
+    {
+      "hour": 18,
+      "fact_text": "On 4 June 1989, Solidarity, the independent Polish trade union, won a sweeping victory in partially free parliamentary elections. It was the first time a Communist government in Eastern Europe allowed such a contest, and the result helped set off a domino effect of revolutions across the region.",
+      "fact_year": 1989,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1989_Polish_parliamentary_election",
+      "episode": {
+        "id": 26,
+        "title": "Morning Drops #20 - Hitchhiking Poland",
+        "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
+        "songs": [
+          "Pidżama Porno - Ezoteryczny Poznań",
+          "Seev, Masswo - Primal Scream",
+          "Antoha MC - Ритм сердца",
+          "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
+        ],
+        "music-genres": [
+          "Polish Rock",
+          "Electronic",
+          "Russian Rap",
+          "Slavic Folk Rock"
+        ]
+      },
+      "match_reason": "A landmark Polish election that cracked the Communist system fits naturally with an episode literally traveling across Poland through its songs, landscapes, and post-Communist stories."
+    },
+    {
+      "hour": 19,
+      "fact_text": "Also on 4 June 1989, the Ufa train disaster in the Soviet Union killed 575 people when leaking natural gas from a pipeline ignited as two passenger trains passed nearby. The explosion, one of the deadliest railway accidents in history, raised hard questions about infrastructure, safety, and secrecy.",
+      "fact_year": 1989,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ufa_train_disaster",
       "episode": {
         "id": 49,
         "title": "Morning Drops #42 - The Joy Of Learning",
@@ -598,13 +506,88 @@
           "Drill / Trap"
         ]
       },
-      "match_reason": "A reflective episode about persistence and how we process painful experiences provides a gentle, thoughtful frame for understanding how societies learn from attempted erasure and trauma."
+      "match_reason": "A catastrophic systems failure is a bitter lesson in engineering and governance; pairing it with an episode about learning—and how failure and pain can force change—invites reflection rather than spectacle."
+    },
+    {
+      "hour": 20,
+      "fact_text": "On 4 June 1961, the MS St. Louis tragedy’s wider context of Jewish emigration from Nazi Germany remained largely invisible to the world. Across the 1930s and early 1940s, emigration policies, quotas, and refusals shaped the fate of thousands who tried to flee, long before the full horror of the Holocaust was known.",
+      "fact_year": 1930,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Emigration_of_Jews_from_Nazi_Germany_and_German-occupied_Europe",
+      "episode": {
+        "id": 44,
+        "title": "Morning Drops #38 - History of Flamenco",
+        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+        "songs": [
+          "La Niña de los Peines - Al Gurugú",
+          "Lola Flores - Pena, penita, pena",
+          "Paco de Lucíá - Entre dos aguas",
+          "Camarón de la Isla - La leyenda del tiempo",
+          "Rosalía - Pienso en tu mirá"
+        ],
+        "music-genres": [
+          "Flamenco",
+          "Spanish Folk",
+          "Nuevo Flamenco"
+        ]
+      },
+      "match_reason": "The story of refugees and displaced communities resonates with Flamenco’s own roots among marginalized peoples in Spain; both bear witness through deep, sometimes painful emotion."
+    },
+    {
+      "hour": 21,
+      "fact_text": "On 4 June 1961’s Vienna summit, the Cold War’s nuclear tension played out not just in words but in the minds of the leaders who carried launch codes in their briefcases. Behind the scenes, scientists and strategists were struggling with game theory, deterrence, and the terrifying possibility of mutually assured destruction.",
+      "fact_year": 1961,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cold_War",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #31 - A Trip-Hop Journey",
+        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+        "songs": [
+          "Massive Attack - Unfinished Sympathy",
+          "Tricky - Hell Is Round the Corner",
+          "DJ Shadow - Midnight in a Perfect World",
+          "Thievery Corporation - Lebanese Blonde",
+          "Smoke City - Underwater Love"
+        ],
+        "music-genres": [
+          "Trip-Hop",
+          "Downtempo",
+          "Electronic"
+        ]
+      },
+      "match_reason": "The eerie, paranoid atmosphere of the Cold War aligns with trip-hop’s shadowy, cinematic textures—music that feels like walking through a world where tension sits just below the surface."
+    },
+    {
+      "hour": 22,
+      "fact_text": "The British evacuation from Dunkirk in 1940 required hundreds of civilian vessels—fishing boats, ferries, and pleasure craft—to cross a war-torn sea. Dubbed the ‘Little Ships of Dunkirk’, this improvised civilian armada turned ordinary boat owners into unlikely participants in a massive military rescue.",
+      "fact_year": 1940,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Little_Ships_of_Dunkirk",
+      "episode": {
+        "id": 39,
+        "title": "Morning Drops #33 - Immerse",
+        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
+        "songs": [
+          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
+          "Midlife - The Magnificent Moon",
+          "Tornado Wallace - Today",
+          "Nu Genea - Marechià (feat. Celia Kameni)"
+        ],
+        "music-genres": [
+          "Italo Disco",
+          "Indie",
+          "Balearic",
+          "Nu Disco"
+        ]
+      },
+      "match_reason": "Hundreds of small boats crossing a dangerous channel evoke images of water, immersion, and collective bravery, matching an episode that moves like the sea itself—fluid, calm, and quietly powerful."
     },
     {
       "hour": 23,
-      "fact_text": "In Los Angeles’ 1943 Zoot Suit Riots, the flamboyant zoot suit—wide‑shouldered, long‑jacketed, and baggy‑trousered—became a symbol that some saw as stylish defiance and others as provocation. The clothing, rooted in jazz and swing culture, showed how fashion and music can be used to assert identity in the face of hostility.",
-      "fact_year": 1943,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Zoot_Suit_Riots",
+      "fact_text": "The Dunkirk evacuation also transformed radio’s role in wartime: Churchill’s speeches and BBC broadcasts turned a chaotic retreat into a narrative of courage. In an era before television, sound alone shaped how millions imagined beaches, boats, and the long wait to get home.",
+      "fact_year": 1940,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/We_shall_fight_on_the_beaches",
       "episode": {
         "id": 1,
         "title": "Sedna FM #01 - November Bomb",
@@ -631,10 +614,35 @@
           "Latin Rap"
         ]
       },
-      "match_reason": "A genre‑blending, life‑soundtrack episode echoes the cultural fusion behind zoot suits—jazz, dance, and street style as joyful resistance in tense times."
+      "match_reason": "An iconic wartime radio moment belongs with Sedna’s very first broadcast—a reminder that voices over the airwaves can turn fear into shared story and carry courage across oceans."
     }
   ],
-  "generated_at": "2026-06-03T00:00:00.019143+00:00",
-  "date": "2026-06-03",
-  "updated_at": "2026-06-03T23:00:01.709867+00:00"
+  "published": [
+    {
+      "hour": 0,
+      "fact_text": "In 2010, SpaceX’s Falcon 9 made its very first flight from Cape Canaveral, successfully lofting a test version of the Dragon spacecraft into orbit. This maiden launch marked a turning point for private spaceflight, proving that a commercial company could field a powerful, orbital-class rocket.",
+      "fact_year": 2010,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/SpaceX",
+      "episode": {
+        "id": 9,
+        "title": "Morning Drops #03 - Space Shift",
+        "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+        "songs": [
+          "Willy J Healey - Woke Up Smiling",
+          "The Chemical Brothers - Go",
+          "The Strokes - You Only Live Once"
+        ],
+        "music-genres": [
+          "Indie Rock",
+          "Electronic",
+          "Garage Rock"
+        ]
+      },
+      "match_reason": "A literal ‘space shift’: a new era of private rocketry pairs naturally with an episode about seeing empty space as room to create, backed by forward-driving, optimistic tracks."
+    }
+  ],
+  "generated_at": "2026-06-04T00:00:00.023435+00:00",
+  "date": "2026-06-04",
+  "updated_at": "2026-06-04T00:01:08.608891+00:00"
 }
