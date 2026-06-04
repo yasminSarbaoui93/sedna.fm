@@ -1,56 +1,31 @@
 {
-  "current_hour": 21,
+  "current_hour": 22,
   "current_fact": {
-    "hour": 21,
-    "fact_text": "On 4 June 1942, as Hitler visited Finland, Gustaf Mannerheim was formally honored as Marshal of Finland, symbolizing his country’s precarious position between Nazi Germany and the Soviet Union. The secret recording of their conversation captures the uneasy dance of small states with great powers in wartime.",
+    "hour": 22,
+    "fact_text": "On 4 June 1942, the Battle of Midway opened with Japanese carrier aircraft striking Midway Island itself, a tiny coral atoll turned into a pivotal airbase. The clash showed how a speck of land in the ocean could suddenly become the hinge of a vast Pacific theater.",
     "fact_year": 1942,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Field_marshal_(Finland)",
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Midway_Atoll",
     "episode": {
-      "id": 34,
-      "title": "Morning Drops #28 - Under Scottish Skies",
-      "description": "Gaia shares a personal moment of transition — a shift in seasons, in rhythm, and in life. From this space of quiet change comes a musical journey through Scotland: not the usual names, but voices that speak from the edges. A personal ritual and a small act of curiosity: an invitation to notice what grounds us when everything moves.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-under-scottish-skies",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "Paolo Nutini - Pencil Full of Lead",
-        "Lapse - Lady Bug",
-        "Joesef - Let's Stay Together",
-        "Vital Spark - Stone of Destiny"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
+        "Neo-Classical",
         "Indie Rock",
-        "Scottish Folk",
-        "Soul",
-        "Celtic Rock"
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "A small northern nation navigating between empires pairs with an episode about another northern land, Scotland, both reflecting on identity, edges, and what grounds a people under big skies."
+    "match_reason": "A tiny island at the heart of a massive naval battle connects with an episode steeped in open ocean and marine life, offering a contemplative, non‑violent counterpoint to a militarized sea."
   },
   "queue": [
-    {
-      "hour": 22,
-      "fact_text": "On 4 June 1942, the Battle of Midway opened with Japanese carrier aircraft striking Midway Island itself, a tiny coral atoll turned into a pivotal airbase. The clash showed how a speck of land in the ocean could suddenly become the hinge of a vast Pacific theater.",
-      "fact_year": 1942,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Midway_Atoll",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "A tiny island at the heart of a massive naval battle connects with an episode steeped in open ocean and marine life, offering a contemplative, non‑violent counterpoint to a militarized sea."
-    },
     {
       "hour": 23,
       "fact_text": "On 4 June 1859, as the Battle of Magenta raged, it contributed to the momentum that would eventually unify much of Italy. Beyond politics and maps, the battle’s legacy even spilled into culture and design—its name living on in fashion, printing inks, and the vivid magenta of early color photography.",
@@ -625,9 +600,34 @@
         ]
       },
       "match_reason": "A small northern nation navigating between empires pairs with an episode about another northern land, Scotland, both reflecting on identity, edges, and what grounds a people under big skies."
+    },
+    {
+      "hour": 22,
+      "fact_text": "On 4 June 1942, the Battle of Midway opened with Japanese carrier aircraft striking Midway Island itself, a tiny coral atoll turned into a pivotal airbase. The clash showed how a speck of land in the ocean could suddenly become the hinge of a vast Pacific theater.",
+      "fact_year": 1942,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Midway_Atoll",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "A tiny island at the heart of a massive naval battle connects with an episode steeped in open ocean and marine life, offering a contemplative, non‑violent counterpoint to a militarized sea."
     }
   ],
   "generated_at": "2026-06-04T00:00:00.012429+00:00",
   "date": "2026-06-04",
-  "updated_at": "2026-06-04T21:00:01.787688+00:00"
+  "updated_at": "2026-06-04T22:00:01.845032+00:00"
 }
