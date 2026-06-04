@@ -1,59 +1,31 @@
 {
-  "current_hour": 6,
+  "current_hour": 7,
   "current_fact": {
-    "hour": 6,
-    "fact_text": "In 1792, British explorer George Vancouver sailed into the intricate inlets of what is now Washington State and claimed Puget Sound for the British Crown. He meticulously mapped its island-dotted waterways, turning an unknown coastal maze into navigable lines on a chart.",
-    "fact_year": 1792,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/George_Vancouver",
+    "hour": 7,
+    "fact_text": "On 4 June 1796, Napoleon Bonaparte began the siege of Mantua, the last major Austrian stronghold in northern Italy. For eight grueling months it became the pivot of his Italian campaign, a long chess game of marches, feints, and encirclements that helped forge his legend.",
+    "fact_year": 1796,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Siege_of_Mantua_(1796%E2%80%931797)",
     "episode": {
-      "id": 37,
-      "title": "Morning Drops #31 - Sailing With Germans",
-      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+      "id": 53,
+      "title": "Morning Drops #46 - Fog and Fire",
+      "description": "In today’s Morning Drops, Gaia brings us on a passport-free trip between two Italian energies: the foggy stillness of the North and the volcanic pulse of the South. Throughout the journey, Gaia shares four of her favourite Italian songwriters. Grab your coffee and tune into the radio show from another planet!",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-fog-and-fire",
       "songs": [
-        "Billy Talent - Dead Silence",
-        "Ben Howard - Keep Your Head Up",
-        "Ziggy Alberts - Simple Things",
-        "Vitor Kley - O Sol",
-        "Enya - Orinoco Flow",
-        "Paveier - Leev Marie"
+        "Edoardo Bennato - La Torre Di Babele",
+        "Zucchero - Diavolo in Me",
+        "Lucio Dalla - Com'é Profondo il Mare",
+        "Pino Daniele - Tutta N'ata Storia"
       ],
       "music-genres": [
-        "Punk Rock",
-        "Indie Folk",
-        "Surf Pop",
-        "New Age",
-        "German Folk"
+        "Blues",
+        "indie",
+        "Italian",
+        "Soft Rock"
       ]
     },
-    "match_reason": "A naval explorer charting a complex coastline mirrors a modern sailing journey; both are about reading the sea, sharing a boat, and letting water define the day’s rhythm."
+    "match_reason": "An epic Italian siege in the Po Valley pairs with an episode about Italy’s contrasting moods—northern fog, southern fire—set to the soundtrack of Italian songwriters."
   },
   "queue": [
-    {
-      "hour": 7,
-      "fact_text": "On 4 June 1796, Napoleon Bonaparte began the siege of Mantua, the last major Austrian stronghold in northern Italy. For eight grueling months it became the pivot of his Italian campaign, a long chess game of marches, feints, and encirclements that helped forge his legend.",
-      "fact_year": 1796,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Siege_of_Mantua_(1796%E2%80%931797)",
-      "episode": {
-        "id": 53,
-        "title": "Morning Drops #46 - Fog and Fire",
-        "description": "In today’s Morning Drops, Gaia brings us on a passport-free trip between two Italian energies: the foggy stillness of the North and the volcanic pulse of the South. Throughout the journey, Gaia shares four of her favourite Italian songwriters. Grab your coffee and tune into the radio show from another planet!",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-fog-and-fire",
-        "songs": [
-          "Edoardo Bennato - La Torre Di Babele",
-          "Zucchero - Diavolo in Me",
-          "Lucio Dalla - Com'é Profondo il Mare",
-          "Pino Daniele - Tutta N'ata Storia"
-        ],
-        "music-genres": [
-          "Blues",
-          "indie",
-          "Italian",
-          "Soft Rock"
-        ]
-      },
-      "match_reason": "An epic Italian siege in the Po Valley pairs with an episode about Italy’s contrasting moods—northern fog, southern fire—set to the soundtrack of Italian songwriters."
-    },
     {
       "hour": 8,
       "fact_text": "On this day in 1859, at the Battle of Magenta, French forces under Napoleon III defeated the Austrians in northern Italy. The victory opened the road to Milan and became a key step toward Italian unification—so influential that the color “magenta” was later named after it.",
@@ -645,9 +617,34 @@
         ]
       },
       "match_reason": "A naval explorer charting a complex coastline mirrors a modern sailing journey; both are about reading the sea, sharing a boat, and letting water define the day’s rhythm."
+    },
+    {
+      "hour": 7,
+      "fact_text": "On 4 June 1796, Napoleon Bonaparte began the siege of Mantua, the last major Austrian stronghold in northern Italy. For eight grueling months it became the pivot of his Italian campaign, a long chess game of marches, feints, and encirclements that helped forge his legend.",
+      "fact_year": 1796,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Siege_of_Mantua_(1796%E2%80%931797)",
+      "episode": {
+        "id": 53,
+        "title": "Morning Drops #46 - Fog and Fire",
+        "description": "In today’s Morning Drops, Gaia brings us on a passport-free trip between two Italian energies: the foggy stillness of the North and the volcanic pulse of the South. Throughout the journey, Gaia shares four of her favourite Italian songwriters. Grab your coffee and tune into the radio show from another planet!",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-fog-and-fire",
+        "songs": [
+          "Edoardo Bennato - La Torre Di Babele",
+          "Zucchero - Diavolo in Me",
+          "Lucio Dalla - Com'é Profondo il Mare",
+          "Pino Daniele - Tutta N'ata Storia"
+        ],
+        "music-genres": [
+          "Blues",
+          "indie",
+          "Italian",
+          "Soft Rock"
+        ]
+      },
+      "match_reason": "An epic Italian siege in the Po Valley pairs with an episode about Italy’s contrasting moods—northern fog, southern fire—set to the soundtrack of Italian songwriters."
     }
   ],
   "generated_at": "2026-06-04T00:00:00.023435+00:00",
   "date": "2026-06-04",
-  "updated_at": "2026-06-04T06:00:01.875902+00:00"
+  "updated_at": "2026-06-04T07:00:01.571372+00:00"
 }
