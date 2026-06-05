@@ -1,64 +1,31 @@
 {
-  "current_hour": 13,
+  "current_hour": 14,
   "current_fact": {
-    "hour": 13,
-    "fact_text": "In June 1940, after a brief pause in the Battle of France, German forces launched Operation Fall Rot (“Case Red”), pushing south of the Somme and cracking the last major French defenses. The offensive, combining tanks, aircraft, and relentless infantry assaults, effectively ended France’s resistance in just weeks.",
-    "fact_year": 1940,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_France",
+    "hour": 14,
+    "fact_text": "In 2003, a ferocious heat wave gripped parts of Pakistan and India, pushing temperatures beyond 50 °C (122 °F) in some regions. The blistering heat stressed power grids, agriculture, and human bodies alike, highlighting how extreme temperatures are becoming a deadly new normal in parts of the world least equipped to handle them.",
+    "fact_year": 2003,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Heat_wave",
     "episode": {
-      "id": 1,
-      "title": "Sedna FM #01 - November Bomb",
-      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+      "id": 18,
+      "title": "Morning Drops #12 - 80's Club",
+      "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
       "songs": [
-        "berlioz - Open this wall",
-        "Nas - One Mic",
-        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-        "Frankie Knuckles - Your Love",
-        "Notorious B.I.G. - 17 Ten Crack Commandments",
-        "Liloca - Utani Xuva",
-        "Fela Kuti - Zombie",
-        "Neffa - Aspettando il sole",
-        "Childish Gambino - No Excuses",
-        "Modjo - Music takes you back"
+        "Donna Summer - I Feel Love",
+        "Depeche Mode - Just Can't Get Enough",
+        "Ken Laszlo - Hey Hey Guy",
+        "Mylène Farmer - Sans Contrefaçon"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Afrobeat",
-        "House",
-        "Italian Pop",
-        "R&B",
-        "Latin Rap"
+        "Disco",
+        "Synthpop",
+        "Italo Disco",
+        "French Pop"
       ]
     },
-    "match_reason": "A decisive offensive that changed the course of a war is paired with Sedna FM’s own \"first offensive\" episode, an explosive debut that set everything in motion."
+    "match_reason": "A sweltering, record-setting heat wave finds a strangely fitting mirror in an 80s dancefloor episode built on hot, relentless electronic grooves."
   },
   "queue": [
-    {
-      "hour": 14,
-      "fact_text": "In 2003, a ferocious heat wave gripped parts of Pakistan and India, pushing temperatures beyond 50 °C (122 °F) in some regions. The blistering heat stressed power grids, agriculture, and human bodies alike, highlighting how extreme temperatures are becoming a deadly new normal in parts of the world least equipped to handle them.",
-      "fact_year": 2003,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Heat_wave",
-      "episode": {
-        "id": 18,
-        "title": "Morning Drops #12 - 80's Club",
-        "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
-        "songs": [
-          "Donna Summer - I Feel Love",
-          "Depeche Mode - Just Can't Get Enough",
-          "Ken Laszlo - Hey Hey Guy",
-          "Mylène Farmer - Sans Contrefaçon"
-        ],
-        "music-genres": [
-          "Disco",
-          "Synthpop",
-          "Italo Disco",
-          "French Pop"
-        ]
-      },
-      "match_reason": "A sweltering, record-setting heat wave finds a strangely fitting mirror in an 80s dancefloor episode built on hot, relentless electronic grooves."
-    },
     {
       "hour": 15,
       "fact_text": "On 5 June 1984, the Indian Army launched Operation Blue Star, sending troops and armored vehicles into the Golden Temple complex in Amritsar, the holiest site in Sikhism. The operation, aimed at militants inside, left heavy casualties and deep trauma, reshaping Indian politics and Sikh identity for generations.",
@@ -654,9 +621,34 @@
         ]
       },
       "match_reason": "A decisive offensive that changed the course of a war is paired with Sedna FM’s own \"first offensive\" episode, an explosive debut that set everything in motion."
+    },
+    {
+      "hour": 14,
+      "fact_text": "In 2003, a ferocious heat wave gripped parts of Pakistan and India, pushing temperatures beyond 50 °C (122 °F) in some regions. The blistering heat stressed power grids, agriculture, and human bodies alike, highlighting how extreme temperatures are becoming a deadly new normal in parts of the world least equipped to handle them.",
+      "fact_year": 2003,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Heat_wave",
+      "episode": {
+        "id": 18,
+        "title": "Morning Drops #12 - 80's Club",
+        "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
+        "songs": [
+          "Donna Summer - I Feel Love",
+          "Depeche Mode - Just Can't Get Enough",
+          "Ken Laszlo - Hey Hey Guy",
+          "Mylène Farmer - Sans Contrefaçon"
+        ],
+        "music-genres": [
+          "Disco",
+          "Synthpop",
+          "Italo Disco",
+          "French Pop"
+        ]
+      },
+      "match_reason": "A sweltering, record-setting heat wave finds a strangely fitting mirror in an 80s dancefloor episode built on hot, relentless electronic grooves."
     }
   ],
   "generated_at": "2026-06-05T00:00:00.019495+00:00",
   "date": "2026-06-05",
-  "updated_at": "2026-06-05T13:00:01.793372+00:00"
+  "updated_at": "2026-06-05T14:00:02.543818+00:00"
 }
