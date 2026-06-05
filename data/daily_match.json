@@ -1,65 +1,31 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "On 5 June 1995, physicists in Boulder, Colorado, coaxed atoms into behaving like a single \"super-atom\" and created the first Bose–Einstein condensate. At temperatures barely above absolute zero, thousands of atoms overlapped into one quantum state, turning an abstract prediction into a ghostly new state of matter you can almost see.",
-    "fact_year": 1995,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bose%E2%80%93Einstein_condensate",
+    "hour": 11,
+    "fact_text": "In 1964, the deep-submergence vehicle Alvin was commissioned, a compact, crewed submersible designed to explore the ocean down to thousands of meters. Over the years it would help discover hydrothermal vents, study Titanic’s wreck, and reveal entire ecosystems thriving in the dark, turning the deep sea from mystery into a living laboratory.",
+    "fact_year": 1964,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/DSV_Alvin",
     "episode": {
-      "id": 6,
-      "title": "Sedna FM #06 - Alters of an Ego",
-      "description": "What if you could step outside yourself and become someone freer, bolder, or completely unexpected? Exploring the artistry of musicians who craft alter-egos and parallel realities to experiment with new dimensions of their identity. It's not about hiding who they are — it's about expanding who they can be.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/alters-of-an-ego",
+      "id": 39,
+      "title": "Morning Drops #33 - Immerse",
+      "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
       "songs": [
-        "The Thin White Duke - Stay",
-        "Mac Miller - Dang (feat. Anderson .Paak)",
-        "Larry Lovestein - Love Affair",
-        "The Fireman - Strawberries Oceans Ships Forest",
-        "Paul McCartney - Oh! Darling",
-        "Prince - Kiss",
-        "Camille - Rebirth of the Flash",
-        "MF DOOM - Deep Fried Frenz",
-        "Gorillaz - Dirty Harry",
-        "Gorillaz - Andromeda"
+        "Pino D'Angiò - Un Po' d'Uva e un Liquore",
+        "Midlife - The Magnificent Moon",
+        "Tornado Wallace - Today",
+        "Nu Genea - Marechià (feat. Celia Kameni)"
       ],
       "music-genres": [
-        "Glam Rock",
-        "Hip-Hop",
-        "Jazz",
-        "Ambient",
-        "Classic Rock",
-        "Funk",
-        "Electronic"
+        "Italo Disco",
+        "Indie",
+        "Balearic",
+        "Nu Disco"
       ]
     },
-    "match_reason": "Matter slipping into a new, unified identity mirrors artists adopting alter egos and parallel selves, both expanding what one thing can become."
+    "match_reason": "A pioneering deep-sea sub fits naturally with an episode about diving below the surface and immersing in fluid, water-like sound."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "In 1964, the deep-submergence vehicle Alvin was commissioned, a compact, crewed submersible designed to explore the ocean down to thousands of meters. Over the years it would help discover hydrothermal vents, study Titanic’s wreck, and reveal entire ecosystems thriving in the dark, turning the deep sea from mystery into a living laboratory.",
-      "fact_year": 1964,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/DSV_Alvin",
-      "episode": {
-        "id": 39,
-        "title": "Morning Drops #33 - Immerse",
-        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
-        "songs": [
-          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
-          "Midlife - The Magnificent Moon",
-          "Tornado Wallace - Today",
-          "Nu Genea - Marechià (feat. Celia Kameni)"
-        ],
-        "music-genres": [
-          "Italo Disco",
-          "Indie",
-          "Balearic",
-          "Nu Disco"
-        ]
-      },
-      "match_reason": "A pioneering deep-sea sub fits naturally with an episode about diving below the surface and immersing in fluid, water-like sound."
-    },
     {
       "hour": 12,
       "fact_text": "On a lakeshore in Finland in 1960, three teenagers were murdered while camping at Lake Bodom and a fourth was badly injured, in a case that has never been definitively solved. The mystery has haunted Finnish culture for decades, inspiring books, songs, and theories about what really happened in the pre-dawn darkness.",
@@ -655,9 +621,34 @@
         ]
       },
       "match_reason": "Matter slipping into a new, unified identity mirrors artists adopting alter egos and parallel selves, both expanding what one thing can become."
+    },
+    {
+      "hour": 11,
+      "fact_text": "In 1964, the deep-submergence vehicle Alvin was commissioned, a compact, crewed submersible designed to explore the ocean down to thousands of meters. Over the years it would help discover hydrothermal vents, study Titanic’s wreck, and reveal entire ecosystems thriving in the dark, turning the deep sea from mystery into a living laboratory.",
+      "fact_year": 1964,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/DSV_Alvin",
+      "episode": {
+        "id": 39,
+        "title": "Morning Drops #33 - Immerse",
+        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
+        "songs": [
+          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
+          "Midlife - The Magnificent Moon",
+          "Tornado Wallace - Today",
+          "Nu Genea - Marechià (feat. Celia Kameni)"
+        ],
+        "music-genres": [
+          "Italo Disco",
+          "Indie",
+          "Balearic",
+          "Nu Disco"
+        ]
+      },
+      "match_reason": "A pioneering deep-sea sub fits naturally with an episode about diving below the surface and immersing in fluid, water-like sound."
     }
   ],
   "generated_at": "2026-06-05T00:00:00.019495+00:00",
   "date": "2026-06-05",
-  "updated_at": "2026-06-05T10:00:01.912055+00:00"
+  "updated_at": "2026-06-05T11:00:01.818192+00:00"
 }
