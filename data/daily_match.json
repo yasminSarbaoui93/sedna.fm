@@ -1,56 +1,31 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "In 2015, a magnitude 6.0 earthquake struck Ranau in Sabah, Malaysia, sending landslides down Mount Kinabalu and trapping climbers on its slopes. It was the strongest quake in Malaysia in four decades, a reminder that even seemingly gentle, tourist-loved mountains can move with sudden violence.",
-    "fact_year": 2015,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2015_Sabah_earthquake",
+    "hour": 5,
+    "fact_text": "Back in 1888, the Río de la Plata region between Argentina and Uruguay trembled in one of the strongest earthquakes ever recorded there, despite being far from major plate boundaries. Buildings rocked in Buenos Aires and Montevideo, proof that even \"quiet\" continental interiors can store deep tectonic surprises.",
+    "fact_year": 1888,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1888_R%C3%ADo_de_la_Plata_earthquake",
     "episode": {
-      "id": 52,
-      "title": "Morning Drops #45 - It Can't Rain Forever",
-      "description": "In this first broadcast of 2026, Gaia returns from the vivid landscapes of Morocco to open a space for reflection. This episode navigates the delicate transition between closing a significant chapter and stepping into the new year. It explores the concept of constancy amidst change, celebrating the grounding force of friendship and the creative sanctuary that is Sedna FM.\n\nThe musical selection mirrors this journey, moving from the orchestral depth of changing seasons into the golden warmth of psychedelic soul. It recalls memories of Swiss mountains and unexpected downpours, reminding us that shared optimism can weather any storm.\n\nTake a moment to breathe in the new morning and listen deeply.\n\nMood: Reflective, Warm, Transitional, Hopeful\nMusic genre: Classic Rock, Psychedelic Soul, Pop Rock, Soft Rock",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-it-cant-rain-forever",
+      "id": 31,
+      "title": "Morning Drops #25 - A Trip-Hop Journey",
+      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
       "songs": [
-        "Led Zeppelin - The Rain Song",
-        "Khruangbin & Leon Bridges - Texas Sun",
-        "Dragon - Rain",
-        "Fleetwood Mac - Don't Stop"
+        "Massive Attack - Unfinished Sympathy",
+        "Tricky - Hell Is Round the Corner",
+        "DJ Shadow - Midnight in a Perfect World",
+        "Thievery Corporation - Lebanese Blonde",
+        "Smoke City - Underwater Love"
       ],
       "music-genres": [
-        "Classic Rock",
-        "Psychedelic Soul",
-        "Pop Rock",
-        "Soft Rock"
+        "Trip-Hop",
+        "Downtempo",
+        "Electronic"
       ]
     },
-    "match_reason": "A mountain shaken by an earthquake and landslides pairs with an episode about weathering storms and finding resilience in changing landscapes."
+    "match_reason": "A rare, unsettling quake in a usually calm region echoes trip-hop’s mood: slow, cinematic disturbances beneath apparently steady surfaces."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "Back in 1888, the Río de la Plata region between Argentina and Uruguay trembled in one of the strongest earthquakes ever recorded there, despite being far from major plate boundaries. Buildings rocked in Buenos Aires and Montevideo, proof that even \"quiet\" continental interiors can store deep tectonic surprises.",
-      "fact_year": 1888,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1888_R%C3%ADo_de_la_Plata_earthquake",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #25 - A Trip-Hop Journey",
-        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
-        "songs": [
-          "Massive Attack - Unfinished Sympathy",
-          "Tricky - Hell Is Round the Corner",
-          "DJ Shadow - Midnight in a Perfect World",
-          "Thievery Corporation - Lebanese Blonde",
-          "Smoke City - Underwater Love"
-        ],
-        "music-genres": [
-          "Trip-Hop",
-          "Downtempo",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A rare, unsettling quake in a usually calm region echoes trip-hop’s mood: slow, cinematic disturbances beneath apparently steady surfaces."
-    },
     {
       "hour": 6,
       "fact_text": "On 5–6 June 2012, Venus slipped across the face of the Sun in a rare astronomical alignment, a tiny dark disc sliding on a blinding star. Such transits come in pairs separated by more than a century; the next won’t arrive until 2117, making this one a once-in-many-lifetimes sunrise for skywatchers.",
@@ -646,9 +621,34 @@
         ]
       },
       "match_reason": "A mountain shaken by an earthquake and landslides pairs with an episode about weathering storms and finding resilience in changing landscapes."
+    },
+    {
+      "hour": 5,
+      "fact_text": "Back in 1888, the Río de la Plata region between Argentina and Uruguay trembled in one of the strongest earthquakes ever recorded there, despite being far from major plate boundaries. Buildings rocked in Buenos Aires and Montevideo, proof that even \"quiet\" continental interiors can store deep tectonic surprises.",
+      "fact_year": 1888,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1888_R%C3%ADo_de_la_Plata_earthquake",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #25 - A Trip-Hop Journey",
+        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+        "songs": [
+          "Massive Attack - Unfinished Sympathy",
+          "Tricky - Hell Is Round the Corner",
+          "DJ Shadow - Midnight in a Perfect World",
+          "Thievery Corporation - Lebanese Blonde",
+          "Smoke City - Underwater Love"
+        ],
+        "music-genres": [
+          "Trip-Hop",
+          "Downtempo",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A rare, unsettling quake in a usually calm region echoes trip-hop’s mood: slow, cinematic disturbances beneath apparently steady surfaces."
     }
   ],
   "generated_at": "2026-06-05T00:00:00.019495+00:00",
   "date": "2026-06-05",
-  "updated_at": "2026-06-05T04:00:01.607759+00:00"
+  "updated_at": "2026-06-05T05:00:01.829665+00:00"
 }
