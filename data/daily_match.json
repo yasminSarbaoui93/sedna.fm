@@ -1,63 +1,40 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 2002, Space Shuttle Endeavour lifted off on mission STS-111 to ferry the Expedition 5 crew to the International Space Station, quietly marking a human endurance milestone: astronaut Franklin Chang-Díaz became only the second person ever to fly in space seven times. The mission was a delicate orbital relay, swapping whole crews and tonnes of cargo in the weightless crossroads above Earth.",
-    "fact_year": 2002,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-111",
+    "hour": 1,
+    "fact_text": "On 5 June 2024, Boeing’s Starliner capsule finally flew humans for the first time, carrying astronauts Barry Wilmore and Sunita Williams to the ISS after years of delays and test flights. The mission turned a troubled prototype into a working spacecraft, ushering in a new era of private crewed vehicles sharing Earth orbit.",
+    "fact_year": 2024,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Boeing_Crew_Flight_Test",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 2,
+      "title": "Sedna FM #02 - Destination Sedna",
+      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Pink Floyd - Breathe",
+        "The fountain DC - Starburster",
+        "Laura Cahen - La Poussiere",
+        "Taxi Kebab - Lmchi w rjou3",
+        "Odion Iruoje - Identify With Your Roots",
+        "Depeche mode - world in my eyes (Oil Tank Mix)",
+        "Massive attack - Dissolved girl",
+        "Kokoroko - Three piece suite",
+        "Salin - Egungun",
+        "E.S.P. - It's You"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Progressive Rock",
+        "Post-Punk",
+        "French Pop",
+        "Maghreb",
+        "Afrobeat",
+        "Synthpop",
+        "Trip-Hop"
       ]
     },
-    "match_reason": "An orbital crew swap and a seven-flight record fit the episode’s theme of seeing space as possibility and launching into new phases."
+    "match_reason": "A new spacecraft achieving its first crewed ‘destination’ aligns with this voyage-themed episode and its expansive, space-tinged sound."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On 5 June 2024, Boeing’s Starliner capsule finally flew humans for the first time, carrying astronauts Barry Wilmore and Sunita Williams to the ISS after years of delays and test flights. The mission turned a troubled prototype into a working spacecraft, ushering in a new era of private crewed vehicles sharing Earth orbit.",
-      "fact_year": 2024,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Boeing_Crew_Flight_Test",
-      "episode": {
-        "id": 2,
-        "title": "Sedna FM #02 - Destination Sedna",
-        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
-        "songs": [
-          "Pink Floyd - Breathe",
-          "The fountain DC - Starburster",
-          "Laura Cahen - La Poussiere",
-          "Taxi Kebab - Lmchi w rjou3",
-          "Odion Iruoje - Identify With Your Roots",
-          "Depeche mode - world in my eyes (Oil Tank Mix)",
-          "Massive attack - Dissolved girl",
-          "Kokoroko - Three piece suite",
-          "Salin - Egungun",
-          "E.S.P. - It's You"
-        ],
-        "music-genres": [
-          "Progressive Rock",
-          "Post-Punk",
-          "French Pop",
-          "Maghreb",
-          "Afrobeat",
-          "Synthpop",
-          "Trip-Hop"
-        ]
-      },
-      "match_reason": "A new spacecraft achieving its first crewed ‘destination’ aligns with this voyage-themed episode and its expansive, space-tinged sound."
-    },
     {
       "hour": 2,
       "fact_text": "In 1991, Space Shuttle Columbia launched STS-40, the first dedicated Spacelab life sciences mission, turning the orbiter into a flying biology lab. Scientists studied how microgravity affects circulation, balance, bones, and even tiny organisms, using space to probe the basic rules of living bodies.",
@@ -644,9 +621,43 @@
         ]
       },
       "match_reason": "An orbital crew swap and a seven-flight record fit the episode’s theme of seeing space as possibility and launching into new phases."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On 5 June 2024, Boeing’s Starliner capsule finally flew humans for the first time, carrying astronauts Barry Wilmore and Sunita Williams to the ISS after years of delays and test flights. The mission turned a troubled prototype into a working spacecraft, ushering in a new era of private crewed vehicles sharing Earth orbit.",
+      "fact_year": 2024,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Boeing_Crew_Flight_Test",
+      "episode": {
+        "id": 2,
+        "title": "Sedna FM #02 - Destination Sedna",
+        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+        "songs": [
+          "Pink Floyd - Breathe",
+          "The fountain DC - Starburster",
+          "Laura Cahen - La Poussiere",
+          "Taxi Kebab - Lmchi w rjou3",
+          "Odion Iruoje - Identify With Your Roots",
+          "Depeche mode - world in my eyes (Oil Tank Mix)",
+          "Massive attack - Dissolved girl",
+          "Kokoroko - Three piece suite",
+          "Salin - Egungun",
+          "E.S.P. - It's You"
+        ],
+        "music-genres": [
+          "Progressive Rock",
+          "Post-Punk",
+          "French Pop",
+          "Maghreb",
+          "Afrobeat",
+          "Synthpop",
+          "Trip-Hop"
+        ]
+      },
+      "match_reason": "A new spacecraft achieving its first crewed ‘destination’ aligns with this voyage-themed episode and its expansive, space-tinged sound."
     }
   ],
   "generated_at": "2026-06-05T00:00:00.019495+00:00",
   "date": "2026-06-05",
-  "updated_at": "2026-06-05T00:00:56.554993+00:00"
+  "updated_at": "2026-06-05T01:00:01.736584+00:00"
 }
