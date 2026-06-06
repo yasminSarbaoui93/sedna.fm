@@ -1,59 +1,31 @@
 {
-  "current_hour": 6,
+  "current_hour": 7,
   "current_fact": {
-    "hour": 6,
-    "fact_text": "On June 6, 1505, the Lo Mustang earthquake—estimated between magnitude 8.2 and 8.8—rippled through Tibet and Nepal. It caused devastating damage in Kathmandu and across parts of the Indo‑Gangetic Plain, a stark reminder that the Himalayas’ majestic peaks are also the product of immense tectonic violence.",
-    "fact_year": 1505,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1505_Lo_Mustang_earthquake",
+    "hour": 7,
+    "fact_text": "Beginning June 6, 1912, the eruption of Novarupta in Alaska unleashed the largest volcanic eruption of the 20th century. Over about 60 hours it spewed so much ash that a valley was buried under deposits up to 200 meters deep, creating the aptly named Valley of Ten Thousand Smokes.",
+    "fact_year": 1912,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Novarupta",
     "episode": {
-      "id": 53,
-      "title": "Morning Drops #47 - The Rise Of Autotune",
-      "description": "In this Morning Drop, Yasmin explores the explosive rise of Auto-Tune, a tool that quietly changed the sound of music without asking for attention. From fragile, imperfect recordings to voices shaped with precision, this episode follows the moment when correction became standard and sound became controlled.\n\nAlong the way, we discover the curious story of how it was invented, how it moved from the background of studios to the center of debate, and how a few artists turned it into something expressive rather than hidden.\n\nListen slowly, and let us know what you think about Autotune.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-autotune",
+      "id": 31,
+      "title": "Morning Drops #31 - A Trip-Hop Journey",
+      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
       "songs": [
-        "Chet Baker – I Fall in Love Too Easily",
-        "Destiny’s Child – Survivor",
-        "T-Pain – I’m Sprung",
-        "Jay-Z – D.O.A. (Death of Auto-Tune)",
-        "Travis Scott feat. Kacy Hill – 90210"
+        "Massive Attack - Unfinished Sympathy",
+        "Tricky - Hell Is Round the Corner",
+        "DJ Shadow - Midnight in a Perfect World",
+        "Thievery Corporation - Lebanese Blonde",
+        "Smoke City - Underwater Love"
       ],
       "music-genres": [
-        "Jazz",
-        "R&B",
-        "Hip-Hop",
-        "Pop",
-        "Trap",
+        "Trip-Hop",
+        "Downtempo",
         "Electronic"
       ]
     },
-    "match_reason": "A massive quake that reshapes landscapes mirrors the 'tectonic shift' Auto‑Tune caused in music; both are sudden structural changes that force societies to adapt to a new normal."
+    "match_reason": "Novarupta’s sustained, enveloping eruption parallels the smoky, atmospheric layers of trip‑hop; both create immersive 'clouds'—one of ash, one of sound—that transform the landscape they cover."
   },
   "queue": [
-    {
-      "hour": 7,
-      "fact_text": "Beginning June 6, 1912, the eruption of Novarupta in Alaska unleashed the largest volcanic eruption of the 20th century. Over about 60 hours it spewed so much ash that a valley was buried under deposits up to 200 meters deep, creating the aptly named Valley of Ten Thousand Smokes.",
-      "fact_year": 1912,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Novarupta",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #31 - A Trip-Hop Journey",
-        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
-        "songs": [
-          "Massive Attack - Unfinished Sympathy",
-          "Tricky - Hell Is Round the Corner",
-          "DJ Shadow - Midnight in a Perfect World",
-          "Thievery Corporation - Lebanese Blonde",
-          "Smoke City - Underwater Love"
-        ],
-        "music-genres": [
-          "Trip-Hop",
-          "Downtempo",
-          "Electronic"
-        ]
-      },
-      "match_reason": "Novarupta’s sustained, enveloping eruption parallels the smoky, atmospheric layers of trip‑hop; both create immersive 'clouds'—one of ash, one of sound—that transform the landscape they cover."
-    },
     {
       "hour": 8,
       "fact_text": "On June 6, 1934, President Franklin D. Roosevelt signed the Securities Exchange Act into law, establishing the U.S. Securities and Exchange Commission. This legislation, born from the chaos of the Great Depression, created a watchdog to rein in market abuses and bring a new level of transparency to Wall Street.",
@@ -628,9 +600,34 @@
         ]
       },
       "match_reason": "A massive quake that reshapes landscapes mirrors the 'tectonic shift' Auto‑Tune caused in music; both are sudden structural changes that force societies to adapt to a new normal."
+    },
+    {
+      "hour": 7,
+      "fact_text": "Beginning June 6, 1912, the eruption of Novarupta in Alaska unleashed the largest volcanic eruption of the 20th century. Over about 60 hours it spewed so much ash that a valley was buried under deposits up to 200 meters deep, creating the aptly named Valley of Ten Thousand Smokes.",
+      "fact_year": 1912,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Novarupta",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #31 - A Trip-Hop Journey",
+        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+        "songs": [
+          "Massive Attack - Unfinished Sympathy",
+          "Tricky - Hell Is Round the Corner",
+          "DJ Shadow - Midnight in a Perfect World",
+          "Thievery Corporation - Lebanese Blonde",
+          "Smoke City - Underwater Love"
+        ],
+        "music-genres": [
+          "Trip-Hop",
+          "Downtempo",
+          "Electronic"
+        ]
+      },
+      "match_reason": "Novarupta’s sustained, enveloping eruption parallels the smoky, atmospheric layers of trip‑hop; both create immersive 'clouds'—one of ash, one of sound—that transform the landscape they cover."
     }
   ],
   "generated_at": "2026-06-06T00:00:00.019273+00:00",
   "date": "2026-06-06",
-  "updated_at": "2026-06-06T06:00:01.394811+00:00"
+  "updated_at": "2026-06-06T07:00:01.348070+00:00"
 }
