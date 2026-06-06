@@ -1,55 +1,31 @@
 {
-  "current_hour": 2,
+  "current_hour": 3,
   "current_fact": {
-    "hour": 2,
-    "fact_text": "On June 6, 2024, SpaceX conducted Starship’s fourth integrated flight test, pushing the boundaries of fully reusable super‑heavy launch systems. The flight demonstrated increasingly controlled ascent and re‑entry phases, edging closer to the vision of interplanetary transport and dramatically lowering the cost of accessing space.",
-    "fact_year": 2024,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Starship_flight_test_4",
+    "hour": 3,
+    "fact_text": "On June 6, 1942, the Battle of Midway reached its decisive phase, as U.S. Navy dive bombers crippled and sank four Japanese aircraft carriers—Akagi, Kaga, Sōryū, and Hiryū—in the span of a few hours. This astonishing reversal turned the tide of the Pacific War, halting Japanese expansion and showcasing how intelligence, codebreaking, and luck can reshape global history.",
+    "fact_year": 1942,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Midway",
     "episode": {
-      "id": 55,
-      "title": "Morning Drops #48 - Cosmic Monday",
-      "description": "Cosmic Monday is a Morning Drops episode built around four Italian dance records, tracing how disco rhythms slowly became electronic language.\nGaia moves through four tracks like chapters: groove first, then machines, then that bright, futuristic feeling you only get when the bassline is doing the talking. It's not nostalgia, exactly. It's more like returning to a sound that still works — especially on mornings when you need a little extra energy, but you don't want anything aggressive.\nTake it as a slow transmission. Let it carry you into the day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-cosmic-monday",
+      "id": 11,
+      "title": "Morning Drops #05 - Electric Shock",
+      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
       "songs": [
-        "Giovanotti Mondani Meccanici - Don't Ask Me Why",
-        "Azoto - Sal Salvador",
-        "Capricorn - I Need Love",
-        "Cosmic Disco - Cosmic Sprint"
+        "Johnny Winter - Highway 61 Revisited",
+        "Joan Armatrading - Sleight of Hand",
+        "Joan Armatrading - Russian Roulette",
+        "Jimi Hendrix - Freedom",
+        "Jeff Beck - Scatterbrain"
       ],
       "music-genres": [
-        "Italo Disco",
-        "Disco",
-        "Electronic"
+        "Blues Rock",
+        "Rock",
+        "Electric Blues"
       ]
     },
-    "match_reason": "The futuristic, machine‑driven ‘cosmic’ disco aesthetic mirrors Starship’s high‑tech aspirations and the rhythmic repetition of iterative launch tests."
+    "match_reason": "The high‑energy, guitar‑driven intensity of ‘Electric Shock’ matches the sudden, electrifying shift in momentum at Midway, where a few critical strikes transformed the entire Pacific Theater."
   },
   "queue": [
-    {
-      "hour": 3,
-      "fact_text": "On June 6, 1942, the Battle of Midway reached its decisive phase, as U.S. Navy dive bombers crippled and sank four Japanese aircraft carriers—Akagi, Kaga, Sōryū, and Hiryū—in the span of a few hours. This astonishing reversal turned the tide of the Pacific War, halting Japanese expansion and showcasing how intelligence, codebreaking, and luck can reshape global history.",
-      "fact_year": 1942,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Midway",
-      "episode": {
-        "id": 11,
-        "title": "Morning Drops #05 - Electric Shock",
-        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
-        "songs": [
-          "Johnny Winter - Highway 61 Revisited",
-          "Joan Armatrading - Sleight of Hand",
-          "Joan Armatrading - Russian Roulette",
-          "Jimi Hendrix - Freedom",
-          "Jeff Beck - Scatterbrain"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Rock",
-          "Electric Blues"
-        ]
-      },
-      "match_reason": "The high‑energy, guitar‑driven intensity of ‘Electric Shock’ matches the sudden, electrifying shift in momentum at Midway, where a few critical strikes transformed the entire Pacific Theater."
-    },
     {
       "hour": 4,
       "fact_text": "On June 6, 1971, Hughes Airwest Flight 706 collided mid‑air with a U.S. Marine Corps F‑4 Phantom II over the San Gabriel Mountains in California. The disaster, which killed all 50 people aboard the airliner, led to renewed scrutiny of air traffic control procedures and the importance of better collision‑avoidance systems.",
@@ -613,9 +589,34 @@
         ]
       },
       "match_reason": "The futuristic, machine‑driven ‘cosmic’ disco aesthetic mirrors Starship’s high‑tech aspirations and the rhythmic repetition of iterative launch tests."
+    },
+    {
+      "hour": 3,
+      "fact_text": "On June 6, 1942, the Battle of Midway reached its decisive phase, as U.S. Navy dive bombers crippled and sank four Japanese aircraft carriers—Akagi, Kaga, Sōryū, and Hiryū—in the span of a few hours. This astonishing reversal turned the tide of the Pacific War, halting Japanese expansion and showcasing how intelligence, codebreaking, and luck can reshape global history.",
+      "fact_year": 1942,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Midway",
+      "episode": {
+        "id": 11,
+        "title": "Morning Drops #05 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "songs": [
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
+        ]
+      },
+      "match_reason": "The high‑energy, guitar‑driven intensity of ‘Electric Shock’ matches the sudden, electrifying shift in momentum at Midway, where a few critical strikes transformed the entire Pacific Theater."
     }
   ],
   "generated_at": "2026-06-06T00:00:00.015455+00:00",
   "date": "2026-06-06",
-  "updated_at": "2026-06-06T02:00:01.340957+00:00"
+  "updated_at": "2026-06-06T03:00:01.374892+00:00"
 }
