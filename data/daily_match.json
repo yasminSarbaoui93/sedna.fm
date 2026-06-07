@@ -1,67 +1,34 @@
 {
-  "current_hour": 8,
+  "current_hour": 9,
   "current_fact": {
-    "hour": 8,
-    "fact_text": "On June 7, 1946, the BBC quietly restarted its television service after a seven-year blackout during World War II, marking the moment British TV flickered back to life. To help viewers reorient, they even re-broadcast the same Mickey Mouse cartoon that had been interrupted when war was declared in 1939.",
-    "fact_year": 1946,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/BBC",
+    "hour": 9,
+    "fact_text": "The RMS Lusitania was launched from a Scottish shipyard in 1906 as a symbol of cutting-edge speed and luxury, with turbines powerful enough to cross the Atlantic in under five days. Ironically, its lavish design and prominence would later make its 1915 sinking a global shock that helped nudge public opinion toward war.",
+    "fact_year": 1906,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/RMS_Lusitania",
     "episode": {
-      "id": 1,
-      "title": "Sedna FM #01 - November Bomb",
-      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "berlioz - Open this wall",
-        "Nas - One Mic",
-        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-        "Frankie Knuckles - Your Love",
-        "Notorious B.I.G. - 17 Ten Crack Commandments",
-        "Liloca - Utani Xuva",
-        "Fela Kuti - Zombie",
-        "Neffa - Aspettando il sole",
-        "Childish Gambino - No Excuses",
-        "Modjo - Music takes you back"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Afrobeat",
-        "House",
-        "Italian Pop",
-        "R&B",
-        "Latin Rap"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "The BBC’s return to television after a long silence is a beginning broadcast moment, echoing Sedna FM’s own first episode that launched a new signal into the universe."
+    "match_reason": "A legendary ocean liner’s launch fits seamlessly with an episode recorded at sea, connecting maritime engineering grandeur to the more intimate, human experience of life on the water."
   },
   "queue": [
-    {
-      "hour": 9,
-      "fact_text": "The RMS Lusitania was launched from a Scottish shipyard in 1906 as a symbol of cutting-edge speed and luxury, with turbines powerful enough to cross the Atlantic in under five days. Ironically, its lavish design and prominence would later make its 1915 sinking a global shock that helped nudge public opinion toward war.",
-      "fact_year": 1906,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/RMS_Lusitania",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "A legendary ocean liner’s launch fits seamlessly with an episode recorded at sea, connecting maritime engineering grandeur to the more intimate, human experience of life on the water."
-    },
     {
       "hour": 10,
       "fact_text": "By the end of the Battle of Midway on June 7, 1942, the U.S. Navy had sunk four Japanese aircraft carriers in just a few days, flipping the balance of power in the Pacific. Much of the victory hinged on codebreakers who had guessed Japan’s target ahead of time by tricking them into confirming it over radio.",
@@ -623,9 +590,37 @@
         ]
       },
       "match_reason": "The BBC’s return to television after a long silence is a beginning broadcast moment, echoing Sedna FM’s own first episode that launched a new signal into the universe."
+    },
+    {
+      "hour": 9,
+      "fact_text": "The RMS Lusitania was launched from a Scottish shipyard in 1906 as a symbol of cutting-edge speed and luxury, with turbines powerful enough to cross the Atlantic in under five days. Ironically, its lavish design and prominence would later make its 1915 sinking a global shock that helped nudge public opinion toward war.",
+      "fact_year": 1906,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/RMS_Lusitania",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "A legendary ocean liner’s launch fits seamlessly with an episode recorded at sea, connecting maritime engineering grandeur to the more intimate, human experience of life on the water."
     }
   ],
   "generated_at": "2026-06-07T00:00:00.018384+00:00",
   "date": "2026-06-07",
-  "updated_at": "2026-06-07T08:00:01.694253+00:00"
+  "updated_at": "2026-06-07T09:00:01.508633+00:00"
 }
