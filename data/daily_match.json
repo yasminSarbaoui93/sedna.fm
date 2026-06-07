@@ -1,63 +1,38 @@
 {
-  "current_hour": 21,
+  "current_hour": 22,
   "current_fact": {
-    "hour": 21,
-    "fact_text": "The 1692 earthquake that struck Port Royal didn't just sink buildings; it triggered a local tsunami that rolled over the harbor minutes later. Survivors described the ground \"liquefying\" beneath their feet—an early, vivid account of soil liquefaction that modern seismology now recognizes as a key earthquake hazard.",
-    "fact_year": 1692,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Port_Royal",
+    "hour": 22,
+    "fact_text": "When Graceland opened its doors in 1982, fans could walk the same corridors Elvis did, but the second floor was sealed not just for privacy—it had never been prepared for public viewing. To this day, only a tiny handful of archivists and family members are allowed upstairs, turning the unseen rooms into one of rock's most enduring mysteries.",
+    "fact_year": 1982,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Elvis_Presley",
     "episode": {
-      "id": 20,
-      "title": "Morning Drops #14 - Slow Planet",
-      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+      "id": 3,
+      "title": "Sedna FM #03 - Beautiful as You Feel",
+      "description": "An episode about self-acceptance and inner beauty. Music that reminds us we are beautiful as we feel, embracing our authentic selves. Warm, uplifting sounds that celebrate individuality.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/beautiful-as-you-feel",
       "songs": [
-        "Air - Cherry Blossom Girl",
-        "Kruder & Dorfmeister - Keep On Believing",
-        "Tosca - Orozco",
-        "Bonobo - Terrapin"
+        "Radiohead - Lotus Flower",
+        "Andrea Lazslo de Simone - Vivo",
+        "The The - this is the day",
+        "Steve Monite - Only You",
+        "DCTL - Deep Tannin f(eat Rafael Leafar)",
+        "Soufiane Sa3idi - El Njoum",
+        "Area - La mela di odessa",
+        "Carol King - Beautiful",
+        "Mannarino - Vivere la vita"
       ],
       "music-genres": [
-        "Downtempo",
-        "Trip-Hop",
-        "Electronic",
-        "Chillout"
+        "Alternative Rock",
+        "Italian Singer-Songwriter",
+        "New Wave",
+        "Afro-Funk",
+        "Maghreb",
+        "Progressive Rock"
       ]
     },
-    "match_reason": "The violent shifting of earth and sea contrasts with an episode about slowing down the planet's pace, inviting reflection on geological time and human fragility."
+    "match_reason": "A carefully curated public persona and a hidden private space match an episode about inner worlds, authenticity, and the beauty we keep behind closed doors."
   },
   "queue": [
-    {
-      "hour": 22,
-      "fact_text": "When Graceland opened its doors in 1982, fans could walk the same corridors Elvis did, but the second floor was sealed not just for privacy—it had never been prepared for public viewing. To this day, only a tiny handful of archivists and family members are allowed upstairs, turning the unseen rooms into one of rock's most enduring mysteries.",
-      "fact_year": 1982,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Elvis_Presley",
-      "episode": {
-        "id": 3,
-        "title": "Sedna FM #03 - Beautiful as You Feel",
-        "description": "An episode about self-acceptance and inner beauty. Music that reminds us we are beautiful as we feel, embracing our authentic selves. Warm, uplifting sounds that celebrate individuality.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/beautiful-as-you-feel",
-        "songs": [
-          "Radiohead - Lotus Flower",
-          "Andrea Lazslo de Simone - Vivo",
-          "The The - this is the day",
-          "Steve Monite - Only You",
-          "DCTL - Deep Tannin f(eat Rafael Leafar)",
-          "Soufiane Sa3idi - El Njoum",
-          "Area - La mela di odessa",
-          "Carol King - Beautiful",
-          "Mannarino - Vivere la vita"
-        ],
-        "music-genres": [
-          "Alternative Rock",
-          "Italian Singer-Songwriter",
-          "New Wave",
-          "Afro-Funk",
-          "Maghreb",
-          "Progressive Rock"
-        ]
-      },
-      "match_reason": "A carefully curated public persona and a hidden private space match an episode about inner worlds, authenticity, and the beauty we keep behind closed doors."
-    },
     {
       "hour": 23,
       "fact_text": "The Battle of Midway ended on 7 June 1942, but its outcome hinged on codebreakers weeks earlier who cracked enough of Japan's naval cipher to predict the attack. In a twist worthy of a spy novel, U.S. intelligence tricked the Japanese into confirming \"AF\" was Midway by sending a fake message about a water shortage—then listening as Japan reported AF was low on water.",
@@ -633,9 +608,41 @@
         ]
       },
       "match_reason": "The violent shifting of earth and sea contrasts with an episode about slowing down the planet's pace, inviting reflection on geological time and human fragility."
+    },
+    {
+      "hour": 22,
+      "fact_text": "When Graceland opened its doors in 1982, fans could walk the same corridors Elvis did, but the second floor was sealed not just for privacy—it had never been prepared for public viewing. To this day, only a tiny handful of archivists and family members are allowed upstairs, turning the unseen rooms into one of rock's most enduring mysteries.",
+      "fact_year": 1982,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Elvis_Presley",
+      "episode": {
+        "id": 3,
+        "title": "Sedna FM #03 - Beautiful as You Feel",
+        "description": "An episode about self-acceptance and inner beauty. Music that reminds us we are beautiful as we feel, embracing our authentic selves. Warm, uplifting sounds that celebrate individuality.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/beautiful-as-you-feel",
+        "songs": [
+          "Radiohead - Lotus Flower",
+          "Andrea Lazslo de Simone - Vivo",
+          "The The - this is the day",
+          "Steve Monite - Only You",
+          "DCTL - Deep Tannin f(eat Rafael Leafar)",
+          "Soufiane Sa3idi - El Njoum",
+          "Area - La mela di odessa",
+          "Carol King - Beautiful",
+          "Mannarino - Vivere la vita"
+        ],
+        "music-genres": [
+          "Alternative Rock",
+          "Italian Singer-Songwriter",
+          "New Wave",
+          "Afro-Funk",
+          "Maghreb",
+          "Progressive Rock"
+        ]
+      },
+      "match_reason": "A carefully curated public persona and a hidden private space match an episode about inner worlds, authenticity, and the beauty we keep behind closed doors."
     }
   ],
   "generated_at": "2026-06-07T00:00:00.009618+00:00",
   "date": "2026-06-07",
-  "updated_at": "2026-06-07T21:00:01.576495+00:00"
+  "updated_at": "2026-06-07T22:00:01.534239+00:00"
 }
