@@ -1,59 +1,31 @@
 {
-  "current_hour": 9,
+  "current_hour": 10,
   "current_fact": {
-    "hour": 9,
-    "fact_text": "The RMS Lusitania was launched from a Scottish shipyard in 1906 as a symbol of cutting-edge speed and luxury, with turbines powerful enough to cross the Atlantic in under five days. Ironically, its lavish design and prominence would later make its 1915 sinking a global shock that helped nudge public opinion toward war.",
-    "fact_year": 1906,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/RMS_Lusitania",
+    "hour": 10,
+    "fact_text": "By the end of the Battle of Midway on June 7, 1942, the U.S. Navy had sunk four Japanese aircraft carriers in just a few days, flipping the balance of power in the Pacific. Much of the victory hinged on codebreakers who had guessed Japan’s target ahead of time by tricking them into confirming it over radio.",
+    "fact_year": 1942,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Midway",
     "episode": {
-      "id": 37,
-      "title": "Morning Drops #31 - Sailing With Germans",
-      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+      "id": 31,
+      "title": "Morning Drops #31 - A Trip-Hop Journey",
+      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
       "songs": [
-        "Billy Talent - Dead Silence",
-        "Ben Howard - Keep Your Head Up",
-        "Ziggy Alberts - Simple Things",
-        "Vitor Kley - O Sol",
-        "Enya - Orinoco Flow",
-        "Paveier - Leev Marie"
+        "Massive Attack - Unfinished Sympathy",
+        "Tricky - Hell Is Round the Corner",
+        "DJ Shadow - Midnight in a Perfect World",
+        "Thievery Corporation - Lebanese Blonde",
+        "Smoke City - Underwater Love"
       ],
       "music-genres": [
-        "Punk Rock",
-        "Indie Folk",
-        "Surf Pop",
-        "New Age",
-        "German Folk"
+        "Trip-Hop",
+        "Downtempo",
+        "Electronic"
       ]
     },
-    "match_reason": "A legendary ocean liner’s launch fits seamlessly with an episode recorded at sea, connecting maritime engineering grandeur to the more intimate, human experience of life on the water."
+    "match_reason": "Midway’s drama of hidden signals, strategy, and turning tides pairs with trip-hop’s murky, underwater moods and cinematic tension, especially with tracks like \"Underwater Love\" evoking the vast Pacific theater."
   },
   "queue": [
-    {
-      "hour": 10,
-      "fact_text": "By the end of the Battle of Midway on June 7, 1942, the U.S. Navy had sunk four Japanese aircraft carriers in just a few days, flipping the balance of power in the Pacific. Much of the victory hinged on codebreakers who had guessed Japan’s target ahead of time by tricking them into confirming it over radio.",
-      "fact_year": 1942,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Midway",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #31 - A Trip-Hop Journey",
-        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
-        "songs": [
-          "Massive Attack - Unfinished Sympathy",
-          "Tricky - Hell Is Round the Corner",
-          "DJ Shadow - Midnight in a Perfect World",
-          "Thievery Corporation - Lebanese Blonde",
-          "Smoke City - Underwater Love"
-        ],
-        "music-genres": [
-          "Trip-Hop",
-          "Downtempo",
-          "Electronic"
-        ]
-      },
-      "match_reason": "Midway’s drama of hidden signals, strategy, and turning tides pairs with trip-hop’s murky, underwater moods and cinematic tension, especially with tracks like \"Underwater Love\" evoking the vast Pacific theater."
-    },
     {
       "hour": 11,
       "fact_text": "On the same June 7 of 1942, Japanese forces began occupying Attu and Kiska in Alaska’s Aleutian Islands, bringing World War II onto American soil in a remote, fog-shrouded archipelago. The brutal conditions were so harsh that cold, weather, and terrain claimed almost as many lives as direct combat.",
@@ -618,9 +590,34 @@
         ]
       },
       "match_reason": "A legendary ocean liner’s launch fits seamlessly with an episode recorded at sea, connecting maritime engineering grandeur to the more intimate, human experience of life on the water."
+    },
+    {
+      "hour": 10,
+      "fact_text": "By the end of the Battle of Midway on June 7, 1942, the U.S. Navy had sunk four Japanese aircraft carriers in just a few days, flipping the balance of power in the Pacific. Much of the victory hinged on codebreakers who had guessed Japan’s target ahead of time by tricking them into confirming it over radio.",
+      "fact_year": 1942,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Midway",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #31 - A Trip-Hop Journey",
+        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+        "songs": [
+          "Massive Attack - Unfinished Sympathy",
+          "Tricky - Hell Is Round the Corner",
+          "DJ Shadow - Midnight in a Perfect World",
+          "Thievery Corporation - Lebanese Blonde",
+          "Smoke City - Underwater Love"
+        ],
+        "music-genres": [
+          "Trip-Hop",
+          "Downtempo",
+          "Electronic"
+        ]
+      },
+      "match_reason": "Midway’s drama of hidden signals, strategy, and turning tides pairs with trip-hop’s murky, underwater moods and cinematic tension, especially with tracks like \"Underwater Love\" evoking the vast Pacific theater."
     }
   ],
   "generated_at": "2026-06-07T00:00:00.018384+00:00",
   "date": "2026-06-07",
-  "updated_at": "2026-06-07T09:00:01.508633+00:00"
+  "updated_at": "2026-06-07T10:00:01.782317+00:00"
 }
