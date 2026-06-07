@@ -1,55 +1,40 @@
 {
-  "current_hour": 20,
+  "current_hour": 21,
   "current_fact": {
-    "hour": 20,
-    "fact_text": "Port Royal’s 1692 earthquake didn’t just sink buildings; eyewitnesses claimed whole streets tilted and slipped as if the ground had become a liquid. For centuries after, divers picked over the remarkably preserved underwater city, making it one of the only sunken 17th-century towns archaeologists can explore almost like a time capsule.",
-    "fact_year": 1692,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Port_Royal",
+    "hour": 21,
+    "fact_text": "Lux Radio Theatre’s final sign-off in 1955 was more than the end of a show; it marked the fading of an era when families gathered around a radio the way they now gather around a screen. For two decades it had turned blockbusters into pure voice, music, and imagination—proof that a story can fill a whole room without a single frame of film.",
+    "fact_year": 1955,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Lux_Radio_Theatre",
     "episode": {
-      "id": 58,
-      "title": "Evening Flows #00 - Introduction to evening flows",
-      "description": "Sedna FM introduces a new format: Evening Flow, where you can enjoy curated music sets from selectors, DJs, and artists.\n\nEach mix is an invitation to drift beyond the expected. A space where hidden gems from personal archives come to light, where sound speaks its own language. There are no rules here, no patterns to follow. Just the steady unfolding of a mood, a texture, a journey shaped by feeling.\n\nLet the music lead the way - enjoy the trip!",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-introduction-to-evening-flows",
-      "songs": [],
-      "music-genres": []
+      "id": 2,
+      "title": "Sedna FM #02 - Destination Sedna",
+      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+      "songs": [
+        "Pink Floyd - Breathe",
+        "The fountain DC - Starburster",
+        "Laura Cahen - La Poussiere",
+        "Taxi Kebab - Lmchi w rjou3",
+        "Odion Iruoje - Identify With Your Roots",
+        "Depeche mode - world in my eyes (Oil Tank Mix)",
+        "Massive attack - Dissolved girl",
+        "Kokoroko - Three piece suite",
+        "Salin - Egungun",
+        "E.S.P. - It's You"
+      ],
+      "music-genres": [
+        "Progressive Rock",
+        "Post-Punk",
+        "French Pop",
+        "Maghreb",
+        "Afrobeat",
+        "Synthpop",
+        "Trip-Hop"
+      ]
     },
-    "match_reason": "A drowned pirate city explored slowly by divers feels like an underwater evening journey, matching an open-ended 'Evening Flow' designed to drift through hidden spaces and sunken moods."
+    "match_reason": "As one iconic sound-only storytelling format faded, another sonic journey “destination” arises here; pairing them honors radio as a vehicle for shared voyages through pure sound."
   },
   "queue": [
-    {
-      "hour": 21,
-      "fact_text": "Lux Radio Theatre’s final sign-off in 1955 was more than the end of a show; it marked the fading of an era when families gathered around a radio the way they now gather around a screen. For two decades it had turned blockbusters into pure voice, music, and imagination—proof that a story can fill a whole room without a single frame of film.",
-      "fact_year": 1955,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Lux_Radio_Theatre",
-      "episode": {
-        "id": 2,
-        "title": "Sedna FM #02 - Destination Sedna",
-        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
-        "songs": [
-          "Pink Floyd - Breathe",
-          "The fountain DC - Starburster",
-          "Laura Cahen - La Poussiere",
-          "Taxi Kebab - Lmchi w rjou3",
-          "Odion Iruoje - Identify With Your Roots",
-          "Depeche mode - world in my eyes (Oil Tank Mix)",
-          "Massive attack - Dissolved girl",
-          "Kokoroko - Three piece suite",
-          "Salin - Egungun",
-          "E.S.P. - It's You"
-        ],
-        "music-genres": [
-          "Progressive Rock",
-          "Post-Punk",
-          "French Pop",
-          "Maghreb",
-          "Afrobeat",
-          "Synthpop",
-          "Trip-Hop"
-        ]
-      },
-      "match_reason": "As one iconic sound-only storytelling format faded, another sonic journey “destination” arises here; pairing them honors radio as a vehicle for shared voyages through pure sound."
-    },
     {
       "hour": 22,
       "fact_text": "The BBC’s 1946 return to TV wasn’t just technical—staff reportedly rehearsed how to speak to a population that hadn’t seen television in seven years. Many viewers saw moving images in their living rooms for the first time since before the Blitz, turning the flicker of the screen into a symbol of peacetime normality.",
@@ -605,9 +590,43 @@
         "music-genres": []
       },
       "match_reason": "A drowned pirate city explored slowly by divers feels like an underwater evening journey, matching an open-ended 'Evening Flow' designed to drift through hidden spaces and sunken moods."
+    },
+    {
+      "hour": 21,
+      "fact_text": "Lux Radio Theatre’s final sign-off in 1955 was more than the end of a show; it marked the fading of an era when families gathered around a radio the way they now gather around a screen. For two decades it had turned blockbusters into pure voice, music, and imagination—proof that a story can fill a whole room without a single frame of film.",
+      "fact_year": 1955,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Lux_Radio_Theatre",
+      "episode": {
+        "id": 2,
+        "title": "Sedna FM #02 - Destination Sedna",
+        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+        "songs": [
+          "Pink Floyd - Breathe",
+          "The fountain DC - Starburster",
+          "Laura Cahen - La Poussiere",
+          "Taxi Kebab - Lmchi w rjou3",
+          "Odion Iruoje - Identify With Your Roots",
+          "Depeche mode - world in my eyes (Oil Tank Mix)",
+          "Massive attack - Dissolved girl",
+          "Kokoroko - Three piece suite",
+          "Salin - Egungun",
+          "E.S.P. - It's You"
+        ],
+        "music-genres": [
+          "Progressive Rock",
+          "Post-Punk",
+          "French Pop",
+          "Maghreb",
+          "Afrobeat",
+          "Synthpop",
+          "Trip-Hop"
+        ]
+      },
+      "match_reason": "As one iconic sound-only storytelling format faded, another sonic journey “destination” arises here; pairing them honors radio as a vehicle for shared voyages through pure sound."
     }
   ],
   "generated_at": "2026-06-07T00:00:00.018384+00:00",
   "date": "2026-06-07",
-  "updated_at": "2026-06-07T20:00:01.797487+00:00"
+  "updated_at": "2026-06-07T21:00:01.943595+00:00"
 }
