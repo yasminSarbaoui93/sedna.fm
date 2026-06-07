@@ -1,56 +1,31 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "In just about three minutes on June 7, 1692, an earthquake and tsunami caused parts of the pirate haven of Port Royal, Jamaica, to literally slide into the sea. Contemporary accounts describe streets liquefying and buildings swallowed whole, making the disaster one of the earliest well-documented examples of soil liquefaction in a major quake.",
-    "fact_year": 1692,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1692_Jamaica_earthquake",
+    "hour": 2,
+    "fact_text": "In 1981, Israel’s Operation Opera sent eight F-16s on a 2,000-kilometre round trip to destroy Iraq’s Osiraq nuclear reactor in a surprise afternoon strike that lasted under two minutes over the target. The mission was so low-level that pilots navigated partly by visual landmarks, and it became a textbook example of a pre-emptive air raid reshaping regional nuclear ambitions.",
+    "fact_year": 1981,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Opera",
     "episode": {
-      "id": 46,
-      "title": "Morning Drops #40 - Diving With Orcas",
-      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+      "id": 56,
+      "title": "Morning Drops #49 - Rage Against The Machine",
+      "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
       "songs": [
-        "Ludovico Einaudi - Experience",
-        "The Temper Trap - Sweet Disposition",
-        "Alex Warren - Ordinary",
-        "Piero Umiliani - Il tuo volto"
+        "Rage Against the Machine - Bombtrack",
+        "Rage Against the Machine - Killing in the Name",
+        "Rage Against the Machine - Without a Face",
+        "Rage Against the Machine - Guerrilla Radio",
+        "Rage Against the Machine - Sleep Now in the Fire"
       ],
       "music-genres": [
-        "Neo-Classical",
-        "Indie Rock",
-        "Pop",
-        "Italian Film Score"
+        "Rap Metal",
+        "Political Rock",
+        "Alternative Metal"
       ]
     },
-    "match_reason": "An entire town slipping under the sea resonates with an episode steeped in ocean imagery and underwater journeys, transforming a catastrophic plunge into water into a reflective sonic dive beneath the surface."
+    "match_reason": "A daring pre-emptive strike on a nuclear reactor is steeped in geopolitical tension and resistance, matching the raw, politically charged energy of an episode dedicated to Rage Against the Machine’s confrontational sound."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "In 1981, Israel’s Operation Opera sent eight F-16s on a 2,000-kilometre round trip to destroy Iraq’s Osiraq nuclear reactor in a surprise afternoon strike that lasted under two minutes over the target. The mission was so low-level that pilots navigated partly by visual landmarks, and it became a textbook example of a pre-emptive air raid reshaping regional nuclear ambitions.",
-      "fact_year": 1981,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Opera",
-      "episode": {
-        "id": 56,
-        "title": "Morning Drops #49 - Rage Against The Machine",
-        "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
-        "songs": [
-          "Rage Against the Machine - Bombtrack",
-          "Rage Against the Machine - Killing in the Name",
-          "Rage Against the Machine - Without a Face",
-          "Rage Against the Machine - Guerrilla Radio",
-          "Rage Against the Machine - Sleep Now in the Fire"
-        ],
-        "music-genres": [
-          "Rap Metal",
-          "Political Rock",
-          "Alternative Metal"
-        ]
-      },
-      "match_reason": "A daring pre-emptive strike on a nuclear reactor is steeped in geopolitical tension and resistance, matching the raw, politically charged energy of an episode dedicated to Rage Against the Machine’s confrontational sound."
-    },
     {
       "hour": 3,
       "fact_text": "When Lux Radio Theatre signed off in 1955 after more than 20 years on the air, it left behind a strange archive: Hollywood films reimagined purely through sound. At its peak, the show drew up to 40 million listeners a week, proving that radio could make movie stars shimmer in the imagination without a single image on screen.",
@@ -615,9 +590,34 @@
         ]
       },
       "match_reason": "An entire town slipping under the sea resonates with an episode steeped in ocean imagery and underwater journeys, transforming a catastrophic plunge into water into a reflective sonic dive beneath the surface."
+    },
+    {
+      "hour": 2,
+      "fact_text": "In 1981, Israel’s Operation Opera sent eight F-16s on a 2,000-kilometre round trip to destroy Iraq’s Osiraq nuclear reactor in a surprise afternoon strike that lasted under two minutes over the target. The mission was so low-level that pilots navigated partly by visual landmarks, and it became a textbook example of a pre-emptive air raid reshaping regional nuclear ambitions.",
+      "fact_year": 1981,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Opera",
+      "episode": {
+        "id": 56,
+        "title": "Morning Drops #49 - Rage Against The Machine",
+        "description": "In this Morning Drop, Yasmin revisits the story of Rage Against the Machine — a band born in tension, shaped by conviction, and remembered for moments that blurred the line between stage and protest.\nFrom early Los Angeles unrest to Wall Street performances, this episode moves through rupture, resistance, and legacy — carried by songs that still feel urgent today.\nListen closely.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-rage-against-the-machine",
+        "songs": [
+          "Rage Against the Machine - Bombtrack",
+          "Rage Against the Machine - Killing in the Name",
+          "Rage Against the Machine - Without a Face",
+          "Rage Against the Machine - Guerrilla Radio",
+          "Rage Against the Machine - Sleep Now in the Fire"
+        ],
+        "music-genres": [
+          "Rap Metal",
+          "Political Rock",
+          "Alternative Metal"
+        ]
+      },
+      "match_reason": "A daring pre-emptive strike on a nuclear reactor is steeped in geopolitical tension and resistance, matching the raw, politically charged energy of an episode dedicated to Rage Against the Machine’s confrontational sound."
     }
   ],
   "generated_at": "2026-06-07T00:00:00.018384+00:00",
   "date": "2026-06-07",
-  "updated_at": "2026-06-07T01:00:01.474248+00:00"
+  "updated_at": "2026-06-07T02:00:01.416822+00:00"
 }
