@@ -1,58 +1,30 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "When Sony launched the Betamax videocassette format in 1975, it was marketed less as a movie machine and more as a way for families to \"time-shift\" live TV—an idea that felt futuristic at the time. Despite ultimately losing the format war to VHS, Betamax set the blueprint for home recording culture and paved the way for binge-watching decades before streaming existed.",
-    "fact_year": 1975,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Betamax",
+    "hour": 1,
+    "fact_text": "On 7 June 1692, Port Royal in Jamaica—once dubbed the \"wickedest city on Earth\" for its pirates and taverns—was shattered by an earthquake so violent that entire streets slid into the sea. Within minutes, the bustling harbor town became an underwater graveyard, later turning into one of the richest archaeological sites for studying 17th-century Caribbean life.",
+    "fact_year": 1692,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1692_Jamaica_earthquake",
     "episode": {
-      "id": 54,
-      "title": "Morning Drops #47 - The Rise Of Autotune",
-      "description": "In this Morning Drop, Yasmin explores the explosive rise of Auto-Tune, a tool that quietly changed the sound of music without asking for attention. From fragile, imperfect recordings to voices shaped with precision, this episode follows the moment when correction became standard and sound became controlled.\n\nAlong the way, we discover the curious story of how it was invented, how it moved from the background of studios to the center of debate, and how a few artists turned it into something expressive rather than hidden.\n\nListen slowly, and let us know what you think about Autotune.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-autotune",
+      "id": 29,
+      "title": "Morning Drops #23 - Morning Dubs",
+      "description": "Recorded while still processing Houghton Festival. One of the mornings there, waking up in the woods to a reggae DJ set — no phone signal, just trees, music, and loved ones. A slow selection of reggae, dub, and morning rhythms. Dubs instead of drops. Start your day slow — with space to breathe.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-morning-dubs",
       "songs": [
-        "Chet Baker – I Fall in Love Too Easily",
-        "Destiny’s Child – Survivor",
-        "T-Pain – I’m Sprung",
-        "Jay-Z – D.O.A. (Death of Auto-Tune)",
-        "Travis Scott feat. Kacy Hill – 90210"
+        "The Gaylads - Joy in the Morning",
+        "The Officials - Babylonian",
+        "King Tubby - King Tubby Meets the Rockers Uptown",
+        "Aisha Morrison - Ethiopia"
       ],
       "music-genres": [
-        "Jazz",
-        "R&B",
-        "Hip-Hop",
-        "Pop",
-        "Trap",
-        "Electronic"
+        "Reggae",
+        "Dub",
+        "Roots Reggae"
       ]
     },
-    "match_reason": "A tech innovation that quietly rewired how we experience media pairs well with an episode about Auto-Tune, another behind-the-scenes technology that transformed how we hear music."
+    "match_reason": "A haunting Jamaican earthquake story resonates with a dub- and reggae-soaked episode rooted in Caribbean sound and echoes of \"Babylon\" falling."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On 7 June 1692, Port Royal in Jamaica—once dubbed the \"wickedest city on Earth\" for its pirates and taverns—was shattered by an earthquake so violent that entire streets slid into the sea. Within minutes, the bustling harbor town became an underwater graveyard, later turning into one of the richest archaeological sites for studying 17th-century Caribbean life.",
-      "fact_year": 1692,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1692_Jamaica_earthquake",
-      "episode": {
-        "id": 29,
-        "title": "Morning Drops #23 - Morning Dubs",
-        "description": "Recorded while still processing Houghton Festival. One of the mornings there, waking up in the woods to a reggae DJ set — no phone signal, just trees, music, and loved ones. A slow selection of reggae, dub, and morning rhythms. Dubs instead of drops. Start your day slow — with space to breathe.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-morning-dubs",
-        "songs": [
-          "The Gaylads - Joy in the Morning",
-          "The Officials - Babylonian",
-          "King Tubby - King Tubby Meets the Rockers Uptown",
-          "Aisha Morrison - Ethiopia"
-        ],
-        "music-genres": [
-          "Reggae",
-          "Dub",
-          "Roots Reggae"
-        ]
-      },
-      "match_reason": "A haunting Jamaican earthquake story resonates with a dub- and reggae-soaked episode rooted in Caribbean sound and echoes of \"Babylon\" falling."
-    },
     {
       "hour": 2,
       "fact_text": "In 1981, Israel's Operation Opera sent eight F-16 fighter jets on a 2,000-kilometer low-altitude flight to strike Iraq's Osiraq nuclear reactor in a single, precise blow. The pilots flew so low to avoid radar that they could see herds of camels and shepherds below, completing the raid in under two minutes of bombing and reshaping global debates about pre-emptive strikes.",
@@ -636,9 +608,33 @@
         ]
       },
       "match_reason": "A tech innovation that quietly rewired how we experience media pairs well with an episode about Auto-Tune, another behind-the-scenes technology that transformed how we hear music."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On 7 June 1692, Port Royal in Jamaica—once dubbed the \"wickedest city on Earth\" for its pirates and taverns—was shattered by an earthquake so violent that entire streets slid into the sea. Within minutes, the bustling harbor town became an underwater graveyard, later turning into one of the richest archaeological sites for studying 17th-century Caribbean life.",
+      "fact_year": 1692,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1692_Jamaica_earthquake",
+      "episode": {
+        "id": 29,
+        "title": "Morning Drops #23 - Morning Dubs",
+        "description": "Recorded while still processing Houghton Festival. One of the mornings there, waking up in the woods to a reggae DJ set — no phone signal, just trees, music, and loved ones. A slow selection of reggae, dub, and morning rhythms. Dubs instead of drops. Start your day slow — with space to breathe.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-morning-dubs",
+        "songs": [
+          "The Gaylads - Joy in the Morning",
+          "The Officials - Babylonian",
+          "King Tubby - King Tubby Meets the Rockers Uptown",
+          "Aisha Morrison - Ethiopia"
+        ],
+        "music-genres": [
+          "Reggae",
+          "Dub",
+          "Roots Reggae"
+        ]
+      },
+      "match_reason": "A haunting Jamaican earthquake story resonates with a dub- and reggae-soaked episode rooted in Caribbean sound and echoes of \"Babylon\" falling."
     }
   ],
   "generated_at": "2026-06-07T00:00:00.009618+00:00",
   "date": "2026-06-07",
-  "updated_at": "2026-06-07T00:00:45.310007+00:00"
+  "updated_at": "2026-06-07T01:00:01.552574+00:00"
 }
