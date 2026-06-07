@@ -1,56 +1,31 @@
 {
-  "current_hour": 13,
+  "current_hour": 14,
   "current_fact": {
-    "hour": 13,
-    "fact_text": "Surinam Airways Flight 764 crashed in 1989 while attempting to land in dense fog, after the crew ignored multiple warnings and descended below safe altitude. Tragically, the flight included members of Suriname's \"Colourful 11\" football team, turning a navigational error into a national trauma that still shapes the country's sporting memory.",
-    "fact_year": 1989,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Surinam_Airways_Flight_764",
+    "hour": 14,
+    "fact_text": "During Queen Elizabeth II's Silver Jubilee in 1977, an estimated 500 million people watched the main day of celebrations on television—almost a tenth of the planet at the time. The event turned the streets of London into a global stage, foreshadowing the era when royal ceremonies would become worldwide media spectacles.",
+    "fact_year": 1977,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Silver_Jubilee_of_Elizabeth_II",
     "episode": {
-      "id": 52,
-      "title": "Morning Drops #45 - It Can't Rain Forever",
-      "description": "In this first broadcast of 2026, Gaia returns from the vivid landscapes of Morocco to open a space for reflection. This episode navigates the delicate transition between closing a significant chapter and stepping into the new year. It explores the concept of constancy amidst change, celebrating the grounding force of friendship and the creative sanctuary that is Sedna FM.\n\nThe musical selection mirrors this journey, moving from the orchestral depth of changing seasons into the golden warmth of psychedelic soul. It recalls memories of Swiss mountains and unexpected downpours, reminding us that shared optimism can weather any storm.\n\nTake a moment to breathe in the new morning and listen deeply.\n\nMood: Reflective, Warm, Transitional, Hopeful\nMusic genre: Classic Rock, Psychedelic Soul, Pop Rock, Soft Rock",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-it-cant-rain-forever",
+      "id": 18,
+      "title": "Morning Drops #12 - 80's Club",
+      "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
       "songs": [
-        "Led Zeppelin - The Rain Song",
-        "Khruangbin & Leon Bridges - Texas Sun",
-        "Dragon - Rain",
-        "Fleetwood Mac - Don't Stop"
+        "Donna Summer - I Feel Love",
+        "Depeche Mode - Just Can't Get Enough",
+        "Ken Laszlo - Hey Hey Guy",
+        "Mylène Farmer - Sans Contrefaçon"
       ],
       "music-genres": [
-        "Classic Rock",
-        "Psychedelic Soul",
-        "Pop Rock",
-        "Soft Rock"
+        "Disco",
+        "Synthpop",
+        "Italo Disco",
+        "French Pop"
       ]
     },
-    "match_reason": "A heartbreaking crash in low visibility sits alongside an episode about storms, resilience, and the emotional work of moving forward after dark days."
+    "match_reason": "A dazzling royal celebration watched by half a billion people fits the festive, shimmering, mass-audience energy of an 80s dance-club homage."
   },
   "queue": [
-    {
-      "hour": 14,
-      "fact_text": "During Queen Elizabeth II's Silver Jubilee in 1977, an estimated 500 million people watched the main day of celebrations on television—almost a tenth of the planet at the time. The event turned the streets of London into a global stage, foreshadowing the era when royal ceremonies would become worldwide media spectacles.",
-      "fact_year": 1977,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Silver_Jubilee_of_Elizabeth_II",
-      "episode": {
-        "id": 18,
-        "title": "Morning Drops #12 - 80's Club",
-        "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
-        "songs": [
-          "Donna Summer - I Feel Love",
-          "Depeche Mode - Just Can't Get Enough",
-          "Ken Laszlo - Hey Hey Guy",
-          "Mylène Farmer - Sans Contrefaçon"
-        ],
-        "music-genres": [
-          "Disco",
-          "Synthpop",
-          "Italo Disco",
-          "French Pop"
-        ]
-      },
-      "match_reason": "A dazzling royal celebration watched by half a billion people fits the festive, shimmering, mass-audience energy of an 80s dance-club homage."
-    },
     {
       "hour": 15,
       "fact_text": "On 7 June 1948, Czechoslovak president Edvard Beneš refused to sign the Ninth-of-May Constitution, which would cement Communist control, and chose resignation instead. His quiet act of resistance—stepping down rather than endorsing a one-party state—became a symbolic line in the sand as the Iron Curtain descended across Europe.",
@@ -633,9 +608,34 @@
         ]
       },
       "match_reason": "A heartbreaking crash in low visibility sits alongside an episode about storms, resilience, and the emotional work of moving forward after dark days."
+    },
+    {
+      "hour": 14,
+      "fact_text": "During Queen Elizabeth II's Silver Jubilee in 1977, an estimated 500 million people watched the main day of celebrations on television—almost a tenth of the planet at the time. The event turned the streets of London into a global stage, foreshadowing the era when royal ceremonies would become worldwide media spectacles.",
+      "fact_year": 1977,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Silver_Jubilee_of_Elizabeth_II",
+      "episode": {
+        "id": 18,
+        "title": "Morning Drops #12 - 80's Club",
+        "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
+        "songs": [
+          "Donna Summer - I Feel Love",
+          "Depeche Mode - Just Can't Get Enough",
+          "Ken Laszlo - Hey Hey Guy",
+          "Mylène Farmer - Sans Contrefaçon"
+        ],
+        "music-genres": [
+          "Disco",
+          "Synthpop",
+          "Italo Disco",
+          "French Pop"
+        ]
+      },
+      "match_reason": "A dazzling royal celebration watched by half a billion people fits the festive, shimmering, mass-audience energy of an 80s dance-club homage."
     }
   ],
   "generated_at": "2026-06-07T00:00:00.009618+00:00",
   "date": "2026-06-07",
-  "updated_at": "2026-06-07T13:00:01.400511+00:00"
+  "updated_at": "2026-06-07T14:00:01.765722+00:00"
 }
