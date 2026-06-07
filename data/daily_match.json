@@ -1,46 +1,31 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "When Lux Radio Theatre signed off in 1955 after more than 20 years on the air, it left behind a strange archive: Hollywood films reimagined purely through sound. At its peak, the show drew up to 40 million listeners a week, proving that radio could make movie stars shimmer in the imagination without a single image on screen.",
-    "fact_year": 1955,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Lux_Radio_Theatre",
+    "hour": 4,
+    "fact_text": "The 1494 Treaty of Tordesillas drew an invisible line down the Atlantic, divvying up most of the unknown world between Spain and Portugal with barely any input from the people already living there. The line was so arbitrary that it accidentally granted Portugal a slice of what would become Brazil, shaping the linguistic map of South America for centuries.",
+    "fact_year": 1494,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Treaty_of_Tordesillas",
     "episode": {
-      "id": 63,
-      "title": "Morning Drops #54 - Intentional Listening",
-      "description": "Do you remember what it felt like to listen to music without a streaming platform?\nIn this Morning Drops episode, Gaia reflects on a recent experiment: stepping away from algorithmic listening and going back to an iPod. \n\nWhat starts as a small personal choice opens into a wider meditation on attention, presence, and what happens when music is no longer treated as something infinite, but as something we choose with care.\n\nTracklist:\nScientist - Drum Song Dub\nThe Other People Place - Let Me Be Me\nA Forest Mighty Black - Fresh In My Mind\nCymande - Bra",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-intentional-listening",
-      "songs": [],
-      "music-genres": []
+      "id": 45,
+      "title": "Morning Drops #39 - Moving Meditation",
+      "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
+      "songs": [
+        "Stella & The Longos - La Flamme",
+        "España Circo Este - Dormo poco e sogno molto",
+        "Mystic Jungle - Sunset Breaker",
+        "Talking Heads - This Must Be the Place (Naive Melody)"
+      ],
+      "music-genres": [
+        "Balearic",
+        "Italian Folk Rock",
+        "World Music",
+        "New Wave"
+      ]
     },
-    "match_reason": "A golden-age radio drama that made cinema out of sound alone mirrors this episode’s meditation on listening with intention, turning audio into a fully imaginal experience rather than background noise."
+    "match_reason": "A treaty that redrew the map of global travel and colonization fits with an episode about movement, borders, and shifting perspectives, especially one flavored with Iberian and world-music currents."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "The 1494 Treaty of Tordesillas drew an invisible line down the Atlantic, divvying up most of the unknown world between Spain and Portugal with barely any input from the people already living there. The line was so arbitrary that it accidentally granted Portugal a slice of what would become Brazil, shaping the linguistic map of South America for centuries.",
-      "fact_year": 1494,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Treaty_of_Tordesillas",
-      "episode": {
-        "id": 45,
-        "title": "Morning Drops #39 - Moving Meditation",
-        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
-        "songs": [
-          "Stella & The Longos - La Flamme",
-          "España Circo Este - Dormo poco e sogno molto",
-          "Mystic Jungle - Sunset Breaker",
-          "Talking Heads - This Must Be the Place (Naive Melody)"
-        ],
-        "music-genres": [
-          "Balearic",
-          "Italian Folk Rock",
-          "World Music",
-          "New Wave"
-        ]
-      },
-      "match_reason": "A treaty that redrew the map of global travel and colonization fits with an episode about movement, borders, and shifting perspectives, especially one flavored with Iberian and world-music currents."
-    },
     {
       "hour": 5,
       "fact_text": "On June 7, 1776, Richard Henry Lee stood in the Continental Congress and proposed that the American colonies were, and should be, “free and independent States.” His resolution, seconded by John Adams, set in motion the drafting of the Declaration of Independence, making this understated speech the quiet spark behind one of history’s loudest breaks.",
@@ -605,9 +590,34 @@
         "music-genres": []
       },
       "match_reason": "A golden-age radio drama that made cinema out of sound alone mirrors this episode’s meditation on listening with intention, turning audio into a fully imaginal experience rather than background noise."
+    },
+    {
+      "hour": 4,
+      "fact_text": "The 1494 Treaty of Tordesillas drew an invisible line down the Atlantic, divvying up most of the unknown world between Spain and Portugal with barely any input from the people already living there. The line was so arbitrary that it accidentally granted Portugal a slice of what would become Brazil, shaping the linguistic map of South America for centuries.",
+      "fact_year": 1494,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Treaty_of_Tordesillas",
+      "episode": {
+        "id": 45,
+        "title": "Morning Drops #39 - Moving Meditation",
+        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
+        "songs": [
+          "Stella & The Longos - La Flamme",
+          "España Circo Este - Dormo poco e sogno molto",
+          "Mystic Jungle - Sunset Breaker",
+          "Talking Heads - This Must Be the Place (Naive Melody)"
+        ],
+        "music-genres": [
+          "Balearic",
+          "Italian Folk Rock",
+          "World Music",
+          "New Wave"
+        ]
+      },
+      "match_reason": "A treaty that redrew the map of global travel and colonization fits with an episode about movement, borders, and shifting perspectives, especially one flavored with Iberian and world-music currents."
     }
   ],
   "generated_at": "2026-06-07T00:00:00.018384+00:00",
   "date": "2026-06-07",
-  "updated_at": "2026-06-07T03:00:01.452497+00:00"
+  "updated_at": "2026-06-07T04:00:01.425994+00:00"
 }
