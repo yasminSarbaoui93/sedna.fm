@@ -1,63 +1,39 @@
 {
-  "current_hour": 7,
+  "current_hour": 8,
   "current_fact": {
-    "hour": 7,
-    "fact_text": "When Priscilla Presley opened Graceland to the public in 1982, many expected a kitschy time capsule — instead they found an almost sacred pilgrimage site, where even Elvis’s upstairs bathroom remains off-limits. The mansion quickly became one of the most visited private homes in the world, turning personal grief into a global monument to musical myth.",
-    "fact_year": 1982,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Graceland",
+    "hour": 8,
+    "fact_text": "On June 7, 1946, the BBC quietly restarted its television service after a seven-year blackout during World War II, marking the moment British TV flickered back to life. To help viewers reorient, they even re-broadcast the same Mickey Mouse cartoon that had been interrupted when war was declared in 1939.",
+    "fact_year": 1946,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/BBC",
     "episode": {
-      "id": 24,
-      "title": "Morning Drops #18 - Sardegna",
-      "description": "Yasmin traces her connection to Sardegna — the island where her Italian journey began. Through music and memory, she shares the story of how this place shaped her family's path, and why it still holds such a deep place in her heart.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-18-sardegna",
+      "id": 1,
+      "title": "Sedna FM #01 - November Bomb",
+      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
       "songs": [
-        "Piero Marras - Istrales",
-        "Mahmood & Tenores di Bitti - Com’è profondo il mare",
-        "Fabrizio De André - Hotel Supramonte",
-        "Giuni Russo - Alghero"
+        "berlioz - Open this wall",
+        "Nas - One Mic",
+        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+        "Frankie Knuckles - Your Love",
+        "Notorious B.I.G. - 17 Ten Crack Commandments",
+        "Liloca - Utani Xuva",
+        "Fela Kuti - Zombie",
+        "Neffa - Aspettando il sole",
+        "Childish Gambino - No Excuses",
+        "Modjo - Music takes you back"
       ],
       "music-genres": [
-        "Italian Folk",
-        "Sardinian",
-        "Italian Pop"
+        "Hip-Hop",
+        "Afrobeat",
+        "House",
+        "Italian Pop",
+        "R&B",
+        "Latin Rap"
       ]
     },
-    "match_reason": "Graceland as a house turned living shrine mirrors this episode’s intimate exploration of place and memory, where geography and home become emotional landmarks tied to music."
+    "match_reason": "The BBC’s return to television after a long silence is a beginning broadcast moment, echoing Sedna FM’s own first episode that launched a new signal into the universe."
   },
   "queue": [
-    {
-      "hour": 8,
-      "fact_text": "On June 7, 1946, the BBC quietly restarted its television service after a seven-year blackout during World War II, marking the moment British TV flickered back to life. To help viewers reorient, they even re-broadcast the same Mickey Mouse cartoon that had been interrupted when war was declared in 1939.",
-      "fact_year": 1946,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/BBC",
-      "episode": {
-        "id": 1,
-        "title": "Sedna FM #01 - November Bomb",
-        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
-        "songs": [
-          "berlioz - Open this wall",
-          "Nas - One Mic",
-          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-          "Frankie Knuckles - Your Love",
-          "Notorious B.I.G. - 17 Ten Crack Commandments",
-          "Liloca - Utani Xuva",
-          "Fela Kuti - Zombie",
-          "Neffa - Aspettando il sole",
-          "Childish Gambino - No Excuses",
-          "Modjo - Music takes you back"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Afrobeat",
-          "House",
-          "Italian Pop",
-          "R&B",
-          "Latin Rap"
-        ]
-      },
-      "match_reason": "The BBC’s return to television after a long silence is a beginning broadcast moment, echoing Sedna FM’s own first episode that launched a new signal into the universe."
-    },
     {
       "hour": 9,
       "fact_text": "The RMS Lusitania was launched from a Scottish shipyard in 1906 as a symbol of cutting-edge speed and luxury, with turbines powerful enough to cross the Atlantic in under five days. Ironically, its lavish design and prominence would later make its 1915 sinking a global shock that helped nudge public opinion toward war.",
@@ -614,9 +590,42 @@
         ]
       },
       "match_reason": "Graceland as a house turned living shrine mirrors this episode’s intimate exploration of place and memory, where geography and home become emotional landmarks tied to music."
+    },
+    {
+      "hour": 8,
+      "fact_text": "On June 7, 1946, the BBC quietly restarted its television service after a seven-year blackout during World War II, marking the moment British TV flickered back to life. To help viewers reorient, they even re-broadcast the same Mickey Mouse cartoon that had been interrupted when war was declared in 1939.",
+      "fact_year": 1946,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/BBC",
+      "episode": {
+        "id": 1,
+        "title": "Sedna FM #01 - November Bomb",
+        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+        "songs": [
+          "berlioz - Open this wall",
+          "Nas - One Mic",
+          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+          "Frankie Knuckles - Your Love",
+          "Notorious B.I.G. - 17 Ten Crack Commandments",
+          "Liloca - Utani Xuva",
+          "Fela Kuti - Zombie",
+          "Neffa - Aspettando il sole",
+          "Childish Gambino - No Excuses",
+          "Modjo - Music takes you back"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Afrobeat",
+          "House",
+          "Italian Pop",
+          "R&B",
+          "Latin Rap"
+        ]
+      },
+      "match_reason": "The BBC’s return to television after a long silence is a beginning broadcast moment, echoing Sedna FM’s own first episode that launched a new signal into the universe."
     }
   ],
   "generated_at": "2026-06-07T00:00:00.018384+00:00",
   "date": "2026-06-07",
-  "updated_at": "2026-06-07T07:00:01.626830+00:00"
+  "updated_at": "2026-06-07T08:00:01.694253+00:00"
 }
