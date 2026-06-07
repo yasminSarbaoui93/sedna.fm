@@ -1,64 +1,31 @@
 {
-  "current_hour": 22,
+  "current_hour": 23,
   "current_fact": {
-    "hour": 22,
-    "fact_text": "When Graceland opened its doors in 1982, fans could walk the same corridors Elvis did, but the second floor was sealed not just for privacy—it had never been prepared for public viewing. To this day, only a tiny handful of archivists and family members are allowed upstairs, turning the unseen rooms into one of rock's most enduring mysteries.",
-    "fact_year": 1982,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Elvis_Presley",
+    "hour": 23,
+    "fact_text": "The Battle of Midway ended on 7 June 1942, but its outcome hinged on codebreakers weeks earlier who cracked enough of Japan's naval cipher to predict the attack. In a twist worthy of a spy novel, U.S. intelligence tricked the Japanese into confirming \"AF\" was Midway by sending a fake message about a water shortage—then listening as Japan reported AF was low on water.",
+    "fact_year": 1942,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Midway",
     "episode": {
-      "id": 3,
-      "title": "Sedna FM #03 - Beautiful as You Feel",
-      "description": "An episode about self-acceptance and inner beauty. Music that reminds us we are beautiful as we feel, embracing our authentic selves. Warm, uplifting sounds that celebrate individuality.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/beautiful-as-you-feel",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "Radiohead - Lotus Flower",
-        "Andrea Lazslo de Simone - Vivo",
-        "The The - this is the day",
-        "Steve Monite - Only You",
-        "DCTL - Deep Tannin f(eat Rafael Leafar)",
-        "Soufiane Sa3idi - El Njoum",
-        "Area - La mela di odessa",
-        "Carol King - Beautiful",
-        "Mannarino - Vivere la vita"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Alternative Rock",
-        "Italian Singer-Songwriter",
-        "New Wave",
-        "Afro-Funk",
-        "Maghreb",
-        "Progressive Rock"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "A carefully curated public persona and a hidden private space match an episode about inner worlds, authenticity, and the beauty we keep behind closed doors."
+    "match_reason": "A victory built on intercepted messages, codes, and information control aligns with an episode about our digital signals, connectivity, and the psychology of communication tech."
   },
-  "queue": [
-    {
-      "hour": 23,
-      "fact_text": "The Battle of Midway ended on 7 June 1942, but its outcome hinged on codebreakers weeks earlier who cracked enough of Japan's naval cipher to predict the attack. In a twist worthy of a spy novel, U.S. intelligence tricked the Japanese into confirming \"AF\" was Midway by sending a fake message about a water shortage—then listening as Japan reported AF was low on water.",
-      "fact_year": 1942,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Midway",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "A victory built on intercepted messages, codes, and information control aligns with an episode about our digital signals, connectivity, and the psychology of communication tech."
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "hour": 0,
@@ -640,9 +607,34 @@
         ]
       },
       "match_reason": "A carefully curated public persona and a hidden private space match an episode about inner worlds, authenticity, and the beauty we keep behind closed doors."
+    },
+    {
+      "hour": 23,
+      "fact_text": "The Battle of Midway ended on 7 June 1942, but its outcome hinged on codebreakers weeks earlier who cracked enough of Japan's naval cipher to predict the attack. In a twist worthy of a spy novel, U.S. intelligence tricked the Japanese into confirming \"AF\" was Midway by sending a fake message about a water shortage—then listening as Japan reported AF was low on water.",
+      "fact_year": 1942,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Midway",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "A victory built on intercepted messages, codes, and information control aligns with an episode about our digital signals, connectivity, and the psychology of communication tech."
     }
   ],
   "generated_at": "2026-06-07T00:00:00.009618+00:00",
   "date": "2026-06-07",
-  "updated_at": "2026-06-07T22:00:01.534239+00:00"
+  "updated_at": "2026-06-07T23:00:01.482399+00:00"
 }
