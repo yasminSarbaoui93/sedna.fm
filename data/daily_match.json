@@ -1,59 +1,34 @@
 {
-  "current_hour": 8,
+  "current_hour": 9,
   "current_fact": {
-    "hour": 8,
-    "fact_text": "After World War II silenced British television for seven years, the BBC's TV service flickered back to life on 7 June 1946 with the same Mickey Mouse cartoon that had been playing when the signal was cut in 1939. The continuity was intentional—a whimsical way to signal that, despite the war, the story was still going.",
-    "fact_year": 1946,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/BBC",
+    "hour": 9,
+    "fact_text": "RMS Lusitania, launched in 1906, was once celebrated as a floating symbol of modern speed and luxury, crossing the Atlantic in under five days. Less known is that she was also built with hidden mounts for naval guns, a dual-purpose design that later fueled controversy when her sinking helped push the United States toward World War I.",
+    "fact_year": 1906,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/RMS_Lusitania",
     "episode": {
-      "id": 11,
-      "title": "Morning Drops #05 - Electric Shock",
-      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "Johnny Winter - Highway 61 Revisited",
-        "Joan Armatrading - Sleight of Hand",
-        "Joan Armatrading - Russian Roulette",
-        "Jimi Hendrix - Freedom",
-        "Jeff Beck - Scatterbrain"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Rock",
-        "Electric Blues"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "The jolt of television coming back to life after wartime silence matches an \"Electric Shock\" episode built to switch the lights back on in your brain."
+    "match_reason": "A legendary ocean liner and its fateful crossings echo an episode recorded at sea, all about boats, voyages, and lives carried over water."
   },
   "queue": [
-    {
-      "hour": 9,
-      "fact_text": "RMS Lusitania, launched in 1906, was once celebrated as a floating symbol of modern speed and luxury, crossing the Atlantic in under five days. Less known is that she was also built with hidden mounts for naval guns, a dual-purpose design that later fueled controversy when her sinking helped push the United States toward World War I.",
-      "fact_year": 1906,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/RMS_Lusitania",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "A legendary ocean liner and its fateful crossings echo an episode recorded at sea, all about boats, voyages, and lives carried over water."
-    },
     {
       "hour": 10,
       "fact_text": "The Battle of Midway, which ended on 7 June 1942, turned on a few minutes of chaos: American dive bombers arrived just as Japanese carriers were rearming their planes, catching decks packed with fuel and munitions. In the span of five minutes, three Japanese carriers were fatally hit, flipping the balance of naval power in the Pacific.",
@@ -633,9 +608,37 @@
         ]
       },
       "match_reason": "The jolt of television coming back to life after wartime silence matches an \"Electric Shock\" episode built to switch the lights back on in your brain."
+    },
+    {
+      "hour": 9,
+      "fact_text": "RMS Lusitania, launched in 1906, was once celebrated as a floating symbol of modern speed and luxury, crossing the Atlantic in under five days. Less known is that she was also built with hidden mounts for naval guns, a dual-purpose design that later fueled controversy when her sinking helped push the United States toward World War I.",
+      "fact_year": 1906,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/RMS_Lusitania",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "A legendary ocean liner and its fateful crossings echo an episode recorded at sea, all about boats, voyages, and lives carried over water."
     }
   ],
   "generated_at": "2026-06-07T00:00:00.009618+00:00",
   "date": "2026-06-07",
-  "updated_at": "2026-06-07T08:00:01.799590+00:00"
+  "updated_at": "2026-06-07T09:00:02.086583+00:00"
 }
