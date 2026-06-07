@@ -1,56 +1,31 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "By the end of the Battle of Midway on June 7, 1942, the U.S. Navy had sunk four Japanese aircraft carriers in just a few days, flipping the balance of power in the Pacific. Much of the victory hinged on codebreakers who had guessed Japan’s target ahead of time by tricking them into confirming it over radio.",
+    "hour": 11,
+    "fact_text": "On the same June 7 of 1942, Japanese forces began occupying Attu and Kiska in Alaska’s Aleutian Islands, bringing World War II onto American soil in a remote, fog-shrouded archipelago. The brutal conditions were so harsh that cold, weather, and terrain claimed almost as many lives as direct combat.",
     "fact_year": 1942,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Midway",
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Aleutian_Islands_campaign",
     "episode": {
-      "id": 31,
-      "title": "Morning Drops #31 - A Trip-Hop Journey",
-      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+      "id": 34,
+      "title": "Morning Drops #28 - Under Scottish Skies",
+      "description": "Gaia shares a personal moment of transition — a shift in seasons, in rhythm, and in life. From this space of quiet change comes a musical journey through Scotland: not the usual names, but voices that speak from the edges. A personal ritual and a small act of curiosity: an invitation to notice what grounds us when everything moves.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-under-scottish-skies",
       "songs": [
-        "Massive Attack - Unfinished Sympathy",
-        "Tricky - Hell Is Round the Corner",
-        "DJ Shadow - Midnight in a Perfect World",
-        "Thievery Corporation - Lebanese Blonde",
-        "Smoke City - Underwater Love"
+        "Paolo Nutini - Pencil Full of Lead",
+        "Lapse - Lady Bug",
+        "Joesef - Let's Stay Together",
+        "Vital Spark - Stone of Destiny"
       ],
       "music-genres": [
-        "Trip-Hop",
-        "Downtempo",
-        "Electronic"
+        "Indie Rock",
+        "Scottish Folk",
+        "Soul",
+        "Celtic Rock"
       ]
     },
-    "match_reason": "Midway’s drama of hidden signals, strategy, and turning tides pairs with trip-hop’s murky, underwater moods and cinematic tension, especially with tracks like \"Underwater Love\" evoking the vast Pacific theater."
+    "match_reason": "The remote, windswept Aleutians echo the rugged, weather-beaten landscapes evoked in an episode about Scottish skies, where geography, climate, and quiet resilience shape the mood."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "On the same June 7 of 1942, Japanese forces began occupying Attu and Kiska in Alaska’s Aleutian Islands, bringing World War II onto American soil in a remote, fog-shrouded archipelago. The brutal conditions were so harsh that cold, weather, and terrain claimed almost as many lives as direct combat.",
-      "fact_year": 1942,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Aleutian_Islands_campaign",
-      "episode": {
-        "id": 34,
-        "title": "Morning Drops #28 - Under Scottish Skies",
-        "description": "Gaia shares a personal moment of transition — a shift in seasons, in rhythm, and in life. From this space of quiet change comes a musical journey through Scotland: not the usual names, but voices that speak from the edges. A personal ritual and a small act of curiosity: an invitation to notice what grounds us when everything moves.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-under-scottish-skies",
-        "songs": [
-          "Paolo Nutini - Pencil Full of Lead",
-          "Lapse - Lady Bug",
-          "Joesef - Let's Stay Together",
-          "Vital Spark - Stone of Destiny"
-        ],
-        "music-genres": [
-          "Indie Rock",
-          "Scottish Folk",
-          "Soul",
-          "Celtic Rock"
-        ]
-      },
-      "match_reason": "The remote, windswept Aleutians echo the rugged, weather-beaten landscapes evoked in an episode about Scottish skies, where geography, climate, and quiet resilience shape the mood."
-    },
     {
       "hour": 12,
       "fact_text": "In 2017, a Myanmar Air Force Shaanxi Y-8 vanished from radar over the Andaman Sea with 122 people on board, including many families of military personnel. Debris and bodies were later found floating over a wide area, a stark reminder of how quickly modern aviation can intersect with the unforgiving vastness of the ocean.",
@@ -615,9 +590,34 @@
         ]
       },
       "match_reason": "Midway’s drama of hidden signals, strategy, and turning tides pairs with trip-hop’s murky, underwater moods and cinematic tension, especially with tracks like \"Underwater Love\" evoking the vast Pacific theater."
+    },
+    {
+      "hour": 11,
+      "fact_text": "On the same June 7 of 1942, Japanese forces began occupying Attu and Kiska in Alaska’s Aleutian Islands, bringing World War II onto American soil in a remote, fog-shrouded archipelago. The brutal conditions were so harsh that cold, weather, and terrain claimed almost as many lives as direct combat.",
+      "fact_year": 1942,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Aleutian_Islands_campaign",
+      "episode": {
+        "id": 34,
+        "title": "Morning Drops #28 - Under Scottish Skies",
+        "description": "Gaia shares a personal moment of transition — a shift in seasons, in rhythm, and in life. From this space of quiet change comes a musical journey through Scotland: not the usual names, but voices that speak from the edges. A personal ritual and a small act of curiosity: an invitation to notice what grounds us when everything moves.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-under-scottish-skies",
+        "songs": [
+          "Paolo Nutini - Pencil Full of Lead",
+          "Lapse - Lady Bug",
+          "Joesef - Let's Stay Together",
+          "Vital Spark - Stone of Destiny"
+        ],
+        "music-genres": [
+          "Indie Rock",
+          "Scottish Folk",
+          "Soul",
+          "Celtic Rock"
+        ]
+      },
+      "match_reason": "The remote, windswept Aleutians echo the rugged, weather-beaten landscapes evoked in an episode about Scottish skies, where geography, climate, and quiet resilience shape the mood."
     }
   ],
   "generated_at": "2026-06-07T00:00:00.018384+00:00",
   "date": "2026-06-07",
-  "updated_at": "2026-06-07T10:00:01.782317+00:00"
+  "updated_at": "2026-06-07T11:00:01.453073+00:00"
 }
