@@ -1,46 +1,31 @@
 {
-  "current_hour": 20,
+  "current_hour": 21,
   "current_fact": {
-    "hour": 20,
-    "fact_text": "Sony's Betamax debut in 1975 didn't just change living rooms—it sparked one of the first major \"format wars\" of the home-video age. Rental stores, film studios, and consumers found themselves choosing sides in a battle where the technically superior format ultimately lost to one that simply offered longer recording time and cheaper tapes.",
-    "fact_year": 1975,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Videocassette_recorder",
+    "hour": 21,
+    "fact_text": "The 1692 earthquake that struck Port Royal didn't just sink buildings; it triggered a local tsunami that rolled over the harbor minutes later. Survivors described the ground \"liquefying\" beneath their feet—an early, vivid account of soil liquefaction that modern seismology now recognizes as a key earthquake hazard.",
+    "fact_year": 1692,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Port_Royal",
     "episode": {
-      "id": 62,
-      "title": "Morning Drops #54 - Intentional Listening",
-      "description": "Do you remember what it felt like to listen to music without a streaming platform?\nIn this Morning Drops episode, Gaia reflects on a recent experiment: stepping away from algorithmic listening and going back to an iPod. \n\nWhat starts as a small personal choice opens into a wider meditation on attention, presence, and what happens when music is no longer treated as something infinite, but as something we choose with care.\n\nTracklist:\nScientist - Drum Song Dub\nThe Other People Place - Let Me Be Me\nA Forest Mighty Black - Fresh In My Mind\nCymande - Bra",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-intentional-listening",
-      "songs": [],
-      "music-genres": []
+      "id": 20,
+      "title": "Morning Drops #14 - Slow Planet",
+      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+      "songs": [
+        "Air - Cherry Blossom Girl",
+        "Kruder & Dorfmeister - Keep On Believing",
+        "Tosca - Orozco",
+        "Bonobo - Terrapin"
+      ],
+      "music-genres": [
+        "Downtempo",
+        "Trip-Hop",
+        "Electronic",
+        "Chillout"
+      ]
     },
-    "match_reason": "A battle between physical formats echoes an episode about how we choose to listen, shifting from infinite streaming back to finite, intentional devices like tapes and iPods."
+    "match_reason": "The violent shifting of earth and sea contrasts with an episode about slowing down the planet's pace, inviting reflection on geological time and human fragility."
   },
   "queue": [
-    {
-      "hour": 21,
-      "fact_text": "The 1692 earthquake that struck Port Royal didn't just sink buildings; it triggered a local tsunami that rolled over the harbor minutes later. Survivors described the ground \"liquefying\" beneath their feet—an early, vivid account of soil liquefaction that modern seismology now recognizes as a key earthquake hazard.",
-      "fact_year": 1692,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Port_Royal",
-      "episode": {
-        "id": 20,
-        "title": "Morning Drops #14 - Slow Planet",
-        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
-        "songs": [
-          "Air - Cherry Blossom Girl",
-          "Kruder & Dorfmeister - Keep On Believing",
-          "Tosca - Orozco",
-          "Bonobo - Terrapin"
-        ],
-        "music-genres": [
-          "Downtempo",
-          "Trip-Hop",
-          "Electronic",
-          "Chillout"
-        ]
-      },
-      "match_reason": "The violent shifting of earth and sea contrasts with an episode about slowing down the planet's pace, inviting reflection on geological time and human fragility."
-    },
     {
       "hour": 22,
       "fact_text": "When Graceland opened its doors in 1982, fans could walk the same corridors Elvis did, but the second floor was sealed not just for privacy—it had never been prepared for public viewing. To this day, only a tiny handful of archivists and family members are allowed upstairs, turning the unseen rooms into one of rock's most enduring mysteries.",
@@ -623,9 +608,34 @@
         "music-genres": []
       },
       "match_reason": "A battle between physical formats echoes an episode about how we choose to listen, shifting from infinite streaming back to finite, intentional devices like tapes and iPods."
+    },
+    {
+      "hour": 21,
+      "fact_text": "The 1692 earthquake that struck Port Royal didn't just sink buildings; it triggered a local tsunami that rolled over the harbor minutes later. Survivors described the ground \"liquefying\" beneath their feet—an early, vivid account of soil liquefaction that modern seismology now recognizes as a key earthquake hazard.",
+      "fact_year": 1692,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Port_Royal",
+      "episode": {
+        "id": 20,
+        "title": "Morning Drops #14 - Slow Planet",
+        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+        "songs": [
+          "Air - Cherry Blossom Girl",
+          "Kruder & Dorfmeister - Keep On Believing",
+          "Tosca - Orozco",
+          "Bonobo - Terrapin"
+        ],
+        "music-genres": [
+          "Downtempo",
+          "Trip-Hop",
+          "Electronic",
+          "Chillout"
+        ]
+      },
+      "match_reason": "The violent shifting of earth and sea contrasts with an episode about slowing down the planet's pace, inviting reflection on geological time and human fragility."
     }
   ],
   "generated_at": "2026-06-07T00:00:00.009618+00:00",
   "date": "2026-06-07",
-  "updated_at": "2026-06-07T20:00:01.780364+00:00"
+  "updated_at": "2026-06-07T21:00:01.576495+00:00"
 }
